@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-06-25T00:00:00.000Z",
-        "debate": "DICTÁMENES DE LA COMISIÓN DE ESTATUTO DE LOS DIPUTADOS. (VOTACIÓN). -- DICTAMEN DE LA COMISIÓN DE ESTATUTO DE LOS DIPUTADOS ACERCA DEL SUPLICATORIO FORMULADO EN RELACIÓN CON UNA SEÑORA DIPUTADA. ",
+        "debate": "DICT\u00c1MENES DE LA COMISI\u00d3N DE ESTATUTO DE LOS DIPUTADOS. (VOTACI\u00d3N). -- DICTAMEN DE LA COMISI\u00d3N DE ESTATUTO DE LOS DIPUTADOS ACERCA DEL SUPLICATORIO FORMULADO EN RELACI\u00d3N CON UNA SE\u00d1ORA DIPUTADA. ",
         "diputado": [
             {
-                "apellidos": "Rodríguez Gómez de Celis",
-                "apellidosNombre": "Rodríguez Gómez de Celis, Alfonso",
+                "apellidos": "Rodr\u00edguez G\u00f3mez de Celis",
+                "apellidosNombre": "Rodr\u00edguez G\u00f3mez de Celis, Alfonso",
                 "codParlamentario": 168,
                 "fchAlta": "25/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,95 @@
         ],
         "order": 58,
         "path": "../data/diaries-txts/DSCD-14-PL-033.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "VICEPRESIDENTE (Rodrí guez Gómez de Celis)"
+        "speacker": "VICEPRESIDENTE (Rodr\u00ed guez G\u00f3mez de Celis)"
     },
-    "text": "Señor Píriz, le rogaría que atendiese al punto en el que estamos."
+    "text": "Se\u00f1or P\u00edriz, le rogar\u00eda que atendiese al punto en el que estamos.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_P\u00edriz",
+            "lema": "se\u00f1or_p\u00edriz",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "rogar\u00eda",
+            "lema": "rogar",
+            "pos": "VMIC3S0",
+            "prob": "0.620014"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "atendiese",
+            "lema": "atender",
+            "pos": "VMSI3S0",
+            "prob": "0.590015"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "punto",
+            "lema": "punto",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "estamos",
+            "lema": "estar",
+            "pos": "VMIP1P0",
+            "prob": "0.998282"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

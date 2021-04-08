@@ -1,7 +1,7 @@
 {
     "metadata": {
         "celebrated": "2020-04-15T00:00:00.000Z",
-        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, PARA QUE EL GOBIERNO EXPLIQUE LAS CONSECUENCIAS ECONÓMICAS Y SOCIALES DE LAS MEDIDAS INCLUIDAS EN LOS REALES DECRETOS-LEYES APROBADOS POR EL GOBIERNO DESDE EL INICIO DE LA CRISIS DE LA COVID-19. ",
+        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, PARA QUE EL GOBIERNO EXPLIQUE LAS CONSECUENCIAS ECON\u00d3MICAS Y SOCIALES DE LAS MEDIDAS INCLUIDAS EN LOS REALES DECRETOS-LEYES APROBADOS POR EL GOBIERNO DESDE EL INICIO DE LA CRISIS DE LA COVID-19. ",
         "diputado": [
             {
                 "apellidos": "Olano Vela",
@@ -24,9 +24,797 @@
         ],
         "order": 3,
         "path": "../data/diaries-txts/DSCD-14-PL-018.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "DE OLANO VELA"
     },
-    "text": "Voy terminando. El FMI considera que la tasa de paro subirá un 50 % este año, 2020, y que bajará levemente en el año 2021. ¿Cuál es su previsión? Sé que son muchas preguntas, pero todas ellas se las tienen que haber hecho ustedes. Tienen que tener alguna previsión, sea realista o no. Pues díganoslas. Hoy tiene la oportunidad de responder a estas preguntas y, si somos afortunados, nos puede dar incluso algunas pistas de lo que quieren hacer de cara al futuro. Señora Calviño, la lealtad exige verdad por ambas partes, pero ustedes se han acostumbrado a mentir mucho, y eso en estas circunstancias se hace insoportable. Muchas gracias. (Aplausos)."
+    "text": "Voy terminando. El FMI considera que la tasa de paro subir\u00e1 un 50 % este a\u00f1o, 2020, y que bajar\u00e1 levemente en el a\u00f1o 2021. \u00bfCu\u00e1l es su previsi\u00f3n? S\u00e9 que son muchas preguntas, pero todas ellas se las tienen que haber hecho ustedes. Tienen que tener alguna previsi\u00f3n, sea realista o no. Pues d\u00edganoslas. Hoy tiene la oportunidad de responder a estas preguntas y, si somos afortunados, nos puede dar incluso algunas pistas de lo que quieren hacer de cara al futuro. Se\u00f1ora Calvi\u00f1o, la lealtad exige verdad por ambas partes, pero ustedes se han acostumbrado a mentir mucho, y eso en estas circunstancias se hace insoportable. Muchas gracias. (Aplausos).",
+    "freeling": [
+        {
+            "word": "Voy",
+            "lema": "ir",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "terminando",
+            "lema": "terminar",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "El",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "FMI",
+            "lema": "fmi",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "considera",
+            "lema": "considerar",
+            "pos": "VMIP3S0",
+            "prob": "0.998721"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "tasa",
+            "lema": "tasa",
+            "pos": "NCFS000",
+            "prob": "0.99361"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "paro",
+            "lema": "paro",
+            "pos": "NCMS000",
+            "prob": "0.996937"
+        },
+        {
+            "word": "subir\u00e1",
+            "lema": "subir",
+            "pos": "VMIF3S0",
+            "prob": "1"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "50_%",
+            "lema": "50/100",
+            "pos": "Zp",
+            "prob": "1"
+        },
+        {
+            "word": "este",
+            "lema": "este",
+            "pos": "DD0MS0",
+            "prob": "0.949201"
+        },
+        {
+            "word": "a\u00f1o",
+            "lema": "a\u00f1o",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "2020",
+            "lema": "2020",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "bajar\u00e1",
+            "lema": "bajar",
+            "pos": "VMIF3S0",
+            "prob": "1"
+        },
+        {
+            "word": "levemente",
+            "lema": "levemente",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "a\u00f1o_2021",
+            "lema": "[??:??/??/2021:??.??:??]",
+            "pos": "W",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "Cu\u00e1l",
+            "lema": "cu\u00e1l",
+            "pos": "PT0CS00",
+            "prob": "0.989796"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "previsi\u00f3n",
+            "lema": "previsi\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        },
+        {
+            "word": "S\u00e9",
+            "lema": "ser",
+            "pos": "VSM02S0",
+            "prob": "0.0295699"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "son",
+            "lema": "ser",
+            "pos": "VSIP3P0",
+            "prob": "0.995197"
+        },
+        {
+            "word": "muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "preguntas",
+            "lema": "pregunta",
+            "pos": "NCFP000",
+            "prob": "0.995868"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "pero",
+            "lema": "pero",
+            "pos": "CC",
+            "prob": "0.999902"
+        },
+        {
+            "word": "todas",
+            "lema": "todo",
+            "pos": "DI0FP0",
+            "prob": "0.934073"
+        },
+        {
+            "word": "ellas",
+            "lema": "ellos",
+            "pos": "PP3FP00",
+            "prob": "1"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "las",
+            "lema": "lo",
+            "pos": "PP3FPA0",
+            "prob": "0.011793"
+        },
+        {
+            "word": "tienen",
+            "lema": "tener",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "haber",
+            "lema": "haber",
+            "pos": "VAN0000",
+            "prob": "0.987521"
+        },
+        {
+            "word": "hecho",
+            "lema": "hacer",
+            "pos": "VMP00SM",
+            "prob": "0.638262"
+        },
+        {
+            "word": "ustedes",
+            "lema": "usted",
+            "pos": "PP2CP0P",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Tienen",
+            "lema": "tener",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "tener",
+            "lema": "tener",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "alguna",
+            "lema": "alguno",
+            "pos": "DI0FS0",
+            "prob": "0.820285"
+        },
+        {
+            "word": "previsi\u00f3n",
+            "lema": "previsi\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "sea",
+            "lema": "ser",
+            "pos": "VSSP1S0",
+            "prob": "0.49434"
+        },
+        {
+            "word": "realista",
+            "lema": "realista",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "o",
+            "lema": "o",
+            "pos": "CC",
+            "prob": "0.999864"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Pues",
+            "lema": "pues",
+            "pos": "CS",
+            "prob": "0.999049"
+        },
+        {
+            "word": "digan",
+            "lema": "decir",
+            "pos": "VMM03P0",
+            "prob": "1"
+        },
+        {
+            "word": "os",
+            "lema": "os",
+            "pos": "PP2CP00",
+            "prob": "1"
+        },
+        {
+            "word": "las",
+            "lema": "lo",
+            "pos": "PP3FPA0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Hoy",
+            "lema": "hoy",
+            "pos": "RG",
+            "prob": "0.993864"
+        },
+        {
+            "word": "tiene",
+            "lema": "tener",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "oportunidad",
+            "lema": "oportunidad",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "responder",
+            "lema": "responder",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "estas",
+            "lema": "este",
+            "pos": "DD0FP0",
+            "prob": "0.969897"
+        },
+        {
+            "word": "preguntas",
+            "lema": "pregunta",
+            "pos": "NCFP000",
+            "prob": "0.995868"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "si",
+            "lema": "si",
+            "pos": "CS",
+            "prob": "0.999827"
+        },
+        {
+            "word": "somos",
+            "lema": "ser",
+            "pos": "VSIP1P0",
+            "prob": "1"
+        },
+        {
+            "word": "afortunados",
+            "lema": "afortunado",
+            "pos": "AQ0MP00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "nos",
+            "lema": "nos",
+            "pos": "PP1CP00",
+            "prob": "0.810258"
+        },
+        {
+            "word": "puede",
+            "lema": "poder",
+            "pos": "VMIP3S0",
+            "prob": "0.999693"
+        },
+        {
+            "word": "dar",
+            "lema": "dar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "incluso",
+            "lema": "incluso",
+            "pos": "RG",
+            "prob": "0.998488"
+        },
+        {
+            "word": "algunas",
+            "lema": "alguno",
+            "pos": "DI0FP0",
+            "prob": "0.640135"
+        },
+        {
+            "word": "pistas",
+            "lema": "pista",
+            "pos": "NCFP000",
+            "prob": "0.991071"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "lo",
+            "lema": "el",
+            "pos": "DA00S0",
+            "prob": "0.665165"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "quieren",
+            "lema": "querer",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "hacer",
+            "lema": "hacer",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "de_cara_a",
+            "lema": "de_cara_a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "futuro",
+            "lema": "futuro",
+            "pos": "NCMS000",
+            "prob": "0.853084"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Se\u00f1ora_Calvi\u00f1o",
+            "lema": "se\u00f1ora_calvi\u00f1o",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "lealtad",
+            "lema": "lealtad",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "exige",
+            "lema": "exigir",
+            "pos": "VMIP3S0",
+            "prob": "0.994505"
+        },
+        {
+            "word": "verdad",
+            "lema": "verdad",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "ambas",
+            "lema": "ambos",
+            "pos": "DI0FP0",
+            "prob": "0.767857"
+        },
+        {
+            "word": "partes",
+            "lema": "parte",
+            "pos": "NCCP000",
+            "prob": "0.997076"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "pero",
+            "lema": "pero",
+            "pos": "CC",
+            "prob": "0.999902"
+        },
+        {
+            "word": "ustedes",
+            "lema": "usted",
+            "pos": "PP2CP0P",
+            "prob": "1"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "han",
+            "lema": "haber",
+            "pos": "VAIP3P0",
+            "prob": "0.999845"
+        },
+        {
+            "word": "acostumbrado",
+            "lema": "acostumbrar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "mentir",
+            "lema": "mentir",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "mucho",
+            "lema": "mucho",
+            "pos": "RG",
+            "prob": "0.776908"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "eso",
+            "lema": "ese",
+            "pos": "PD00S00",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "estas",
+            "lema": "este",
+            "pos": "DD0FP0",
+            "prob": "0.969897"
+        },
+        {
+            "word": "circunstancias",
+            "lema": "circunstancia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "hace",
+            "lema": "hacer",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "insoportable",
+            "lema": "insoportable",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplausos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

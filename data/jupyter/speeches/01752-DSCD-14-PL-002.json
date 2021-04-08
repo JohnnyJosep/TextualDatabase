@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-20T00:00:00.000Z",
-        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES: -- REAL DECRETO-LEY 3/2020, DE 4 DE FEBRERO, DE MEDIDAS URGENTES POR EL QUE SE INCORPORAN AL ORDENAMIENTO JURÍDICO ESPAÑOL DIVERSAS DIRECTIVAS DE LA UNIÓN EUROPEA EN EL ÁMBITO DE LA CONTRATACIÓN PÚBLICA EN DETERMINADOS SECTORES; DE SEGUROS PRIVADOS; DE PLANES Y FONDOS DE PENSIONES; DEL ÁMBITO TRIBUTARIO Y DE LITIGIOS FISCALES. ",
+        "debate": "CONVALIDACI\u00d3N O DEROGACI\u00d3N DE REALES DECRETOS-LEYES: -- REAL DECRETO-LEY 3/2020, DE 4 DE FEBRERO, DE MEDIDAS URGENTES POR EL QUE SE INCORPORAN AL ORDENAMIENTO JUR\u00cdDICO ESPA\u00d1OL DIVERSAS DIRECTIVAS DE LA UNI\u00d3N EUROPEA EN EL \u00c1MBITO DE LA CONTRATACI\u00d3N P\u00daBLICA EN DETERMINADOS SECTORES; DE SEGUROS PRIVADOS; DE PLANES Y FONDOS DE PENSIONES; DEL \u00c1MBITO TRIBUTARIO Y DE LITIGIOS FISCALES. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,185 @@
         ],
         "order": 2,
         "path": "../data/diaries-txts/DSCD-14-PL-011.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Vicepresidenta, espere un segundo, por favor. Les ruego silencio, por favor, hay un rumor constante y es imposible seguir a la oradora. Muchas gracias."
+    "text": "Vicepresidenta, espere un segundo, por favor. Les ruego silencio, por favor, hay un rumor constante y es imposible seguir a la oradora. Muchas gracias.",
+    "freeling": [
+        {
+            "word": "Vicepresidenta",
+            "lema": "vicepresidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "espere",
+            "lema": "esperar",
+            "pos": "VMSP3S0",
+            "prob": "0.634863"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "segundo",
+            "lema": "2",
+            "pos": "AO0MS00",
+            "prob": "0.901147"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por_favor",
+            "lema": "por_favor",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Les",
+            "lema": "le",
+            "pos": "PP3CPD0",
+            "prob": "1"
+        },
+        {
+            "word": "ruego",
+            "lema": "rogar",
+            "pos": "VMIP1S0",
+            "prob": "0.0102795"
+        },
+        {
+            "word": "silencio",
+            "lema": "silencio",
+            "pos": "NCMS000",
+            "prob": "0.997076"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por_favor",
+            "lema": "por_favor",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "hay",
+            "lema": "haber",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "rumor",
+            "lema": "rumor",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "constante",
+            "lema": "constante",
+            "pos": "AQ0CS00",
+            "prob": "0.994505"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "imposible",
+            "lema": "imposible",
+            "pos": "AQ0CS00",
+            "prob": "0.997238"
+        },
+        {
+            "word": "seguir",
+            "lema": "seguir",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "oradora",
+            "lema": "orador",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

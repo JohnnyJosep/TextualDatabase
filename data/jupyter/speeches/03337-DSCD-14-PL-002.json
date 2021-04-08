@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-03-13T00:00:00.000Z",
-        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO P ARLAMENT ARIO VOX, P ARA QUE EL GOBIERNO EXPLIQUE SI EL VICEPRESIDENTE SEGUNDO PABLO IGLESIAS PRETENDE UTILIZAR LA ACTUAL CRISIS PARA DEBILITAR LOS FUNDAMENTOS DE LA DEMOCRACIA ESPAÑOLA. ",
+        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO P ARLAMENT ARIO VOX, P ARA QUE EL GOBIERNO EXPLIQUE SI EL VICEPRESIDENTE SEGUNDO PABLO IGLESIAS PRETENDE UTILIZAR LA ACTUAL CRISIS PARA DEBILITAR LOS FUNDAMENTOS DE LA DEMOCRACIA ESPA\u00d1OLA. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,83 @@
         ],
         "order": 3,
         "path": "../data/diaries-txts/DSCD-14-PL-022.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Muchas gracias, Gloria. Tiene la palabra la señora Ruiz Solás."
+    "text": "Muchas gracias, Gloria. Tiene la palabra la se\u00f1ora Ruiz Sol\u00e1s.",
+    "freeling": [
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Gloria",
+            "lema": "gloria",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Tiene",
+            "lema": "tener",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "palabra",
+            "lema": "palabra",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "Ruiz_Sol\u00e1s",
+            "lema": "ruiz_sol\u00e1s",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

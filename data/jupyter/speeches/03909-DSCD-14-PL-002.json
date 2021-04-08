@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-03-27T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA MACARENA OLONA CHOCLÁN, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿POR QUÉ HAN CAMBIADO SU CRITERIO SOBRE LA POSIBILIDAD DE PAGAR YA EL TERCER TRAMO PREVISTO EN EL ACUERDO DE 2018 SOBRE LA EQUIPARACIÓN SALARIAL DE NUESTRAS FUERZAS Y CUERPOS DE SEGURIDAD DEL ESTADO? ",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DO\u00d1A MACARENA OLONA CHOCL\u00c1N, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SE\u00d1OR MINISTRO DEL INTERIOR: \u00bfPOR QU\u00c9 HAN CAMBIADO SU CRITERIO SOBRE LA POSIBILIDAD DE PAGAR YA EL TERCER TRAMO PREVISTO EN EL ACUERDO DE 2018 SOBRE LA EQUIPARACI\u00d3N SALARIAL DE NUESTRAS FUERZAS Y CUERPOS DE SEGURIDAD DEL ESTADO? ",
         "diputado": [
             {
-                "apellidos": "Álvarez de Toledo Peralta-Ramos",
-                "apellidosNombre": "Álvarez de Toledo Peralta-Ramos, Cayetana",
+                "apellidos": "\u00c1lvarez de Toledo Peralta-Ramos",
+                "apellidosNombre": "\u00c1lvarez de Toledo Peralta-Ramos, Cayetana",
                 "codParlamentario": 308,
                 "fchAlta": "28/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,329 @@
         ],
         "order": 18,
         "path": "../data/diaries-txts/DSCD-14-PL-024.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "MINISTRO DEL INTERIOR (Grande-Marlaska Gómez)"
+        "speacker": "MINISTRO DEL INTERIOR (Grande-Marlaska G\u00f3mez)"
     },
-    "text": "… porque se cambiaba a la gente para que los informes no se realizaran. (Aplausos). Eso es lo que ocurría. Se cambiaba a la gente para que los informes no se realizaran. (Prolongados aplausos, con algunas señoras y señores diputados puestos en pie)."
+    "text": "\u2026 porque se cambiaba a la gente para que los informes no se realizaran. (Aplausos). Eso es lo que ocurr\u00eda. Se cambiaba a la gente para que los informes no se realizaran. (Prolongados aplausos, con algunas se\u00f1oras y se\u00f1ores diputados puestos en pie).",
+    "freeling": [
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": "porque",
+            "lema": "porque",
+            "pos": "CS",
+            "prob": "1"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "cambiaba",
+            "lema": "cambiar",
+            "pos": "VMII3S0",
+            "prob": "0.649996"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "gente",
+            "lema": "gente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "informes",
+            "lema": "informe",
+            "pos": "NCMP000",
+            "prob": "0.984962"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "realizaran",
+            "lema": "realizar",
+            "pos": "VMSI3P0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplausos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Eso",
+            "lema": "ese",
+            "pos": "PD00S00",
+            "prob": "1"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "lo",
+            "lema": "el",
+            "pos": "DA00S0",
+            "prob": "0.665165"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "ocurr\u00eda",
+            "lema": "ocurrir",
+            "pos": "VMII3S0",
+            "prob": "0.65"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "cambiaba",
+            "lema": "cambiar",
+            "pos": "VMII3S0",
+            "prob": "0.649996"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "gente",
+            "lema": "gente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "informes",
+            "lema": "informe",
+            "pos": "NCMP000",
+            "prob": "0.984962"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "realizaran",
+            "lema": "realizar",
+            "pos": "VMSI3P0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Prolongados",
+            "lema": "prolongar",
+            "pos": "VMP00PM",
+            "prob": "1"
+        },
+        {
+            "word": "aplausos",
+            "lema": "aplauso",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "algunas",
+            "lema": "alguno",
+            "pos": "DI0FP0",
+            "prob": "0.640135"
+        },
+        {
+            "word": "se\u00f1oras",
+            "lema": "se\u00f1or",
+            "pos": "AQ0FP00",
+            "prob": "0.427431"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "se\u00f1ores",
+            "lema": "se\u00f1or",
+            "pos": "AQ0MP00",
+            "prob": "0.361294"
+        },
+        {
+            "word": "diputados",
+            "lema": "diputado",
+            "pos": "NCMP000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "puestos",
+            "lema": "poner",
+            "pos": "VMP00PM",
+            "prob": "0.208904"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "pie",
+            "lema": "pie",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

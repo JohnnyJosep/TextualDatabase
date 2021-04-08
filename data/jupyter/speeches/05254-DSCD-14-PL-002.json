@@ -1,7 +1,7 @@
 {
     "metadata": {
         "celebrated": "2020-06-23T00:00:00.000Z",
-        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), DE REFORMA DE LA LEY 9/1968, DE 5 DE ABRIL, SOBRE SECRETOS OFICIALES. ",
+        "debate": "TOMA EN CONSIDERACI\u00d3N DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), DE REFORMA DE LA LEY 9/1968, DE 5 DE ABRIL, SOBRE SECRETOS OFICIALES. ",
         "diputado": [
             {
                 "apellidos": "Botran Pahissa",
@@ -24,9 +24,101 @@
         ],
         "order": 182,
         "path": "../data/diaries-txts/DSCD-14-PL-031.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "BOTRAN PAHISSA"
     },
-    "text": "Pediría a la Mesa, que tan sensible ha sido en otras ocasiones…"
+    "text": "Pedir\u00eda a la Mesa, que tan sensible ha sido en otras ocasiones\u2026",
+    "freeling": [
+        {
+            "word": "Pedir\u00eda",
+            "lema": "pedir",
+            "pos": "VMIC3S0",
+            "prob": "0.649982"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "Mesa",
+            "lema": "mesa",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "tan",
+            "lema": "tan",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "sensible",
+            "lema": "sensible",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "sido",
+            "lema": "ser",
+            "pos": "VSP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "otras",
+            "lema": "otro",
+            "pos": "DI0FP0",
+            "prob": "0.865408"
+        },
+        {
+            "word": "ocasiones",
+            "lema": "ocasi\u00f3n",
+            "pos": "NCFP000",
+            "prob": "0.998047"
+        },
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

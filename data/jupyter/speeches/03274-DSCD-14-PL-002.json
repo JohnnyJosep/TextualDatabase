@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-03-13T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON SERGIO SAYAS LÓPEZ, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA A LA SEÑORA MINISTRA DE HACIENDA: ¿CUÁNDO TIENE PREVISTO EL GOBIERNO CELEBRAR UNA REUNIÓN DE LA COMISIÓN COORDINADORA DEL CONVENIO ECONÓMICO PARA ABORDAR LA PARTICIPACIÓN DE LA COMUNIDAD FORAL DE NAVARRA EN EL REPARTO DEL FONDO DE 16 000 MILLONES DE EUROS PARA LAS COMUNIDADES AUTÓNOMAS ANUNCIADO POR EL GOBIERNO DE ESPAÑA? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON SERGIO SAYAS L\u00d3PEZ, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA A LA SE\u00d1ORA MINISTRA DE HACIENDA: \u00bfCU\u00c1NDO TIENE PREVISTO EL GOBIERNO CELEBRAR UNA REUNI\u00d3N DE LA COMISI\u00d3N COORDINADORA DEL CONVENIO ECON\u00d3MICO PARA ABORDAR LA PARTICIPACI\u00d3N DE LA COMUNIDAD FORAL DE NAVARRA EN EL REPARTO DEL FONDO DE 16 000 MILLONES DE EUROS PARA LAS COMUNIDADES AUT\u00d3NOMAS ANUNCIADO POR EL GOBIERNO DE ESPA\u00d1A? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,71 @@
         ],
         "order": 2,
         "path": "../data/diaries-txts/DSCD-14-PL-022.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Gracias, señor Sayas. Señora ministra de Hacienda."
+    "text": "Gracias, se\u00f1or Sayas. Se\u00f1ora ministra de Hacienda.",
+    "freeling": [
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "Sayas",
+            "lema": "sayas",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "ministra",
+            "lema": "ministro",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Hacienda",
+            "lema": "hacienda",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

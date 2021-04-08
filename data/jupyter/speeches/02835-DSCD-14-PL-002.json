@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-04-15T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DE LA DIPUT ADA DOÑA CONCEPCIÓN GAMARRA RUIZ-CLA VIJO, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR MINISTRO DE SANIDAD: ¿CONSIDERA EL GOBIERNO QUE ESTÁ PROTEGIENDO ADECUADAMENTE A LOS ESPAÑOLES EN LA CRISIS DE LA COVID-19? ",
+        "debate": "PREGUNTAS: -- DE LA DIPUT ADA DO\u00d1A CONCEPCI\u00d3N GAMARRA RUIZ-CLA VIJO, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR MINISTRO DE SANIDAD: \u00bfCONSIDERA EL GOBIERNO QUE EST\u00c1 PROTEGIENDO ADECUADAMENTE A LOS ESPA\u00d1OLES EN LA CRISIS DE LA COVID-19? ",
         "diputado": [
             {
                 "apellidos": "Gamarra Ruiz-Clavijo",
-                "apellidosNombre": "Gamarra Ruiz-Clavijo, Concepción",
+                "apellidosNombre": "Gamarra Ruiz-Clavijo, Concepci\u00f3n",
                 "codParlamentario": 261,
                 "fchAlta": "27/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario Popular en el Congreso",
                 "idCircunscripcion": 26,
                 "idLegislatura": 14,
-                "nombre": "Concepción",
+                "nombre": "Concepci\u00f3n",
                 "nombreCircunscripcion": "Rioja (La)",
                 "twitter": "https://twitter.com/cucagamarra",
                 "twitterUserId": "83573034",
@@ -24,9 +24,629 @@
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-018.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "GAMARRA RUIZ-CLAVIJO"
     },
-    "text": "Gracias, presidenta. Señor ministro, no hay estudio alguno de Oxford que haya podido rebatir que, por su gestión de la crisis sanitaria, nuestro país ostenta bochornosos récords mundiales. España es el país con mayor número de casos por habitante; España es el país con mayor número de fallecidos por habitante; y España es el país con mayor porcentaje de sanitarios contagiados. Con estos datos, que sí son evidencia científica y no son casualidades, ¿considera el Gobierno que está protegiendo adecuadamente a la población española en la crisis de la COVID-19?"
+    "text": "Gracias, presidenta. Se\u00f1or ministro, no hay estudio alguno de Oxford que haya podido rebatir que, por su gesti\u00f3n de la crisis sanitaria, nuestro pa\u00eds ostenta bochornosos r\u00e9cords mundiales. Espa\u00f1a es el pa\u00eds con mayor n\u00famero de casos por habitante; Espa\u00f1a es el pa\u00eds con mayor n\u00famero de fallecidos por habitante; y Espa\u00f1a es el pa\u00eds con mayor porcentaje de sanitarios contagiados. Con estos datos, que s\u00ed son evidencia cient\u00edfica y no son casualidades, \u00bfconsidera el Gobierno que est\u00e1 protegiendo adecuadamente a la poblaci\u00f3n espa\u00f1ola en la crisis de la COVID-19?",
+    "freeling": [
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "ministro",
+            "lema": "ministro",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "hay",
+            "lema": "haber",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "estudio",
+            "lema": "estudio",
+            "pos": "NCMS000",
+            "prob": "0.97043"
+        },
+        {
+            "word": "alguno",
+            "lema": "alguno",
+            "pos": "PI0MS00",
+            "prob": "0.706612"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Oxford",
+            "lema": "oxford",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "haya",
+            "lema": "haber",
+            "pos": "VASP1S0",
+            "prob": "0.493699"
+        },
+        {
+            "word": "podido",
+            "lema": "poder",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "rebatir",
+            "lema": "rebatir",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "gesti\u00f3n",
+            "lema": "gesti\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "crisis",
+            "lema": "crisis",
+            "pos": "NCFN000",
+            "prob": "1"
+        },
+        {
+            "word": "sanitaria",
+            "lema": "sanitario",
+            "pos": "AQ0FS00",
+            "prob": "0.8125"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "nuestro",
+            "lema": "nuestro",
+            "pos": "DP1MSP",
+            "prob": "0.957064"
+        },
+        {
+            "word": "pa\u00eds",
+            "lema": "pa\u00eds",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "ostenta",
+            "lema": "ostentar",
+            "pos": "VMIP3S0",
+            "prob": "0.989241"
+        },
+        {
+            "word": "bochornosos",
+            "lema": "bochornoso",
+            "pos": "AQ0MP00",
+            "prob": "1"
+        },
+        {
+            "word": "r\u00e9cords",
+            "lema": "r\u00e9cord",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "mundiales",
+            "lema": "mundial",
+            "pos": "AQ0CP00",
+            "prob": "0.991803"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Espa\u00f1a",
+            "lema": "espa\u00f1a",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "pa\u00eds",
+            "lema": "pa\u00eds",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "mayor",
+            "lema": "mayor",
+            "pos": "AQ0CS00",
+            "prob": "0.9995"
+        },
+        {
+            "word": "n\u00famero",
+            "lema": "n\u00famero",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "casos",
+            "lema": "caso",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "habitante",
+            "lema": "habitante",
+            "pos": "NCCS000",
+            "prob": "1"
+        },
+        {
+            "word": ";",
+            "lema": ";",
+            "pos": "Fx",
+            "prob": "1"
+        },
+        {
+            "word": "Espa\u00f1a",
+            "lema": "espa\u00f1a",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "pa\u00eds",
+            "lema": "pa\u00eds",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "mayor",
+            "lema": "mayor",
+            "pos": "AQ0CS00",
+            "prob": "0.9995"
+        },
+        {
+            "word": "n\u00famero",
+            "lema": "n\u00famero",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "fallecidos",
+            "lema": "fallecer",
+            "pos": "VMP00PM",
+            "prob": "0.97619"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "habitante",
+            "lema": "habitante",
+            "pos": "NCCS000",
+            "prob": "1"
+        },
+        {
+            "word": ";",
+            "lema": ";",
+            "pos": "Fx",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "Espa\u00f1a",
+            "lema": "espa\u00f1a",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "pa\u00eds",
+            "lema": "pa\u00eds",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "mayor",
+            "lema": "mayor",
+            "pos": "AQ0CS00",
+            "prob": "0.9995"
+        },
+        {
+            "word": "porcentaje",
+            "lema": "porcentaje",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "sanitarios",
+            "lema": "sanitario",
+            "pos": "AQ0MP00",
+            "prob": "0.98913"
+        },
+        {
+            "word": "contagiados",
+            "lema": "contagiar",
+            "pos": "VMP00PM",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "estos",
+            "lema": "este",
+            "pos": "DD0MP0",
+            "prob": "0.972009"
+        },
+        {
+            "word": "datos",
+            "lema": "dato",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "s\u00ed",
+            "lema": "s\u00ed",
+            "pos": "RG",
+            "prob": "0.654652"
+        },
+        {
+            "word": "son",
+            "lema": "ser",
+            "pos": "VSIP3P0",
+            "prob": "0.995197"
+        },
+        {
+            "word": "evidencia",
+            "lema": "evidencia",
+            "pos": "NCFS000",
+            "prob": "0.614458"
+        },
+        {
+            "word": "cient\u00edfica",
+            "lema": "cient\u00edfico",
+            "pos": "AQ0FS00",
+            "prob": "0.865854"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "son",
+            "lema": "ser",
+            "pos": "VSIP3P0",
+            "prob": "0.995197"
+        },
+        {
+            "word": "casualidades",
+            "lema": "casualidad",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "considera",
+            "lema": "considerar",
+            "pos": "VMIP3S0",
+            "prob": "0.998721"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "est\u00e1",
+            "lema": "estar",
+            "pos": "VAIP3S0",
+            "prob": "0.000200642"
+        },
+        {
+            "word": "protegiendo",
+            "lema": "proteger",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": "adecuadamente",
+            "lema": "adecuadamente",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "poblaci\u00f3n",
+            "lema": "poblaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "espa\u00f1ola",
+            "lema": "espa\u00f1ol",
+            "pos": "AQ0FS00",
+            "prob": "0.9614"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "crisis",
+            "lema": "crisis",
+            "pos": "NCFN000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "COVID-19",
+            "lema": "COVID-19",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        }
+    ]
 }

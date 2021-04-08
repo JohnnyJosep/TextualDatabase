@@ -1,7 +1,7 @@
 {
     "metadata": {
         "celebrated": "2020-06-23T00:00:00.000Z",
-        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), DE REFORMA DE LA LEY 9/1968, DE 5 DE ABRIL, SOBRE SECRETOS OFICIALES. ",
+        "debate": "TOMA EN CONSIDERACI\u00d3N DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), DE REFORMA DE LA LEY 9/1968, DE 5 DE ABRIL, SOBRE SECRETOS OFICIALES. ",
         "diputado": [
             {
                 "apellidos": "Berja Vega",
@@ -15,7 +15,7 @@
                 "idCircunscripcion": 23,
                 "idLegislatura": 14,
                 "nombre": "Laura",
-                "nombreCircunscripcion": "Jaén",
+                "nombreCircunscripcion": "Ja\u00e9n",
                 "twitter": "https://twitter.com/lauraberja86",
                 "twitterUserId": "269472408",
                 "twitterUserName": "lauraberja86"
@@ -24,9 +24,47 @@
         ],
         "order": 168,
         "path": "../data/diaries-txts/DSCD-14-PL-031.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "BERJA VEGA"
     },
-    "text": "No aceptamos ninguna. Gracias."
+    "text": "No aceptamos ninguna. Gracias.",
+    "freeling": [
+        {
+            "word": "No",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "aceptamos",
+            "lema": "aceptar",
+            "pos": "VMIP1P0",
+            "prob": "0.65"
+        },
+        {
+            "word": "ninguna",
+            "lema": "ninguno",
+            "pos": "PI0FS00",
+            "prob": "0.170608"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-06-10T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON ANTONIO GONZÁLEZ TEROL, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR MINISTRO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA: ¿QUÉ CRITERIOS GUÍAN LA POLÍTICA DE NOMBRAMIENTOS EN EL MINISTERIO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON ANTONIO GONZ\u00c1LEZ TEROL, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR MINISTRO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA: \u00bfQU\u00c9 CRITERIOS GU\u00cdAN LA POL\u00cdTICA DE NOMBRAMIENTOS EN EL MINISTERIO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA? ",
         "diputado": [
             {
-                "apellidos": "Álvarez de Toledo Peralta-Ramos",
-                "apellidosNombre": "Álvarez de Toledo Peralta-Ramos, Cayetana",
+                "apellidos": "\u00c1lvarez de Toledo Peralta-Ramos",
+                "apellidosNombre": "\u00c1lvarez de Toledo Peralta-Ramos, Cayetana",
                 "codParlamentario": 308,
                 "fchAlta": "28/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,377 @@
         ],
         "order": 9,
         "path": "../data/diaries-txts/DSCD-14-PL-027.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "MINISTRO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA (Ábalos Meco)"
+        "speacker": "MINISTRO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA (\u00c1balos Meco)"
     },
-    "text": "… para que se vaya con algo a su municipio, para que tenga sentido su representación política y algo les pueda decir a sus representados: El sábado se publicó la licitación del contrato para la viabilidad del cercanías a su municipio. ¡Llévese algo para casa, hombre! (Aplausos). --"
+    "text": "\u2026 para que se vaya con algo a su municipio, para que tenga sentido su representaci\u00f3n pol\u00edtica y algo les pueda decir a sus representados: El s\u00e1bado se public\u00f3 la licitaci\u00f3n del contrato para la viabilidad del cercan\u00edas a su municipio. \u00a1Ll\u00e9vese algo para casa, hombre! (Aplausos). --",
+    "freeling": [
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "vaya",
+            "lema": "ir",
+            "pos": "VMSP3S0",
+            "prob": "0.387234"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "algo",
+            "lema": "algo",
+            "pos": "PI0CS00",
+            "prob": "0.854421"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "municipio",
+            "lema": "municipio",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "tenga",
+            "lema": "tener",
+            "pos": "VMSP3S0",
+            "prob": "0.488844"
+        },
+        {
+            "word": "sentido",
+            "lema": "sentido",
+            "pos": "NCMS000",
+            "prob": "0.940835"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "representaci\u00f3n",
+            "lema": "representaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "pol\u00edtica",
+            "lema": "pol\u00edtico",
+            "pos": "AQ0FS00",
+            "prob": "0.261038"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "algo",
+            "lema": "algo",
+            "pos": "PI0CS00",
+            "prob": "0.854421"
+        },
+        {
+            "word": "les",
+            "lema": "le",
+            "pos": "PP3CPD0",
+            "prob": "1"
+        },
+        {
+            "word": "pueda",
+            "lema": "poder",
+            "pos": "VMSP3S0",
+            "prob": "0.499421"
+        },
+        {
+            "word": "decir",
+            "lema": "decir",
+            "pos": "VMN0000",
+            "prob": "0.998575"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "sus",
+            "lema": "su",
+            "pos": "DP3CPN",
+            "prob": "0.999903"
+        },
+        {
+            "word": "representados",
+            "lema": "representar",
+            "pos": "VMP00PM",
+            "prob": "1"
+        },
+        {
+            "word": ":",
+            "lema": ":",
+            "pos": "Fd",
+            "prob": "1"
+        },
+        {
+            "word": "El",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "s\u00e1bado",
+            "lema": "[S:??/??/??:??.??:??]",
+            "pos": "W",
+            "prob": "1"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "public\u00f3",
+            "lema": "publicar",
+            "pos": "VMIS3S0",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "licitaci\u00f3n",
+            "lema": "licitaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "contrato",
+            "lema": "contrato",
+            "pos": "NCMS000",
+            "prob": "0.996689"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "viabilidad",
+            "lema": "viabilidad",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "cercan\u00edas",
+            "lema": "cercan\u00eda",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "municipio",
+            "lema": "municipio",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "\u00a1",
+            "lema": "\u00a1",
+            "pos": "Faa",
+            "prob": "1"
+        },
+        {
+            "word": "Lleve",
+            "lema": "llevar",
+            "pos": "VMM03S0",
+            "prob": "1"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "PP3CN00",
+            "prob": "1"
+        },
+        {
+            "word": "algo",
+            "lema": "algo",
+            "pos": "RG",
+            "prob": "0.145579"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "casa",
+            "lema": "casa",
+            "pos": "NCFS000",
+            "prob": "0.998153"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "hombre",
+            "lema": "hombre",
+            "pos": "I",
+            "prob": "0.00989209"
+        },
+        {
+            "word": "!",
+            "lema": "!",
+            "pos": "Fat",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplauso",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

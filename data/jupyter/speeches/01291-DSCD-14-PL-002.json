@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-18T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO P ARLAMENT ARIO REPUBLICANO, SOBRE LA SITUACIÓN QUE A TRA VIESA EL SECTOR FRUTÍCOLA. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO P ARLAMENT ARIO REPUBLICANO, SOBRE LA SITUACI\u00d3N QUE A TRA VIESA EL SECTOR FRUT\u00cdCOLA. ",
         "diputado": [
             {
-                "apellidos": "Cañadell Salvia",
-                "apellidosNombre": "Cañadell Salvia, Concep",
+                "apellidos": "Ca\u00f1adell Salvia",
+                "apellidosNombre": "Ca\u00f1adell Salvia, Concep",
                 "codParlamentario": 21,
                 "fchAlta": "19/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,491 @@
         ],
         "order": 13,
         "path": "../data/diaries-txts/DSCD-14-PL-009.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "CAÑADELL SALVIA"
+        "speacker": "CA\u00d1ADELL SALVIA"
     },
-    "text": "Estoy terminando, presidente. Desde Junts per Catalunya deseamos llegar a entendimientos; deseamos poder alcanzar la unión de todos los grupos parlamentarios para poder dar respuesta, con la mayor urgencia posible, al sector frutícola, en este caso, pero también con mirada general al sector primario: sector lácteo, sector de los cereales, sector del aceite y un largo etcétera. Estamos hablando de una crisis estructural que viene de lejos."
+    "text": "Estoy terminando, presidente. Desde Junts per Catalunya deseamos llegar a entendimientos; deseamos poder alcanzar la uni\u00f3n de todos los grupos parlamentarios para poder dar respuesta, con la mayor urgencia posible, al sector frut\u00edcola, en este caso, pero tambi\u00e9n con mirada general al sector primario: sector l\u00e1cteo, sector de los cereales, sector del aceite y un largo etc\u00e9tera. Estamos hablando de una crisis estructural que viene de lejos.",
+    "freeling": [
+        {
+            "word": "Estoy",
+            "lema": "estar",
+            "pos": "VAIP1S0",
+            "prob": "0.00184502"
+        },
+        {
+            "word": "terminando",
+            "lema": "terminar",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "presidente",
+            "lema": "presidente",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Desde",
+            "lema": "desde",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "Junts_per_Catalunya",
+            "lema": "junts_per_catalunya",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": "deseamos",
+            "lema": "desear",
+            "pos": "VMIP1P0",
+            "prob": "0.65"
+        },
+        {
+            "word": "llegar",
+            "lema": "llegar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "entendimientos",
+            "lema": "entendimiento",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ";",
+            "lema": ";",
+            "pos": "Fx",
+            "prob": "1"
+        },
+        {
+            "word": "deseamos",
+            "lema": "desear",
+            "pos": "VMIP1P0",
+            "prob": "0.65"
+        },
+        {
+            "word": "poder",
+            "lema": "poder",
+            "pos": "VMN0000",
+            "prob": "0.393475"
+        },
+        {
+            "word": "alcanzar",
+            "lema": "alcanzar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "uni\u00f3n",
+            "lema": "uni\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "todos",
+            "lema": "todo",
+            "pos": "DI0MP0",
+            "prob": "0.70665"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "grupos",
+            "lema": "grupo",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "parlamentarios",
+            "lema": "parlamentario",
+            "pos": "AQ0MP00",
+            "prob": "0.587209"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "poder",
+            "lema": "poder",
+            "pos": "VMN0000",
+            "prob": "0.393475"
+        },
+        {
+            "word": "dar",
+            "lema": "dar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "respuesta",
+            "lema": "respuesta",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "mayor",
+            "lema": "mayor",
+            "pos": "AQ0CS00",
+            "prob": "0.9995"
+        },
+        {
+            "word": "urgencia",
+            "lema": "urgencia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "posible",
+            "lema": "posible",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "sector",
+            "lema": "sector",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "frut\u00edcola",
+            "lema": "frut\u00edcola",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "este",
+            "lema": "este",
+            "pos": "DD0MS0",
+            "prob": "0.949201"
+        },
+        {
+            "word": "caso",
+            "lema": "caso",
+            "pos": "NCMS000",
+            "prob": "0.999445"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "pero",
+            "lema": "pero",
+            "pos": "CC",
+            "prob": "0.999902"
+        },
+        {
+            "word": "tambi\u00e9n",
+            "lema": "tambi\u00e9n",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "mirada",
+            "lema": "mirada",
+            "pos": "NCFS000",
+            "prob": "0.993421"
+        },
+        {
+            "word": "general",
+            "lema": "general",
+            "pos": "AQ0CS00",
+            "prob": "0.826212"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "sector",
+            "lema": "sector",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "primario",
+            "lema": "primario",
+            "pos": "AQ0MS00",
+            "prob": "0.411427"
+        },
+        {
+            "word": ":",
+            "lema": ":",
+            "pos": "Fd",
+            "prob": "1"
+        },
+        {
+            "word": "sector",
+            "lema": "sector",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "l\u00e1cteo",
+            "lema": "l\u00e1cteo",
+            "pos": "AQ0MS00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "sector",
+            "lema": "sector",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "cereales",
+            "lema": "cereal",
+            "pos": "NCMP000",
+            "prob": "0.980769"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "sector",
+            "lema": "sector",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "aceite",
+            "lema": "aceite",
+            "pos": "NCMS000",
+            "prob": "0.971154"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "largo",
+            "lema": "largo",
+            "pos": "AQ0MS00",
+            "prob": "0.990132"
+        },
+        {
+            "word": "etc\u00e9tera",
+            "lema": "etc\u00e9tera",
+            "pos": "NCMS000",
+            "prob": "0.678303"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Estamos",
+            "lema": "estar",
+            "pos": "VAIP1P0",
+            "prob": "0.00171821"
+        },
+        {
+            "word": "hablando",
+            "lema": "hablar",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "crisis",
+            "lema": "crisis",
+            "pos": "NCFN000",
+            "prob": "1"
+        },
+        {
+            "word": "estructural",
+            "lema": "estructural",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "viene",
+            "lema": "venir",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "lejos",
+            "lema": "lejos",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,7 +1,7 @@
 {
     "metadata": {
         "celebrated": "2020-02-18T00:00:00.000Z",
-        "debate": "PROPOSICIONES NO DE LEY. (VOTACIÓN): -- DEL GRUPO P ARLAMENT ARIO VOX, RELA TIV A A LA APLICACIÓN DE LAS MEDIDAS NECESARIAS PARA ACABAR CON EL INVIERNO DEMOGRÁFICO, FOMENTAR LA NATALIDAD Y PROTEGER LA FAMILIA COMO NÚCLEO DE LA SOCIEDAD. ",
+        "debate": "PROPOSICIONES NO DE LEY. (VOTACI\u00d3N): -- DEL GRUPO P ARLAMENT ARIO VOX, RELA TIV A A LA APLICACI\u00d3N DE LAS MEDIDAS NECESARIAS PARA ACABAR CON EL INVIERNO DEMOGR\u00c1FICO, FOMENTAR LA NATALIDAD Y PROTEGER LA FAMILIA COMO N\u00daCLEO DE LA SOCIEDAD. ",
         "diputado": [
             {
                 "apellidos": "Gorospe Elezcano",
@@ -21,9 +21,521 @@
         ],
         "order": 29,
         "path": "../data/diaries-txts/DSCD-14-PL-009.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "GOROSPE ELEZCANO"
     },
-    "text": "Usted no pretende en ningún momento llegar a un acuerdo. Usted nos quiere ilegalizar a los que llama separatistas y no tiene ninguna intención de llegar a acuerdos. Pero tampoco tendría ninguna intención de apoyar ese pacto de Estado que se supone que el Gobierno tendría que lanzar, ese Gobierno que para usted es rojo. Por tanto, su iniciativa solo viene aquí con ánimo de suscitar controversia y separación y, desde luego, no un acuerdo ni un pacto."
+    "text": "Usted no pretende en ning\u00fan momento llegar a un acuerdo. Usted nos quiere ilegalizar a los que llama separatistas y no tiene ninguna intenci\u00f3n de llegar a acuerdos. Pero tampoco tendr\u00eda ninguna intenci\u00f3n de apoyar ese pacto de Estado que se supone que el Gobierno tendr\u00eda que lanzar, ese Gobierno que para usted es rojo. Por tanto, su iniciativa solo viene aqu\u00ed con \u00e1nimo de suscitar controversia y separaci\u00f3n y, desde luego, no un acuerdo ni un pacto.",
+    "freeling": [
+        {
+            "word": "Usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "pretende",
+            "lema": "pretender",
+            "pos": "VMIP3S0",
+            "prob": "0.996894"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "ning\u00fan",
+            "lema": "ninguno",
+            "pos": "DI0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "momento",
+            "lema": "momento",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "llegar",
+            "lema": "llegar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "acuerdo",
+            "lema": "acuerdo",
+            "pos": "NCMS000",
+            "prob": "0.999311"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": "nos",
+            "lema": "nos",
+            "pos": "PP1CP00",
+            "prob": "0.810258"
+        },
+        {
+            "word": "quiere",
+            "lema": "querer",
+            "pos": "VMIP3S0",
+            "prob": "0.999058"
+        },
+        {
+            "word": "ilegalizar",
+            "lema": "ilegalizar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "llama",
+            "lema": "llamar",
+            "pos": "VMIP3S0",
+            "prob": "0.921569"
+        },
+        {
+            "word": "separatistas",
+            "lema": "separatista",
+            "pos": "AQ0CP00",
+            "prob": "0.461333"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "tiene",
+            "lema": "tener",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "ninguna",
+            "lema": "ninguno",
+            "pos": "DI0FS0",
+            "prob": "0.829392"
+        },
+        {
+            "word": "intenci\u00f3n",
+            "lema": "intenci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "llegar",
+            "lema": "llegar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "acuerdos",
+            "lema": "acuerdo",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Pero",
+            "lema": "pero",
+            "pos": "CC",
+            "prob": "0.999902"
+        },
+        {
+            "word": "tampoco",
+            "lema": "tampoco",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "tendr\u00eda",
+            "lema": "tener",
+            "pos": "VMIC3S0",
+            "prob": "0.65"
+        },
+        {
+            "word": "ninguna",
+            "lema": "ninguno",
+            "pos": "DI0FS0",
+            "prob": "0.829392"
+        },
+        {
+            "word": "intenci\u00f3n",
+            "lema": "intenci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "apoyar",
+            "lema": "apoyar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "ese",
+            "lema": "ese",
+            "pos": "DD0MS0",
+            "prob": "0.966694"
+        },
+        {
+            "word": "pacto",
+            "lema": "pacto",
+            "pos": "NCMS000",
+            "prob": "0.998084"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Estado",
+            "lema": "estado",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "supone",
+            "lema": "suponer",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "tendr\u00eda",
+            "lema": "tener",
+            "pos": "VMIC3S0",
+            "prob": "0.65"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "lanzar",
+            "lema": "lanzar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "ese",
+            "lema": "ese",
+            "pos": "DD0MS0",
+            "prob": "0.966694"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "rojo",
+            "lema": "rojo",
+            "pos": "AQ0MS00",
+            "prob": "0.570423"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "tanto",
+            "lema": "tanto",
+            "pos": "RG",
+            "prob": "0.806143"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "iniciativa",
+            "lema": "iniciativa",
+            "pos": "NCFS000",
+            "prob": "0.958015"
+        },
+        {
+            "word": "solo",
+            "lema": "solo",
+            "pos": "AQ0MS00",
+            "prob": "0.787529"
+        },
+        {
+            "word": "viene",
+            "lema": "venir",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "aqu\u00ed",
+            "lema": "aqu\u00ed",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "\u00e1nimo",
+            "lema": "\u00e1nimo",
+            "pos": "NCMS000",
+            "prob": "0.992424"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "suscitar",
+            "lema": "suscitar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "controversia",
+            "lema": "controversia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "separaci\u00f3n",
+            "lema": "separaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "desde_luego",
+            "lema": "desde_luego",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "acuerdo",
+            "lema": "acuerdo",
+            "pos": "NCMS000",
+            "prob": "0.999311"
+        },
+        {
+            "word": "ni",
+            "lema": "ni",
+            "pos": "CC",
+            "prob": "0.834853"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "pacto",
+            "lema": "pacto",
+            "pos": "NCMS000",
+            "prob": "0.998084"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

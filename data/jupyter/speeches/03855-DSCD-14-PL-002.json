@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-03-27T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DE LA DIPUT ADA DOÑA MARÍA TERESA JIMÉNEZ-BECERRIL BARRIO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿PIENSA EL MINISTRO DEL INTERIOR PACTAR CON SUS NUEVOS SOCIOS PREFERENTES DE BILDU LA MEJOR ESTRATEGIA PARA AISLAR POLÍTICAMENTE Y PONER A DISPOSICIÓN JUDICIAL A LOS RESPONSABLES DE LOS ÚLTIMOS EPISODIOS DE VIOLENCIA CALLEJERA EN EL PAÍS VASCO Y NAVARRA? ",
+        "debate": "PREGUNTAS: -- DE LA DIPUT ADA DO\u00d1A MAR\u00cdA TERESA JIM\u00c9NEZ-BECERRIL BARRIO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR MINISTRO DEL INTERIOR: \u00bfPIENSA EL MINISTRO DEL INTERIOR PACTAR CON SUS NUEVOS SOCIOS PREFERENTES DE BILDU LA MEJOR ESTRATEGIA PARA AISLAR POL\u00cdTICAMENTE Y PONER A DISPOSICI\u00d3N JUDICIAL A LOS RESPONSABLES DE LOS \u00daLTIMOS EPISODIOS DE VIOLENCIA CALLEJERA EN EL PA\u00cdS VASCO Y NAVARRA? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,47 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-024.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Silencio, por favor. Señora Jiménez-Becerril Barrio."
+    "text": "Silencio, por favor. Se\u00f1ora Jim\u00e9nez-Becerril Barrio.",
+    "freeling": [
+        {
+            "word": "Silencio",
+            "lema": "silencio",
+            "pos": "NCMS000",
+            "prob": "0.997076"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por_favor",
+            "lema": "por_favor",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Se\u00f1ora_Jim\u00e9nez-Becerril_Barrio",
+            "lema": "se\u00f1ora_jim\u00e9nez-becerril_barrio",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

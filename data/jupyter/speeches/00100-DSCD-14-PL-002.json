@@ -5,25 +5,795 @@
         "diputado": [
             {
                 "apellidos": "Guitarte Gimeno",
-                "apellidosNombre": "Guitarte Gimeno, Tomás",
+                "apellidosNombre": "Guitarte Gimeno, Tom\u00e1s",
                 "codParlamentario": 306,
                 "fchAlta": "28/11/2019",
                 "fchBaja": "",
-                "formacion": "¡Teruel Existe!",
+                "formacion": "\u00a1Teruel Existe!",
                 "genero": 1,
                 "grupo": "Grupo Parlamentario Mixto",
                 "idCircunscripcion": 44,
                 "idLegislatura": 14,
-                "nombre": "Tomás",
+                "nombre": "Tom\u00e1s",
                 "nombreCircunscripcion": "Teruel"
             },
             0
         ],
         "order": 92,
         "path": "../data/diaries-txts/DSCD-14-PL-002.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "GUITARTE GIMENO"
     },
-    "text": "… la constatación de cómo se ha jugado con nuestras vidas y haciendas en beneficio de otros, y el convencimiento de que la España vaciada ha dicho basta nos lleva a advertir que, si la acción política durante esta legislatura que se inicia no evidencia una voluntad real manifestada en los sucesivos presupuestos del Estado, buscaremos una solución de cohesión y reequilibrio territorial y seremos capaces --no les quepa la menor duda de que seremos capaces-- de articular nosotros una respuesta firme, estable y permanente. Es decir, o en esta legislatura se ve que hay una voluntad real de solucionar el problema que denunciamos o la España vaciada tendrá que tomar ejemplo de lo que ha hecho Teruel Existe."
+    "text": "\u2026 la constataci\u00f3n de c\u00f3mo se ha jugado con nuestras vidas y haciendas en beneficio de otros, y el convencimiento de que la Espa\u00f1a vaciada ha dicho basta nos lleva a advertir que, si la acci\u00f3n pol\u00edtica durante esta legislatura que se inicia no evidencia una voluntad real manifestada en los sucesivos presupuestos del Estado, buscaremos una soluci\u00f3n de cohesi\u00f3n y reequilibrio territorial y seremos capaces --no les quepa la menor duda de que seremos capaces-- de articular nosotros una respuesta firme, estable y permanente. Es decir, o en esta legislatura se ve que hay una voluntad real de solucionar el problema que denunciamos o la Espa\u00f1a vaciada tendr\u00e1 que tomar ejemplo de lo que ha hecho Teruel Existe.",
+    "freeling": [
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "constataci\u00f3n",
+            "lema": "constataci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "c\u00f3mo",
+            "lema": "c\u00f3mo",
+            "pos": "PT00000",
+            "prob": "0.997099"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "jugado",
+            "lema": "jugar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "nuestras",
+            "lema": "nuestro",
+            "pos": "DP1FPP",
+            "prob": "0.925532"
+        },
+        {
+            "word": "vidas",
+            "lema": "vida",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "haciendas",
+            "lema": "hacienda",
+            "pos": "NCFP000",
+            "prob": "0.989726"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "beneficio",
+            "lema": "beneficio",
+            "pos": "NCMS000",
+            "prob": "0.994505"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "otros",
+            "lema": "otro",
+            "pos": "PI0MP00",
+            "prob": "0.254022"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "convencimiento",
+            "lema": "convencimiento",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "Espa\u00f1a",
+            "lema": "espa\u00f1a",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "vaciada",
+            "lema": "vaciar",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "dicho",
+            "lema": "decir",
+            "pos": "VMP00SM",
+            "prob": "0.997159"
+        },
+        {
+            "word": "basta",
+            "lema": "bastar",
+            "pos": "VMIP3S0",
+            "prob": "0.964286"
+        },
+        {
+            "word": "nos",
+            "lema": "nos",
+            "pos": "PP1CP00",
+            "prob": "0.810258"
+        },
+        {
+            "word": "lleva",
+            "lema": "llevar",
+            "pos": "VMIP3S0",
+            "prob": "0.998188"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "advertir",
+            "lema": "advertir",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "si",
+            "lema": "si",
+            "pos": "CS",
+            "prob": "0.999827"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "acci\u00f3n",
+            "lema": "acci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "pol\u00edtica",
+            "lema": "pol\u00edtico",
+            "pos": "AQ0FS00",
+            "prob": "0.261038"
+        },
+        {
+            "word": "durante",
+            "lema": "durante",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "esta",
+            "lema": "este",
+            "pos": "DD0FS0",
+            "prob": "0.978817"
+        },
+        {
+            "word": "legislatura",
+            "lema": "legislatura",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "inicia",
+            "lema": "iniciar",
+            "pos": "VMIP3S0",
+            "prob": "0.98913"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "evidencia",
+            "lema": "evidenciar",
+            "pos": "VMIP3S0",
+            "prob": "0.373494"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "voluntad",
+            "lema": "voluntad",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "real",
+            "lema": "real",
+            "pos": "AQ0CS00",
+            "prob": "0.82839"
+        },
+        {
+            "word": "manifestada",
+            "lema": "manifestar",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "sucesivos",
+            "lema": "sucesivo",
+            "pos": "AQ0MP00",
+            "prob": "1"
+        },
+        {
+            "word": "presupuestos",
+            "lema": "presupuesto",
+            "pos": "NCMP000",
+            "prob": "0.987805"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Estado",
+            "lema": "estado",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "buscaremos",
+            "lema": "buscar",
+            "pos": "VMIF1P0",
+            "prob": "1"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "soluci\u00f3n",
+            "lema": "soluci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "cohesi\u00f3n",
+            "lema": "cohesi\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "reequilibrio",
+            "lema": "reequilibrio",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "territorial",
+            "lema": "territorial",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "seremos",
+            "lema": "ser",
+            "pos": "VSIF1P0",
+            "prob": "1"
+        },
+        {
+            "word": "capaces",
+            "lema": "capaz",
+            "pos": "AQ0CP00",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "les",
+            "lema": "le",
+            "pos": "PP3CPD0",
+            "prob": "1"
+        },
+        {
+            "word": "quepa",
+            "lema": "caber",
+            "pos": "VMSP3S0",
+            "prob": "0.634849"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "menor",
+            "lema": "menor",
+            "pos": "AQ0CS00",
+            "prob": "0.977178"
+        },
+        {
+            "word": "duda",
+            "lema": "duda",
+            "pos": "NCFS000",
+            "prob": "0.72549"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "seremos",
+            "lema": "ser",
+            "pos": "VSIF1P0",
+            "prob": "1"
+        },
+        {
+            "word": "capaces",
+            "lema": "capaz",
+            "pos": "AQ0CP00",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "articular",
+            "lema": "articular",
+            "pos": "VMN0000",
+            "prob": "0.406438"
+        },
+        {
+            "word": "nosotros",
+            "lema": "nosotros",
+            "pos": "PP1MP00",
+            "prob": "1"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "respuesta",
+            "lema": "respuesta",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "firme",
+            "lema": "firme",
+            "pos": "AQ0CS00",
+            "prob": "0.485714"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "estable",
+            "lema": "estable",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "permanente",
+            "lema": "permanente",
+            "pos": "AQ0CS00",
+            "prob": "0.932099"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "decir",
+            "lema": "decir",
+            "pos": "VMN0000",
+            "prob": "0.998575"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "o",
+            "lema": "o",
+            "pos": "CC",
+            "prob": "0.999864"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "esta",
+            "lema": "este",
+            "pos": "DD0FS0",
+            "prob": "0.978817"
+        },
+        {
+            "word": "legislatura",
+            "lema": "legislatura",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "ve",
+            "lema": "ver",
+            "pos": "VMIP3S0",
+            "prob": "0.991758"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "hay",
+            "lema": "haber",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "voluntad",
+            "lema": "voluntad",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "real",
+            "lema": "real",
+            "pos": "AQ0CS00",
+            "prob": "0.82839"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "solucionar",
+            "lema": "solucionar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "problema",
+            "lema": "problema",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "denunciamos",
+            "lema": "denunciar",
+            "pos": "VMIP1P0",
+            "prob": "0.649989"
+        },
+        {
+            "word": "o",
+            "lema": "o",
+            "pos": "CC",
+            "prob": "0.999864"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "Espa\u00f1a",
+            "lema": "espa\u00f1a",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": "vaciada",
+            "lema": "vaciar",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": "tendr\u00e1",
+            "lema": "tener",
+            "pos": "VMIF3S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "tomar",
+            "lema": "tomar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "ejemplo",
+            "lema": "ejemplo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "lo",
+            "lema": "el",
+            "pos": "DA00S0",
+            "prob": "0.665165"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "hecho",
+            "lema": "hacer",
+            "pos": "VMP00SM",
+            "prob": "0.638262"
+        },
+        {
+            "word": "Teruel_Existe",
+            "lema": "teruel_existe",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

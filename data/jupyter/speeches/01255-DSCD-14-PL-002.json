@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-18T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, SOBRE LOS MOTIVOS DEL MINISTRO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA QUE LE LLEVARON A MANTENER UNA REUNIÓN CON DELCY RODRÍ GUEZ, LOS COMPROMISOS QUE FUERON ADQUIRIDOS EN NOMBRE DEL GOBIERNO DE ESPAÑA CON EL RÉGIMEN DE NICOLÁS MADURO Y LA INCIDENCIA DE DICHOS COMPROMISOS EN LAS RELACIONES DE ESPAÑA CON VENEZUELA, CON LA UNIÓN EUROPEA Y CON NUESTROS ALIADOS. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, SOBRE LOS MOTIVOS DEL MINISTRO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA QUE LE LLEVARON A MANTENER UNA REUNI\u00d3N CON DELCY RODR\u00cd GUEZ, LOS COMPROMISOS QUE FUERON ADQUIRIDOS EN NOMBRE DEL GOBIERNO DE ESPA\u00d1A CON EL R\u00c9GIMEN DE NICOL\u00c1S MADURO Y LA INCIDENCIA DE DICHOS COMPROMISOS EN LAS RELACIONES DE ESPA\u00d1A CON VENEZUELA, CON LA UNI\u00d3N EUROPEA Y CON NUESTROS ALIADOS. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,83 @@
         ],
         "order": 24,
         "path": "../data/diaries-txts/DSCD-14-PL-009.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señora Rosique, le pido por favor que lo retire del Diario de Sesiones."
+    "text": "Se\u00f1ora Rosique, le pido por favor que lo retire del Diario de Sesiones.",
+    "freeling": [
+        {
+            "word": "Se\u00f1ora_Rosique",
+            "lema": "se\u00f1ora_rosique",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "pido",
+            "lema": "pedir",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "por_favor",
+            "lema": "por_favor",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "lo",
+            "lema": "lo",
+            "pos": "PP3MSA0",
+            "prob": "0.334764"
+        },
+        {
+            "word": "retire",
+            "lema": "retirar",
+            "pos": "VMSP3S0",
+            "prob": "0.634863"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Diario_de_Sesiones",
+            "lema": "diario_de_sesiones",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

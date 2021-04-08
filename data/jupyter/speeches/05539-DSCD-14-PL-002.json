@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-06-25T00:00:00.000Z",
-        "debate": "INFORMES DEL DEFENSOR DEL PUEBLO CORRESPONDIENTES A LA GESTIÓN REALIZADA DURANTE LOS AÑOS 2018 Y 2019. -- INFORME DEL DEFENSOR DEL PUEBLO CORRESPONDIENTE A LA GESTIÓN REALIZADA DURANTE EL AÑO 2019. ",
+        "debate": "INFORMES DEL DEFENSOR DEL PUEBLO CORRESPONDIENTES A LA GESTI\u00d3N REALIZADA DURANTE LOS A\u00d1OS 2018 Y 2019. -- INFORME DEL DEFENSOR DEL PUEBLO CORRESPONDIENTE A LA GESTI\u00d3N REALIZADA DURANTE EL A\u00d1O 2019. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,59 @@
         ],
         "order": 18,
         "path": "../data/diaries-txts/DSCD-14-PL-033.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señora Carvalho, tendría que terminar, por favor."
+    "text": "Se\u00f1ora Carvalho, tendr\u00eda que terminar, por favor.",
+    "freeling": [
+        {
+            "word": "Se\u00f1ora_Carvalho",
+            "lema": "se\u00f1ora_carvalho",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "tendr\u00eda",
+            "lema": "tener",
+            "pos": "VMIC3S0",
+            "prob": "0.65"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "terminar",
+            "lema": "terminar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por_favor",
+            "lema": "por_favor",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

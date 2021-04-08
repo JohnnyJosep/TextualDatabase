@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-01-04T00:00:00.000Z",
-        "debate": "JURAMENTO O PROMESA DE ACATAMIENTO DE LA CONSTITUCIÓN POR NUEVOS SEÑORES DIPUTADOS.",
+        "debate": "JURAMENTO O PROMESA DE ACATAMIENTO DE LA CONSTITUCI\u00d3N POR NUEVOS SE\u00d1ORES DIPUTADOS.",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,23 @@
         ],
         "order": 5,
         "path": "../data/diaries-txts/DSCD-14-PL-002.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señora Álvarez de Toledo."
+    "text": "Se\u00f1ora \u00c1lvarez de Toledo.",
+    "freeling": [
+        {
+            "word": "Se\u00f1ora_\u00c1lvarez_de_Toledo",
+            "lema": "se\u00f1ora_\u00e1lvarez_de_toledo",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

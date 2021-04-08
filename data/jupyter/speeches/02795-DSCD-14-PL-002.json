@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-04-15T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA CAYETANA ÁLVAREZ DE TOLEDO PERALTA-RAMOS, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA MINISTRA DE HACIENDA: ¿CONSIDERA EL GOBIERNO QUE ESTÁ OFRECIENDO INFORMACIÓN VERAZ Y COMPLETA EN LA CRISIS DE LA COVID-19? ",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DO\u00d1A CAYETANA \u00c1LVAREZ DE TOLEDO PERALTA-RAMOS, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SE\u00d1ORA MINISTRA DE HACIENDA: \u00bfCONSIDERA EL GOBIERNO QUE EST\u00c1 OFRECIENDO INFORMACI\u00d3N VERAZ Y COMPLETA EN LA CRISIS DE LA COVID-19? ",
         "diputado": [
             {
                 "apellidos": "Montero Cuadrado",
-                "apellidosNombre": "Montero Cuadrado, María Jesús",
+                "apellidosNombre": "Montero Cuadrado, Mar\u00eda Jes\u00fas",
                 "codParlamentario": 225,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario Socialista",
                 "idCircunscripcion": 41,
                 "idLegislatura": 14,
-                "nombre": "María Jesús",
+                "nombre": "Mar\u00eda Jes\u00fas",
                 "nombreCircunscripcion": "Sevilla",
                 "twitter": "https://twitter.com/mjmonteroc",
                 "twitterUserId": "310187114",
@@ -24,9 +24,653 @@
         ],
         "order": 3,
         "path": "../data/diaries-txts/DSCD-14-PL-018.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "MINISTRA DE HACIENDA (Montero Cuadrado)"
     },
-    "text": "Gracias, señora presidenta. Señora Álvarez de Toledo, usted me preguntaba por la transparencia de este Gobierno; ahora ha cambiado la pregunta. Refiriéndome a una autoridad internacional, que creo que tendrá para usted la misma validez al menos que el gráfico que ha señalado, el director general de la Organización Mundial de la Salud dijo el pasado día 9 textualmente: España ejemplifica la respuesta unificada que se necesita para luchar contra el coronavirus. No creo, señoría, que estas declaraciones del propio responsable a nivel mundial del control de la pandemia a usted le caigan en saco roto. (Aplausos)."
+    "text": "Gracias, se\u00f1ora presidenta. Se\u00f1ora \u00c1lvarez de Toledo, usted me preguntaba por la transparencia de este Gobierno; ahora ha cambiado la pregunta. Refiri\u00e9ndome a una autoridad internacional, que creo que tendr\u00e1 para usted la misma validez al menos que el gr\u00e1fico que ha se\u00f1alado, el director general de la Organizaci\u00f3n Mundial de la Salud dijo el pasado d\u00eda 9 textualmente: Espa\u00f1a ejemplifica la respuesta unificada que se necesita para luchar contra el coronavirus. No creo, se\u00f1or\u00eda, que estas declaraciones del propio responsable a nivel mundial del control de la pandemia a usted le caigan en saco roto. (Aplausos).",
+    "freeling": [
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Se\u00f1ora_\u00c1lvarez_de_Toledo",
+            "lema": "se\u00f1ora_\u00e1lvarez_de_toledo",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": "me",
+            "lema": "me",
+            "pos": "PP1CS00",
+            "prob": "0.755196"
+        },
+        {
+            "word": "preguntaba",
+            "lema": "preguntar",
+            "pos": "VMII3S0",
+            "prob": "0.65"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "transparencia",
+            "lema": "transparencia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "este",
+            "lema": "este",
+            "pos": "DD0MS0",
+            "prob": "0.949201"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ";",
+            "lema": ";",
+            "pos": "Fx",
+            "prob": "1"
+        },
+        {
+            "word": "ahora",
+            "lema": "ahora",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "cambiado",
+            "lema": "cambiar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "pregunta",
+            "lema": "pregunta",
+            "pos": "NCFS000",
+            "prob": "0.694581"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Refiriendo",
+            "lema": "referir",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": "me",
+            "lema": "me",
+            "pos": "PP1CS00",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "autoridad",
+            "lema": "autoridad",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "internacional",
+            "lema": "internacional",
+            "pos": "AQ0CS00",
+            "prob": "0.970532"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "creo",
+            "lema": "creer",
+            "pos": "VMIP1S0",
+            "prob": "0.5"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "tendr\u00e1",
+            "lema": "tener",
+            "pos": "VMIF3S0",
+            "prob": "1"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "misma",
+            "lema": "mismo",
+            "pos": "AQ0FS00",
+            "prob": "0.81684"
+        },
+        {
+            "word": "validez",
+            "lema": "validez",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "menos",
+            "lema": "menos",
+            "pos": "RG",
+            "prob": "0.990694"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "gr\u00e1fico",
+            "lema": "gr\u00e1fico",
+            "pos": "NCMS000",
+            "prob": "0.358855"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "se\u00f1alado",
+            "lema": "se\u00f1alar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "director",
+            "lema": "director",
+            "pos": "NCMS000",
+            "prob": "0.999154"
+        },
+        {
+            "word": "general",
+            "lema": "general",
+            "pos": "AQ0CS00",
+            "prob": "0.826212"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "Organizaci\u00f3n_Mundial_de_la_Salud",
+            "lema": "organizaci\u00f3n_mundial_de_la_salud",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "dijo",
+            "lema": "decir",
+            "pos": "VMIS3S0",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "pasado_d\u00eda_9",
+            "lema": "[??:9/??/??:??.??:??]",
+            "pos": "W",
+            "prob": "1"
+        },
+        {
+            "word": "textualmente",
+            "lema": "textualmente",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ":",
+            "lema": ":",
+            "pos": "Fd",
+            "prob": "1"
+        },
+        {
+            "word": "Espa\u00f1a",
+            "lema": "espa\u00f1a",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "ejemplifica",
+            "lema": "ejemplificar",
+            "pos": "VMIP3S0",
+            "prob": "0.889306"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "respuesta",
+            "lema": "respuesta",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "unificada",
+            "lema": "unificar",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "necesita",
+            "lema": "necesitar",
+            "pos": "VMIP3S0",
+            "prob": "0.996032"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "luchar",
+            "lema": "luchar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "contra",
+            "lema": "contra",
+            "pos": "SP",
+            "prob": "0.984245"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "coronavirus",
+            "lema": "coronar_virus",
+            "pos": "NCCN000",
+            "prob": "0.538525"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "No",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "creo",
+            "lema": "creer",
+            "pos": "VMIP1S0",
+            "prob": "0.5"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or\u00eda",
+            "lema": "se\u00f1or\u00eda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "estas",
+            "lema": "este",
+            "pos": "DD0FP0",
+            "prob": "0.969897"
+        },
+        {
+            "word": "declaraciones",
+            "lema": "declaraci\u00f3n",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "propio",
+            "lema": "propio",
+            "pos": "AQ0MS00",
+            "prob": "0.998575"
+        },
+        {
+            "word": "responsable",
+            "lema": "responsable",
+            "pos": "NCCS000",
+            "prob": "0.758303"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "nivel",
+            "lema": "nivel",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "mundial",
+            "lema": "mundial",
+            "pos": "AQ0CS00",
+            "prob": "0.895078"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "control",
+            "lema": "control",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "pandemia",
+            "lema": "pandemia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": "le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "caigan",
+            "lema": "caer",
+            "pos": "VMSP3P0",
+            "prob": "0.941964"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "saco",
+            "lema": "saco",
+            "pos": "NCMS000",
+            "prob": "0.989721"
+        },
+        {
+            "word": "roto",
+            "lema": "romper",
+            "pos": "VMP00SM",
+            "prob": "0.975904"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplausos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-04-15T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA MIREIA VEHÍ CANTENYS, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿QUÉ OPINIÓN LE MERECE QUE GRANDES EMPRESAS ESPAÑOLAS TENGAN BENEFICIOS MIENTRAS AUMENTAN EL PARO Y EL ENDEUDAMIENTO DE LAS CLASES POPULARES Y EL SECTOR PÚBLICO? ",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DO\u00d1A MIREIA VEH\u00cd CANTENYS, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA AL SE\u00d1OR PRESIDENTE DEL GOBIERNO: \u00bfQUE\u0301 OPINI\u00d3N LE MERECE QUE GRANDES EMPRESAS ESPA\u00d1OLAS TENGAN BENEFICIOS MIENTRAS AUMENTAN EL PARO Y EL ENDEUDAMIENTO DE LAS CLASES POPULARES Y EL SECTOR P\u00daBLICO? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,53 @@
         ],
         "order": 8,
         "path": "../data/diaries-txts/DSCD-14-PL-018.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Gracias, señor presidente. --"
+    "text": "Gracias, se\u00f1or presidente. --",
+    "freeling": [
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "presidente",
+            "lema": "presidente",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

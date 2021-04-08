@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-12T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JOSÉ MARÍA MAZÓN RAMOS, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA A LA SEÑORA MINISTRA DE POLÍTICA TERRITORIAL Y FUNCIÓN PÚBLICA: ¿CUÁNDO VA A REALIZAR EL GOBIERNO LOS TRÁMITES NECESARIOS PARA PAGAR LAS SUBVENCIONES INCLUIDAS EN EL DECRETO 630/2019, DE 31 DE OCTUBRE, QUE DESARROLLÓ EL REAL DECRETO­LEY 2/2019, DE 25 DE ENERO, PARA PALIAR LOS DAÑOS CAUSADOS POR LAS INUNDACIONES EN CANTABRIA? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JOS\u00c9 MAR\u00cdA MAZ\u00d3N RAMOS, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA A LA SE\u00d1ORA MINISTRA DE POL\u00cdTICA TERRITORIAL Y FUNCI\u00d3N P\u00daBLICA: \u00bfCU\u00c1NDO VA A REALIZAR EL GOBIERNO LOS TR\u00c1MITES NECESARIOS PARA PAGAR LAS SUBVENCIONES INCLUIDAS EN EL DECRETO 630/2019, DE 31 DE OCTUBRE, QUE DESARROLL\u00d3 EL REAL DECRETO\u00adLEY 2/2019, DE 25 DE ENERO, PARA PALIAR LOS DA\u00d1OS CAUSADOS POR LAS INUNDACIONES EN CANTABRIA? ",
         "diputado": [
             {
-                "apellidos": "Olona Choclán",
-                "apellidosNombre": "Olona Choclán, Macarena",
+                "apellidos": "Olona Chocl\u00e1n",
+                "apellidosNombre": "Olona Chocl\u00e1n, Macarena",
                 "codParlamentario": 84,
                 "fchAlta": "20/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,71 @@
         ],
         "order": 13,
         "path": "../data/diaries-txts/DSCD-14-PL-008.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "OLONA CHOCLÁN"
+        "speacker": "OLONA CHOCL\u00c1N"
     },
-    "text": "Antes de ser mencionada la Guardia Civil y la Policía Nacional…"
+    "text": "Antes de ser mencionada la Guardia Civil y la Polic\u00eda Nacional\u2026",
+    "freeling": [
+        {
+            "word": "Antes_de",
+            "lema": "antes_de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "ser",
+            "lema": "ser",
+            "pos": "VSN0000",
+            "prob": "0.959637"
+        },
+        {
+            "word": "mencionada",
+            "lema": "mencionar",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "Guardia_Civil",
+            "lema": "guardia_civil",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "Polic\u00eda_Nacional",
+            "lema": "polic\u00eda_nacional",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

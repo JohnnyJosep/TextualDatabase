@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-19T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DE LA DIPUT ADA DOÑA MARÍA TERESA LÓPEZ ÁL V AREZ, DEL GRUPO P ARLAMENT ARIO VOX, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿VA A DEJAR DE FOMENTAR EL GOBIERNO LA INMIGRACIÓN ILEGAL? ",
+        "debate": "PREGUNTAS: -- DE LA DIPUT ADA DO\u00d1A MAR\u00cdA TERESA L\u00d3PEZ \u00c1L V AREZ, DEL GRUPO P ARLAMENT ARIO VOX, QUE FORMULA AL SE\u00d1OR MINISTRO DEL INTERIOR: \u00bfVA A DEJAR DE FOMENTAR EL GOBIERNO LA INMIGRACI\u00d3N ILEGAL? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,437 @@
         ],
         "order": 9,
         "path": "../data/diaries-txts/DSCD-14-PL-010.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Antes de empezar con las interpelaciones, desde la Mesa queremos tener un recuerdo sentido a don Fernando Morán López que ha fallecido a sus noventa y tres años. El Congreso de los Diputados siente su muerte, reconoce su trabajo por España y le manda su cariño a su familia, a sus amigos y a sus compañeros. (Aplausos de las señoras y los señores diputados, puestos en pie). Muchas gracias."
+    "text": "Antes de empezar con las interpelaciones, desde la Mesa queremos tener un recuerdo sentido a don Fernando Mor\u00e1n L\u00f3pez que ha fallecido a sus noventa y tres a\u00f1os. El Congreso de los Diputados siente su muerte, reconoce su trabajo por Espa\u00f1a y le manda su cari\u00f1o a su familia, a sus amigos y a sus compa\u00f1eros. (Aplausos de las se\u00f1oras y los se\u00f1ores diputados, puestos en pie). Muchas gracias.",
+    "freeling": [
+        {
+            "word": "Antes_de",
+            "lema": "antes_de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "empezar",
+            "lema": "empezar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "interpelaciones",
+            "lema": "interpelaci\u00f3n",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "desde",
+            "lema": "desde",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "Mesa",
+            "lema": "mesa",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "queremos",
+            "lema": "querer",
+            "pos": "VMIP1P0",
+            "prob": "1"
+        },
+        {
+            "word": "tener",
+            "lema": "tener",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "recuerdo",
+            "lema": "recuerdo",
+            "pos": "NCMS000",
+            "prob": "0.77027"
+        },
+        {
+            "word": "sentido",
+            "lema": "sentido",
+            "pos": "NCMS000",
+            "prob": "0.940835"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "don",
+            "lema": "don",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "Fernando_Mor\u00e1n_L\u00f3pez",
+            "lema": "fernando_mor\u00e1n_l\u00f3pez",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "fallecido",
+            "lema": "fallecer",
+            "pos": "VMP00SM",
+            "prob": "0.99505"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "sus",
+            "lema": "su",
+            "pos": "DP3CPN",
+            "prob": "0.999903"
+        },
+        {
+            "word": "noventa_y_tres",
+            "lema": "93",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "a\u00f1os",
+            "lema": "a\u00f1o",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "El",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Congreso_de_los_Diputados",
+            "lema": "congreso_de_los_diputados",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "siente",
+            "lema": "sentir",
+            "pos": "VMIP3S0",
+            "prob": "0.974194"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "muerte",
+            "lema": "muerte",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "reconoce",
+            "lema": "reconocer",
+            "pos": "VMIP3S0",
+            "prob": "0.942708"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "trabajo",
+            "lema": "trabajo",
+            "pos": "NCMS000",
+            "prob": "0.975768"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "Espa\u00f1a",
+            "lema": "espa\u00f1a",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "manda",
+            "lema": "mandar",
+            "pos": "VMIP3S0",
+            "prob": "0.145115"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "cari\u00f1o",
+            "lema": "cari\u00f1o",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "familia",
+            "lema": "familia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "sus",
+            "lema": "su",
+            "pos": "DP3CPN",
+            "prob": "0.999903"
+        },
+        {
+            "word": "amigos",
+            "lema": "amigo",
+            "pos": "NCMP000",
+            "prob": "0.925532"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "sus",
+            "lema": "su",
+            "pos": "DP3CPN",
+            "prob": "0.999903"
+        },
+        {
+            "word": "compa\u00f1eros",
+            "lema": "compa\u00f1ero",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplauso",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "se\u00f1oras",
+            "lema": "se\u00f1or",
+            "pos": "NCFP000",
+            "prob": "0.572569"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "se\u00f1ores",
+            "lema": "se\u00f1or",
+            "pos": "AQ0MP00",
+            "prob": "0.361294"
+        },
+        {
+            "word": "diputados",
+            "lema": "diputado",
+            "pos": "NCMP000",
+            "prob": "0.99569"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "puestos",
+            "lema": "puesto",
+            "pos": "NCMP000",
+            "prob": "0.791096"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "pie",
+            "lema": "pie",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

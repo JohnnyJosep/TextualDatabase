@@ -1,7 +1,7 @@
 {
     "metadata": {
         "celebrated": "2020-03-20T00:00:00.000Z",
-        "debate": "ACTOS EN RELACIÓN CON LOS ESTADOS DE ALARMA, EXCEPCIÓN Y SITIO: -- SOLICITUD DE AUTORIZACIÓN DE LA PRÓRROGA DEL ESTADO DE ALARMA DECLARADO MEDIANTE EL REAL DECRETO 463/2020, DE 14 DE MARZO, POR EL QUE SE DECLARA EL ESTADO DE ALARMA PARA LA GESTIÓN DE LA SITUACIÓN DE CRISIS SANITARIA OCASIONADA POR EL COVID-19, PRORROGADO POR LOS REALES DECRETOS 476/2020, DE 27 DE MARZO, 487/2020, DE 10 DE ABRIL, 492/2020, DE 24 DE ABRIL, Y 514/2020, DE 8 DE MAYO. ",
+        "debate": "ACTOS EN RELACI\u00d3N CON LOS ESTADOS DE ALARMA, EXCEPCI\u00d3N Y SITIO: -- SOLICITUD DE AUTORIZACI\u00d3N DE LA PR\u00d3RROGA DEL ESTADO DE ALARMA DECLARADO MEDIANTE EL REAL DECRETO 463/2020, DE 14 DE MARZO, POR EL QUE SE DECLARA EL ESTADO DE ALARMA PARA LA GESTI\u00d3N DE LA SITUACI\u00d3N DE CRISIS SANITARIA OCASIONADA POR EL COVID-19, PRORROGADO POR LOS REALES DECRETOS 476/2020, DE 27 DE MARZO, 487/2020, DE 10 DE ABRIL, 492/2020, DE 24 DE ABRIL, Y 514/2020, DE 8 DE MAYO. ",
         "diputado": [
             {
                 "apellidos": "Bassa Coll",
@@ -24,9 +24,863 @@
         ],
         "order": 142,
         "path": "../data/diaries-txts/DSCD-14-PL-023.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "BASSA COLL"
     },
-    "text": "Buenos días. Las imágenes del 1 de octubre de 2017 de una policía repartiendo golpes a personas de todas las edades y condición que pacíficamente intentaban votar recorrió la prensa internacional. Eran policías que habían sido despedidos de sus lugares de origen con cánticos bélicos, con «a por ellos», un «a por ellos» que era un a por nosotras, a por las catalanas y los catalanes que, en reivindicación de un derecho democrático, hicimos un ejercicio de desobediencia civil masiva y pacífica, del cual nos sentimos tremendamente orgullosos. Con sus condecoraciones demuestran que, de la misma manera que nosotros estamos orgullosos de nuestro pacifismo, ustedes están orgullosos de su violencia. Por eso le pregunto cuál es la justificación de condecorar a agentes que nos golpearon el 1 de octubre."
+    "text": "Buenos d\u00edas. Las im\u00e1genes del 1 de octubre de 2017 de una polic\u00eda repartiendo golpes a personas de todas las edades y condici\u00f3n que pac\u00edficamente intentaban votar recorri\u00f3 la prensa internacional. Eran polic\u00edas que hab\u00edan sido despedidos de sus lugares de origen con c\u00e1nticos b\u00e9licos, con \u00aba por ellos\u00bb, un \u00aba por ellos\u00bb que era un a por nosotras, a por las catalanas y los catalanes que, en reivindicaci\u00f3n de un derecho democr\u00e1tico, hicimos un ejercicio de desobediencia civil masiva y pac\u00edfica, del cual nos sentimos tremendamente orgullosos. Con sus condecoraciones demuestran que, de la misma manera que nosotros estamos orgullosos de nuestro pacifismo, ustedes est\u00e1n orgullosos de su violencia. Por eso le pregunto cu\u00e1l es la justificaci\u00f3n de condecorar a agentes que nos golpearon el 1 de octubre.",
+    "freeling": [
+        {
+            "word": "Buenos",
+            "lema": "bueno",
+            "pos": "AQ0MP00",
+            "prob": "1"
+        },
+        {
+            "word": "d\u00edas",
+            "lema": "d\u00eda",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "im\u00e1genes",
+            "lema": "imagen",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "1_de_octubre_de_2017",
+            "lema": "[??:1/10/2017:??.??:??]",
+            "pos": "W",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "polic\u00eda",
+            "lema": "polic\u00eda",
+            "pos": "NCCS000",
+            "prob": "1"
+        },
+        {
+            "word": "repartiendo",
+            "lema": "repartir",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": "golpes",
+            "lema": "golpe",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "personas",
+            "lema": "persona",
+            "pos": "NCFP000",
+            "prob": "0.999585"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "todas",
+            "lema": "todo",
+            "pos": "DI0FP0",
+            "prob": "0.934073"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "edades",
+            "lema": "edad",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "condici\u00f3n",
+            "lema": "condici\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "pac\u00edficamente",
+            "lema": "pac\u00edficamente",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "intentaban",
+            "lema": "intentar",
+            "pos": "VMII3P0",
+            "prob": "1"
+        },
+        {
+            "word": "votar",
+            "lema": "votar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "recorri\u00f3",
+            "lema": "recorrer",
+            "pos": "VMIS3S0",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "prensa",
+            "lema": "prensa",
+            "pos": "NCFS000",
+            "prob": "0.998295"
+        },
+        {
+            "word": "internacional",
+            "lema": "internacional",
+            "pos": "AQ0CS00",
+            "prob": "0.970532"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Eran",
+            "lema": "ser",
+            "pos": "VSII3P0",
+            "prob": "0.998418"
+        },
+        {
+            "word": "polic\u00edas",
+            "lema": "polic\u00eda",
+            "pos": "NCCP000",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "hab\u00edan",
+            "lema": "haber",
+            "pos": "VAII3P0",
+            "prob": "0.99884"
+        },
+        {
+            "word": "sido",
+            "lema": "ser",
+            "pos": "VSP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "despedidos",
+            "lema": "despedir",
+            "pos": "VMP00PM",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "sus",
+            "lema": "su",
+            "pos": "DP3CPN",
+            "prob": "0.999903"
+        },
+        {
+            "word": "lugares",
+            "lema": "lugar",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "origen",
+            "lema": "origen",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "c\u00e1nticos",
+            "lema": "c\u00e1ntico",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "b\u00e9licos",
+            "lema": "b\u00e9lico",
+            "pos": "AQ0MP00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "\u00ab",
+            "lema": "\u00ab",
+            "pos": "Fra",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "ellos",
+            "lema": "ellos",
+            "pos": "PP3MP00",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bb",
+            "lema": "\u00bb",
+            "pos": "Frc",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "\u00ab",
+            "lema": "\u00ab",
+            "pos": "Fra",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "ellos",
+            "lema": "ellos",
+            "pos": "PP3MP00",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bb",
+            "lema": "\u00bb",
+            "pos": "Frc",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "era",
+            "lema": "ser",
+            "pos": "VSII3S0",
+            "prob": "0.491317"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "nosotras",
+            "lema": "nosotros",
+            "pos": "PP1FP00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "catalanas",
+            "lema": "catal\u00e1n",
+            "pos": "AQ0FP00",
+            "prob": "0.98913"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "catalanes",
+            "lema": "catal\u00e1n",
+            "pos": "NCMP000",
+            "prob": "0.571023"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "reivindicaci\u00f3n",
+            "lema": "reivindicaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "derecho",
+            "lema": "derecho",
+            "pos": "NCMS000",
+            "prob": "0.882166"
+        },
+        {
+            "word": "democr\u00e1tico",
+            "lema": "democr\u00e1tico",
+            "pos": "AQ0MS00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "hicimos",
+            "lema": "hacer",
+            "pos": "VMIS1P0",
+            "prob": "1"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "ejercicio",
+            "lema": "ejercicio",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "desobediencia",
+            "lema": "desobediencia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "civil",
+            "lema": "civil",
+            "pos": "AQ0CS00",
+            "prob": "0.997788"
+        },
+        {
+            "word": "masiva",
+            "lema": "masivo",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "pac\u00edfica",
+            "lema": "pac\u00edfico",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "cual",
+            "lema": "cual",
+            "pos": "PR0CS00",
+            "prob": "0.930743"
+        },
+        {
+            "word": "nos",
+            "lema": "nos",
+            "pos": "PP1CP00",
+            "prob": "0.810258"
+        },
+        {
+            "word": "sentimos",
+            "lema": "sentir",
+            "pos": "VMIP1P0",
+            "prob": "0.65"
+        },
+        {
+            "word": "tremendamente",
+            "lema": "tremendamente",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "orgullosos",
+            "lema": "orgulloso",
+            "pos": "AQ0MP00",
+            "prob": "0.661294"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "sus",
+            "lema": "su",
+            "pos": "DP3CPN",
+            "prob": "0.999903"
+        },
+        {
+            "word": "condecoraciones",
+            "lema": "condecoraci\u00f3n",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "demuestran",
+            "lema": "demostrar",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "misma",
+            "lema": "mismo",
+            "pos": "AQ0FS00",
+            "prob": "0.81684"
+        },
+        {
+            "word": "manera",
+            "lema": "manera",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "nosotros",
+            "lema": "nosotros",
+            "pos": "PP1MP00",
+            "prob": "1"
+        },
+        {
+            "word": "estamos",
+            "lema": "estar",
+            "pos": "VMIP1P0",
+            "prob": "0.998282"
+        },
+        {
+            "word": "orgullosos",
+            "lema": "orgulloso",
+            "pos": "AQ0MP00",
+            "prob": "0.661294"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "nuestro",
+            "lema": "nuestro",
+            "pos": "DP1MSP",
+            "prob": "0.957064"
+        },
+        {
+            "word": "pacifismo",
+            "lema": "pacifismo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "ustedes",
+            "lema": "usted",
+            "pos": "PP2CP0P",
+            "prob": "1"
+        },
+        {
+            "word": "est\u00e1n",
+            "lema": "estar",
+            "pos": "VMIP3P0",
+            "prob": "0.99949"
+        },
+        {
+            "word": "orgullosos",
+            "lema": "orgulloso",
+            "pos": "AQ0MP00",
+            "prob": "0.661294"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "violencia",
+            "lema": "violencia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "eso",
+            "lema": "ese",
+            "pos": "PD00S00",
+            "prob": "1"
+        },
+        {
+            "word": "le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "pregunto",
+            "lema": "preguntar",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "cu\u00e1l",
+            "lema": "cu\u00e1l",
+            "pos": "PT0CS00",
+            "prob": "0.989796"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "justificaci\u00f3n",
+            "lema": "justificaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "condecorar",
+            "lema": "condecorar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "agentes",
+            "lema": "agente",
+            "pos": "NCCP000",
+            "prob": "0.998155"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "nos",
+            "lema": "nos",
+            "pos": "PP1CP00",
+            "prob": "0.810258"
+        },
+        {
+            "word": "golpearon",
+            "lema": "golpear",
+            "pos": "VMIS3P0",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "1_de_octubre",
+            "lema": "[??:1/10/??:??.??:??]",
+            "pos": "W",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

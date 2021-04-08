@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-04-15T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JOSÉ IGNACIO ECHÁNIZ SALGADO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA MINISTRA DE TRABAJO Y ECONOMÍA SOCIAL: ¿CREE EL GOBIERNO QUE EL RETRASO EN LA TOMA DE DECISIONES Y EN LA PREVENCIÓN DE LA COVID–19 HA AFECTADO AL EMPLEO EN ESPAÑA? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JOSE\u0301 IGNACIO ECH\u00c1NIZ SALGADO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SE\u00d1ORA MINISTRA DE TRABAJO Y ECONOM\u00cdA SOCIAL: \u00bfCREE EL GOBIERNO QUE EL RETRASO EN LA TOMA DE DECISIONES Y EN LA PREVENCI\u00d3N DE LA COVID\u201319 HA AFECTADO AL EMPLEO EN ESPA\u00d1A? ",
         "diputado": [
             {
-                "apellidos": "Espinosa de los Monteros de Simón",
-                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "apellidos": "Espinosa de los Monteros de Sim\u00f3n",
+                "apellidosNombre": "Espinosa de los Monteros de Sim\u00f3n, Iv\u00e1n",
                 "codParlamentario": 83,
                 "fchAlta": "20/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario VOX",
                 "idCircunscripcion": 28,
                 "idLegislatura": 14,
-                "nombre": "Iván",
+                "nombre": "Iv\u00e1n",
                 "nombreCircunscripcion": "Madrid",
                 "twitter": "https://twitter.com/ivanedlm",
                 "twitterUserId": "48976307",
@@ -24,9 +24,173 @@
         ],
         "order": 3,
         "path": "../data/diaries-txts/DSCD-14-PL-018.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "MINISTRA DE TRABAJO Y ECONOMÍA SOCIAL (Díaz Pérez)"
+        "speacker": "MINISTRA DE TRABAJO Y ECONOM\u00cdA SOCIAL (D\u00edaz P\u00e9rez)"
     },
-    "text": "Señor Echániz, Gracias por su pregunta. Creemos que el Gobierno, en materia laboral, ha actuado con la prontitud debida. (Aplausos)."
+    "text": "Se\u00f1or Ech\u00e1niz, Gracias por su pregunta. Creemos que el Gobierno, en materia laboral, ha actuado con la prontitud debida. (Aplausos).",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Ech\u00e1niz",
+            "lema": "se\u00f1or_ech\u00e1niz",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "pregunta",
+            "lema": "pregunta",
+            "pos": "NCFS000",
+            "prob": "0.694581"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Creemos",
+            "lema": "creer",
+            "pos": "VMIP1P0",
+            "prob": "0.972603"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "materia",
+            "lema": "materia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "laboral",
+            "lema": "laboral",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "actuado",
+            "lema": "actuar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "prontitud",
+            "lema": "prontitud",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "debida",
+            "lema": "deber",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplausos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

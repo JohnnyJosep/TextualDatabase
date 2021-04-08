@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-04T00:00:00.000Z",
-        "debate": "JURAMENTO O PROMESA DE ACATAMIENTO DE LA CONSTITUCIÓN POR NUEVOS SEÑORES DIPUTADOS.",
+        "debate": "JURAMENTO O PROMESA DE ACATAMIENTO DE LA CONSTITUCI\u00d3N POR NUEVOS SE\u00d1ORES DIPUTADOS.",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,119 @@
         ],
         "order": 10,
         "path": "../data/diaries-txts/DSCD-14-PL-006.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "En sustitución de doña María Victoria Rosell Aguilar, pregunto a doña María del Carmen Pita Cárdenes si jura o promete acatar la Constitución."
+    "text": "En sustituci\u00f3n de do\u00f1a Mar\u00eda Victoria Rosell Aguilar, pregunto a do\u00f1a Mar\u00eda del Carmen Pita C\u00e1rdenes si jura o promete acatar la Constituci\u00f3n.",
+    "freeling": [
+        {
+            "word": "En",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "sustituci\u00f3n",
+            "lema": "sustituci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "do\u00f1a",
+            "lema": "don",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "Mar\u00eda_Victoria_Rosell_Aguilar",
+            "lema": "mar\u00eda_victoria_rosell_aguilar",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "pregunto",
+            "lema": "preguntar",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "do\u00f1a",
+            "lema": "don",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "Mar\u00eda_de_el_Carmen_Pita_C\u00e1rdenes",
+            "lema": "mar\u00eda_de_el_carmen_pita_c\u00e1rdenes",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": "si",
+            "lema": "si",
+            "pos": "CS",
+            "prob": "0.999827"
+        },
+        {
+            "word": "jura",
+            "lema": "jura",
+            "pos": "NCFS000",
+            "prob": "0.838036"
+        },
+        {
+            "word": "o",
+            "lema": "o",
+            "pos": "CC",
+            "prob": "0.999864"
+        },
+        {
+            "word": "promete",
+            "lema": "prometer",
+            "pos": "VMIP3S0",
+            "prob": "0.983871"
+        },
+        {
+            "word": "acatar",
+            "lema": "acatar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "Constituci\u00f3n",
+            "lema": "constituci\u00f3n",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

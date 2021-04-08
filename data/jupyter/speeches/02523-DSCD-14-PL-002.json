@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-27T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (CONTINUACIÓN). (VOTACIÓN): -- DEL GRUPO P ARLAMENT ARIO CIUDADANOS, SOBRE LAS MEDIDAS QUE EL GOBIERNO V A A ADOPTAR PARA LA DESPOLITIZACIÓN DE LOS ÓRGANOS CONSTITUCIONALES. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (CONTINUACI\u00d3N). (VOTACI\u00d3N): -- DEL GRUPO P ARLAMENT ARIO CIUDADANOS, SOBRE LAS MEDIDAS QUE EL GOBIERNO V A A ADOPTAR PARA LA DESPOLITIZACI\u00d3N DE LOS \u00d3RGANOS CONSTITUCIONALES. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,41 @@
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-014.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Queda rechazada. --"
+    "text": "Queda rechazada. --",
+    "freeling": [
+        {
+            "word": "Queda",
+            "lema": "quedar",
+            "pos": "VMIP3S0",
+            "prob": "0.945755"
+        },
+        {
+            "word": "rechazada",
+            "lema": "rechazar",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

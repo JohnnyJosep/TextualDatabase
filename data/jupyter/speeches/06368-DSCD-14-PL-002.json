@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-07-22T00:00:00.000Z",
-        "debate": "SEGUNDO DE SU LABOR DE GOBIERNO? -- DE LA DIPUT ADA DOÑA MACARENA OLONA CHOCLÁN, DEL GRUPO P ARLAMENT ARIO VOX, QUE FORMULA A LA SEÑORA VICEPRESIDENTA PRIMERA Y MINISTRA DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCRÁTICA: ¿CONSIDERA QUE INCUMBE AL GOBIERNO EL LLAMADO «CASO DINA»? ",
+        "debate": "SEGUNDO DE SU LABOR DE GOBIERNO? -- DE LA DIPUT ADA DO\u00d1A MACARENA OLONA CHOCL\u00c1N, DEL GRUPO P ARLAMENT ARIO VOX, QUE FORMULA A LA SE\u00d1ORA VICEPRESIDENTA PRIMERA Y MINISTRA DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCR\u00c1TICA: \u00bfCONSIDERA QUE INCUMBE AL GOBIERNO EL LLAMADO \u00abCASO DINA\u00bb? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,41 @@
         ],
         "order": 10,
         "path": "../data/diaries-txts/DSCD-14-PL-037.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor ministro de Justicia."
+    "text": "Se\u00f1or ministro de Justicia.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "ministro",
+            "lema": "ministro",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Justicia",
+            "lema": "justicia",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

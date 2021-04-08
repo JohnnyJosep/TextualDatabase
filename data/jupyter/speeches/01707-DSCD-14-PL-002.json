@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-19T00:00:00.000Z",
-        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO P ARLAMENT ARIO MIXT O (SEÑORA ORAMAS GONZÁLEZ-MORO), SOBRE LAS MEDIDAS QUE VA A ADOPTAR EL GOBIERNO ANTE LA DELIMITACIÓN EFECTUADA POR PARTE DE MARRUECOS DE SU FRONTERA MARÍTIMA AFECTANDO A CANARIAS Y AL SÁHARA OCCIDENTAL. ",
+        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO P ARLAMENT ARIO MIXT O (SE\u00d1ORA ORAMAS GONZ\u00c1LEZ-MORO), SOBRE LAS MEDIDAS QUE VA A ADOPTAR EL GOBIERNO ANTE LA DELIMITACI\u00d3N EFECTUADA POR PARTE DE MARRUECOS DE SU FRONTERA MAR\u00cdTIMA AFECTANDO A CANARIAS Y AL S\u00c1HARA OCCIDENTAL. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,107 @@
         ],
         "order": 2,
         "path": "../data/diaries-txts/DSCD-14-PL-010.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Perdón, señora Oramas, ¿quiere un caramelo? (Risas y aplausos)."
+    "text": "Perd\u00f3n, se\u00f1ora Oramas, \u00bfquiere un caramelo? (Risas y aplausos).",
+    "freeling": [
+        {
+            "word": "Perd\u00f3n",
+            "lema": "perd\u00f3n",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "Oramas",
+            "lema": "oramas",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "quiere",
+            "lema": "querer",
+            "pos": "VMIP3S0",
+            "prob": "0.999058"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "caramelo",
+            "lema": "caramelo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Risas",
+            "lema": "risas",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "aplausos",
+            "lema": "aplauso",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

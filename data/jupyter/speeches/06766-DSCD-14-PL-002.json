@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-08-25T00:00:00.000Z",
-        "debate": "PETICIÓN FORMULADA POR UN NÚMERO SUFICIENTE DE DIPUTADOS MIEMBROS DE LA DIPUTACIÓN PERMANENTE, PERTENECIENTES AL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, DE QUE SE ACUERDE LA CONVOCATORIA DE UNA SESIÓN EXTRAORDINARIA DEL -- COMPARECENCIA DEL PRESIDENTE DEL GOBIERNO, PARA INFORMAR SOBRE LAS CAUSAS QUE HAN LLEVADO AL GOBIERNO A SOLICITAR EL ACCESO AL PROGRAMA SURE DE LA COMISIÓN EUROPEA Y, EN SU CASO, CONFIRMAR EN SEDE PARLAMENTARIA LA INTENCIÓN O NO DE ACUDIR A LA LÍNEA DEL MEDE. ",
+        "debate": "PETICI\u00d3N FORMULADA POR UN N\u00daMERO SUFICIENTE DE DIPUTADOS MIEMBROS DE LA DIPUTACI\u00d3N PERMANENTE, PERTENECIENTES AL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, DE QUE SE ACUERDE LA CONVOCATORIA DE UNA SESI\u00d3N EXTRAORDINARIA DEL -- COMPARECENCIA DEL PRESIDENTE DEL GOBIERNO, PARA INFORMAR SOBRE LAS CAUSAS QUE HAN LLEVADO AL GOBIERNO A SOLICITAR EL ACCESO AL PROGRAMA SURE DE LA COMISI\u00d3N EUROPEA Y, EN SU CASO, CONFIRMAR EN SEDE PARLAMENTARIA LA INTENCI\u00d3N O NO DE ACUDIR A LA L\u00cdNEA DEL MEDE. ",
         "diputado": [
             {
-                "apellidos": "Díaz Gómez",
-                "apellidosNombre": "Díaz Gómez, Guillermo",
+                "apellidos": "D\u00edaz G\u00f3mez",
+                "apellidosNombre": "D\u00edaz G\u00f3mez, Guillermo",
                 "codParlamentario": 122,
                 "fchAlta": "21/11/2019",
                 "fchBaja": "",
@@ -15,7 +15,7 @@
                 "idCircunscripcion": 29,
                 "idLegislatura": 14,
                 "nombre": "Guillermo",
-                "nombreCircunscripcion": "Málaga",
+                "nombreCircunscripcion": "M\u00e1laga",
                 "twitter": "https://twitter.com/guillermodiazcs",
                 "twitterUserId": "208216783",
                 "twitterUserName": "guillermodiazcs"
@@ -24,9 +24,89 @@
         ],
         "order": 5,
         "path": "../data/diaries-txts/DSCD-14-PL-040.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "DÍAZ GÓMEZ"
+        "speacker": "D\u00cdAZ G\u00d3MEZ"
     },
-    "text": "¿Habla o no el PNV? Es que creo que sí."
+    "text": "\u00bfHabla o no el PNV? Es que creo que s\u00ed.",
+    "freeling": [
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "Habla",
+            "lema": "hablar",
+            "pos": "VMIP3S0",
+            "prob": "0.919414"
+        },
+        {
+            "word": "o",
+            "lema": "o",
+            "pos": "CC",
+            "prob": "0.999864"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "PNV",
+            "lema": "pnv",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        },
+        {
+            "word": "Es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "creo",
+            "lema": "creer",
+            "pos": "VMIP1S0",
+            "prob": "0.5"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "s\u00ed",
+            "lema": "s\u00ed",
+            "pos": "RG",
+            "prob": "0.654652"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

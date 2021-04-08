@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-06-16T00:00:00.000Z",
-        "debate": "PROPOSICIONES NO DE LEY: -- DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), SOBRE LA PERSPECTIVA DE GÉNERO EN LA POLÍTICA PENITENCIARIA. ",
+        "debate": "PROPOSICIONES NO DE LEY: -- DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), SOBRE LA PERSPECTIVA DE G\u00c9NERO EN LA POL\u00cdTICA PENITENCIARIA. ",
         "diputado": [
             {
-                "apellidos": "Vallugera Balañà",
-                "apellidosNombre": "Vallugera Balañà, Pilar",
+                "apellidos": "Vallugera Bala\u00f1\u00e0",
+                "apellidosNombre": "Vallugera Bala\u00f1\u00e0, Pilar",
                 "codParlamentario": 88,
                 "fchAlta": "21/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,47 @@
         ],
         "order": 39,
         "path": "../data/diaries-txts/DSCD-14-PL-029.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "VALLUGERA BALAÑÀ"
+        "speacker": "VALLUGERA BALA\u00d1\u00c0"
     },
-    "text": "No. (Rumores)."
+    "text": "No. (Rumores).",
+    "freeling": [
+        {
+            "word": "No",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Rumores",
+            "lema": "rumores",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

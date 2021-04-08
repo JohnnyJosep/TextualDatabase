@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-04-09T00:00:00.000Z",
-        "debate": "ACTOS EN RELACIÓN CON EL ESTADO DE ALARMA, EXCEPCIÓN Y SITIO: -- SOLICITUD DE AUT ORIZACIÓN DE LA PRÓRROGA DEL EST ADO DE ALARMA DECLARADO MEDIANTE REAL DECRET O 463/2020, DE 14 DE MARZO, POR EL QUE SE DECLARA EL EST ADO DE ALARMA PARA LA GESTIÓN DE LA SITUACIÓN DE CRISIS SANITARIA OCASIONADA POR EL COVID-19, PRORROGADO POR EL REAL DECRET O 476/2020, DE 27 DE MARZO. ",
+        "debate": "ACTOS EN RELACI\u00d3N CON EL ESTADO DE ALARMA, EXCEPCI\u00d3N Y SITIO: -- SOLICITUD DE AUT ORIZACI\u00d3N DE LA PR\u00d3RROGA DEL EST ADO DE ALARMA DECLARADO MEDIANTE REAL DECRET O 463/2020, DE 14 DE MARZO, POR EL QUE SE DECLARA EL EST ADO DE ALARMA PARA LA GESTI\u00d3N DE LA SITUACI\u00d3N DE CRISIS SANITARIA OCASIONADA POR EL COVID-19, PRORROGADO POR EL REAL DECRET O 476/2020, DE 27 DE MARZO. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,59 @@
         ],
         "order": 105,
         "path": "../data/diaries-txts/DSCD-14-PL-017.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Simancas, tiene que terminar, por favor."
+    "text": "Se\u00f1or Simancas, tiene que terminar, por favor.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Simancas",
+            "lema": "se\u00f1or_simancas",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "tiene",
+            "lema": "tener",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "terminar",
+            "lema": "terminar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por_favor",
+            "lema": "por_favor",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

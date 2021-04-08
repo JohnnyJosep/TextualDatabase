@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-08-25T00:00:00.000Z",
-        "debate": "EL SIGUIENTE ORDEN DEL DÍA: -- COMP ARECENCIA DE LA MINISTRA DE INDUSTRIA, COMERCIO Y TURISMO, P ARA INFORMAR SOBRE LAS ACCIONES QUE EL GOBIERNO TIENE PREVISTO EMPRENDER PARA PROTEGER AL SECTOR TURÍSTICO Y, SINGULARMENTE, SUS PRINCIPALES DESTINOS, ASÍ COMO PALIAR LAS CATASTRÓFICAS CONSECUENCIAS DERIVADAS DE LAS RESTRICCIONES Y RECOMENDACIONES DE NO VIAJAR A ESPAÑA APROBADAS POR TERCEROS PAÍSES, Y LAS DECISIONES DE GRANDES OPERADORES DE NO PROGRAMAR VIAJES A NUESTRO PAÍS.",
+        "debate": "EL SIGUIENTE ORDEN DEL D\u00cdA: -- COMP ARECENCIA DE LA MINISTRA DE INDUSTRIA, COMERCIO Y TURISMO, P ARA INFORMAR SOBRE LAS ACCIONES QUE EL GOBIERNO TIENE PREVISTO EMPRENDER PARA PROTEGER AL SECTOR TUR\u00cdSTICO Y, SINGULARMENTE, SUS PRINCIPALES DESTINOS, AS\u00cd COMO PALIAR LAS CATASTR\u00d3FICAS CONSECUENCIAS DERIVADAS DE LAS RESTRICCIONES Y RECOMENDACIONES DE NO VIAJAR A ESPA\u00d1A APROBADAS POR TERCEROS PA\u00cdSES, Y LAS DECISIONES DE GRANDES OPERADORES DE NO PROGRAMAR VIAJES A NUESTRO PA\u00cdS.",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,113 @@
         ],
         "order": 6,
         "path": "../data/diaries-txts/DSCD-14-PL-040.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Muchas gracias, señora Oramas. Por el Grupo Parlamentario Euskal Herria Bildu, tiene la palabra la señora Aizpurua Arzallus."
+    "text": "Muchas gracias, se\u00f1ora Oramas. Por el Grupo Parlamentario Euskal Herria Bildu, tiene la palabra la se\u00f1ora Aizpurua Arzallus.",
+    "freeling": [
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "Oramas",
+            "lema": "oramas",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Grupo_Parlamentario_Euskal_Herria_Bildu",
+            "lema": "grupo_parlamentario_euskal_herria_bildu",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "tiene",
+            "lema": "tener",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "palabra",
+            "lema": "palabra",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "Aizpurua_Arzallus",
+            "lema": "aizpurua_arzallus",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

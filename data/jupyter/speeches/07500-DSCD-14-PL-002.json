@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-10T00:00:00.000Z",
-        "debate": "DEBATES DE TOTALIDAD DE INICIATIVAS LEGISLATIVAS: -- PROPOSICIÓN DE LEY ORGÁNICA DE REGULACIÓN DE LA EUT ANASIA. ",
+        "debate": "DEBATES DE TOTALIDAD DE INICIATIVAS LEGISLATIVAS: -- PROPOSICI\u00d3N DE LEY ORG\u00c1NICA DE REGULACI\u00d3N DE LA EUT ANASIA. ",
         "diputado": [
             {
-                "apellidos": "Echániz Salgado",
-                "apellidosNombre": "Echániz Salgado, José Ignacio",
+                "apellidos": "Ech\u00e1niz Salgado",
+                "apellidosNombre": "Ech\u00e1niz Salgado, Jos\u00e9 Ignacio",
                 "codParlamentario": 89,
                 "fchAlta": "21/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario Popular en el Congreso",
                 "idCircunscripcion": 19,
                 "idLegislatura": 14,
-                "nombre": "José Ignacio",
+                "nombre": "Jos\u00e9 Ignacio",
                 "nombreCircunscripcion": "Guadalajara",
                 "twitter": "https://twitter.com/JIEchaniz",
                 "twitterUserId": "1110628846242594820",
@@ -24,9 +24,89 @@
         ],
         "order": 27,
         "path": "../data/diaries-txts/DSCD-14-PL-043.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "ECHÁNIZ SALGADO"
+        "speacker": "ECH\u00c1NIZ SALGADO"
     },
-    "text": "Muchas gracias, señora presidenta. Por alusiones quería utilizar un turno."
+    "text": "Muchas gracias, se\u00f1ora presidenta. Por alusiones quer\u00eda utilizar un turno.",
+    "freeling": [
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "alusiones",
+            "lema": "alusi\u00f3n",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "quer\u00eda",
+            "lema": "querer",
+            "pos": "VMII3S0",
+            "prob": "0.630645"
+        },
+        {
+            "word": "utilizar",
+            "lema": "utilizar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "turno",
+            "lema": "turno",
+            "pos": "NCMS000",
+            "prob": "0.987805"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-10T00:00:00.000Z",
-        "debate": "DEBATES DE TOTALIDAD DE INICIATIVAS LEGISLATIVAS: -- PROPOSICIÓN DE LEY ORGÁNICA DE REGULACIÓN DE LA EUT ANASIA. ",
+        "debate": "DEBATES DE TOTALIDAD DE INICIATIVAS LEGISLATIVAS: -- PROPOSICI\u00d3N DE LEY ORG\u00c1NICA DE REGULACI\u00d3N DE LA EUT ANASIA. ",
         "diputado": [
             {
-                "apellidos": "Echániz Salgado",
-                "apellidosNombre": "Echániz Salgado, José Ignacio",
+                "apellidos": "Ech\u00e1niz Salgado",
+                "apellidosNombre": "Ech\u00e1niz Salgado, Jos\u00e9 Ignacio",
                 "codParlamentario": 89,
                 "fchAlta": "21/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario Popular en el Congreso",
                 "idCircunscripcion": 19,
                 "idLegislatura": 14,
-                "nombre": "José Ignacio",
+                "nombre": "Jos\u00e9 Ignacio",
                 "nombreCircunscripcion": "Guadalajara",
                 "twitter": "https://twitter.com/JIEchaniz",
                 "twitterUserId": "1110628846242594820",
@@ -24,9 +24,65 @@
         ],
         "order": 29,
         "path": "../data/diaries-txts/DSCD-14-PL-043.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "ECHÁNIZ SALGADO"
+        "speacker": "ECH\u00c1NIZ SALGADO"
     },
-    "text": "Sí, lo podrá comprobar en el Diario de Sesiones."
+    "text": "S\u00ed, lo podr\u00e1 comprobar en el Diario de Sesiones.",
+    "freeling": [
+        {
+            "word": "S\u00ed",
+            "lema": "s\u00ed",
+            "pos": "RG",
+            "prob": "0.654652"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "lo",
+            "lema": "lo",
+            "pos": "PP3MSA0",
+            "prob": "0.334764"
+        },
+        {
+            "word": "podr\u00e1",
+            "lema": "poder",
+            "pos": "VMIF3S0",
+            "prob": "1"
+        },
+        {
+            "word": "comprobar",
+            "lema": "comprobar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Diario_de_Sesiones",
+            "lema": "diario_de_sesiones",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

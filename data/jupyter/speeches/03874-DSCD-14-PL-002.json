@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-03-27T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON ELOY SUÁREZ LAMA T A, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿QUÉ PRETENDE OCULTAR EL MINISTERIO DEL INTERIOR CON EL IMPROVISADO ACUERDO DEL CONSEJO DE MINISTROS PARA HABILITAR EL PAGO DEL TERCER TRAMO DE LA EQUIPARACIÓN SALARIAL DE POLICÍA NACIONAL Y GUARDIA CIVIL? ",
+        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON ELOY SU\u00c1REZ LAMA T A, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR MINISTRO DEL INTERIOR: \u00bfQU\u00c9 PRETENDE OCULTAR EL MINISTERIO DEL INTERIOR CON EL IMPROVISADO ACUERDO DEL CONSEJO DE MINISTROS PARA HABILITAR EL PAGO DEL TERCER TRAMO DE LA EQUIPARACI\u00d3N SALARIAL DE POLIC\u00cdA NACIONAL Y GUARDIA CIVIL? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,29 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-024.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Suárez Lamata."
+    "text": "Se\u00f1or Su\u00e1rez Lamata.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "Su\u00e1rez_Lamata",
+            "lema": "su\u00e1rez_lamata",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

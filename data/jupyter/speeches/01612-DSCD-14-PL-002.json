@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-19T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON IGNACIO GARRIGA V AZ DE CONCICAO, EN SUSTITUCIÓN DE DON SANTIAGO ABASCAL CONDE, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿QUIÉN DIRIGE REALMENTE LA POLÍTICA DEL GOBIERNO? ",
+        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON IGNACIO GARRIGA V AZ DE CONCICAO, EN SUSTITUCI\u00d3N DE DON SANTIAGO ABASCAL CONDE, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SE\u00d1OR PRESIDENTE DEL GOBIERNO: \u00bfQUI\u00c9N DIRIGE REALMENTE LA POL\u00cdTICA DEL GOBIERNO? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,23 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-010.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Garriga."
+    "text": "Se\u00f1or Garriga.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Garriga",
+            "lema": "se\u00f1or_garriga",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

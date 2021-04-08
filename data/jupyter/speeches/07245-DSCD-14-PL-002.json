@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-09T00:00:00.000Z",
-        "debate": "PREGUNTAS: ─ DEL DIPUT ADO DON P ABLO CASADO BLANCO, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿HA DERROTADO EL GOBIERNO EL VIRUS? -- DE LA DIPUTADA DOÑA LAURA BORRÀS CASTANYER, DEL GRUPO PARLAMENTARIO PLURAL, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿CUÁNTO DINERO PÚBLICO SE DESTINA A LA ESTANCIA Y SEGURIDAD DE SU MAJESTAD EL REY DON JUAN CARLOS EN EMIRATOS ÁRABES UNIDOS? ",
+        "debate": "PREGUNTAS: \u2500 DEL DIPUT ADO DON P ABLO CASADO BLANCO, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR PRESIDENTE DEL GOBIERNO: \u00bfHA DERROTADO EL GOBIERNO EL VIRUS? -- DE LA DIPUTADA DO\u00d1A LAURA BORR\u00c0S CASTANYER, DEL GRUPO PARLAMENTARIO PLURAL, QUE FORMULA AL SE\u00d1OR MINISTRO DEL INTERIOR: \u00bfCU\u00c1NTO DINERO P\u00daBLICO SE DESTINA A LA ESTANCIA Y SEGURIDAD DE SU MAJESTAD EL REY DON JUAN CARLOS EN EMIRATOS \u00c1RABES UNIDOS? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,23 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-042.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señora Borràs Castanyer."
+    "text": "Se\u00f1ora Borr\u00e0s Castanyer.",
+    "freeling": [
+        {
+            "word": "Se\u00f1ora_Borr\u00e0s_Castanyer",
+            "lema": "se\u00f1ora_borr\u00e0s_castanyer",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

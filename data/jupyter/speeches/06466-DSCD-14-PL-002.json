@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-07-28T00:00:00.000Z",
-        "debate": "DEL DÍA: -- COMP ARECENCIA URGENTE DE LA MINISTRA DE HACIENDA, P ARA DAR CUENT A DE LA DENUNCIA EFECTUADA POR EL SINDICATO CC.OO. DE RTVE, SEGÚN LA CUAL EL DIRECTOR DE INFORMACIÓN Y ACTUALIDAD DE RTVE DON ENRIC HERNÁNDEZ ELABORÓ LA RESPUESTA DE LA MINISTRA PORTAVOZ A UNA PREGUNTA ORAL EN PLENO SOBRE RTVE DEL GRUPO PARLAMENTARIO POPULAR EL 22/04/2020. ",
+        "debate": "DEL D\u00cdA: -- COMP ARECENCIA URGENTE DE LA MINISTRA DE HACIENDA, P ARA DAR CUENT A DE LA DENUNCIA EFECTUADA POR EL SINDICATO CC.OO. DE RTVE, SEG\u00daN LA CUAL EL DIRECTOR DE INFORMACI\u00d3N Y ACTUALIDAD DE RTVE DON ENRIC HERN\u00c1NDEZ ELABOR\u00d3 LA RESPUESTA DE LA MINISTRA PORTAVOZ A UNA PREGUNTA ORAL EN PLENO SOBRE RTVE DEL GRUPO PARLAMENTARIO POPULAR EL 22/04/2020. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,113 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-038.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Perdone un segundo, señora Montesinos. Ruego un poco de silencio, por favor. Gracias."
+    "text": "Perdone un segundo, se\u00f1ora Montesinos. Ruego un poco de silencio, por favor. Gracias.",
+    "freeling": [
+        {
+            "word": "Perdone",
+            "lema": "perdonar",
+            "pos": "VMM03S0",
+            "prob": "0.0302731"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "segundo",
+            "lema": "segundo",
+            "pos": "NCMS000",
+            "prob": "0.09797"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "Montesinos",
+            "lema": "montesinos",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Ruego",
+            "lema": "ruego",
+            "pos": "NCMS000",
+            "prob": "0.985804"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "poco",
+            "lema": "poco",
+            "pos": "PI0MS00",
+            "prob": "0.237939"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "silencio",
+            "lema": "silencio",
+            "pos": "NCMS000",
+            "prob": "0.997076"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por_favor",
+            "lema": "por_favor",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

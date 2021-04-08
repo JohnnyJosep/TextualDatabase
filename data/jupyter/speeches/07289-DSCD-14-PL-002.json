@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-09T00:00:00.000Z",
-        "debate": "─ DE LA DIPUT ADA DOÑA MERTXE AIZPURUA ARZALLUS, DEL GRUPO P ARLAMENT ARIO EUSKAL HERRIA BILDU, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿QUÉ HARÁ EL GOBIERNO PARA QUE MUERTES EVITABLES COMO LA DE IGOR GONZÁLEZ NO VUELVAN A OCURRIR? -- DEL DIPUTADO DON VICENTE BETORET COLL, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA MINISTRA DE HACIENDA: ¿QUÉ PLANES TIENE EL GOBIERNO DE ESPAÑA EN RELACIÓN CON LA AUTONOMÍA DE LAS ENTIDADES LOCALES? ",
+        "debate": "\u2500 DE LA DIPUT ADA DO\u00d1A MERTXE AIZPURUA ARZALLUS, DEL GRUPO P ARLAMENT ARIO EUSKAL HERRIA BILDU, QUE FORMULA AL SE\u00d1OR MINISTRO DEL INTERIOR: \u00bfQU\u00c9 HAR\u00c1 EL GOBIERNO PARA QUE MUERTES EVITABLES COMO LA DE IGOR GONZ\u00c1LEZ NO VUELVAN A OCURRIR? -- DEL DIPUTADO DON VICENTE BETORET COLL, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SE\u00d1ORA MINISTRA DE HACIENDA: \u00bfQU\u00c9 PLANES TIENE EL GOBIERNO DE ESPA\u00d1A EN RELACI\u00d3N CON LA AUTONOM\u00cdA DE LAS ENTIDADES LOCALES? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,23 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-042.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Betoret Coll."
+    "text": "Se\u00f1or Betoret Coll.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Betoret_Coll",
+            "lema": "se\u00f1or_betoret_coll",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

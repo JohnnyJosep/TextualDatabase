@@ -1,7 +1,7 @@
 {
     "metadata": {
         "celebrated": "2020-02-18T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (VOTACIÓN): -- DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, SOBRE LOS MOTIVOS DEL MINISTRO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA QUE LE LLEVARON A MANTENER UNA REUNIÓN CON DELCY RODRÍ GUEZ, LOS COMPROMISOS QUE FUERON ADQUIRIDOS EN NOMBRE DEL GOBIERNO DE ESPAÑA CON EL RÉGIMEN DE NICOLÁS MADURO Y LA INCIDENCIA DE DICHOS COMPROMISOS EN LAS RELACIONES DE ESPAÑA CON VENEZUELA, CON LA UNIÓN EUROPEA Y CON NUESTROS ALIADOS. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (VOTACI\u00d3N): -- DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, SOBRE LOS MOTIVOS DEL MINISTRO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA QUE LE LLEVARON A MANTENER UNA REUNI\u00d3N CON DELCY RODR\u00cd GUEZ, LOS COMPROMISOS QUE FUERON ADQUIRIDOS EN NOMBRE DEL GOBIERNO DE ESPA\u00d1A CON EL R\u00c9GIMEN DE NICOL\u00c1S MADURO Y LA INCIDENCIA DE DICHOS COMPROMISOS EN LAS RELACIONES DE ESPA\u00d1A CON VENEZUELA, CON LA UNI\u00d3N EUROPEA Y CON NUESTROS ALIADOS. ",
         "diputado": [
             {
                 "apellidos": "Rosique i Saltor",
@@ -24,9 +24,53 @@
         ],
         "order": 25,
         "path": "../data/diaries-txts/DSCD-14-PL-009.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "ROSIQUE I SALTOR"
     },
-    "text": "Lo retiro del Diario de Sesiones…"
+    "text": "Lo retiro del Diario de Sesiones\u2026",
+    "freeling": [
+        {
+            "word": "Lo",
+            "lema": "el",
+            "pos": "DA00S0",
+            "prob": "0.665165"
+        },
+        {
+            "word": "retiro",
+            "lema": "retiro",
+            "pos": "NCMS000",
+            "prob": "0.989726"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Diario_de_Sesiones",
+            "lema": "diario_de_sesiones",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

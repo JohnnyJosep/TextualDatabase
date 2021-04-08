@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-06-04T00:00:00.000Z",
-        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY: -- DEL GRUPO P ARLAMENT ARIO VOX, RELA TIV A A LA EFECTIV A IGUALDAD Y EQUIP ARACIÓN SALARIAL DE LAS FUERZAS Y CUERPOS DE SEGURIDAD DEL ESTADO RESPECTO DE LAS POLICÍAS AUTONÓMICAS. ",
+        "debate": "TOMA EN CONSIDERACI\u00d3N DE PROPOSICIONES DE LEY: -- DEL GRUPO P ARLAMENT ARIO VOX, RELA TIV A A LA EFECTIV A IGUALDAD Y EQUIP ARACI\u00d3N SALARIAL DE LAS FUERZAS Y CUERPOS DE SEGURIDAD DEL ESTADO RESPECTO DE LAS POLIC\u00cdAS AUTON\u00d3MICAS. ",
         "diputado": [
             {
-                "apellidos": "Vallugera Balañà",
-                "apellidosNombre": "Vallugera Balañà, Pilar",
+                "apellidos": "Vallugera Bala\u00f1\u00e0",
+                "apellidosNombre": "Vallugera Bala\u00f1\u00e0, Pilar",
                 "codParlamentario": 88,
                 "fchAlta": "21/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,173 @@
         ],
         "order": 9,
         "path": "../data/diaries-txts/DSCD-14-PL-026.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "VALLUGERA BALAÑÀ"
+        "speacker": "VALLUGERA BALA\u00d1\u00c0"
     },
-    "text": "Señora presidenta, debe haber algún error. Decidimos no intervenir en este punto para no dar ningún tipo de oportunidad al fascismo. Gracias."
+    "text": "Se\u00f1ora presidenta, debe haber alg\u00fan error. Decidimos no intervenir en este punto para no dar ning\u00fan tipo de oportunidad al fascismo. Gracias.",
+    "freeling": [
+        {
+            "word": "Se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "debe",
+            "lema": "deber",
+            "pos": "VMIP3S0",
+            "prob": "0.998712"
+        },
+        {
+            "word": "haber",
+            "lema": "haber",
+            "pos": "VMN0000",
+            "prob": "0.000567215"
+        },
+        {
+            "word": "alg\u00fan",
+            "lema": "alguno",
+            "pos": "DI0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "error",
+            "lema": "error",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Decidimos",
+            "lema": "decidir",
+            "pos": "VMIP1P0",
+            "prob": "0.65"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "intervenir",
+            "lema": "intervenir",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "este",
+            "lema": "este",
+            "pos": "DD0MS0",
+            "prob": "0.949201"
+        },
+        {
+            "word": "punto",
+            "lema": "punto",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "dar",
+            "lema": "dar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "ning\u00fan",
+            "lema": "ninguno",
+            "pos": "DI0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "tipo",
+            "lema": "tipo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "oportunidad",
+            "lema": "oportunidad",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "fascismo",
+            "lema": "fascismo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

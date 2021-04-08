@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-06-17T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (VOTACIÓN): -- DEL GRUPO P ARLAMENT ARIO MIXT O, SEÑOR MARTÍNEZ OBLANCA, SOBRE LA POLÍTICA FERROVIARIA DEL MINISTERIO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA TRAS FINALIZAR LA EMERGENCIA SANIT ARIA DEL COVID-19. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (VOTACI\u00d3N): -- DEL GRUPO P ARLAMENT ARIO MIXT O, SE\u00d1OR MART\u00cdNEZ OBLANCA, SOBRE LA POL\u00cdTICA FERROVIARIA DEL MINISTERIO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA TRAS FINALIZAR LA EMERGENCIA SANIT ARIA DEL COVID-19. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,65 @@
         ],
         "order": 8,
         "path": "../data/diaries-txts/DSCD-14-PL-030.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Queda aprobado el punto número 8. --"
+    "text": "Queda aprobado el punto n\u00famero 8. --",
+    "freeling": [
+        {
+            "word": "Queda",
+            "lema": "quedar",
+            "pos": "VMIP3S0",
+            "prob": "0.945755"
+        },
+        {
+            "word": "aprobado",
+            "lema": "aprobar",
+            "pos": "VMP00SM",
+            "prob": "0.958015"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "punto",
+            "lema": "punto",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "n\u00famero",
+            "lema": "n\u00famero",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "8",
+            "lema": "8",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

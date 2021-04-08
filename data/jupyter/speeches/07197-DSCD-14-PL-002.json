@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-09T00:00:00.000Z",
-        "debate": "PREGUNTAS: ─ DEL DIPUT ADO DON P ABLO CASADO BLANCO, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿HA DERROTADO EL GOBIERNO EL VIRUS? -- DEL DIPUTADO DON GABRIEL RUFIÁN ROMERO, DEL GRUPO PARLAMENTARIO REPUBLICANO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿CÓMO PIENSA EL GOBIERNO RESOLVER LOS INCUMPLIMIENTOS EN LAS AYUDAS ANUNCIADAS DURANTE LA PANDEMIA? ",
+        "debate": "PREGUNTAS: \u2500 DEL DIPUT ADO DON P ABLO CASADO BLANCO, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR PRESIDENTE DEL GOBIERNO: \u00bfHA DERROTADO EL GOBIERNO EL VIRUS? -- DEL DIPUTADO DON GABRIEL RUFI\u00c1N ROMERO, DEL GRUPO PARLAMENTARIO REPUBLICANO, QUE FORMULA AL SE\u00d1OR PRESIDENTE DEL GOBIERNO: \u00bfC\u00d3MO PIENSA EL GOBIERNO RESOLVER LOS INCUMPLIMIENTOS EN LAS AYUDAS ANUNCIADAS DURANTE LA PANDEMIA? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,23 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-042.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Rufián Romero."
+    "text": "Se\u00f1or Rufi\u00e1n Romero.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Rufi\u00e1n_Romero",
+            "lema": "se\u00f1or_rufi\u00e1n_romero",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

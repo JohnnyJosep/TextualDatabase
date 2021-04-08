@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-19T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON ISMAEL CORTÉS GÓMEZ, DEL GRUPO P ARLAMENT ARIO CONFEDERAL DE UNIDAS PODEMOS-EN COMÚ PODEM-GALICIA EN COMÚN, QUE FORMULA AL SEÑOR VICEPRESIDENTE SEGUNDO DEL GOBIERNO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030: ¿QUÉ BALANCE HACE DEL TRABAJO DEL GOBIERNO EN ESTE PRIMER MES EN MATERIA SOCIAL? ",
+        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON ISMAEL CORT\u00c9S G\u00d3MEZ, DEL GRUPO P ARLAMENT ARIO CONFEDERAL DE UNIDAS PODEMOS-EN COM\u00da PODEM-GALICIA EN COM\u00daN, QUE FORMULA AL SE\u00d1OR VICEPRESIDENTE SEGUNDO DEL GOBIERNO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030: \u00bfQU\u00c9 BALANCE HACE DEL TRABAJO DEL GOBIERNO EN ESTE PRIMER MES EN MATERIA SOCIAL? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,29 @@
         ],
         "order": 3,
         "path": "../data/diaries-txts/DSCD-14-PL-010.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Cortés."
+    "text": "Se\u00f1or Cort\u00e9s.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "Cort\u00e9s",
+            "lema": "cort\u00e9s",
+            "pos": "AQ0CS00",
+            "prob": "0.362246"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

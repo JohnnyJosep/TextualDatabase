@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-03-27T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON GABRIEL RUFIÁN ROMERO, DEL GRUPO PARLAMENTARIO REPUBLICANO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿CÓMO TIENE PLANTEADA LA LEGISLATURA EL GOBIERNO? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON GABRIEL RUFI\u00c1N ROMERO, DEL GRUPO PARLAMENTARIO REPUBLICANO, QUE FORMULA AL SE\u00d1OR PRESIDENTE DEL GOBIERNO: \u00bfC\u00d3MO TIENE PLANTEADA LA LEGISLATURA EL GOBIERNO? ",
         "diputado": [
             {
-                "apellidos": "Rufián Romero",
-                "apellidosNombre": "Rufián Romero, Gabriel",
+                "apellidos": "Rufi\u00e1n Romero",
+                "apellidosNombre": "Rufi\u00e1n Romero, Gabriel",
                 "codParlamentario": 187,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,107 @@
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-024.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "RUFIÁN ROMERO"
+        "speacker": "RUFI\u00c1N ROMERO"
     },
-    "text": "Muchas gracias, presidenta. Señor Sánchez, ¿cómo se plantea el Gobierno esta legislatura?"
+    "text": "Muchas gracias, presidenta. Se\u00f1or S\u00e1nchez, \u00bfc\u00f3mo se plantea el Gobierno esta legislatura?",
+    "freeling": [
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Se\u00f1or_S\u00e1nchez",
+            "lema": "se\u00f1or_s\u00e1nchez",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "c\u00f3mo",
+            "lema": "c\u00f3mo",
+            "pos": "PT00000",
+            "prob": "0.997099"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "plantea",
+            "lema": "plantear",
+            "pos": "VMIP3S0",
+            "prob": "0.992424"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "esta",
+            "lema": "este",
+            "pos": "DD0FS0",
+            "prob": "0.978817"
+        },
+        {
+            "word": "legislatura",
+            "lema": "legislatura",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        }
+    ]
 }

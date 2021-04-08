@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-06-10T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DE LA DIPUT ADA DOÑA MARGARIT A PROHENS RIGO, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA MINISTRA DE IGUALDAD: ¿POR QUÉ ANIMÓ A MILES DE MUJERES A PARTICIPAR EN LAS MANIFESTACIONES DEL 8 DE MARZO CUANDO --SEGÚN HEMOS SABIDO AHORA-- CONOCÍA USTED EL AL T O RIESGO DE CONTAGIO QUE ELLO SUPONÍA? ",
+        "debate": "PREGUNTAS: -- DE LA DIPUT ADA DO\u00d1A MARGARIT A PROHENS RIGO, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SE\u00d1ORA MINISTRA DE IGUALDAD: \u00bfPOR QU\u00c9 ANIM\u00d3 A MILES DE MUJERES A PARTICIPAR EN LAS MANIFESTACIONES DEL 8 DE MARZO CUANDO --SEG\u00daN HEMOS SABIDO AHORA-- CONOC\u00cdA USTED EL AL T O RIESGO DE CONTAGIO QUE ELLO SUPON\u00cdA? ",
         "diputado": [
             {
-                "apellidos": "Espinosa de los Monteros de Simón",
-                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "apellidos": "Espinosa de los Monteros de Sim\u00f3n",
+                "apellidosNombre": "Espinosa de los Monteros de Sim\u00f3n, Iv\u00e1n",
                 "codParlamentario": 83,
                 "fchAlta": "20/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario VOX",
                 "idCircunscripcion": 28,
                 "idLegislatura": 14,
-                "nombre": "Iván",
+                "nombre": "Iv\u00e1n",
                 "nombreCircunscripcion": "Madrid",
                 "twitter": "https://twitter.com/ivanedlm",
                 "twitterUserId": "48976307",
@@ -24,9 +24,281 @@
         ],
         "order": 13,
         "path": "../data/diaries-txts/DSCD-14-PL-027.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "MINISTRA DE IGUALDAD (Montero Gil)"
     },
-    "text": "Yo Entendería que viniera aquí a hablarnos de cosas de derechas y dijese: oiga, para salir de la crisis hace falta una amnistía fiscal para los ricos, hacen falta recortes, hacen falta privatizaciones… (Rumores y protestas)."
+    "text": "Yo Entender\u00eda que viniera aqu\u00ed a hablarnos de cosas de derechas y dijese: oiga, para salir de la crisis hace falta una amnist\u00eda fiscal para los ricos, hacen falta recortes, hacen falta privatizaciones\u2026 (Rumores y protestas).",
+    "freeling": [
+        {
+            "word": "Yo",
+            "lema": "yo",
+            "pos": "PP1CSN0",
+            "prob": "1"
+        },
+        {
+            "word": "Entender\u00eda",
+            "lema": "entender",
+            "pos": "VMIC3S0",
+            "prob": "0.65"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "viniera",
+            "lema": "venir",
+            "pos": "VMSI3S0",
+            "prob": "0.65"
+        },
+        {
+            "word": "aqu\u00ed",
+            "lema": "aqu\u00ed",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "hablar",
+            "lema": "hablar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "nos",
+            "lema": "nos",
+            "pos": "PP1CP00",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "cosas",
+            "lema": "cosa",
+            "pos": "NCFP000",
+            "prob": "0.999049"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "derechas",
+            "lema": "derecha",
+            "pos": "NCFP000",
+            "prob": "0.986111"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "dijese",
+            "lema": "decir",
+            "pos": "VMSI3S0",
+            "prob": "0.500006"
+        },
+        {
+            "word": ":",
+            "lema": ":",
+            "pos": "Fd",
+            "prob": "1"
+        },
+        {
+            "word": "oiga",
+            "lema": "o\u00edr",
+            "pos": "VMSP3S0",
+            "prob": "0.634863"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "salir",
+            "lema": "salir",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "crisis",
+            "lema": "crisis",
+            "pos": "NCFN000",
+            "prob": "1"
+        },
+        {
+            "word": "hace",
+            "lema": "hacer",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "falta",
+            "lema": "faltar",
+            "pos": "VMIP3S0",
+            "prob": "0.187811"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "amnist\u00eda",
+            "lema": "amnist\u00eda",
+            "pos": "NCFS000",
+            "prob": "0.874645"
+        },
+        {
+            "word": "fiscal",
+            "lema": "fiscal",
+            "pos": "AQ0CS00",
+            "prob": "0.438525"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "ricos",
+            "lema": "rico",
+            "pos": "NCMP000",
+            "prob": "0.336957"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "hacen",
+            "lema": "hacer",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "falta",
+            "lema": "falta",
+            "pos": "NCFS000",
+            "prob": "0.809701"
+        },
+        {
+            "word": "recortes",
+            "lema": "recorte",
+            "pos": "NCMP000",
+            "prob": "0.97619"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "hacen",
+            "lema": "hacer",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "falta",
+            "lema": "falta",
+            "pos": "NCFS000",
+            "prob": "0.809701"
+        },
+        {
+            "word": "privatizaciones",
+            "lema": "privatizaci\u00f3n",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Rumores",
+            "lema": "rumores",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "protestas",
+            "lema": "protesta",
+            "pos": "NCFP000",
+            "prob": "0.995868"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

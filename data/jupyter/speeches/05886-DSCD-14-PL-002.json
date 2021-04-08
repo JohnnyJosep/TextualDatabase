@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-06-25T00:00:00.000Z",
-        "debate": "DICTÁMENES DE LA COMISIÓN DE ESTATUTO DE LOS DIPUTADOS. (VOTACIÓN). -- DICTAMEN DE LA COMISIÓN DE ESTATUTO DE LOS DIPUTADOS ACERCA DEL SUPLICATORIO FORMULADO EN RELACIÓN CON UNA SEÑORA DIPUTADA. ",
+        "debate": "DICT\u00c1MENES DE LA COMISI\u00d3N DE ESTATUTO DE LOS DIPUTADOS. (VOTACI\u00d3N). -- DICTAMEN DE LA COMISI\u00d3N DE ESTATUTO DE LOS DIPUTADOS ACERCA DEL SUPLICATORIO FORMULADO EN RELACI\u00d3N CON UNA SE\u00d1ORA DIPUTADA. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,89 @@
         ],
         "order": 114,
         "path": "../data/diaries-txts/DSCD-14-PL-033.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Se reanuda la sesión con carácter público. Se levanta la sesión."
+    "text": "Se reanuda la sesi\u00f3n con car\u00e1cter p\u00fablico. Se levanta la sesi\u00f3n.",
+    "freeling": [
+        {
+            "word": "Se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "reanuda",
+            "lema": "reanudar",
+            "pos": "VMIP3S0",
+            "prob": "0.98924"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "sesi\u00f3n",
+            "lema": "sesi\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "car\u00e1cter",
+            "lema": "car\u00e1cter",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "p\u00fablico",
+            "lema": "p\u00fablico",
+            "pos": "AQ0MS00",
+            "prob": "0.409696"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "levanta",
+            "lema": "levantar",
+            "pos": "VMIP3S0",
+            "prob": "0.983871"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "sesi\u00f3n",
+            "lema": "sesi\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-06-17T00:00:00.000Z",
-        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY: -- DEL GRUPO P ARLAMENT ARIO CIUDADANOS, DE MEDIDAS DE LUCHA CONTRA LA CORRUPCIÓN. ",
+        "debate": "TOMA EN CONSIDERACI\u00d3N DE PROPOSICIONES DE LEY: -- DEL GRUPO P ARLAMENT ARIO CIUDADANOS, DE MEDIDAS DE LUCHA CONTRA LA CORRUPCI\u00d3N. ",
         "diputado": [
             {
                 "apellidos": "Carvalho Dantas",
-                "apellidosNombre": "Carvalho Dantas, María",
+                "apellidosNombre": "Carvalho Dantas, Mar\u00eda",
                 "codParlamentario": 190,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario Republicano",
                 "idCircunscripcion": 8,
                 "idLegislatura": 14,
-                "nombre": "María",
+                "nombre": "Mar\u00eda",
                 "nombreCircunscripcion": "Barcelona",
                 "twitter": "https://twitter.com/_Maria_Dantas_",
                 "twitterUserId": "87042194",
@@ -24,9 +24,185 @@
         ],
         "order": 17,
         "path": "../data/diaries-txts/DSCD-14-PL-030.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "CARVALHO DANTAS"
     },
-    "text": "… para hacer la trasposición lo más garantista posible de acuerdo con los objetivos de la directiva. Muchas gracias, y gracias, señora presidenta. (Aplausos)."
+    "text": "\u2026 para hacer la trasposici\u00f3n lo m\u00e1s garantista posible de acuerdo con los objetivos de la directiva. Muchas gracias, y gracias, se\u00f1ora presidenta. (Aplausos).",
+    "freeling": [
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "hacer",
+            "lema": "hacer",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "trasposici\u00f3n",
+            "lema": "trasposici\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "lo",
+            "lema": "el",
+            "pos": "DA00S0",
+            "prob": "0.665165"
+        },
+        {
+            "word": "m\u00e1s",
+            "lema": "m\u00e1s",
+            "pos": "RG",
+            "prob": "0.99993"
+        },
+        {
+            "word": "garantista",
+            "lema": "garantista",
+            "pos": "AQ0CS00",
+            "prob": "0.726998"
+        },
+        {
+            "word": "posible",
+            "lema": "posible",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "de_acuerdo_con",
+            "lema": "de_acuerdo_con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "objetivos",
+            "lema": "objetivo",
+            "pos": "NCMP000",
+            "prob": "0.962329"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "directiva",
+            "lema": "directiva",
+            "pos": "NCFS000",
+            "prob": "0.893836"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplausos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

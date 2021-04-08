@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-06-24T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON EDUARDO CARAZO HERMOSO, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR MINISTRO DE UNIVERSIDADES: ¿ESTÁ ATENDIENDO EL GOBIERNO LAS NECESIDADES DE LOS UNIVERSITARIOS ESPAÑOLES EN ESTA CRISIS? ",
+        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON EDUARDO CARAZO HERMOSO, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR MINISTRO DE UNIVERSIDADES: \u00bfEST\u00c1 ATENDIENDO EL GOBIERNO LAS NECESIDADES DE LOS UNIVERSITARIOS ESPA\u00d1OLES EN ESTA CRISIS? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,23 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-032.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Carazo Hermoso."
+    "text": "Se\u00f1or Carazo Hermoso.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Carazo_Hermoso",
+            "lema": "se\u00f1or_carazo_hermoso",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

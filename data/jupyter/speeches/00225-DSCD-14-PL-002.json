@@ -1,7 +1,7 @@
 {
     "metadata": {
         "celebrated": "2020-01-07T00:00:00.000Z",
-        "debate": "DEBATE SOBRE LA INVESTIDURA DEL CANDIDATO A LA PRESIDENCIA DEL GOBIERNO (CONTINUACIÓN). ",
+        "debate": "DEBATE SOBRE LA INVESTIDURA DEL CANDIDATO A LA PRESIDENCIA DEL GOBIERNO (CONTINUACI\u00d3N). ",
         "diputado": [
             {
                 "apellidos": "Bassa Coll",
@@ -24,9 +24,521 @@
         ],
         "order": 55,
         "path": "../data/diaries-txts/DSCD-14-PL-004.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "BASSA COLL"
     },
-    "text": "La indignación me haría votar no a un PSOE cómplice en la represión de nuestro pueblo y en la criminalización de la protesta y de nuestra juventud. Pero sabe, señor Sánchez, cuando visito, con el puto cristal, a Dolors, Carme, Uriol y Raül siempre sonríen a mi rabia y me recuerdan que nosotros creemos en el diálogo y que queremos construir una república catalana independiente desde la cordialidad con España. (Rumores.--Protestas)."
+    "text": "La indignaci\u00f3n me har\u00eda votar no a un PSOE c\u00f3mplice en la represi\u00f3n de nuestro pueblo y en la criminalizaci\u00f3n de la protesta y de nuestra juventud. Pero sabe, se\u00f1or S\u00e1nchez, cuando visito, con el puto cristal, a Dolors, Carme, Uriol y Ra\u00fcl siempre sonr\u00eden a mi rabia y me recuerdan que nosotros creemos en el di\u00e1logo y que queremos construir una rep\u00fablica catalana independiente desde la cordialidad con Espa\u00f1a. (Rumores.--Protestas).",
+    "freeling": [
+        {
+            "word": "La",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "indignaci\u00f3n",
+            "lema": "indignaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "me",
+            "lema": "me",
+            "pos": "PP1CS00",
+            "prob": "0.755196"
+        },
+        {
+            "word": "har\u00eda",
+            "lema": "hacer",
+            "pos": "VMIC3S0",
+            "prob": "0.649993"
+        },
+        {
+            "word": "votar",
+            "lema": "votar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "PSOE",
+            "lema": "psoe",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "c\u00f3mplice",
+            "lema": "c\u00f3mplice",
+            "pos": "NCCS000",
+            "prob": "0.980769"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "represi\u00f3n",
+            "lema": "represi\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "nuestro",
+            "lema": "nuestro",
+            "pos": "DP1MSP",
+            "prob": "0.957064"
+        },
+        {
+            "word": "pueblo",
+            "lema": "pueblo",
+            "pos": "NCMS000",
+            "prob": "0.998392"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "criminalizaci\u00f3n",
+            "lema": "criminalizaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "protesta",
+            "lema": "protesta",
+            "pos": "NCFS000",
+            "prob": "0.969466"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "nuestra",
+            "lema": "nuestro",
+            "pos": "DP1FSP",
+            "prob": "0.867454"
+        },
+        {
+            "word": "juventud",
+            "lema": "juventud",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Pero",
+            "lema": "pero",
+            "pos": "CC",
+            "prob": "0.999902"
+        },
+        {
+            "word": "sabe",
+            "lema": "saber",
+            "pos": "VMIP3S0",
+            "prob": "0.997925"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "S\u00e1nchez",
+            "lema": "s\u00e1nchez",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "cuando",
+            "lema": "cuando",
+            "pos": "PR00000",
+            "prob": "0.13702"
+        },
+        {
+            "word": "visito",
+            "lema": "visitar",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "puto",
+            "lema": "puto",
+            "pos": "AQ0MS00",
+            "prob": "0.361337"
+        },
+        {
+            "word": "cristal",
+            "lema": "cristal",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "Dolors",
+            "lema": "dolors",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Carme",
+            "lema": "carme",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Uriol",
+            "lema": "uriol",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "Ra\u00fcl",
+            "lema": "ra\u00fcl",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": "siempre",
+            "lema": "siempre",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "sonr\u00eden",
+            "lema": "sonre\u00edr",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "mi",
+            "lema": "mi",
+            "pos": "DP1CSS",
+            "prob": "0.999325"
+        },
+        {
+            "word": "rabia",
+            "lema": "rabia",
+            "pos": "NCFS000",
+            "prob": "0.675504"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "me",
+            "lema": "me",
+            "pos": "PP1CS00",
+            "prob": "0.755196"
+        },
+        {
+            "word": "recuerdan",
+            "lema": "recordar",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "nosotros",
+            "lema": "nosotros",
+            "pos": "PP1MP00",
+            "prob": "1"
+        },
+        {
+            "word": "creemos",
+            "lema": "creer",
+            "pos": "VMIP1P0",
+            "prob": "0.972603"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "di\u00e1logo",
+            "lema": "di\u00e1logo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "queremos",
+            "lema": "querer",
+            "pos": "VMIP1P0",
+            "prob": "1"
+        },
+        {
+            "word": "construir",
+            "lema": "construir",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "rep\u00fablica",
+            "lema": "rep\u00fablica",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "catalana",
+            "lema": "catal\u00e1n",
+            "pos": "AQ0FS00",
+            "prob": "0.924757"
+        },
+        {
+            "word": "independiente",
+            "lema": "independiente",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "desde",
+            "lema": "desde",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "cordialidad",
+            "lema": "cordialidad",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "Espa\u00f1a",
+            "lema": "espa\u00f1a",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Rumores",
+            "lema": "rumor",
+            "pos": "NCMP000",
+            "prob": "0.992424"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": "Protestas",
+            "lema": "protesta",
+            "pos": "NCFP000",
+            "prob": "0.995868"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-03-27T00:00:00.000Z",
-        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES: -- REAL DECRET O-LEY 18/2020, DE 12 DE MA YO, DE MEDIDAS SOCIALES EN DEFENSA DEL EMPLEO. ",
+        "debate": "CONVALIDACI\u00d3N O DEROGACI\u00d3N DE REALES DECRETOS-LEYES: -- REAL DECRET O-LEY 18/2020, DE 12 DE MA YO, DE MEDIDAS SOCIALES EN DEFENSA DEL EMPLEO. ",
         "diputado": [
             {
                 "apellidos": "Angulo Romero",
-                "apellidosNombre": "Angulo Romero, María Teresa",
+                "apellidosNombre": "Angulo Romero, Mar\u00eda Teresa",
                 "codParlamentario": 113,
                 "fchAlta": "21/11/2019",
                 "fchBaja": "",
@@ -14,16 +14,378 @@
                 "grupo": "Grupo Parlamentario Popular en el Congreso",
                 "idCircunscripcion": 6,
                 "idLegislatura": 14,
-                "nombre": "María Teresa",
+                "nombre": "Mar\u00eda Teresa",
                 "nombreCircunscripcion": "Badajoz"
             },
             0
         ],
         "order": 37,
         "path": "../data/diaries-txts/DSCD-14-PL-024.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "ANGULO ROMERO"
     },
-    "text": "Gracias, presidenta. Septiembre de 2012. Pablo Iglesias: «Créanme si les digo que siendo hijo de un militante del FRAP…». El FRAP era una organización terrorista. Resulta inadmisible, presidenta, que quiera usted quitar del Diario de Sesiones un hecho fáctico. (Muestra un artículo de prensa.--Aplausos)."
+    "text": "Gracias, presidenta. Septiembre de 2012. Pablo Iglesias: \u00abCr\u00e9anme si les digo que siendo hijo de un militante del FRAP\u2026\u00bb. El FRAP era una organizaci\u00f3n terrorista. Resulta inadmisible, presidenta, que quiera usted quitar del Diario de Sesiones un hecho f\u00e1ctico. (Muestra un art\u00edculo de prensa.--Aplausos).",
+    "freeling": [
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Septiembre_de_2012",
+            "lema": "[??:??/9/2012:??.??:??]",
+            "pos": "W",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Pablo_Iglesias",
+            "lema": "pablo_iglesias",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ":",
+            "lema": ":",
+            "pos": "Fd",
+            "prob": "1"
+        },
+        {
+            "word": "\u00ab",
+            "lema": "\u00ab",
+            "pos": "Fra",
+            "prob": "1"
+        },
+        {
+            "word": "Crean",
+            "lema": "creer",
+            "pos": "VMM03P0",
+            "prob": "1"
+        },
+        {
+            "word": "me",
+            "lema": "me",
+            "pos": "PP1CS00",
+            "prob": "1"
+        },
+        {
+            "word": "si",
+            "lema": "si",
+            "pos": "CS",
+            "prob": "0.999827"
+        },
+        {
+            "word": "les",
+            "lema": "le",
+            "pos": "PP3CPD0",
+            "prob": "1"
+        },
+        {
+            "word": "digo",
+            "lema": "decir",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "siendo",
+            "lema": "ser",
+            "pos": "VSG0000",
+            "prob": "1"
+        },
+        {
+            "word": "hijo",
+            "lema": "hijo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "militante",
+            "lema": "militante",
+            "pos": "NCCS000",
+            "prob": "0.986111"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "FRAP",
+            "lema": "frap",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bb",
+            "lema": "\u00bb",
+            "pos": "Frc",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "El",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "FRAP",
+            "lema": "frap",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "era",
+            "lema": "ser",
+            "pos": "VSII3S0",
+            "prob": "0.491317"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "organizaci\u00f3n",
+            "lema": "organizaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "terrorista",
+            "lema": "terrorista",
+            "pos": "AQ0CS00",
+            "prob": "0.729008"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Resulta",
+            "lema": "resultar",
+            "pos": "VMIP3S0",
+            "prob": "0.993808"
+        },
+        {
+            "word": "inadmisible",
+            "lema": "inadmisible",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "quiera",
+            "lema": "querer",
+            "pos": "VMSP3S0",
+            "prob": "0.493976"
+        },
+        {
+            "word": "usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": "quitar",
+            "lema": "quitar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Diario_de_Sesiones",
+            "lema": "diario_de_sesiones",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "hecho",
+            "lema": "hecho",
+            "pos": "NCMS000",
+            "prob": "0.361738"
+        },
+        {
+            "word": "f\u00e1ctico",
+            "lema": "f\u00e1ctico",
+            "pos": "AQ0MS00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Muestra",
+            "lema": "mostrar",
+            "pos": "VMIP3S0",
+            "prob": "0.598234"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "art\u00edculo",
+            "lema": "art\u00edculo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "prensa",
+            "lema": "prensa",
+            "pos": "NCFS000",
+            "prob": "0.998295"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplauso",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

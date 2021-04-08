@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-11T00:00:00.000Z",
-        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO SOCIALISTA, ORGÁNICA DE REGULACIÓN DE LA EUTANASIA). ",
+        "debate": "TOMA EN CONSIDERACI\u00d3N DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO SOCIALISTA, ORG\u00c1NICA DE REGULACI\u00d3N DE LA EUTANASIA). ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,161 @@
         ],
         "order": 165,
         "path": "../data/diaries-txts/DSCD-14-PL-007.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "En consecuencia, queda aprobada por unanimidad. -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, SOBRE LA REVISIÓN DEL SISTEMA DE FINANCIACIÓN DE LAS COMUNIDADES AUTÓNOMAS DE RÉGIMEN COMÚN Y HACIENDAS LOCALES."
+    "text": "En consecuencia, queda aprobada por unanimidad. -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, SOBRE LA REVISI\u00d3N DEL SISTEMA DE FINANCIACI\u00d3N DE LAS COMUNIDADES AUT\u00d3NOMAS DE R\u00c9GIMEN COM\u00daN Y HACIENDAS LOCALES.",
+    "freeling": [
+        {
+            "word": "En_consecuencia",
+            "lema": "en_consecuencia",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "queda",
+            "lema": "quedar",
+            "pos": "VMIP3S0",
+            "prob": "0.945755"
+        },
+        {
+            "word": "aprobada",
+            "lema": "aprobar",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "unanimidad",
+            "lema": "unanimidad",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "GRUPO_PARLAMENTARIO",
+            "lema": "grupo_parlamentario",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "POPULAR",
+            "lema": "popular",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "EN",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "CONGRESO",
+            "lema": "congreso",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "SOBRE_LA_REVISI\u00d3N_DE_EL_SISTEMA_DE_FINANCIACI\u00d3N_DE_LAS_COMUNIDADES",
+            "lema": "sobre_la_revisi\u00f3n_de_el_sistema_de_financiaci\u00f3n_de_las_comunidades",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": "AUT\u00d3NOMAS",
+            "lema": "aut\u00f3nomo",
+            "pos": "AQ0FP00",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "R\u00c9GIMEN",
+            "lema": "r\u00e9gimen",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "COM\u00daN",
+            "lema": "com\u00fan",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "Y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "HACIENDAS",
+            "lema": "hacienda",
+            "pos": "NCFP000",
+            "prob": "0.985324"
+        },
+        {
+            "word": "LOCALES",
+            "lema": "local",
+            "pos": "AQ0CP00",
+            "prob": "0.618483"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

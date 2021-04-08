@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-20T00:00:00.000Z",
-        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES: -- REAL DECRETO-LEY 3/2020, DE 4 DE FEBRERO, DE MEDIDAS URGENTES POR EL QUE SE INCORPORAN AL ORDENAMIENTO JURÍDICO ESPAÑOL DIVERSAS DIRECTIVAS DE LA UNIÓN EUROPEA EN EL ÁMBITO DE LA CONTRATACIÓN PÚBLICA EN DETERMINADOS SECTORES; DE SEGUROS PRIVADOS; DE PLANES Y FONDOS DE PENSIONES; DEL ÁMBITO TRIBUTARIO Y DE LITIGIOS FISCALES. ",
+        "debate": "CONVALIDACI\u00d3N O DEROGACI\u00d3N DE REALES DECRETOS-LEYES: -- REAL DECRETO-LEY 3/2020, DE 4 DE FEBRERO, DE MEDIDAS URGENTES POR EL QUE SE INCORPORAN AL ORDENAMIENTO JUR\u00cdDICO ESPA\u00d1OL DIVERSAS DIRECTIVAS DE LA UNI\u00d3N EUROPEA EN EL \u00c1MBITO DE LA CONTRATACI\u00d3N P\u00daBLICA EN DETERMINADOS SECTORES; DE SEGUROS PRIVADOS; DE PLANES Y FONDOS DE PENSIONES; DEL \u00c1MBITO TRIBUTARIO Y DE LITIGIOS FISCALES. ",
         "diputado": [
             {
-                "apellidos": "Casares Hontañón",
-                "apellidosNombre": "Casares Hontañón, Pedro",
+                "apellidos": "Casares Honta\u00f1\u00f3n",
+                "apellidosNombre": "Casares Honta\u00f1\u00f3n, Pedro",
                 "codParlamentario": 347,
                 "fchAlta": "02/12/2019",
                 "fchBaja": "",
@@ -24,9 +24,317 @@
         ],
         "order": 35,
         "path": "../data/diaries-txts/DSCD-14-PL-011.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "CASARES HONTAÑÓN"
+        "speacker": "CASARES HONTA\u00d1\u00d3N"
     },
-    "text": "Termino. Tienen ustedes un compromiso no con este Gobierno, no con esta Cámara, sino con los hombres y mujeres de este país. Por tanto, les pedimos que recapaciten y que voten a favor de la convalidación de este real decreto-ley. Muchísimas gracias. (Aplausos)."
+    "text": "Termino. Tienen ustedes un compromiso no con este Gobierno, no con esta C\u00e1mara, sino con los hombres y mujeres de este pa\u00eds. Por tanto, les pedimos que recapaciten y que voten a favor de la convalidaci\u00f3n de este real decreto-ley. Much\u00edsimas gracias. (Aplausos).",
+    "freeling": [
+        {
+            "word": "Termino",
+            "lema": "terminar",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Tienen",
+            "lema": "tener",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "ustedes",
+            "lema": "usted",
+            "pos": "PP2CP0P",
+            "prob": "1"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "compromiso",
+            "lema": "compromiso",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "este",
+            "lema": "este",
+            "pos": "DD0MS0",
+            "prob": "0.949201"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "esta",
+            "lema": "este",
+            "pos": "DD0FS0",
+            "prob": "0.978817"
+        },
+        {
+            "word": "C\u00e1mara",
+            "lema": "c\u00e1mara",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "sino",
+            "lema": "sino",
+            "pos": "CC",
+            "prob": "0.999154"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "hombres",
+            "lema": "hombre",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "mujeres",
+            "lema": "mujer",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "este",
+            "lema": "este",
+            "pos": "DD0MS0",
+            "prob": "0.949201"
+        },
+        {
+            "word": "pa\u00eds",
+            "lema": "pa\u00eds",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "tanto",
+            "lema": "tanto",
+            "pos": "RG",
+            "prob": "0.806143"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "les",
+            "lema": "le",
+            "pos": "PP3CPD0",
+            "prob": "1"
+        },
+        {
+            "word": "pedimos",
+            "lema": "pedir",
+            "pos": "VMIP1P0",
+            "prob": "0.65"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "recapaciten",
+            "lema": "recapacitar",
+            "pos": "VMSP3P0",
+            "prob": "0.941964"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "voten",
+            "lema": "votar",
+            "pos": "VMSP3P0",
+            "prob": "0.941964"
+        },
+        {
+            "word": "a_favor_de",
+            "lema": "a_favor_de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "convalidaci\u00f3n",
+            "lema": "convalidaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "este",
+            "lema": "este",
+            "pos": "DD0MS0",
+            "prob": "0.949201"
+        },
+        {
+            "word": "real",
+            "lema": "real",
+            "pos": "AQ0CS00",
+            "prob": "0.82839"
+        },
+        {
+            "word": "decreto-ley",
+            "lema": "decreto-ley",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Much\u00edsimas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.763114"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplausos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

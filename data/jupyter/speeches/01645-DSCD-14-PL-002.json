@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-19T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON ISIDRO MANUEL MARTÍNEZ OBLANCA, DEL GRUPO P ARLAMENT ARIO MIXTO, QUE FORMULA A LA SEÑORA VICEPRESIDENTA CUARTA DEL GOBIERNO Y MINISTRA PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO: ¿ENTIENDE LA VICEPRESIDENTA CUARTA DEL GOBIERNO Y MINISTRA PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO QUE SE PUEDE CONSIDERAR UNA ‘TRANSICIÓN JUSTA’ LA POLÍTICA CONSISTENTE EN DESTRUIR EMPLEOS INDUSTRIALES ANTES DE CREAR OTROS EMPLEOS ALTERNATIVOS, Y EN PROVOCAR SIMULTÁNEAMENTE EL DOBLE DE EMISIONES DE GASES CONTAMINANTES, EXENTAS DE PAGOS POR CO 2 , QUE LAS CENTRALES TÉRMICAS DE LADA Y SOTO DE LA BARCA QUE ORDENÓ CERRAR ARBITRARIAMENTE? ",
+        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON ISIDRO MANUEL MART\u00cdNEZ OBLANCA, DEL GRUPO P ARLAMENT ARIO MIXTO, QUE FORMULA A LA SE\u00d1ORA VICEPRESIDENTA CUARTA DEL GOBIERNO Y MINISTRA PARA LA TRANSICI\u00d3N ECOL\u00d3GICA Y EL RETO DEMOGR\u00c1FICO: \u00bfENTIENDE LA VICEPRESIDENTA CUARTA DEL GOBIERNO Y MINISTRA PARA LA TRANSICI\u00d3N ECOL\u00d3GICA Y EL RETO DEMOGR\u00c1FICO QUE SE PUEDE CONSIDERAR UNA \u2018TRANSICI\u00d3N JUSTA\u2019 LA POL\u00cdTICA CONSISTENTE EN DESTRUIR EMPLEOS INDUSTRIALES ANTES DE CREAR OTROS EMPLEOS ALTERNATIVOS, Y EN PROVOCAR SIMULT\u00c1NEAMENTE EL DOBLE DE EMISIONES DE GASES CONTAMINANTES, EXENTAS DE PAGOS POR CO 2 , QUE LAS CENTRALES T\u00c9RMICAS DE LADA Y SOTO DE LA BARCA QUE ORDEN\u00d3 CERRAR ARBITRARIAMENTE? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,47 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-010.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Gracias, vicepresidenta. --"
+    "text": "Gracias, vicepresidenta. --",
+    "freeling": [
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "vicepresidenta",
+            "lema": "vicepresidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

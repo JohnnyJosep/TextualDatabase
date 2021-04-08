@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-06-16T00:00:00.000Z",
-        "debate": "PROPOSICIONES NO DE LEY: -- DEL GRUPO PARLAMENTARIO MIXTO (SEÑOR MAZÓN RAMOS), SOBRE EL ESTATUTO DE CONSUMIDORES ELECTROINTENSIVOS PARA GARANTIZAR LA COMPETITIVIDAD DE LAS INDUSTRIAS AFECTADAS. ",
+        "debate": "PROPOSICIONES NO DE LEY: -- DEL GRUPO PARLAMENTARIO MIXTO (SE\u00d1OR MAZ\u00d3N RAMOS), SOBRE EL ESTATUTO DE CONSUMIDORES ELECTROINTENSIVOS PARA GARANTIZAR LA COMPETITIVIDAD DE LAS INDUSTRIAS AFECTADAS. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,83 @@
         ],
         "order": 6,
         "path": "../data/diaries-txts/DSCD-14-PL-029.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "No, es que sin micrófono no se la escucha bien."
+    "text": "No, es que sin micr\u00f3fono no se la escucha bien.",
+    "freeling": [
+        {
+            "word": "No",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "sin",
+            "lema": "sin",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "micr\u00f3fono",
+            "lema": "micr\u00f3fono",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "la",
+            "lema": "lo",
+            "pos": "PP3FSA0",
+            "prob": "0.010734"
+        },
+        {
+            "word": "escucha",
+            "lema": "escuchar",
+            "pos": "VMIP3S0",
+            "prob": "0.953488"
+        },
+        {
+            "word": "bien",
+            "lema": "bien",
+            "pos": "RG",
+            "prob": "0.876088"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

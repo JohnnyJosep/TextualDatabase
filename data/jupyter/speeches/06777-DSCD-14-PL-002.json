@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-08-25T00:00:00.000Z",
-        "debate": "PETICIÓN FORMULADA POR UN NÚMERO SUFICIENTE DE DIPUTADOS MIEMBROS DE LA DIPUTACIÓN PERMANENTE, PERTENECIENTES AL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, DE QUE SE ACUERDE LA CONVOCATORIA DE UNA SESIÓN EXTRAORDINARIA DEL -- COMPARECENCIA DEL PRESIDENTE DEL GOBIERNO, PARA INFORMAR SOBRE LAS CAUSAS QUE HAN LLEVADO AL GOBIERNO A SOLICITAR EL ACCESO AL PROGRAMA SURE DE LA COMISIÓN EUROPEA Y, EN SU CASO, CONFIRMAR EN SEDE PARLAMENTARIA LA INTENCIÓN O NO DE ACUDIR A LA LÍNEA DEL MEDE. ",
+        "debate": "PETICI\u00d3N FORMULADA POR UN N\u00daMERO SUFICIENTE DE DIPUTADOS MIEMBROS DE LA DIPUTACI\u00d3N PERMANENTE, PERTENECIENTES AL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, DE QUE SE ACUERDE LA CONVOCATORIA DE UNA SESI\u00d3N EXTRAORDINARIA DEL -- COMPARECENCIA DEL PRESIDENTE DEL GOBIERNO, PARA INFORMAR SOBRE LAS CAUSAS QUE HAN LLEVADO AL GOBIERNO A SOLICITAR EL ACCESO AL PROGRAMA SURE DE LA COMISI\u00d3N EUROPEA Y, EN SU CASO, CONFIRMAR EN SEDE PARLAMENTARIA LA INTENCI\u00d3N O NO DE ACUDIR A LA L\u00cdNEA DEL MEDE. ",
         "diputado": [
             {
-                "apellidos": "Rodríguez Gómez de Celis",
-                "apellidosNombre": "Rodríguez Gómez de Celis, Alfonso",
+                "apellidos": "Rodr\u00edguez G\u00f3mez de Celis",
+                "apellidosNombre": "Rodr\u00edguez G\u00f3mez de Celis, Alfonso",
                 "codParlamentario": 168,
                 "fchAlta": "25/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,83 @@
         ],
         "order": 16,
         "path": "../data/diaries-txts/DSCD-14-PL-040.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "VICEPRESIDENTE (Rodrí guez Gómez de Celis)"
+        "speacker": "VICEPRESIDENTE (Rodr\u00ed guez G\u00f3mez de Celis)"
     },
-    "text": "No, no, un minuto imposible. Diez segundos como mucho."
+    "text": "No, no, un minuto imposible. Diez segundos como mucho.",
+    "freeling": [
+        {
+            "word": "No",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "minuto",
+            "lema": "minuto",
+            "pos": "NCMS000",
+            "prob": "0.963964"
+        },
+        {
+            "word": "imposible",
+            "lema": "imposible",
+            "pos": "AQ0CS00",
+            "prob": "0.997238"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Diez",
+            "lema": "10",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "segundos",
+            "lema": "segundo",
+            "pos": "NCMP000",
+            "prob": "0.909357"
+        },
+        {
+            "word": "como_mucho",
+            "lema": "como_mucho",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-06-25T00:00:00.000Z",
-        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES. (VOTACIÓN): -- REAL DECRETO-LEY 21/2020, DE 9 DE JUNIO, DE MEDIDAS URGENTES DE PREVENCIÓN, CONTENCIÓN Y COORDINACIÓN PARA HACER FRENTE A LA CRISIS SANITARIA OCASIONADA POR EL COVID-19. ",
+        "debate": "CONVALIDACI\u00d3N O DEROGACI\u00d3N DE REALES DECRETOS-LEYES. (VOTACI\u00d3N): -- REAL DECRETO-LEY 21/2020, DE 9 DE JUNIO, DE MEDIDAS URGENTES DE PREVENCI\u00d3N, CONTENCI\u00d3N Y COORDINACI\u00d3N PARA HACER FRENTE A LA CRISIS SANITARIA OCASIONADA POR EL COVID-19. ",
         "diputado": [
             {
-                "apellidos": "Bal Francés",
-                "apellidosNombre": "Bal Francés, Edmundo",
+                "apellidos": "Bal Franc\u00e9s",
+                "apellidosNombre": "Bal Franc\u00e9s, Edmundo",
                 "codParlamentario": 211,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,167 @@
         ],
         "order": 27,
         "path": "../data/diaries-txts/DSCD-14-PL-033.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "BAL FRANCÉS"
+        "speacker": "BAL FRANC\u00c9S"
     },
-    "text": "Por eso es importante pactar, ceder. Hay un interés superior común. Coraje, señorías, coraje. (Aplausos.) Gracias."
+    "text": "Por eso es importante pactar, ceder. Hay un inter\u00e9s superior com\u00fan. Coraje, se\u00f1or\u00edas, coraje. (Aplausos.) Gracias.",
+    "freeling": [
+        {
+            "word": "Por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "eso",
+            "lema": "ese",
+            "pos": "PD00S00",
+            "prob": "1"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "importante",
+            "lema": "importante",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "pactar",
+            "lema": "pactar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "ceder",
+            "lema": "ceder",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Hay",
+            "lema": "haber",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "inter\u00e9s",
+            "lema": "inter\u00e9s",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "superior",
+            "lema": "superior",
+            "pos": "AQ0CS00",
+            "prob": "0.971939"
+        },
+        {
+            "word": "com\u00fan",
+            "lema": "com\u00fan",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Coraje",
+            "lema": "coraje",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or\u00edas",
+            "lema": "se\u00f1or\u00eda",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "coraje",
+            "lema": "coraje",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplauso",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

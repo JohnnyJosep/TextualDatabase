@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-04-29T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON JOSÉ IGNACIO ECHÁNIZ SALGADO, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR MINISTRO DE SANIDAD: ¿POR CUÁNTO TIEMPO DEBE LA SOCIEDAD ESPAÑOLA SEGUIR ESPERANDO PARA DISPONER DE LOS TEST MASIVOS, EL MATERIAL DE PROTECCIÓN Y EL ESTUDIO DE PREVALENCIA EN LA POBLACIÓN QUE ANUNCIÓ HACE YA MÁS DE TRES SEMANAS Y QUE SU INCOMPETENCIA TANTO HA RETRASADO YA? ",
+        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON JOS\u00c9 IGNACIO ECH\u00c1NIZ SALGADO, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR MINISTRO DE SANIDAD: \u00bfPOR CU\u00c1NTO TIEMPO DEBE LA SOCIEDAD ESPA\u00d1OLA SEGUIR ESPERANDO PARA DISPONER DE LOS TEST MASIVOS, EL MATERIAL DE PROTECCI\u00d3N Y EL ESTUDIO DE PREVALENCIA EN LA POBLACI\u00d3N QUE ANUNCI\u00d3 HACE YA M\u00c1S DE TRES SEMANAS Y QUE SU INCOMPETENCIA TANTO HA RETRASADO YA? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,41 @@
         ],
         "order": 2,
         "path": "../data/diaries-txts/DSCD-14-PL-020.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor ministro de Sanidad."
+    "text": "Se\u00f1or ministro de Sanidad.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "ministro",
+            "lema": "ministro",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Sanidad",
+            "lema": "sanidad",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

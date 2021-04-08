@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-03-13T00:00:00.000Z",
-        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES. (VOTACIÓN): -- REAL DECRET O-LEY 15/2020, DE 21 DE ABRIL, DE MEDIDAS URGENTES COMPLEMENT ARIAS PARA APOYAR LA ECONOMÍA Y EL EMPLEO. ",
+        "debate": "CONVALIDACI\u00d3N O DEROGACI\u00d3N DE REALES DECRETOS-LEYES. (VOTACI\u00d3N): -- REAL DECRET O-LEY 15/2020, DE 21 DE ABRIL, DE MEDIDAS URGENTES COMPLEMENT ARIAS PARA APOYAR LA ECONOM\u00cdA Y EL EMPLEO. ",
         "diputado": [
             {
-                "apellidos": "Mazón Ramos",
-                "apellidosNombre": "Mazón Ramos, José María",
+                "apellidos": "Maz\u00f3n Ramos",
+                "apellidosNombre": "Maz\u00f3n Ramos, Jos\u00e9 Mar\u00eda",
                 "codParlamentario": 349,
                 "fchAlta": "02/12/2019",
                 "fchBaja": "",
@@ -14,16 +14,162 @@
                 "grupo": "Grupo Parlamentario Mixto",
                 "idCircunscripcion": 39,
                 "idLegislatura": 14,
-                "nombre": "José María",
+                "nombre": "Jos\u00e9 Mar\u00eda",
                 "nombreCircunscripcion": "Cantabria"
             },
             0
         ],
         "order": 39,
         "path": "../data/diaries-txts/DSCD-14-PL-022.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "MAZÓN RAMOS"
+        "speacker": "MAZ\u00d3N RAMOS"
     },
-    "text": "… un plan de reconstrucción consensuado entre todos y que evite más enfrentamientos y más conflictos en la sociedad española. Muchas gracias."
+    "text": "\u2026 un plan de reconstrucci\u00f3n consensuado entre todos y que evite m\u00e1s enfrentamientos y m\u00e1s conflictos en la sociedad espa\u00f1ola. Muchas gracias.",
+    "freeling": [
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "plan",
+            "lema": "plan",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "reconstrucci\u00f3n",
+            "lema": "reconstrucci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "consensuado",
+            "lema": "consensuar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "entre",
+            "lema": "entre",
+            "pos": "SP",
+            "prob": "0.980341"
+        },
+        {
+            "word": "todos",
+            "lema": "todo",
+            "pos": "PI0MP00",
+            "prob": "0.293032"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "evite",
+            "lema": "evitar",
+            "pos": "VMSP3S0",
+            "prob": "0.634861"
+        },
+        {
+            "word": "m\u00e1s",
+            "lema": "m\u00e1s",
+            "pos": "RG",
+            "prob": "0.99993"
+        },
+        {
+            "word": "enfrentamientos",
+            "lema": "enfrentamiento",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "m\u00e1s",
+            "lema": "m\u00e1s",
+            "pos": "RG",
+            "prob": "0.99993"
+        },
+        {
+            "word": "conflictos",
+            "lema": "conflicto",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "sociedad",
+            "lema": "sociedad",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "espa\u00f1ola",
+            "lema": "espa\u00f1ol",
+            "pos": "AQ0FS00",
+            "prob": "0.9614"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

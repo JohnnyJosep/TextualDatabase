@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-06-10T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DE LA DIPUT ADA DOÑA MARGARIT A PROHENS RIGO, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA MINISTRA DE IGUALDAD: ¿POR QUÉ ANIMÓ A MILES DE MUJERES A PARTICIPAR EN LAS MANIFESTACIONES DEL 8 DE MARZO CUANDO --SEGÚN HEMOS SABIDO AHORA-- CONOCÍA USTED EL AL T O RIESGO DE CONTAGIO QUE ELLO SUPONÍA? ",
+        "debate": "PREGUNTAS: -- DE LA DIPUT ADA DO\u00d1A MARGARIT A PROHENS RIGO, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SE\u00d1ORA MINISTRA DE IGUALDAD: \u00bfPOR QU\u00c9 ANIM\u00d3 A MILES DE MUJERES A PARTICIPAR EN LAS MANIFESTACIONES DEL 8 DE MARZO CUANDO --SEG\u00daN HEMOS SABIDO AHORA-- CONOC\u00cdA USTED EL AL T O RIESGO DE CONTAGIO QUE ELLO SUPON\u00cdA? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,29 @@
         ],
         "order": 12,
         "path": "../data/diaries-txts/DSCD-14-PL-027.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "¡Silencio!"
+    "text": "\u00a1Silencio!",
+    "freeling": [
+        {
+            "word": "\u00a1",
+            "lema": "\u00a1",
+            "pos": "Faa",
+            "prob": "1"
+        },
+        {
+            "word": "Silencio",
+            "lema": "silencio",
+            "pos": "NCMS000",
+            "prob": "0.997076"
+        },
+        {
+            "word": "!",
+            "lema": "!",
+            "pos": "Fat",
+            "prob": "1"
+        }
+    ]
 }

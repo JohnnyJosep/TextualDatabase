@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-07-22T00:00:00.000Z",
-        "debate": "SEGUNDO DE SU LABOR DE GOBIERNO? -- DEL DIPUTADO DON ISIDRO MANUEL MARTÍNEZ OBLANCA, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA AL GOBIERNO: ¿QUÉ MEDIDAS DE EMERGENCIA PIENSA ADOPTAR EL GOBIERNO PARA DAR SOLUCIÓN AL COLAPSO ECONÓMICO-ADMINISTRATIVO QUE HA SUMIDO A LA PLANTILLA Y A LOS CENTROS DEL INSTITUTO ESPAÑOL DE OCEANOGRAFÍA (IEO), ENTRE ELLOS EL DE GIJÓN (ASTURIAS), EN LA MAYOR CRISIS DE SU HISTORIA, COMPROMETIENDO GRAVEMENTE EL DESARROLLO DE LAS INVESTIGACIONES SOBRE EL MAR Y SUS RECURSOS? ",
+        "debate": "SEGUNDO DE SU LABOR DE GOBIERNO? -- DEL DIPUTADO DON ISIDRO MANUEL MART\u00cdNEZ OBLANCA, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA AL GOBIERNO: \u00bfQU\u00c9 MEDIDAS DE EMERGENCIA PIENSA ADOPTAR EL GOBIERNO PARA DAR SOLUCI\u00d3N AL COLAPSO ECON\u00d3MICO-ADMINISTRATIVO QUE HA SUMIDO A LA PLANTILLA Y A LOS CENTROS DEL INSTITUTO ESPA\u00d1OL DE OCEANOGRAF\u00cdA (IEO), ENTRE ELLOS EL DE GIJ\u00d3N (ASTURIAS), EN LA MAYOR CRISIS DE SU HISTORIA, COMPROMETIENDO GRAVEMENTE EL DESARROLLO DE LAS INVESTIGACIONES SOBRE EL MAR Y SUS RECURSOS? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,53 @@
         ],
         "order": 2,
         "path": "../data/diaries-txts/DSCD-14-PL-037.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor ministro de Ciencia e Innovación."
+    "text": "Se\u00f1or ministro de Ciencia e Innovaci\u00f3n.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "ministro",
+            "lema": "ministro",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Ciencia",
+            "lema": "ciencia",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": "e",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.987994"
+        },
+        {
+            "word": "Innovaci\u00f3n",
+            "lema": "innovaci\u00f3n",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

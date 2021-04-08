@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-09T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (CONTINUACIÓN): -- DEL GRUPO PARLAMENTARIO VOX, SOBRE LAS MEDIDAS QUE EL GOBIERNO VA A ADOPTAR PARA GARANTIZAR UNAS ELECCIONES LIBRES, PACÍFICAS Y SIN ACTOS DE VIOLENCIA E INTIMIDACIÓN EN EL PAÍS VASCO Y GALICIA. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (CONTINUACI\u00d3N): -- DEL GRUPO PARLAMENTARIO VOX, SOBRE LAS MEDIDAS QUE EL GOBIERNO VA A ADOPTAR PARA GARANTIZAR UNAS ELECCIONES LIBRES, PAC\u00cdFICAS Y SIN ACTOS DE VIOLENCIA E INTIMIDACI\u00d3N EN EL PA\u00cdS VASCO Y GALICIA. ",
         "diputado": [
             {
-                "apellidos": "Olona Choclán",
-                "apellidosNombre": "Olona Choclán, Macarena",
+                "apellidos": "Olona Chocl\u00e1n",
+                "apellidosNombre": "Olona Chocl\u00e1n, Macarena",
                 "codParlamentario": 84,
                 "fchAlta": "20/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,83 @@
         ],
         "order": 32,
         "path": "../data/diaries-txts/DSCD-14-PL-042.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "OLONA CHOCLÁN"
+        "speacker": "OLONA CHOCL\u00c1N"
     },
-    "text": "Por el artículo 71, señor presidente, pido la palabra."
+    "text": "Por el art\u00edculo 71, se\u00f1or presidente, pido la palabra.",
+    "freeling": [
+        {
+            "word": "Por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "art\u00edculo",
+            "lema": "art\u00edculo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "71",
+            "lema": "71",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "presidente",
+            "lema": "presidente",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "pido",
+            "lema": "pedir",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "palabra",
+            "lema": "palabra",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-06-10T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA PATRICIA RUEDA PERELLÓ, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA A LA SEÑORA MINISTRA DE INDUSTRIA, COMERCIO Y TURISMO: ¿CONSIDERA EL GOBIERNO QUE HA TOMADO LAS MEDIDAS NECESARIAS PARA REACTIVAR EL TURISMO EN ESPAÑA? ",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DO\u00d1A PATRICIA RUEDA PERELL\u00d3, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA A LA SE\u00d1ORA MINISTRA DE INDUSTRIA, COMERCIO Y TURISMO: \u00bfCONSIDERA EL GOBIERNO QUE HA TOMADO LAS MEDIDAS NECESARIAS PARA REACTIVAR EL TURISMO EN ESPA\u00d1A? ",
         "diputado": [
             {
-                "apellidos": "Rueda Perelló",
-                "apellidosNombre": "Rueda Perelló, Patricia",
+                "apellidos": "Rueda Perell\u00f3",
+                "apellidosNombre": "Rueda Perell\u00f3, Patricia",
                 "codParlamentario": 75,
                 "fchAlta": "20/11/2019",
                 "fchBaja": "",
@@ -15,7 +15,7 @@
                 "idCircunscripcion": 29,
                 "idLegislatura": 14,
                 "nombre": "Patricia",
-                "nombreCircunscripcion": "Málaga",
+                "nombreCircunscripcion": "M\u00e1laga",
                 "twitter": "https://twitter.com/_patricia_rueda",
                 "twitterUserId": "2613310915",
                 "twitterUserName": "_patricia_rueda"
@@ -24,9 +24,125 @@
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-027.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "RUEDA PERELLÓ"
+        "speacker": "RUEDA PERELL\u00d3"
     },
-    "text": "Gracias. ¿Considera el Gobierno que ha tomado las medidas necesarias para reactivar el turismo en España?"
+    "text": "Gracias. \u00bfConsidera el Gobierno que ha tomado las medidas necesarias para reactivar el turismo en Espa\u00f1a?",
+    "freeling": [
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "Considera",
+            "lema": "considerar",
+            "pos": "VMIP3S0",
+            "prob": "0.998721"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "tomado",
+            "lema": "tomar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "medidas",
+            "lema": "medida",
+            "pos": "NCFP000",
+            "prob": "0.999067"
+        },
+        {
+            "word": "necesarias",
+            "lema": "necesario",
+            "pos": "AQ0FP00",
+            "prob": "1"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "reactivar",
+            "lema": "reactivar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "turismo",
+            "lema": "turismo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "Espa\u00f1a",
+            "lema": "espa\u00f1a",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        }
+    ]
 }

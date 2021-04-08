@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-06-24T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON JOSÉ MARÍA MAZÓN RAMOS, DEL GRUPO P ARLAMENT ARIO MIXT O, QUE FORMULA AL GOBIERNO: ¿TIENE PREVISTO EL GOBIERNO PRESENTAR RECURSO DE CASACIÓN ANTE EL TRIBUNAL SUPREMO CONTRA LA SENTENCIA DE FECHA 24 DE ENERO DE 2020 DE LA AUDIENCIA NACIONAL RECAÍDA EN EL RECURSO CONTENCIOSO- ADMINISTRATIVO 114/18 SOBRE LA DEUDA PENDIENTE DE VALDECILLA? ",
+        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON JOS\u00c9 MAR\u00cdA MAZ\u00d3N RAMOS, DEL GRUPO P ARLAMENT ARIO MIXT O, QUE FORMULA AL GOBIERNO: \u00bfTIENE PREVISTO EL GOBIERNO PRESENTAR RECURSO DE CASACI\u00d3N ANTE EL TRIBUNAL SUPREMO CONTRA LA SENTENCIA DE FECHA 24 DE ENERO DE 2020 DE LA AUDIENCIA NACIONAL RECA\u00cdDA EN EL RECURSO CONTENCIOSO- ADMINISTRATIVO 114/18 SOBRE LA DEUDA PENDIENTE DE VALDECILLA? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,41 @@
         ],
         "order": 2,
         "path": "../data/diaries-txts/DSCD-14-PL-032.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor ministro de Justicia."
+    "text": "Se\u00f1or ministro de Justicia.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "ministro",
+            "lema": "ministro",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Justicia",
+            "lema": "justicia",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

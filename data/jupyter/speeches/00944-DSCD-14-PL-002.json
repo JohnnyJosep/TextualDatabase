@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-12T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA ANA BELÉN VÁZQUEZ BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿QUÉ INSTRUCCIONES DIO EL GOBIERNO A LAS FUERZAS Y CUERPOS DE SEGURIDAD DEL ESTADO PARA EL CUMPLIMIENTO ESTRICTO DE LA DECISIÓN (PESC) 2017/2074 DEL CONSEJO, DE 13 DE NOVIEMBRE DE 2017, ANTE LA PRESENCIA DE LA VICEPRESIDENTA DE VENEZUELA EN SUELO ESPAÑOL, QUE HAN OCASIONADO --ENTRE OTRAS-- LAS QUEJAS EL PASADO SÁBADO DEL REPRESENTANTE ESPECIAL DE ESTADOS UNIDOS EN VENEZUELA ELIOT ABRAMS ADVIRTIENDO DE QUE SE PODRÍA HABER VIOLADO LA DECISIÓN DE LAS AUTORIDADES DE LA UNIÓN EUROPEA? ",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DO\u00d1A ANA BEL\u00c9N V\u00c1ZQUEZ BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR MINISTRO DEL INTERIOR: \u00bfQU\u00c9 INSTRUCCIONES DIO EL GOBIERNO A LAS FUERZAS Y CUERPOS DE SEGURIDAD DEL ESTADO PARA EL CUMPLIMIENTO ESTRICTO DE LA DECISI\u00d3N (PESC) 2017/2074 DEL CONSEJO, DE 13 DE NOVIEMBRE DE 2017, ANTE LA PRESENCIA DE LA VICEPRESIDENTA DE VENEZUELA EN SUELO ESPA\u00d1OL, QUE HAN OCASIONADO --ENTRE OTRAS-- LAS QUEJAS EL PASADO S\u00c1BADO DEL REPRESENTANTE ESPECIAL DE ESTADOS UNIDOS EN VENEZUELA ELIOT ABRAMS ADVIRTIENDO DE QUE SE PODR\u00cdA HABER VIOLADO LA DECISI\u00d3N DE LAS AUTORIDADES DE LA UNI\u00d3N EUROPEA? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,155 @@
         ],
         "order": 0,
         "path": "../data/diaries-txts/DSCD-14-PL-008.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Preguntas dirigidas al señor ministro del Interior. Pregunta de la diputada doña Ana Belén Vázquez Blanco, del Grupo Parlamentario Popular en el Congreso."
+    "text": "Preguntas dirigidas al se\u00f1or ministro del Interior. Pregunta de la diputada do\u00f1a Ana Bel\u00e9n V\u00e1zquez Blanco, del Grupo Parlamentario Popular en el Congreso.",
+    "freeling": [
+        {
+            "word": "Preguntas",
+            "lema": "pregunta",
+            "pos": "NCFP000",
+            "prob": "0.995868"
+        },
+        {
+            "word": "dirigidas",
+            "lema": "dirigir",
+            "pos": "VMP00PF",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "ministro",
+            "lema": "ministro",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Interior",
+            "lema": "interior",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Pregunta",
+            "lema": "preguntar",
+            "pos": "VMIP3S0",
+            "prob": "0.300493"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "diputada",
+            "lema": "diputado",
+            "pos": "NCFS000",
+            "prob": "0.987805"
+        },
+        {
+            "word": "do\u00f1a",
+            "lema": "don",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "Ana_Bel\u00e9n_V\u00e1zquez_Blanco",
+            "lema": "ana_bel\u00e9n_v\u00e1zquez_blanco",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Grupo_Parlamentario_Popular",
+            "lema": "grupo_parlamentario_popular",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Congreso",
+            "lema": "congreso",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

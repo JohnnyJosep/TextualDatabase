@@ -1,7 +1,7 @@
 {
     "metadata": {
         "celebrated": "2020-06-17T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DE LA DIPUT ADA DOÑA JOSUNE GOROSPE ELEZCANO, DEL GRUPO P ARLAMENT ARIO VASCO (EAJ-PNV), QUE FORMULA AL SEÑOR MINISTRO DE UNIVERSIDADES: ¿QUÉ MEDIDAS HA ADOPTADO EL GOBIERNO EN SU ÁMBITO COMPETENCIAL PARA AUMENTAR LAS OPORTUNIDADES LABORALES QUE HOY OFRECEN LOS ESTUDIOS UNIVERSITARIOS A LOS Y LAS JÓVENES? ",
+        "debate": "PREGUNTAS: -- DE LA DIPUT ADA DO\u00d1A JOSUNE GOROSPE ELEZCANO, DEL GRUPO P ARLAMENT ARIO VASCO (EAJ-PNV), QUE FORMULA AL SE\u00d1OR MINISTRO DE UNIVERSIDADES: \u00bfQU\u00c9 MEDIDAS HA ADOPTADO EL GOBIERNO EN SU \u00c1MBITO COMPETENCIAL PARA AUMENTAR LAS OPORTUNIDADES LABORALES QUE HOY OFRECEN LOS ESTUDIOS UNIVERSITARIOS A LOS Y LAS J\u00d3VENES? ",
         "diputado": [
             {
                 "apellidos": "Gorospe Elezcano",
@@ -21,9 +21,491 @@
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-030.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "GOROSPE ELEZCANO"
     },
-    "text": "Gracias, presidenta. Ministro, nos preocupa el desempleo de los colectivos más vulnerables, de las y los jóvenes y en particular, también en lo que a usted le respecta, de los que tienen estudios universitarios. Desde el PNV le hemos formulado propuestas para ampliar sus oportunidades laborales, como la formación dual universitaria. Quisiéramos saber las medidas concretas que ha adoptado usted para ampliar las oportunidades laborales de este colectivo. Gracias."
+    "text": "Gracias, presidenta. Ministro, nos preocupa el desempleo de los colectivos m\u00e1s vulnerables, de las y los j\u00f3venes y en particular, tambi\u00e9n en lo que a usted le respecta, de los que tienen estudios universitarios. Desde el PNV le hemos formulado propuestas para ampliar sus oportunidades laborales, como la formaci\u00f3n dual universitaria. Quisi\u00e9ramos saber las medidas concretas que ha adoptado usted para ampliar las oportunidades laborales de este colectivo. Gracias.",
+    "freeling": [
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Ministro",
+            "lema": "ministro",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "nos",
+            "lema": "nos",
+            "pos": "PP1CP00",
+            "prob": "0.810258"
+        },
+        {
+            "word": "preocupa",
+            "lema": "preocupar",
+            "pos": "VMIP3S0",
+            "prob": "0.987805"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "desempleo",
+            "lema": "desempleo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "colectivos",
+            "lema": "colectivo",
+            "pos": "NCMP000",
+            "prob": "0.723214"
+        },
+        {
+            "word": "m\u00e1s",
+            "lema": "m\u00e1s",
+            "pos": "RG",
+            "prob": "0.99993"
+        },
+        {
+            "word": "vulnerables",
+            "lema": "vulnerable",
+            "pos": "AQ0CP00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "j\u00f3venes",
+            "lema": "joven",
+            "pos": "NCCP000",
+            "prob": "0.802115"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "particular",
+            "lema": "particular",
+            "pos": "AQ0CS00",
+            "prob": "0.827869"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "tambi\u00e9n",
+            "lema": "tambi\u00e9n",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "lo",
+            "lema": "el",
+            "pos": "DA00S0",
+            "prob": "0.665165"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": "le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "respecta",
+            "lema": "respectar",
+            "pos": "VMIP3S0",
+            "prob": "0.989241"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "tienen",
+            "lema": "tener",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "estudios",
+            "lema": "estudio",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "universitarios",
+            "lema": "universitario",
+            "pos": "AQ0MP00",
+            "prob": "0.430556"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Desde",
+            "lema": "desde",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "PNV",
+            "lema": "pnv",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "hemos",
+            "lema": "haber",
+            "pos": "VAIP1P0",
+            "prob": "0.997509"
+        },
+        {
+            "word": "formulado",
+            "lema": "formular",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "propuestas",
+            "lema": "propuesta",
+            "pos": "NCFP000",
+            "prob": "0.963576"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "ampliar",
+            "lema": "ampliar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "sus",
+            "lema": "su",
+            "pos": "DP3CPN",
+            "prob": "0.999903"
+        },
+        {
+            "word": "oportunidades",
+            "lema": "oportunidad",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "laborales",
+            "lema": "laboral",
+            "pos": "AQ0CP00",
+            "prob": "0.99505"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "como",
+            "lema": "como",
+            "pos": "CS",
+            "prob": "0.967153"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "formaci\u00f3n",
+            "lema": "formaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "dual",
+            "lema": "dual",
+            "pos": "AQ0CS00",
+            "prob": "0.661292"
+        },
+        {
+            "word": "universitaria",
+            "lema": "universitario",
+            "pos": "AQ0FS00",
+            "prob": "0.983871"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Quisi\u00e9ramos",
+            "lema": "querer",
+            "pos": "VMSI1P0",
+            "prob": "1"
+        },
+        {
+            "word": "saber",
+            "lema": "saber",
+            "pos": "VMN0000",
+            "prob": "0.841615"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "medidas",
+            "lema": "medida",
+            "pos": "NCFP000",
+            "prob": "0.999067"
+        },
+        {
+            "word": "concretas",
+            "lema": "concreto",
+            "pos": "AQ0FP00",
+            "prob": "0.986111"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "adoptado",
+            "lema": "adoptar",
+            "pos": "VMP00SM",
+            "prob": "0.990196"
+        },
+        {
+            "word": "usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "ampliar",
+            "lema": "ampliar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "oportunidades",
+            "lema": "oportunidad",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "laborales",
+            "lema": "laboral",
+            "pos": "AQ0CP00",
+            "prob": "0.99505"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "este",
+            "lema": "este",
+            "pos": "DD0MS0",
+            "prob": "0.949201"
+        },
+        {
+            "word": "colectivo",
+            "lema": "colectivo",
+            "pos": "NCMS000",
+            "prob": "0.759434"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

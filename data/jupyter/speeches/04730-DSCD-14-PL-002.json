@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-06-16T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO MIXTO (SEÑOR MARTÍNEZ OBLANCA), SOBRE LA POLÍTICA FERROVIARIA DEL MINISTERIO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA TRAS FINALIZAR LA EMERGENCIA SANITARIA DEL COVID-19. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO MIXTO (SE\u00d1OR MART\u00cdNEZ OBLANCA), SOBRE LA POL\u00cdTICA FERROVIARIA DEL MINISTERIO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA TRAS FINALIZAR LA EMERGENCIA SANITARIA DEL COVID-19. ",
         "diputado": [
             {
-                "apellidos": "Martínez Oblanca",
-                "apellidosNombre": "Martínez Oblanca, Isidro Manuel",
+                "apellidos": "Mart\u00ednez Oblanca",
+                "apellidosNombre": "Mart\u00ednez Oblanca, Isidro Manuel",
                 "codParlamentario": 20,
                 "fchAlta": "19/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,173 @@
         ],
         "order": 21,
         "path": "../data/diaries-txts/DSCD-14-PL-029.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "MARTÍNEZ OBLANCA"
+        "speacker": "MART\u00cdNEZ OBLANCA"
     },
-    "text": "No, no acepto ninguna enmienda, señor presidente, y le recuerdo mi solicitud para que se vote la moción por puntos. Muchas gracias."
+    "text": "No, no acepto ninguna enmienda, se\u00f1or presidente, y le recuerdo mi solicitud para que se vote la moci\u00f3n por puntos. Muchas gracias.",
+    "freeling": [
+        {
+            "word": "No",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "acepto",
+            "lema": "aceptar",
+            "pos": "VMIP1S0",
+            "prob": "0.317766"
+        },
+        {
+            "word": "ninguna",
+            "lema": "ninguno",
+            "pos": "DI0FS0",
+            "prob": "0.829392"
+        },
+        {
+            "word": "enmienda",
+            "lema": "enmienda",
+            "pos": "NCFS000",
+            "prob": "0.953488"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "presidente",
+            "lema": "presidente",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "recuerdo",
+            "lema": "recordar",
+            "pos": "VMIP1S0",
+            "prob": "0.22973"
+        },
+        {
+            "word": "mi",
+            "lema": "mi",
+            "pos": "DP1CSS",
+            "prob": "0.999325"
+        },
+        {
+            "word": "solicitud",
+            "lema": "solicitud",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "vote",
+            "lema": "votar",
+            "pos": "VMSP3S0",
+            "prob": "0.634863"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "moci\u00f3n",
+            "lema": "moci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "puntos",
+            "lema": "punto",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

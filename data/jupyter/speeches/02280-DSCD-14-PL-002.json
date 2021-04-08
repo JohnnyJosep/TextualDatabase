@@ -1,7 +1,7 @@
 {
     "metadata": {
         "celebrated": "2020-02-26T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON AITOR ESTEBAN BRAVO, DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿CUÁL ES LA POSICIÓN DE SU GOBIERNO ANTE LOS RETOS A LOS QUE SE ENFRENTA EUROPA? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON AITOR ESTEBAN BRAVO, DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), QUE FORMULA AL SE\u00d1OR PRESIDENTE DEL GOBIERNO: \u00bfCU\u00c1L ES LA POSICI\u00d3N DE SU GOBIERNO ANTE LOS RETOS A LOS QUE SE ENFRENTA EUROPA? ",
         "diputado": [
             {
                 "apellidos": "Esteban Bravo",
@@ -24,9 +24,893 @@
         ],
         "order": 5,
         "path": "../data/diaries-txts/DSCD-14-PL-013.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "ESTEBAN BRAVO"
     },
-    "text": "Yo le pido que su Gobierno no se distraiga de estos temas europeos porque tienen una incidencia directa sobre toda la ciudadanía. En cuanto a la Conferencia sobre el Futuro de Europa, yo le pido que, atendiendo a la composición del Estado español, llevemos también la voz de esa manera y que, por lo tanto, las entidades supraestatales --hay algunos Gobiernos autonómicos con auténtica vocación-- puedan tener voz directa en esa conferencia para exponer sus ideas. Me parece que sería lo más realista, sobre todo conociendo esa vocación europea. También le pido que tenga usted en cuenta la participación en el Consejo del Ecofin y en el Consejo de Justicia e Interior de comunidades autónomas como la nuestra, con características propias y que, por ejemplo, tienen haciendas absolutamente diferenciadas. Sería muy importante esa participación directa en Europa. Haríamos más Europa de esa manera."
+    "text": "Yo le pido que su Gobierno no se distraiga de estos temas europeos porque tienen una incidencia directa sobre toda la ciudadan\u00eda. En cuanto a la Conferencia sobre el Futuro de Europa, yo le pido que, atendiendo a la composici\u00f3n del Estado espa\u00f1ol, llevemos tambi\u00e9n la voz de esa manera y que, por lo tanto, las entidades supraestatales --hay algunos Gobiernos auton\u00f3micos con aut\u00e9ntica vocaci\u00f3n-- puedan tener voz directa en esa conferencia para exponer sus ideas. Me parece que ser\u00eda lo m\u00e1s realista, sobre todo conociendo esa vocaci\u00f3n europea. Tambi\u00e9n le pido que tenga usted en cuenta la participaci\u00f3n en el Consejo del Ecofin y en el Consejo de Justicia e Interior de comunidades aut\u00f3nomas como la nuestra, con caracter\u00edsticas propias y que, por ejemplo, tienen haciendas absolutamente diferenciadas. Ser\u00eda muy importante esa participaci\u00f3n directa en Europa. Har\u00edamos m\u00e1s Europa de esa manera.",
+    "freeling": [
+        {
+            "word": "Yo",
+            "lema": "yo",
+            "pos": "PP1CSN0",
+            "prob": "1"
+        },
+        {
+            "word": "le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "pido",
+            "lema": "pedir",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "distraiga",
+            "lema": "distraer",
+            "pos": "VMSP3S0",
+            "prob": "0.634863"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "estos",
+            "lema": "este",
+            "pos": "DD0MP0",
+            "prob": "0.972009"
+        },
+        {
+            "word": "temas",
+            "lema": "tema",
+            "pos": "NCMP000",
+            "prob": "0.99505"
+        },
+        {
+            "word": "europeos",
+            "lema": "europeo",
+            "pos": "AQ0MP00",
+            "prob": "0.876506"
+        },
+        {
+            "word": "porque",
+            "lema": "porque",
+            "pos": "CS",
+            "prob": "1"
+        },
+        {
+            "word": "tienen",
+            "lema": "tener",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "incidencia",
+            "lema": "incidencia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "directa",
+            "lema": "directo",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": "sobre",
+            "lema": "sobre",
+            "pos": "SP",
+            "prob": "0.997804"
+        },
+        {
+            "word": "toda",
+            "lema": "todo",
+            "pos": "DI0FS0",
+            "prob": "0.984467"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "ciudadan\u00eda",
+            "lema": "ciudadan\u00eda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "En_cuanto_a",
+            "lema": "en_cuanto_a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "Conferencia_sobre_el_Futuro_de_Europa",
+            "lema": "conferencia_sobre_el_futuro_de_europa",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "yo",
+            "lema": "yo",
+            "pos": "PP1CSN0",
+            "prob": "1"
+        },
+        {
+            "word": "le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "pido",
+            "lema": "pedir",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "atendiendo",
+            "lema": "atender",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "composici\u00f3n",
+            "lema": "composici\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Estado",
+            "lema": "estado",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "espa\u00f1ol",
+            "lema": "espa\u00f1ol",
+            "pos": "AQ0MS00",
+            "prob": "0.767229"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "llevemos",
+            "lema": "llevar",
+            "pos": "VMM01P0",
+            "prob": "0.166006"
+        },
+        {
+            "word": "tambi\u00e9n",
+            "lema": "tambi\u00e9n",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "voz",
+            "lema": "voz",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "esa",
+            "lema": "ese",
+            "pos": "DD0FS0",
+            "prob": "0.964505"
+        },
+        {
+            "word": "manera",
+            "lema": "manera",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por_lo_tanto",
+            "lema": "por_lo_tanto",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "entidades",
+            "lema": "entidad",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "supraestatales",
+            "lema": "supraestatal",
+            "pos": "AQ0CP00",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": "hay",
+            "lema": "haber",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "algunos",
+            "lema": "alguno",
+            "pos": "DI0MP0",
+            "prob": "0.60333"
+        },
+        {
+            "word": "Gobiernos",
+            "lema": "gobiernos",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "auton\u00f3micos",
+            "lema": "auton\u00f3mico",
+            "pos": "AQ0MP00",
+            "prob": "1"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "aut\u00e9ntica",
+            "lema": "aut\u00e9ntico",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": "vocaci\u00f3n",
+            "lema": "vocaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": "puedan",
+            "lema": "poder",
+            "pos": "VMSP3P0",
+            "prob": "0.997382"
+        },
+        {
+            "word": "tener",
+            "lema": "tener",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "voz",
+            "lema": "voz",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "directa",
+            "lema": "directo",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "esa",
+            "lema": "ese",
+            "pos": "DD0FS0",
+            "prob": "0.964505"
+        },
+        {
+            "word": "conferencia",
+            "lema": "conferencia",
+            "pos": "NCFS000",
+            "prob": "0.994169"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "exponer",
+            "lema": "exponer",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "sus",
+            "lema": "su",
+            "pos": "DP3CPN",
+            "prob": "0.999903"
+        },
+        {
+            "word": "ideas",
+            "lema": "idea",
+            "pos": "NCFP000",
+            "prob": "0.991031"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Me",
+            "lema": "me",
+            "pos": "PP1CS00",
+            "prob": "0.755196"
+        },
+        {
+            "word": "parece",
+            "lema": "parecer",
+            "pos": "VMIP3S0",
+            "prob": "0.999002"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "ser\u00eda",
+            "lema": "ser",
+            "pos": "VSIC1S0",
+            "prob": "0.5"
+        },
+        {
+            "word": "lo",
+            "lema": "el",
+            "pos": "DA00S0",
+            "prob": "0.665165"
+        },
+        {
+            "word": "m\u00e1s",
+            "lema": "m\u00e1s",
+            "pos": "RG",
+            "prob": "0.99993"
+        },
+        {
+            "word": "realista",
+            "lema": "realista",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "sobre",
+            "lema": "sobre",
+            "pos": "SP",
+            "prob": "0.997804"
+        },
+        {
+            "word": "todo",
+            "lema": "todo",
+            "pos": "PI0MS00",
+            "prob": "0.327644"
+        },
+        {
+            "word": "conociendo",
+            "lema": "conocer",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": "esa",
+            "lema": "ese",
+            "pos": "DD0FS0",
+            "prob": "0.964505"
+        },
+        {
+            "word": "vocaci\u00f3n",
+            "lema": "vocaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "europea",
+            "lema": "europeo",
+            "pos": "AQ0FS00",
+            "prob": "0.997449"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Tambi\u00e9n",
+            "lema": "tambi\u00e9n",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "pido",
+            "lema": "pedir",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "tenga",
+            "lema": "tener",
+            "pos": "VMSP3S0",
+            "prob": "0.488844"
+        },
+        {
+            "word": "usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "cuenta",
+            "lema": "contar",
+            "pos": "VMIP3S0",
+            "prob": "0.768585"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "participaci\u00f3n",
+            "lema": "participaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Consejo_de_el_Ecofin",
+            "lema": "consejo_de_el_ecofin",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Consejo_de_Justicia",
+            "lema": "consejo_de_justicia",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "e",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.987994"
+        },
+        {
+            "word": "Interior",
+            "lema": "interior",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "comunidades",
+            "lema": "comunidad",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "aut\u00f3nomas",
+            "lema": "aut\u00f3nomo",
+            "pos": "AQ0FP00",
+            "prob": "1"
+        },
+        {
+            "word": "como",
+            "lema": "como",
+            "pos": "CS",
+            "prob": "0.967153"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "nuestra",
+            "lema": "nuestro",
+            "pos": "AP0FS1P",
+            "prob": "0.132546"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "caracter\u00edsticas",
+            "lema": "caracter\u00edstica",
+            "pos": "NCFP000",
+            "prob": "0.994792"
+        },
+        {
+            "word": "propias",
+            "lema": "propio",
+            "pos": "AQ0FP00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por_ejemplo",
+            "lema": "por_ejemplo",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "tienen",
+            "lema": "tener",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "haciendas",
+            "lema": "hacienda",
+            "pos": "NCFP000",
+            "prob": "0.989726"
+        },
+        {
+            "word": "absolutamente",
+            "lema": "absolutamente",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "diferenciadas",
+            "lema": "diferenciar",
+            "pos": "VMP00PF",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Ser\u00eda",
+            "lema": "ser",
+            "pos": "VSIC1S0",
+            "prob": "0.5"
+        },
+        {
+            "word": "muy",
+            "lema": "muy",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "importante",
+            "lema": "importante",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "esa",
+            "lema": "ese",
+            "pos": "DD0FS0",
+            "prob": "0.964505"
+        },
+        {
+            "word": "participaci\u00f3n",
+            "lema": "participaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "directa",
+            "lema": "directo",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "Europa",
+            "lema": "europa",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Har\u00edamos",
+            "lema": "hacer",
+            "pos": "VMIC1P0",
+            "prob": "1"
+        },
+        {
+            "word": "m\u00e1s",
+            "lema": "m\u00e1s",
+            "pos": "RG",
+            "prob": "0.99993"
+        },
+        {
+            "word": "Europa",
+            "lema": "europa",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "esa",
+            "lema": "ese",
+            "pos": "DD0FS0",
+            "prob": "0.964505"
+        },
+        {
+            "word": "manera",
+            "lema": "manera",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,7 +1,7 @@
 {
     "metadata": {
         "celebrated": "2020-02-18T00:00:00.000Z",
-        "debate": "PROPOSICIONES NO DE LEY. (VOTACIÓN): -- DEL GRUPO P ARLAMENT ARIO VOX, RELA TIV A A LA APLICACIÓN DE LAS MEDIDAS NECESARIAS PARA ACABAR CON EL INVIERNO DEMOGRÁFICO, FOMENTAR LA NATALIDAD Y PROTEGER LA FAMILIA COMO NÚCLEO DE LA SOCIEDAD. ",
+        "debate": "PROPOSICIONES NO DE LEY. (VOTACI\u00d3N): -- DEL GRUPO P ARLAMENT ARIO VOX, RELA TIV A A LA APLICACI\u00d3N DE LAS MEDIDAS NECESARIAS PARA ACABAR CON EL INVIERNO DEMOGR\u00c1FICO, FOMENTAR LA NATALIDAD Y PROTEGER LA FAMILIA COMO N\u00daCLEO DE LA SOCIEDAD. ",
         "diputado": [
             {
                 "apellidos": "Rosique i Saltor",
@@ -24,9 +24,65 @@
         ],
         "order": 103,
         "path": "../data/diaries-txts/DSCD-14-PL-009.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "ROSIQUE I SALTOR"
     },
-    "text": "Los que contribuyeron a… (Protestas)."
+    "text": "Los que contribuyeron a\u2026 (Protestas).",
+    "freeling": [
+        {
+            "word": "Los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "contribuyeron",
+            "lema": "contribuir",
+            "pos": "VMIS3P0",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Protestas",
+            "lema": "protestas",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

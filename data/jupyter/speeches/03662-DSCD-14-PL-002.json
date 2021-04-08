@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-03-20T00:00:00.000Z",
-        "debate": "ACTOS EN RELACIÓN CON LOS ESTADOS DE ALARMA, EXCEPCIÓN Y SITIO: -- SOLICITUD DE AUTORIZACIÓN DE LA PRÓRROGA DEL ESTADO DE ALARMA DECLARADO MEDIANTE EL REAL DECRETO 463/2020, DE 14 DE MARZO, POR EL QUE SE DECLARA EL ESTADO DE ALARMA PARA LA GESTIÓN DE LA SITUACIÓN DE CRISIS SANITARIA OCASIONADA POR EL COVID-19, PRORROGADO POR LOS REALES DECRETOS 476/2020, DE 27 DE MARZO, 487/2020, DE 10 DE ABRIL, 492/2020, DE 24 DE ABRIL, Y 514/2020, DE 8 DE MAYO. ",
+        "debate": "ACTOS EN RELACI\u00d3N CON LOS ESTADOS DE ALARMA, EXCEPCI\u00d3N Y SITIO: -- SOLICITUD DE AUTORIZACI\u00d3N DE LA PR\u00d3RROGA DEL ESTADO DE ALARMA DECLARADO MEDIANTE EL REAL DECRETO 463/2020, DE 14 DE MARZO, POR EL QUE SE DECLARA EL ESTADO DE ALARMA PARA LA GESTI\u00d3N DE LA SITUACI\u00d3N DE CRISIS SANITARIA OCASIONADA POR EL COVID-19, PRORROGADO POR LOS REALES DECRETOS 476/2020, DE 27 DE MARZO, 487/2020, DE 10 DE ABRIL, 492/2020, DE 24 DE ABRIL, Y 514/2020, DE 8 DE MAYO. ",
         "diputado": [
             {
-                "apellidos": "Borrás Pabón",
-                "apellidosNombre": "Borrás Pabón, Mireia",
+                "apellidos": "Borr\u00e1s Pab\u00f3n",
+                "apellidosNombre": "Borr\u00e1s Pab\u00f3n, Mireia",
                 "codParlamentario": 142,
                 "fchAlta": "22/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,785 @@
         ],
         "order": 160,
         "path": "../data/diaries-txts/DSCD-14-PL-023.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "BORRÀS CASTANYER"
+        "speacker": "BORR\u00c0S CASTANYER"
     },
-    "text": "Muchas gracias, señora presidenta. Señora ministra, el estado de alarma paralizó la actividad de centenares de miles de empresas de hoy para mañana. Tres millones y medio de trabajadores debieron acogerse a un ERTE. Nadie estaba preparado para ello, pero empresas y trabajadores pararon para frenar la expansión de los contagios, gestores y asesores hicieron los deberes y el Estado no ha cumplido con ellos. Estamos a 20 de mayo y la mayor parte de los afectados por ERTE tramitados hace ya dos meses no han cobrado todavía. En el siglo de la telemática y de la rapidez, la burocracia sigue atenazando la Administración. Parece que estamos en el perpetuo vuelva usted mañana. ¿Cuándo va el Gobierno a hacer efectivos esos pagos?"
+    "text": "Muchas gracias, se\u00f1ora presidenta. Se\u00f1ora ministra, el estado de alarma paraliz\u00f3 la actividad de centenares de miles de empresas de hoy para ma\u00f1ana. Tres millones y medio de trabajadores debieron acogerse a un ERTE. Nadie estaba preparado para ello, pero empresas y trabajadores pararon para frenar la expansi\u00f3n de los contagios, gestores y asesores hicieron los deberes y el Estado no ha cumplido con ellos. Estamos a 20 de mayo y la mayor parte de los afectados por ERTE tramitados hace ya dos meses no han cobrado todav\u00eda. En el siglo de la telem\u00e1tica y de la rapidez, la burocracia sigue atenazando la Administraci\u00f3n. Parece que estamos en el perpetuo vuelva usted ma\u00f1ana. \u00bfCu\u00e1ndo va el Gobierno a hacer efectivos esos pagos?",
+    "freeling": [
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "ministra",
+            "lema": "ministro",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "estado",
+            "lema": "estado",
+            "pos": "NCMS000",
+            "prob": "0.647596"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "alarma",
+            "lema": "alarma",
+            "pos": "NCFS000",
+            "prob": "0.972603"
+        },
+        {
+            "word": "paraliz\u00f3",
+            "lema": "paralizar",
+            "pos": "VMIS3S0",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "actividad",
+            "lema": "actividad",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "centenares",
+            "lema": "centenar",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "miles",
+            "lema": "mil",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "empresas",
+            "lema": "empresa",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "de_hoy_para_ma\u00f1ana",
+            "lema": "de_hoy_para_ma\u00f1ana",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Tres_millones_y_medio",
+            "lema": "3500000",
+            "pos": "Zd",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "trabajadores",
+            "lema": "trabajador",
+            "pos": "NCMP000",
+            "prob": "0.99867"
+        },
+        {
+            "word": "debieron",
+            "lema": "deber",
+            "pos": "VMIS3P0",
+            "prob": "1"
+        },
+        {
+            "word": "acoger",
+            "lema": "acoger",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "PP3CN00",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "ERTE",
+            "lema": "erte",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Nadie",
+            "lema": "nadie",
+            "pos": "PI0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "estaba",
+            "lema": "estar",
+            "pos": "VMII3S0",
+            "prob": "0.499587"
+        },
+        {
+            "word": "preparado",
+            "lema": "preparar",
+            "pos": "VMP00SM",
+            "prob": "0.936047"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "ello",
+            "lema": "ello",
+            "pos": "PD00S00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "pero",
+            "lema": "pero",
+            "pos": "CC",
+            "prob": "0.999902"
+        },
+        {
+            "word": "empresas",
+            "lema": "empresa",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "trabajadores",
+            "lema": "trabajador",
+            "pos": "NCMP000",
+            "prob": "0.99867"
+        },
+        {
+            "word": "pararon",
+            "lema": "parar",
+            "pos": "VMIS3P0",
+            "prob": "1"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "frenar",
+            "lema": "frenar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "expansi\u00f3n",
+            "lema": "expansi\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "contagios",
+            "lema": "contagio",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "gestores",
+            "lema": "gestor",
+            "pos": "NCMP000",
+            "prob": "0.638706"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "asesores",
+            "lema": "asesor",
+            "pos": "NCMP000",
+            "prob": "0.962264"
+        },
+        {
+            "word": "hicieron",
+            "lema": "hacer",
+            "pos": "VMIS3P0",
+            "prob": "1"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "deberes",
+            "lema": "deber",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Estado",
+            "lema": "estado",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "cumplido",
+            "lema": "cumplir",
+            "pos": "VMP00SM",
+            "prob": "0.993421"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "ellos",
+            "lema": "ellos",
+            "pos": "PP3MP00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Estamos",
+            "lema": "estar",
+            "pos": "VMIP1P0",
+            "prob": "0.998282"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "20_de_mayo",
+            "lema": "[??:20/5/??:??.??:??]",
+            "pos": "W",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "mayor",
+            "lema": "mayor",
+            "pos": "AQ0CS00",
+            "prob": "0.9995"
+        },
+        {
+            "word": "parte",
+            "lema": "parte",
+            "pos": "NCCS000",
+            "prob": "0.977711"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "afectados",
+            "lema": "afectado",
+            "pos": "NCMP000",
+            "prob": "0.578125"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "ERTE",
+            "lema": "erte",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "tramitados",
+            "lema": "tramitar",
+            "pos": "VMP00PM",
+            "prob": "1"
+        },
+        {
+            "word": "hace",
+            "lema": "hacer",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "ya",
+            "lema": "ya",
+            "pos": "RG",
+            "prob": "0.999785"
+        },
+        {
+            "word": "dos",
+            "lema": "2",
+            "pos": "Z",
+            "prob": "0.999868"
+        },
+        {
+            "word": "meses",
+            "lema": "mes",
+            "pos": "NCMP000",
+            "prob": "0.999436"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "han",
+            "lema": "haber",
+            "pos": "VAIP3P0",
+            "prob": "0.999845"
+        },
+        {
+            "word": "cobrado",
+            "lema": "cobrar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "todav\u00eda",
+            "lema": "todav\u00eda",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "En",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "siglo",
+            "lema": "siglo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "telem\u00e1tica",
+            "lema": "telem\u00e1tica",
+            "pos": "NCFS000",
+            "prob": "0.488664"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "rapidez",
+            "lema": "rapidez",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "burocracia",
+            "lema": "burocracia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "sigue",
+            "lema": "seguir",
+            "pos": "VMIP3S0",
+            "prob": "0.998798"
+        },
+        {
+            "word": "atenazando",
+            "lema": "atenazar",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "Administraci\u00f3n",
+            "lema": "administraci\u00f3n",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Parece",
+            "lema": "parecer",
+            "pos": "VMIP3S0",
+            "prob": "0.999002"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "estamos",
+            "lema": "estar",
+            "pos": "VMIP1P0",
+            "prob": "0.998282"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "perpetuo",
+            "lema": "perpetuo",
+            "pos": "AQ0MS00",
+            "prob": "1"
+        },
+        {
+            "word": "vuelva",
+            "lema": "volver",
+            "pos": "VMSP3S0",
+            "prob": "0.497268"
+        },
+        {
+            "word": "usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": "ma\u00f1ana",
+            "lema": "ma\u00f1ana",
+            "pos": "NCCS000",
+            "prob": "0.461592"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "Cu\u00e1ndo",
+            "lema": "cu\u00e1ndo",
+            "pos": "PT00000",
+            "prob": "0.991071"
+        },
+        {
+            "word": "va",
+            "lema": "ir",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "hacer",
+            "lema": "hacer",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "efectivos",
+            "lema": "efectivo",
+            "pos": "NCMP000",
+            "prob": "0.8125"
+        },
+        {
+            "word": "esos",
+            "lema": "ese",
+            "pos": "DD0MP0",
+            "prob": "0.986618"
+        },
+        {
+            "word": "pagos",
+            "lema": "pago",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        }
+    ]
 }

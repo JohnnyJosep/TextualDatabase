@@ -1,17 +1,17 @@
 {
     "metadata": {
         "celebrated": "2020-02-25T00:00:00.000Z",
-        "debate": "PROPOSICIONES NO DE LEY. (VOTACIÓN): -- DEL GRUPO P ARLAMENT ARIO DE EUSKAL HERRIA BILDU, SOBRE PENSIONES. ",
+        "debate": "PROPOSICIONES NO DE LEY. (VOTACI\u00d3N): -- DEL GRUPO P ARLAMENT ARIO DE EUSKAL HERRIA BILDU, SOBRE PENSIONES. ",
         "diputado": [
             {
-                "apellidos": "Asens Llodrà",
-                "apellidosNombre": "Asens Llodrà, Jaume",
+                "apellidos": "Asens Llodr\u00e0",
+                "apellidosNombre": "Asens Llodr\u00e0, Jaume",
                 "codParlamentario": 291,
                 "fchAlta": "27/11/2019",
                 "fchBaja": "",
                 "formacion": "ECP-GUAYEM EL CANVI",
                 "genero": 1,
-                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común",
+                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Com\u00fa Podem-Galicia en Com\u00fan",
                 "idCircunscripcion": 8,
                 "idLegislatura": 14,
                 "nombre": "Jaume",
@@ -24,9 +24,251 @@
         ],
         "order": 97,
         "path": "../data/diaries-txts/DSCD-14-PL-012.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "ASENS LLODRÀ"
+        "speacker": "ASENS LLODR\u00c0"
     },
-    "text": "Termino. Señores de VOX, salgan de sus cárceles mentales, las cárceles del odio y de la venganza que, como decía Mandela, son las peores cárceles posibles. Muchas gracias. (Aplausos)."
+    "text": "Termino. Se\u00f1ores de VOX, salgan de sus c\u00e1rceles mentales, las c\u00e1rceles del odio y de la venganza que, como dec\u00eda Mandela, son las peores c\u00e1rceles posibles. Muchas gracias. (Aplausos).",
+    "freeling": [
+        {
+            "word": "Termino",
+            "lema": "terminar",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Se\u00f1ores",
+            "lema": "se\u00f1or",
+            "pos": "NCMP000",
+            "prob": "0.638706"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "VOX",
+            "lema": "vox",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "salgan",
+            "lema": "salgar",
+            "pos": "VMIP3P0",
+            "prob": "0.928124"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "sus",
+            "lema": "su",
+            "pos": "DP3CPN",
+            "prob": "0.999903"
+        },
+        {
+            "word": "c\u00e1rceles",
+            "lema": "c\u00e1rcel",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "mentales",
+            "lema": "mental",
+            "pos": "AQ0CP00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "c\u00e1rceles",
+            "lema": "c\u00e1rcel",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "odio",
+            "lema": "odio",
+            "pos": "NCMS000",
+            "prob": "0.980769"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "venganza",
+            "lema": "venganza",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "como",
+            "lema": "como",
+            "pos": "CS",
+            "prob": "0.967153"
+        },
+        {
+            "word": "dec\u00eda",
+            "lema": "decir",
+            "pos": "VMII3S0",
+            "prob": "0.649996"
+        },
+        {
+            "word": "Mandela",
+            "lema": "mandela",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "son",
+            "lema": "ser",
+            "pos": "VSIP3P0",
+            "prob": "0.995197"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "peores",
+            "lema": "peor",
+            "pos": "AQ0CP00",
+            "prob": "1"
+        },
+        {
+            "word": "c\u00e1rceles",
+            "lema": "c\u00e1rcel",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "posibles",
+            "lema": "posible",
+            "pos": "AQ0CP00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplausos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-06-25T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (VOTACIÓN): -- DEL GRUPO PARLAMENTARIO MIXTO (SEÑOR BOTRAN PAHISSA), RELATIVA A LA POSTURA DEL GOBIERNO EN RELACIÓN A LA REPRESIÓN A LA DISIDENCIA POLÍTICA EN EL ESTADO ESPAÑOL. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (VOTACI\u00d3N): -- DEL GRUPO PARLAMENTARIO MIXTO (SE\u00d1OR BOTRAN PAHISSA), RELATIVA A LA POSTURA DEL GOBIERNO EN RELACI\u00d3N A LA REPRESI\u00d3N A LA DISIDENCIA POL\u00cdTICA EN EL ESTADO ESPA\u00d1OL. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,77 @@
         ],
         "order": 10,
         "path": "../data/diaries-txts/DSCD-14-PL-033.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "En consecuencia, queda rechazado el punto número 10. --"
+    "text": "En consecuencia, queda rechazado el punto n\u00famero 10. --",
+    "freeling": [
+        {
+            "word": "En_consecuencia",
+            "lema": "en_consecuencia",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "queda",
+            "lema": "quedar",
+            "pos": "VMIP3S0",
+            "prob": "0.945755"
+        },
+        {
+            "word": "rechazado",
+            "lema": "rechazar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "punto",
+            "lema": "punto",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "n\u00famero",
+            "lema": "n\u00famero",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "10",
+            "lema": "10",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

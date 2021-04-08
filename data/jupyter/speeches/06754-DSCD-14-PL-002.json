@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-08-25T00:00:00.000Z",
-        "debate": "DEL DÍA: -- COMPARECENCIA DE LA MINISTRA DE HACIENDA, PARA INFORMAR SOBRE EL ACUERDO ALCANZADO ENTRE EL DEPARTAMENTO QUE DIRIGE Y LA FEDERACIÓN ESPAÑOLA DE MUNICIPIOS Y PROVINCIAS (FEMP) RELATIVO A LA INCAUTACIÓN DE REMANENTES DE LAS ENTIDADES LOCALES POR PARTE DEL ESTADO, ASÍ COMO LA AUTORIZACIÓN DEL USO DE SUPERÁVIT DE LOS AYUNTAMIENTOS.",
+        "debate": "DEL D\u00cdA: -- COMPARECENCIA DE LA MINISTRA DE HACIENDA, PARA INFORMAR SOBRE EL ACUERDO ALCANZADO ENTRE EL DEPARTAMENTO QUE DIRIGE Y LA FEDERACI\u00d3N ESPA\u00d1OLA DE MUNICIPIOS Y PROVINCIAS (FEMP) RELATIVO A LA INCAUTACI\u00d3N DE REMANENTES DE LAS ENTIDADES LOCALES POR PARTE DEL ESTADO, AS\u00cd COMO LA AUTORIZACI\u00d3N DEL USO DE SUPER\u00c1VIT DE LOS AYUNTAMIENTOS.",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,107 @@
         ],
         "order": 24,
         "path": "../data/diaries-txts/DSCD-14-PL-040.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Gracias, señora Cañizares. Por el Grupo Parlamentario Socialista, tiene la palabra la señora Sumelzo Jordán."
+    "text": "Gracias, se\u00f1ora Ca\u00f1izares. Por el Grupo Parlamentario Socialista, tiene la palabra la se\u00f1ora Sumelzo Jord\u00e1n.",
+    "freeling": [
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "Ca\u00f1izares",
+            "lema": "ca\u00f1izares",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Grupo_Parlamentario_Socialista",
+            "lema": "grupo_parlamentario_socialista",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "tiene",
+            "lema": "tener",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "palabra",
+            "lema": "palabra",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "Sumelzo_Jord\u00e1n",
+            "lema": "sumelzo_jord\u00e1n",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

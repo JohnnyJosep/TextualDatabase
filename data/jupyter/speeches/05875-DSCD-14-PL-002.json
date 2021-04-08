@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-06-25T00:00:00.000Z",
-        "debate": "DICTÁMENES DE LA COMISIÓN DE ESTATUTO DE LOS DIPUTADOS. (VOTACIÓN). -- DICTAMEN DE LA COMISIÓN DE ESTATUTO DE LOS DIPUTADOS ACERCA DEL SUPLICATORIO FORMULADO EN RELACIÓN CON UNA SEÑORA DIPUTADA. ",
+        "debate": "DICT\u00c1MENES DE LA COMISI\u00d3N DE ESTATUTO DE LOS DIPUTADOS. (VOTACI\u00d3N). -- DICTAMEN DE LA COMISI\u00d3N DE ESTATUTO DE LOS DIPUTADOS ACERCA DEL SUPLICATORIO FORMULADO EN RELACI\u00d3N CON UNA SE\u00d1ORA DIPUTADA. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,233 @@
         ],
         "order": 103,
         "path": "../data/diaries-txts/DSCD-14-PL-033.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "En consecuencia, queda rechazado el punto número 10. -- DEL GRUPO PARLAMENTARIO MIXTO (SEÑOR GUITARTE GIMENO), SOBRE LA NECESIDAD DE UN PLAN ESPECIAL PARA LA RECUPERACIÓN DE LA ESPAÑA VACIADA Y EL RETO DEMOGRÁFICO, DE ACUERDO CON LOS OBJETIVOS DEL PLAN DE RECUPERACIÓN PARA EUROPA DE LA UNIÓN EUROPEA."
+    "text": "En consecuencia, queda rechazado el punto n\u00famero 10. -- DEL GRUPO PARLAMENTARIO MIXTO (SE\u00d1OR GUITARTE GIMENO), SOBRE LA NECESIDAD DE UN PLAN ESPECIAL PARA LA RECUPERACI\u00d3N DE LA ESPA\u00d1A VACIADA Y EL RETO DEMOGR\u00c1FICO, DE ACUERDO CON LOS OBJETIVOS DEL PLAN DE RECUPERACI\u00d3N PARA EUROPA DE LA UNI\u00d3N EUROPEA.",
+    "freeling": [
+        {
+            "word": "En_consecuencia",
+            "lema": "en_consecuencia",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "queda",
+            "lema": "quedar",
+            "pos": "VMIP3S0",
+            "prob": "0.945755"
+        },
+        {
+            "word": "rechazado",
+            "lema": "rechazar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "punto",
+            "lema": "punto",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "n\u00famero",
+            "lema": "n\u00famero",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "10",
+            "lema": "10",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "GRUPO_PARLAMENTARIO_MIXTO",
+            "lema": "grupo_parlamentario_mixto",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "SE\u00d1OR",
+            "lema": "se\u00f1or",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "GUITAR",
+            "lema": "guitar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "TE",
+            "lema": "te",
+            "pos": "PP2CS00",
+            "prob": "1"
+        },
+        {
+            "word": "GIMENO",
+            "lema": "gemir_no",
+            "pos": "NCCN000",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "SOBRE",
+            "lema": "sobre",
+            "pos": "SP",
+            "prob": "0.997804"
+        },
+        {
+            "word": "LA",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "NECESIDAD",
+            "lema": "necesidad",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "UN",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "PLAN_ESPECIAL_PARA_LA_RECUPERACI\u00d3N_DE_LA_ESPA\u00d1A_VACIADA_Y_EL_RETO_DEMOGR\u00c1FICO",
+            "lema": "plan_especial_para_la_recuperaci\u00f3n_de_la_espa\u00f1a_vaciada_y_el_reto_demogr\u00e1fico",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "DE_ACUERDO_CON",
+            "lema": "de_acuerdo_con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "LOS",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "OBJETIVOS",
+            "lema": "objetivo",
+            "pos": "NCMP000",
+            "prob": "0.962329"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "PLAN_DE_RECUPERACI\u00d3N_PARA_EUROPA",
+            "lema": "plan_de_recuperaci\u00f3n_para_europa",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "LA",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "UNI\u00d3N_EUROPEA",
+            "lema": "uni\u00f3n_europea",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

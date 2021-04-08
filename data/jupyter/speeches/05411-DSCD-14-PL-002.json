@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-06-24T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- PREGUNT A FORMULADA POR EL DIPUT ADO DON JOSÉ MARÍA FIGAREDO ÁL V AREZ–SALA, EN SUSTITUCIÓN DE DOÑA MACARENA OLONA CHOCLÁN, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA A LA SEÑORA MINISTRA DE INDUSTRIA, COMERCIO Y TURISMO: ¿CÓMO VA A PROTEGER EL GOBIERNO A LOS TRABAJADORES DE ALCOA? ",
+        "debate": "PREGUNTAS: -- PREGUNT A FORMULADA POR EL DIPUT ADO DON JOS\u00c9 MAR\u00cdA FIGAREDO \u00c1L V AREZ\u2013SALA, EN SUSTITUCI\u00d3N DE DO\u00d1A MACARENA OLONA CHOCL\u00c1N, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA A LA SE\u00d1ORA MINISTRA DE INDUSTRIA, COMERCIO Y TURISMO: \u00bfC\u00d3MO VA A PROTEGER EL GOBIERNO A LOS TRABAJADORES DE ALCOA? ",
         "diputado": [
             {
-                "apellidos": "Figaredo Álvarez-Sala",
-                "apellidosNombre": "Figaredo Álvarez-Sala, José María",
+                "apellidos": "Figaredo \u00c1lvarez-Sala",
+                "apellidosNombre": "Figaredo \u00c1lvarez-Sala, Jos\u00e9 Mar\u00eda",
                 "codParlamentario": 318,
                 "fchAlta": "28/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario VOX",
                 "idCircunscripcion": 33,
                 "idLegislatura": 14,
-                "nombre": "José María",
+                "nombre": "Jos\u00e9 Mar\u00eda",
                 "nombreCircunscripcion": "Asturias",
                 "twitter": "https://twitter.com/FigaredoJose",
                 "twitterUserId": "2799483719",
@@ -24,9 +24,107 @@
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-032.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "FIGAREDO ÁLVAREZ-SALA"
+        "speacker": "FIGAREDO \u00c1LVAREZ-SALA"
     },
-    "text": "Señora ministra, ¿cómo va a proteger su Gobierno a los trabajadores de Alcoa?"
+    "text": "Se\u00f1ora ministra, \u00bfc\u00f3mo va a proteger su Gobierno a los trabajadores de Alcoa?",
+    "freeling": [
+        {
+            "word": "Se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "ministra",
+            "lema": "ministro",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "c\u00f3mo",
+            "lema": "c\u00f3mo",
+            "pos": "PT00000",
+            "prob": "0.997099"
+        },
+        {
+            "word": "va",
+            "lema": "ir",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "proteger",
+            "lema": "proteger",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "trabajadores",
+            "lema": "trabajador",
+            "pos": "NCMP000",
+            "prob": "0.99867"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Alcoa",
+            "lema": "alcoa",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        }
+    ]
 }

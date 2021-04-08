@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-18T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (VOTACIÓN): -- DEL GRUPO P ARLAMENT ARIO REPUBLICANO, SOBRE LA SITUACIÓN QUE A TRA VIESA EL SECTOR FRUTÍCOLA. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (VOTACI\u00d3N): -- DEL GRUPO P ARLAMENT ARIO REPUBLICANO, SOBRE LA SITUACI\u00d3N QUE A TRA VIESA EL SECTOR FRUT\u00cdCOLA. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,551 @@
         ],
         "order": 42,
         "path": "../data/diaries-txts/DSCD-14-PL-009.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Queda aprobada. (Aplausos). MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (VOTACIÓN): -- DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, SOBRE LOS MOTIVOS DEL MINISTRO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA QUE LE LLEVARON A MANTENER UNA REUNIÓN CON DELCY RODRÍ GUEZ, LOS COMPROMISOS QUE FUERON ADQUIRIDOS EN NOMBRE DEL GOBIERNO DE ESPAÑA CON EL RÉGIMEN DE NICOLÁS MADURO Y LA INCIDENCIA DE DICHOS COMPROMISOS EN LAS RELACIONES DE ESPAÑA CON VENEZUELA, CON LA UNIÓN EUROPEA Y CON NUESTROS ALIADOS."
+    "text": "Queda aprobada. (Aplausos). MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (VOTACI\u00d3N): -- DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, SOBRE LOS MOTIVOS DEL MINISTRO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA QUE LE LLEVARON A MANTENER UNA REUNI\u00d3N CON DELCY RODR\u00cd GUEZ, LOS COMPROMISOS QUE FUERON ADQUIRIDOS EN NOMBRE DEL GOBIERNO DE ESPA\u00d1A CON EL R\u00c9GIMEN DE NICOL\u00c1S MADURO Y LA INCIDENCIA DE DICHOS COMPROMISOS EN LAS RELACIONES DE ESPA\u00d1A CON VENEZUELA, CON LA UNI\u00d3N EUROPEA Y CON NUESTROS ALIADOS.",
+    "freeling": [
+        {
+            "word": "Queda",
+            "lema": "quedar",
+            "pos": "VMIP3S0",
+            "prob": "0.945755"
+        },
+        {
+            "word": "aprobada",
+            "lema": "aprobar",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplausos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "MOCIONES",
+            "lema": "moci\u00f3n",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "CONSECUENCIA",
+            "lema": "consecuencia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "INTERPELACIONES",
+            "lema": "interpelaci\u00f3n",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "URGENTES",
+            "lema": "urgente",
+            "pos": "AQ0CP00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "VOTACI\u00d3N",
+            "lema": "votaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ":",
+            "lema": ":",
+            "pos": "Fd",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "GRUPO_P_ARLAMENT",
+            "lema": "grupo_p_arlament",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "ARIO",
+            "lema": "ario",
+            "pos": "AQ0MS00",
+            "prob": "0.516134"
+        },
+        {
+            "word": "POPULAR",
+            "lema": "popular",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "EN",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "CONGRESO",
+            "lema": "congreso",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "SOBRE",
+            "lema": "sobre",
+            "pos": "SP",
+            "prob": "0.997804"
+        },
+        {
+            "word": "LOS",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "MOTIVOS",
+            "lema": "motivo",
+            "pos": "NCMP000",
+            "prob": "0.992424"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "MINISTRO",
+            "lema": "ministro",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "TRANSPORTES",
+            "lema": "transporte",
+            "pos": "NCMP000",
+            "prob": "0.980769"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "MOVILIDAD",
+            "lema": "movilidad",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "Y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "AGENDA",
+            "lema": "agenda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "URBANA",
+            "lema": "urbano",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": "QUE",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "LE",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "LLEVARON",
+            "lema": "llevar",
+            "pos": "VMIS3P0",
+            "prob": "1"
+        },
+        {
+            "word": "A",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "MANTENER",
+            "lema": "mantener",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "UNA",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "REUNI\u00d3N",
+            "lema": "reuni\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "CON",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "DELCY",
+            "lema": "delcy",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": "RODR\u00cd",
+            "lema": "rodr\u00ed",
+            "pos": "VMIS1S0",
+            "prob": "0.500017"
+        },
+        {
+            "word": "GUEZ",
+            "lema": "guez",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "LOS",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "COMPROMISOS",
+            "lema": "compromisos",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "QUE",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "FUERON",
+            "lema": "ser",
+            "pos": "VSIS3P0",
+            "prob": "0.933213"
+        },
+        {
+            "word": "ADQUIRIDOS",
+            "lema": "adquirir",
+            "pos": "VMP00PM",
+            "prob": "1"
+        },
+        {
+            "word": "EN",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "NOMBRE",
+            "lema": "nombre",
+            "pos": "NCMS000",
+            "prob": "0.995342"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "GOBIERNO_DE_ESPA\u00d1A",
+            "lema": "gobierno_de_espa\u00f1a",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "CON",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "R\u00c9GIMEN",
+            "lema": "r\u00e9gimen",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "NICOL\u00c1S",
+            "lema": "nicol\u00e1s",
+            "pos": "RG",
+            "prob": "0.990598"
+        },
+        {
+            "word": "MADURO",
+            "lema": "maduro",
+            "pos": "AQ0MS00",
+            "prob": "0.974619"
+        },
+        {
+            "word": "Y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "LA",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "INCIDENCIA",
+            "lema": "incidencia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "DICHOS",
+            "lema": "decir",
+            "pos": "VMP00PM",
+            "prob": "0.97619"
+        },
+        {
+            "word": "COMPROMISOS",
+            "lema": "compromiso",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "EN",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "LAS",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "RELACIONES",
+            "lema": "relaci\u00f3n",
+            "pos": "NCFP000",
+            "prob": "0.998155"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "ESPA\u00d1A",
+            "lema": "espa\u00f1a",
+            "pos": "NCFS000",
+            "prob": "0.98193"
+        },
+        {
+            "word": "CON",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "VENEZUELA",
+            "lema": "venezuela",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "CON",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "LA",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "UNI\u00d3N_EUROPEA",
+            "lema": "uni\u00f3n_europea",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "Y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "CON",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "NUESTROS",
+            "lema": "nuestro",
+            "pos": "DP1MPP",
+            "prob": "0.920918"
+        },
+        {
+            "word": "ALIADOS",
+            "lema": "aliado",
+            "pos": "NCMP000",
+            "prob": "0.685185"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

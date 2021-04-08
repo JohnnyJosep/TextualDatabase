@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-09T00:00:00.000Z",
-        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, A LA MINISTRA DE EDUCACIÓN Y FORMACIÓN PROFESIONAL EN RELACIÓN A LA DESIDIA Y LA INCAPACIDAD DEL GOBIERNO PARA GARANTIZAR UNA VUELTA SEGURA A LAS AULAS EN CONDICIONES DE IGUALDAD, A LO LARGO Y ANCHO DE TODO EL TERRITORIO ESPAÑOL. ",
+        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, A LA MINISTRA DE EDUCACI\u00d3N Y FORMACI\u00d3N PROFESIONAL EN RELACI\u00d3N A LA DESIDIA Y LA INCAPACIDAD DEL GOBIERNO PARA GARANTIZAR UNA VUELTA SEGURA A LAS AULAS EN CONDICIONES DE IGUALDAD, A LO LARGO Y ANCHO DE TODO EL TERRITORIO ESPA\u00d1OL. ",
         "diputado": [
             {
-                "apellidos": "Moneo Díez",
-                "apellidosNombre": "Moneo Díez, María Sandra",
+                "apellidos": "Moneo D\u00edez",
+                "apellidosNombre": "Moneo D\u00edez, Mar\u00eda Sandra",
                 "codParlamentario": 337,
                 "fchAlta": "29/11/2019",
                 "fchBaja": "",
@@ -14,16 +14,408 @@
                 "grupo": "Grupo Parlamentario Popular en el Congreso",
                 "idCircunscripcion": 9,
                 "idLegislatura": 14,
-                "nombre": "María Sandra",
+                "nombre": "Mar\u00eda Sandra",
                 "nombreCircunscripcion": "Burgos"
             },
             0
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-042.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "MONEO DÍEZ"
+        "speacker": "MONEO D\u00cdEZ"
     },
-    "text": "Gracias, señora presidenta. Señorías, señora ministra, a lo largo de esta semana y en días posteriores la inmensa mayoría de los más de ocho millones de alumnos españoles volverán nuevamente a sus aulas, seis meses después de que las terribles consecuencias provocadas por el COVID-19 llevaran al cierre de los colegios. (Rumores). Un hecho dramático…"
+    "text": "Gracias, se\u00f1ora presidenta. Se\u00f1or\u00edas, se\u00f1ora ministra, a lo largo de esta semana y en d\u00edas posteriores la inmensa mayor\u00eda de los m\u00e1s de ocho millones de alumnos espa\u00f1oles volver\u00e1n nuevamente a sus aulas, seis meses despu\u00e9s de que las terribles consecuencias provocadas por el COVID-19 llevaran al cierre de los colegios. (Rumores). Un hecho dram\u00e1tico\u2026",
+    "freeling": [
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Se\u00f1or\u00edas",
+            "lema": "se\u00f1or\u00edas",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "ministra",
+            "lema": "ministro",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "lo",
+            "lema": "el",
+            "pos": "DA00S0",
+            "prob": "0.665165"
+        },
+        {
+            "word": "largo",
+            "lema": "largo",
+            "pos": "AQ0MS00",
+            "prob": "0.990132"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "esta",
+            "lema": "este",
+            "pos": "DD0FS0",
+            "prob": "0.978817"
+        },
+        {
+            "word": "semana",
+            "lema": "semana",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "d\u00edas",
+            "lema": "d\u00eda",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "posteriores",
+            "lema": "posterior",
+            "pos": "AQ0CP00",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "inmensa",
+            "lema": "inmenso",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": "mayor\u00eda",
+            "lema": "mayor\u00eda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "m\u00e1s",
+            "lema": "m\u00e1s",
+            "pos": "RG",
+            "prob": "0.99993"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "ocho_millones",
+            "lema": "8000000",
+            "pos": "Zd",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "alumnos",
+            "lema": "alumno",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "espa\u00f1oles",
+            "lema": "espa\u00f1ol",
+            "pos": "AQ0MP00",
+            "prob": "0.584906"
+        },
+        {
+            "word": "volver\u00e1n",
+            "lema": "volver",
+            "pos": "VMIF3P0",
+            "prob": "1"
+        },
+        {
+            "word": "nuevamente",
+            "lema": "nuevamente",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "sus",
+            "lema": "su",
+            "pos": "DP3CPN",
+            "prob": "0.999903"
+        },
+        {
+            "word": "aulas",
+            "lema": "aula",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "seis",
+            "lema": "6",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "meses",
+            "lema": "mes",
+            "pos": "NCMP000",
+            "prob": "0.999436"
+        },
+        {
+            "word": "despu\u00e9s_de",
+            "lema": "despu\u00e9s_de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "terribles",
+            "lema": "terrible",
+            "pos": "AQ0CP00",
+            "prob": "1"
+        },
+        {
+            "word": "consecuencias",
+            "lema": "consecuencia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "provocadas",
+            "lema": "provocar",
+            "pos": "VMP00PF",
+            "prob": "1"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "COVID-19",
+            "lema": "COVID-19",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "llevaran",
+            "lema": "llevar",
+            "pos": "VMSI3P0",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "cierre",
+            "lema": "cierre",
+            "pos": "NCMS000",
+            "prob": "0.875"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "colegios",
+            "lema": "colegio",
+            "pos": "NCMP000",
+            "prob": "0.980769"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Rumores",
+            "lema": "rumores",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "hecho",
+            "lema": "hecho",
+            "pos": "NCMS000",
+            "prob": "0.361738"
+        },
+        {
+            "word": "dram\u00e1tico",
+            "lema": "dram\u00e1tico",
+            "pos": "AQ0MS00",
+            "prob": "0.661294"
+        },
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

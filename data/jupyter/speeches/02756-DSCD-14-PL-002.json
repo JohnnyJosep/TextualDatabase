@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-04-15T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA MIREIA VEHÍ CANTENYS, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿QUÉ OPINIÓN LE MERECE QUE GRANDES EMPRESAS ESPAÑOLAS TENGAN BENEFICIOS MIENTRAS AUMENTAN EL PARO Y EL ENDEUDAMIENTO DE LAS CLASES POPULARES Y EL SECTOR PÚBLICO? ",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DO\u00d1A MIREIA VEH\u00cd CANTENYS, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA AL SE\u00d1OR PRESIDENTE DEL GOBIERNO: \u00bfQUE\u0301 OPINI\u00d3N LE MERECE QUE GRANDES EMPRESAS ESPA\u00d1OLAS TENGAN BENEFICIOS MIENTRAS AUMENTAN EL PARO Y EL ENDEUDAMIENTO DE LAS CLASES POPULARES Y EL SECTOR P\u00daBLICO? ",
         "diputado": [
             {
-                "apellidos": "Vehí Cantenys",
-                "apellidosNombre": "Vehí Cantenys, Mireia",
+                "apellidos": "Veh\u00ed Cantenys",
+                "apellidosNombre": "Veh\u00ed Cantenys, Mireia",
                 "codParlamentario": 86,
                 "fchAlta": "21/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,479 @@
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-018.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "VEHÍ CANTENYS"
+        "speacker": "VEH\u00cd CANTENYS"
     },
-    "text": "Gracias, presidenta. Señor presidente, Amazon ha hecho máximos históricos en la Bolsa de Wall Street, Glovo ha multiplicado por cuatro los repartos en los supermercados, Blackstone ha invertido más que nunca en activos en Europa y BlackRock, otro fondo de inversión, se plantea como comisario político de las medidas anticrisis en Europa. ¿Qué medidas va a tomar su Gobierno con relación a las grandes empresas y los grandes capitales para repartir la riqueza?"
+    "text": "Gracias, presidenta. Se\u00f1or presidente, Amazon ha hecho m\u00e1ximos hist\u00f3ricos en la Bolsa de Wall Street, Glovo ha multiplicado por cuatro los repartos en los supermercados, Blackstone ha invertido m\u00e1s que nunca en activos en Europa y BlackRock, otro fondo de inversi\u00f3n, se plantea como comisario pol\u00edtico de las medidas anticrisis en Europa. \u00bfQu\u00e9 medidas va a tomar su Gobierno con relaci\u00f3n a las grandes empresas y los grandes capitales para repartir la riqueza?",
+    "freeling": [
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "presidente",
+            "lema": "presidente",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Amazon",
+            "lema": "amazon",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "hecho",
+            "lema": "hacer",
+            "pos": "VMP00SM",
+            "prob": "0.638262"
+        },
+        {
+            "word": "m\u00e1ximos",
+            "lema": "m\u00e1ximo",
+            "pos": "AQ0MP00",
+            "prob": "0.991071"
+        },
+        {
+            "word": "hist\u00f3ricos",
+            "lema": "hist\u00f3rico",
+            "pos": "AQ0MP00",
+            "prob": "0.97619"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "Bolsa_de_Wall_Street",
+            "lema": "bolsa_de_wall_street",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Glovo",
+            "lema": "glovo",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "multiplicado",
+            "lema": "multiplicar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "cuatro",
+            "lema": "4",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "repartos",
+            "lema": "reparto",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "supermercados",
+            "lema": "supermercado",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Blackstone",
+            "lema": "blackstone",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "invertido",
+            "lema": "invertir",
+            "pos": "VMP00SM",
+            "prob": "0.980769"
+        },
+        {
+            "word": "m\u00e1s",
+            "lema": "m\u00e1s",
+            "pos": "RG",
+            "prob": "0.99993"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "nunca",
+            "lema": "nunca",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "activos",
+            "lema": "activo",
+            "pos": "NCMP000",
+            "prob": "0.52907"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "Europa",
+            "lema": "europa",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "BlackRock",
+            "lema": "blackrock",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "otro",
+            "lema": "otro",
+            "pos": "DI0MS0",
+            "prob": "0.658501"
+        },
+        {
+            "word": "fondo",
+            "lema": "fondo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "inversi\u00f3n",
+            "lema": "inversi\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "plantea",
+            "lema": "plantear",
+            "pos": "VMIP3S0",
+            "prob": "0.992424"
+        },
+        {
+            "word": "como",
+            "lema": "como",
+            "pos": "CS",
+            "prob": "0.967153"
+        },
+        {
+            "word": "comisario",
+            "lema": "comisario",
+            "pos": "NCCS000",
+            "prob": "1"
+        },
+        {
+            "word": "pol\u00edtico",
+            "lema": "pol\u00edtico",
+            "pos": "AQ0MS00",
+            "prob": "0.792842"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "medidas",
+            "lema": "medida",
+            "pos": "NCFP000",
+            "prob": "0.999067"
+        },
+        {
+            "word": "anticrisis",
+            "lema": "anticrisis",
+            "pos": "AQ0CN00",
+            "prob": "0.361294"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "Europa",
+            "lema": "europa",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "Qu\u00e9",
+            "lema": "qu\u00e9",
+            "pos": "DT0CN0",
+            "prob": "0.216289"
+        },
+        {
+            "word": "medidas",
+            "lema": "medida",
+            "pos": "NCFP000",
+            "prob": "0.999067"
+        },
+        {
+            "word": "va",
+            "lema": "ir",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "tomar",
+            "lema": "tomar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "con_relaci\u00f3n_a",
+            "lema": "con_relaci\u00f3n_a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "grandes",
+            "lema": "grande",
+            "pos": "AQ0CP00",
+            "prob": "0.990534"
+        },
+        {
+            "word": "empresas",
+            "lema": "empresa",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "grandes",
+            "lema": "grande",
+            "pos": "AQ0CP00",
+            "prob": "0.990534"
+        },
+        {
+            "word": "capitales",
+            "lema": "capital",
+            "pos": "NCCP000",
+            "prob": "0.892157"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "repartir",
+            "lema": "repartir",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "riqueza",
+            "lema": "riqueza",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        }
+    ]
 }

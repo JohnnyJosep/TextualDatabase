@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-18T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (VOTACIÓN): -- DEL GRUPO P ARLAMENT ARIO REPUBLICANO, SOBRE LA SITUACIÓN QUE A TRA VIESA EL SECTOR FRUTÍCOLA. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (VOTACI\u00d3N): -- DEL GRUPO P ARLAMENT ARIO REPUBLICANO, SOBRE LA SITUACI\u00d3N QUE A TRA VIESA EL SECTOR FRUT\u00cdCOLA. ",
         "diputado": [
             {
-                "apellidos": "Cañadell Salvia",
-                "apellidosNombre": "Cañadell Salvia, Concep",
+                "apellidos": "Ca\u00f1adell Salvia",
+                "apellidosNombre": "Ca\u00f1adell Salvia, Concep",
                 "codParlamentario": 21,
                 "fchAlta": "19/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,251 @@
         ],
         "order": 15,
         "path": "../data/diaries-txts/DSCD-14-PL-009.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "CAÑADELL SALVIA"
+        "speacker": "CA\u00d1ADELL SALVIA"
     },
-    "text": "Termino. Pero hoy el sector ha dicho basta. Es decir, soluciones o soluciones; que estas sean para hoy, mañana será tarde. Salvem la pagesia, defensem el món rural. (Aplausos)."
+    "text": "Termino. Pero hoy el sector ha dicho basta. Es decir, soluciones o soluciones; que estas sean para hoy, ma\u00f1ana ser\u00e1 tarde. Salvem la pagesia, defensem el m\u00f3n rural. (Aplausos).",
+    "freeling": [
+        {
+            "word": "Termino",
+            "lema": "terminar",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Pero",
+            "lema": "pero",
+            "pos": "CC",
+            "prob": "0.999902"
+        },
+        {
+            "word": "hoy",
+            "lema": "hoy",
+            "pos": "RG",
+            "prob": "0.993864"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "sector",
+            "lema": "sector",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "dicho",
+            "lema": "decir",
+            "pos": "VMP00SM",
+            "prob": "0.997159"
+        },
+        {
+            "word": "basta",
+            "lema": "bastar",
+            "pos": "VMIP3S0",
+            "prob": "0.964286"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "decir",
+            "lema": "decir",
+            "pos": "VMN0000",
+            "prob": "0.998575"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "soluciones",
+            "lema": "soluci\u00f3n",
+            "pos": "NCFP000",
+            "prob": "0.993421"
+        },
+        {
+            "word": "o",
+            "lema": "o",
+            "pos": "CC",
+            "prob": "0.999864"
+        },
+        {
+            "word": "soluciones",
+            "lema": "soluci\u00f3n",
+            "pos": "NCFP000",
+            "prob": "0.993421"
+        },
+        {
+            "word": ";",
+            "lema": ";",
+            "pos": "Fx",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "estas",
+            "lema": "este",
+            "pos": "PD0FP00",
+            "prob": "0.0301028"
+        },
+        {
+            "word": "sean",
+            "lema": "ser",
+            "pos": "VSSP3P0",
+            "prob": "0.996689"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "hoy",
+            "lema": "hoy",
+            "pos": "RG",
+            "prob": "0.993864"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "ma\u00f1ana",
+            "lema": "ma\u00f1ana",
+            "pos": "RG",
+            "prob": "0.538408"
+        },
+        {
+            "word": "ser\u00e1",
+            "lema": "ser",
+            "pos": "VSIF3S0",
+            "prob": "1"
+        },
+        {
+            "word": "tarde",
+            "lema": "tarde",
+            "pos": "NCFS000",
+            "prob": "0.611299"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Salvem",
+            "lema": "salvem",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "pagesia",
+            "lema": "pagesia",
+            "pos": "NCFS000",
+            "prob": "0.714371"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "defensem",
+            "lema": "de_fen",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "m\u00f3n",
+            "lema": "m\u00f3n",
+            "pos": "NCMS000",
+            "prob": "0.80001"
+        },
+        {
+            "word": "rural",
+            "lema": "rural",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplausos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

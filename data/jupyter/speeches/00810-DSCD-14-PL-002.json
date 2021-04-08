@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-11T00:00:00.000Z",
-        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO SOCIALISTA, ORGÁNICA DE REGULACIÓN DE LA EUTANASIA). ",
+        "debate": "TOMA EN CONSIDERACI\u00d3N DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO SOCIALISTA, ORG\u00c1NICA DE REGULACI\u00d3N DE LA EUTANASIA). ",
         "diputado": [
             {
                 "apellidos": "Nogueras i Camero",
-                "apellidosNombre": "Nogueras i Camero, Míriam",
+                "apellidosNombre": "Nogueras i Camero, M\u00edriam",
                 "codParlamentario": 27,
                 "fchAlta": "19/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario Plural",
                 "idCircunscripcion": 8,
                 "idLegislatura": 14,
-                "nombre": "Míriam",
+                "nombre": "M\u00edriam",
                 "nombreCircunscripcion": "Barcelona",
                 "twitter": "https://twitter.com/miriamnoguerasM",
                 "twitterUserId": "343507680",
@@ -24,9 +24,47 @@
         ],
         "order": 74,
         "path": "../data/diaries-txts/DSCD-14-PL-007.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "NOGUERAS I CAMERO"
     },
-    "text": "… y lo ha sido."
+    "text": "\u2026 y lo ha sido.",
+    "freeling": [
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "lo",
+            "lema": "lo",
+            "pos": "PP3MSA0",
+            "prob": "0.334764"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "sido",
+            "lema": "ser",
+            "pos": "VSP00SM",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

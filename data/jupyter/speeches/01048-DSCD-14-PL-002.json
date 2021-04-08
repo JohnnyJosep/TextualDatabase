@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-12T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JOSÉ MARÍA MAZÓN RAMOS, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA A LA SEÑORA MINISTRA DE POLÍTICA TERRITORIAL Y FUNCIÓN PÚBLICA: ¿CUÁNDO VA A REALIZAR EL GOBIERNO LOS TRÁMITES NECESARIOS PARA PAGAR LAS SUBVENCIONES INCLUIDAS EN EL DECRETO 630/2019, DE 31 DE OCTUBRE, QUE DESARROLLÓ EL REAL DECRETO­LEY 2/2019, DE 25 DE ENERO, PARA PALIAR LOS DAÑOS CAUSADOS POR LAS INUNDACIONES EN CANTABRIA? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JOS\u00c9 MAR\u00cdA MAZ\u00d3N RAMOS, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA A LA SE\u00d1ORA MINISTRA DE POL\u00cdTICA TERRITORIAL Y FUNCI\u00d3N P\u00daBLICA: \u00bfCU\u00c1NDO VA A REALIZAR EL GOBIERNO LOS TR\u00c1MITES NECESARIOS PARA PAGAR LAS SUBVENCIONES INCLUIDAS EN EL DECRETO 630/2019, DE 31 DE OCTUBRE, QUE DESARROLL\u00d3 EL REAL DECRETO\u00adLEY 2/2019, DE 25 DE ENERO, PARA PALIAR LOS DA\u00d1OS CAUSADOS POR LAS INUNDACIONES EN CANTABRIA? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,65 @@
         ],
         "order": 10,
         "path": "../data/diaries-txts/DSCD-14-PL-008.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señora Olona, yo creo que ha quedado…"
+    "text": "Se\u00f1ora Olona, yo creo que ha quedado\u2026",
+    "freeling": [
+        {
+            "word": "Se\u00f1ora_Olona",
+            "lema": "se\u00f1ora_olona",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "yo",
+            "lema": "yo",
+            "pos": "PP1CSN0",
+            "prob": "1"
+        },
+        {
+            "word": "creo",
+            "lema": "creer",
+            "pos": "VMIP1S0",
+            "prob": "0.5"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "quedado",
+            "lema": "quedar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

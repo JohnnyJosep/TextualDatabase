@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-25T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO P ARLAMENT ARIO VOX, SOBRE LAS MEDIDAS QUE EL GOBIERNO V A A ADOPT AR PARA GARANTIZAR EL CUMPLIMIENTO DE LA LEGISLACIÓN PENITENCIARIA EN CATALUÑA Y EN OTROS POSIBLES TERRITORIOS DE ESPAÑA EN LOS QUE, MEDIANTE UN EJERCICIO FRAUDULENTO DE LA COMPETENCIA TRANSFERIDA, LA ADMINISTRACIÓN AUTONÓMICA APLICA FRAUDULENTAMENTE DICHA LEGISLACIÓN CON EL FIN DE EVITAR LA EFICACIA DE LAS SENTENCIAS CONDENATORIAS Y CONSEGUIR INDULTOS ENCUBIERTOS. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO P ARLAMENT ARIO VOX, SOBRE LAS MEDIDAS QUE EL GOBIERNO V A A ADOPT AR PARA GARANTIZAR EL CUMPLIMIENTO DE LA LEGISLACI\u00d3N PENITENCIARIA EN CATALU\u00d1A Y EN OTROS POSIBLES TERRITORIOS DE ESPA\u00d1A EN LOS QUE, MEDIANTE UN EJERCICIO FRAUDULENTO DE LA COMPETENCIA TRANSFERIDA, LA ADMINISTRACI\u00d3N AUTON\u00d3MICA APLICA FRAUDULENTAMENTE DICHA LEGISLACI\u00d3N CON EL FIN DE EVITAR LA EFICACIA DE LAS SENTENCIAS CONDENATORIAS Y CONSEGUIR INDULTOS ENCUBIERTOS. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,59 @@
         ],
         "order": 30,
         "path": "../data/diaries-txts/DSCD-14-PL-012.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Asens, tiene que terminar, por favor."
+    "text": "Se\u00f1or Asens, tiene que terminar, por favor.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Asens",
+            "lema": "se\u00f1or_asens",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "tiene",
+            "lema": "tener",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "terminar",
+            "lema": "terminar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por_favor",
+            "lema": "por_favor",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

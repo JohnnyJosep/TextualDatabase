@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-06-24T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (CONTINUACIÓN): -- DEL GRUPO PARLAMENTARIO MIXTO (SEÑOR GUITARTE GIMENO), SOBRE LA NECESIDAD DE UN PLAN ESPECIAL PARA LA RECUPERACIÓN DE LA ESPAÑA VACIADA Y EL RETO DEMOGRÁFICO, DE ACUERDO CON LOS OBJETIVOS DEL PLAN DE RECUPERACIÓN PARA EUROPA DE LA UNIÓN EUROPEA. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (CONTINUACI\u00d3N): -- DEL GRUPO PARLAMENTARIO MIXTO (SE\u00d1OR GUITARTE GIMENO), SOBRE LA NECESIDAD DE UN PLAN ESPECIAL PARA LA RECUPERACI\u00d3N DE LA ESPA\u00d1A VACIADA Y EL RETO DEMOGR\u00c1FICO, DE ACUERDO CON LOS OBJETIVOS DEL PLAN DE RECUPERACI\u00d3N PARA EUROPA DE LA UNI\u00d3N EUROPEA. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,59 @@
         ],
         "order": 26,
         "path": "../data/diaries-txts/DSCD-14-PL-032.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Eritja, tiene que terminar, por favor."
+    "text": "Se\u00f1or Eritja, tiene que terminar, por favor.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Eritja",
+            "lema": "se\u00f1or_eritja",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "tiene",
+            "lema": "tener",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "terminar",
+            "lema": "terminar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por_favor",
+            "lema": "por_favor",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

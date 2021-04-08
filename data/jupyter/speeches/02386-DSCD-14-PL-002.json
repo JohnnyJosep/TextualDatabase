@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-26T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON VÍCTOR VALENTÍN PÍRIZ MAYA, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR MINISTRO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES: ¿AFECTARÁ EL ANUNCIADO TRASPASO DE LA SEGURIDAD SOCIAL A LA COMUNIDAD AUTÓNOMA DEL PAÍS VASCO A LA UNIDAD DEL SISTEMA NACIONAL DE PENSIONES? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON V\u00cdCTOR VALENT\u00cdN P\u00cdRIZ MAYA, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR MINISTRO DE INCLUSI\u00d3N, SEGURIDAD SOCIAL Y MIGRACIONES: \u00bfAFECTAR\u00c1 EL ANUNCIADO TRASPASO DE LA SEGURIDAD SOCIAL A LA COMUNIDAD AUT\u00d3NOMA DEL PA\u00cdS VASCO A LA UNIDAD DEL SISTEMA NACIONAL DE PENSIONES? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,23 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-013.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Píriz."
+    "text": "Se\u00f1or P\u00edriz.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_P\u00edriz",
+            "lema": "se\u00f1or_p\u00edriz",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-04-15T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON ÍÑIGO BARANDIARAN BENITO, DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), QUE FORMULA A LA SEÑORA MINISTRA DE TRABAJO Y ECONOMÍA SOCIAL: ¿QUÉ IMPLICACIONES PIENSA EL GOBIERNO QUE PUEDE TENER SOBRE EL MERCADO LABORAL LA REDUCCIÓN A LA MITAD DE LAS CANTIDADES QUE LAS CC. AA. PUEDEN DESTINAR A LA BÚSQUEDA EFECTIVA DE EMPLEO Y FORMACIÓN, INCLUIDA EN EL REAL DECRETO-LEY 11/2020? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON \u00cd\u00d1IGO BARANDIARAN BENITO, DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), QUE FORMULA A LA SE\u00d1ORA MINISTRA DE TRABAJO Y ECONOM\u00cdA SOCIAL: \u00bfQUE\u0301 IMPLICACIONES PIENSA EL GOBIERNO QUE PUEDE TENER SOBRE EL MERCADO LABORAL LA REDUCCI\u00d3N A LA MITAD DE LAS CANTIDADES QUE LAS CC. AA. PUEDEN DESTINAR A LA B\u00daSQUEDA EFECTIVA DE EMPLEO Y FORMACI\u00d3N, INCLUIDA EN EL REAL DECRETO-LEY 11/2020? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,89 @@
         ],
         "order": 0,
         "path": "../data/diaries-txts/DSCD-14-PL-018.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Pregunta del diputado don Íñigo Barandiaran Benito, del Grupo Parlamentario Vasco, EAJ-PNV."
+    "text": "Pregunta del diputado don \u00cd\u00f1igo Barandiaran Benito, del Grupo Parlamentario Vasco, EAJ-PNV.",
+    "freeling": [
+        {
+            "word": "Pregunta",
+            "lema": "preguntar",
+            "pos": "VMIP3S0",
+            "prob": "0.300493"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "diputado",
+            "lema": "diputado",
+            "pos": "NCMS000",
+            "prob": "0.997382"
+        },
+        {
+            "word": "don",
+            "lema": "don",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "\u00cd\u00f1igo_Barandiaran_Benito",
+            "lema": "\u00ed\u00f1igo_barandiaran_benito",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Grupo_Parlamentario_Vasco",
+            "lema": "grupo_parlamentario_vasco",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "EAJ-PNV",
+            "lema": "eaj-pnv",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

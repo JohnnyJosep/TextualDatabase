@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-03-27T00:00:00.000Z",
-        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES: -- REAL DECRET O-LEY 18/2020, DE 12 DE MA YO, DE MEDIDAS SOCIALES EN DEFENSA DEL EMPLEO. ",
+        "debate": "CONVALIDACI\u00d3N O DEROGACI\u00d3N DE REALES DECRETOS-LEYES: -- REAL DECRET O-LEY 18/2020, DE 12 DE MA YO, DE MEDIDAS SOCIALES EN DEFENSA DEL EMPLEO. ",
         "diputado": [
             {
-                "apellidos": "Gutiérrez Vivas",
-                "apellidosNombre": "Gutiérrez Vivas, Miguel Ángel",
+                "apellidos": "Guti\u00e9rrez Vivas",
+                "apellidosNombre": "Guti\u00e9rrez Vivas, Miguel \u00c1ngel",
                 "codParlamentario": 375,
                 "fchAlta": "27/05/2020",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario Ciudadanos",
                 "idCircunscripcion": 28,
                 "idLegislatura": 14,
-                "nombre": "Miguel Ángel",
+                "nombre": "Miguel \u00c1ngel",
                 "nombreCircunscripcion": "Madrid",
                 "twitter": "https://twitter.com/MGutierrezCs",
                 "twitterUserId": "2250812558",
@@ -24,9 +24,35 @@
         ],
         "order": 44,
         "path": "../data/diaries-txts/DSCD-14-PL-024.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "GUTIÉRREZ VIVAS"
+        "speacker": "GUTI\u00c9RREZ VIVAS"
     },
-    "text": "Sí, juro."
+    "text": "S\u00ed, juro.",
+    "freeling": [
+        {
+            "word": "S\u00ed",
+            "lema": "s\u00ed",
+            "pos": "RG",
+            "prob": "0.654652"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "juro",
+            "lema": "jurar",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

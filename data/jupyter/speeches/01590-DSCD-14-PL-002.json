@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-19T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA INÉS ARRIMADAS GARCÍA, DEL GRUPO PARLAMENTARIO CIUDADANOS, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿VA USTED A VELAR POR QUE LAS INSTITUCIONES DEL EST ADO ESTÉN AL SERVICIO DE TODOS LOS ESP AÑOLES? ",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DO\u00d1A IN\u00c9S ARRIMADAS GARC\u00cdA, DEL GRUPO PARLAMENTARIO CIUDADANOS, QUE FORMULA AL SE\u00d1OR PRESIDENTE DEL GOBIERNO: \u00bfVA USTED A VELAR POR QUE LAS INSTITUCIONES DEL EST ADO EST\u00c9N AL SERVICIO DE TODOS LOS ESP A\u00d1OLES? ",
         "diputado": [
             {
-                "apellidos": "Arrimadas García",
-                "apellidosNombre": "Arrimadas García, Inés",
+                "apellidos": "Arrimadas Garc\u00eda",
+                "apellidosNombre": "Arrimadas Garc\u00eda, In\u00e9s",
                 "codParlamentario": 331,
                 "fchAlta": "29/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario Ciudadanos",
                 "idCircunscripcion": 8,
                 "idLegislatura": 14,
-                "nombre": "Inés",
+                "nombre": "In\u00e9s",
                 "nombreCircunscripcion": "Barcelona",
                 "twitter": "https://twitter.com/InesArrimadas",
                 "twitterUserId": "552561770",
@@ -24,9 +24,551 @@
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-010.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "ARRIMADAS GARCÍA"
+        "speacker": "ARRIMADAS GARC\u00cdA"
     },
-    "text": "Gracias, señora presidenta. Señor Sánchez, el 75 % de los españoles desconfía de las instituciones políticas, según el Eurobarómetro. Los ciudadanos exigen cada vez más que las instituciones pagadas con dinero público estén al servicio de todos los españoles, y no al servicio del Gobierno de turno. Mi pregunta es: ¿Cree usted que sus nombramientos al frente de Radiotelevisión Española, del CIS, de la Fiscalía General o de la Agencia EFE persiguen el interés general o solo persiguen su interés personal?"
+    "text": "Gracias, se\u00f1ora presidenta. Se\u00f1or S\u00e1nchez, el 75 % de los espa\u00f1oles desconf\u00eda de las instituciones pol\u00edticas, seg\u00fan el Eurobar\u00f3metro. Los ciudadanos exigen cada vez m\u00e1s que las instituciones pagadas con dinero p\u00fablico est\u00e9n al servicio de todos los espa\u00f1oles, y no al servicio del Gobierno de turno. Mi pregunta es: \u00bfCree usted que sus nombramientos al frente de Radiotelevisi\u00f3n Espa\u00f1ola, del CIS, de la Fiscal\u00eda General o de la Agencia EFE persiguen el inter\u00e9s general o solo persiguen su inter\u00e9s personal?",
+    "freeling": [
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Se\u00f1or_S\u00e1nchez",
+            "lema": "se\u00f1or_s\u00e1nchez",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "75_%",
+            "lema": "75/100",
+            "pos": "Zp",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "espa\u00f1oles",
+            "lema": "espa\u00f1ol",
+            "pos": "NCMP000",
+            "prob": "0.413379"
+        },
+        {
+            "word": "desconf\u00eda",
+            "lema": "desconfiar",
+            "pos": "VMIP3S0",
+            "prob": "0.989241"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "instituciones",
+            "lema": "instituci\u00f3n",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "pol\u00edticas",
+            "lema": "pol\u00edtico",
+            "pos": "AQ0FP00",
+            "prob": "0.388735"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "seg\u00fan",
+            "lema": "seg\u00fan",
+            "pos": "SP",
+            "prob": "0.768678"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Eurobar\u00f3metro",
+            "lema": "eurobar\u00f3metro",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "ciudadanos",
+            "lema": "ciudadano",
+            "pos": "NCMP000",
+            "prob": "0.998282"
+        },
+        {
+            "word": "exigen",
+            "lema": "exigir",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "cada",
+            "lema": "cada",
+            "pos": "DI0CS0",
+            "prob": "1"
+        },
+        {
+            "word": "vez",
+            "lema": "vez",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "m\u00e1s",
+            "lema": "m\u00e1s",
+            "pos": "RG",
+            "prob": "0.99993"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "instituciones",
+            "lema": "instituci\u00f3n",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "pagadas",
+            "lema": "pagar",
+            "pos": "VMP00PF",
+            "prob": "1"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "dinero",
+            "lema": "dinero",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "p\u00fablico",
+            "lema": "p\u00fablico",
+            "pos": "AQ0MS00",
+            "prob": "0.409696"
+        },
+        {
+            "word": "est\u00e9n",
+            "lema": "estar",
+            "pos": "VMSP3P0",
+            "prob": "0.968085"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "servicio",
+            "lema": "servicio",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "todos",
+            "lema": "todo",
+            "pos": "DI0MP0",
+            "prob": "0.70665"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "espa\u00f1oles",
+            "lema": "espa\u00f1ol",
+            "pos": "NCMP000",
+            "prob": "0.413379"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "servicio",
+            "lema": "servicio",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "turno",
+            "lema": "turno",
+            "pos": "NCMS000",
+            "prob": "0.987805"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Mi",
+            "lema": "mi",
+            "pos": "DP1CSS",
+            "prob": "0.999325"
+        },
+        {
+            "word": "pregunta",
+            "lema": "pregunta",
+            "pos": "NCFS000",
+            "prob": "0.694581"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": ":",
+            "lema": ":",
+            "pos": "Fd",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "Cree",
+            "lema": "creer",
+            "pos": "VMIP3S0",
+            "prob": "0.991398"
+        },
+        {
+            "word": "usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "sus",
+            "lema": "su",
+            "pos": "DP3CPN",
+            "prob": "0.999903"
+        },
+        {
+            "word": "nombramientos",
+            "lema": "nombramiento",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "a_el_frente_de",
+            "lema": "al_frente_de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "Radiotelevisi\u00f3n_Espa\u00f1ola",
+            "lema": "radiotelevisi\u00f3n_espa\u00f1ola",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "CIS",
+            "lema": "cis",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "Fiscal\u00eda_General",
+            "lema": "fiscal\u00eda_general",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "o",
+            "lema": "o",
+            "pos": "CC",
+            "prob": "0.999864"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "Agencia_EFE",
+            "lema": "agencia_efe",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "persiguen",
+            "lema": "perseguir",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "inter\u00e9s",
+            "lema": "inter\u00e9s",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "general",
+            "lema": "general",
+            "pos": "AQ0CS00",
+            "prob": "0.826212"
+        },
+        {
+            "word": "o",
+            "lema": "o",
+            "pos": "CC",
+            "prob": "0.999864"
+        },
+        {
+            "word": "solo",
+            "lema": "solo",
+            "pos": "AQ0MS00",
+            "prob": "0.787529"
+        },
+        {
+            "word": "persiguen",
+            "lema": "perseguir",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "inter\u00e9s",
+            "lema": "inter\u00e9s",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "personal",
+            "lema": "personal",
+            "pos": "AQ0CS00",
+            "prob": "0.711149"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        }
+    ]
 }

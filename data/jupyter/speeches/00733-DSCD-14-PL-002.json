@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-11T00:00:00.000Z",
-        "debate": "DEBATE DE TOTALIDAD DE PROPUESTAS DE REFORMA DE ESTATUTOS DE AUTONOMÍA: -- DE LA ASAMBLEA REGIONAL DE MURCIA, DE REFORMA DE LA LEY ORGÁNICA 4/1982, DE 9 DE JUNIO, DE ESTATUTO DE AUTONOMÍA DE LA REGIÓN DE MURCIA (CORRESPONDE A LOS NÚMEROS DE EXPEDIENTE 127/000003 DE LA XII LEGISLATURA Y 127/000001 DE LA XIII LEGISLATURA). ",
+        "debate": "DEBATE DE TOTALIDAD DE PROPUESTAS DE REFORMA DE ESTATUTOS DE AUTONOM\u00cdA: -- DE LA ASAMBLEA REGIONAL DE MURCIA, DE REFORMA DE LA LEY ORG\u00c1NICA 4/1982, DE 9 DE JUNIO, DE ESTATUTO DE AUTONOM\u00cdA DE LA REGI\u00d3N DE MURCIA (CORRESPONDE A LOS N\u00daMEROS DE EXPEDIENTE 127/000003 DE LA XII LEGISLATURA Y 127/000001 DE LA XIII LEGISLATURA). ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,65 @@
         ],
         "order": 28,
         "path": "../data/diaries-txts/DSCD-14-PL-007.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señora Sánchez, tiene usted que terminar, por favor."
+    "text": "Se\u00f1ora S\u00e1nchez, tiene usted que terminar, por favor.",
+    "freeling": [
+        {
+            "word": "Se\u00f1ora_S\u00e1nchez",
+            "lema": "se\u00f1ora_s\u00e1nchez",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "tiene",
+            "lema": "tener",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "terminar",
+            "lema": "terminar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por_favor",
+            "lema": "por_favor",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

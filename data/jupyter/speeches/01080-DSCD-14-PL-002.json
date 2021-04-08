@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-18T00:00:00.000Z",
-        "debate": "JURAMENTO O PROMESA DE ACATAMIENTO DE LA CONSTITUCIÓN POR NUEVOS SEÑORES DIPUTADOS.",
+        "debate": "JURAMENTO O PROMESA DE ACATAMIENTO DE LA CONSTITUCI\u00d3N POR NUEVOS SE\u00d1ORES DIPUTADOS.",
         "diputado": [
             {
-                "apellidos": "Pedraja Sáinz",
-                "apellidosNombre": "Pedraja Sáinz, Raquel",
+                "apellidos": "Pedraja S\u00e1inz",
+                "apellidosNombre": "Pedraja S\u00e1inz, Raquel",
                 "codParlamentario": 362,
                 "fchAlta": "17/02/2020",
                 "fchBaja": "",
@@ -24,9 +24,35 @@
         ],
         "order": 3,
         "path": "../data/diaries-txts/DSCD-14-PL-009.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "PEDRAJA SÁINZ"
+        "speacker": "PEDRAJA S\u00c1INZ"
     },
-    "text": "Sí, prometo."
+    "text": "S\u00ed, prometo.",
+    "freeling": [
+        {
+            "word": "S\u00ed",
+            "lema": "s\u00ed",
+            "pos": "RG",
+            "prob": "0.654652"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "prometo",
+            "lema": "prometer",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-07-22T00:00:00.000Z",
-        "debate": "SEGUNDO DE SU LABOR DE GOBIERNO? -- DEL DIPUTADO DON ISIDRO MANUEL MARTÍNEZ OBLANCA, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA AL GOBIERNO: ¿QUÉ MEDIDAS DE EMERGENCIA PIENSA ADOPTAR EL GOBIERNO PARA DAR SOLUCIÓN AL COLAPSO ECONÓMICO-ADMINISTRATIVO QUE HA SUMIDO A LA PLANTILLA Y A LOS CENTROS DEL INSTITUTO ESPAÑOL DE OCEANOGRAFÍA (IEO), ENTRE ELLOS EL DE GIJÓN (ASTURIAS), EN LA MAYOR CRISIS DE SU HISTORIA, COMPROMETIENDO GRAVEMENTE EL DESARROLLO DE LAS INVESTIGACIONES SOBRE EL MAR Y SUS RECURSOS? ",
+        "debate": "SEGUNDO DE SU LABOR DE GOBIERNO? -- DEL DIPUTADO DON ISIDRO MANUEL MART\u00cdNEZ OBLANCA, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA AL GOBIERNO: \u00bfQU\u00c9 MEDIDAS DE EMERGENCIA PIENSA ADOPTAR EL GOBIERNO PARA DAR SOLUCI\u00d3N AL COLAPSO ECON\u00d3MICO-ADMINISTRATIVO QUE HA SUMIDO A LA PLANTILLA Y A LOS CENTROS DEL INSTITUTO ESPA\u00d1OL DE OCEANOGRAF\u00cdA (IEO), ENTRE ELLOS EL DE GIJ\u00d3N (ASTURIAS), EN LA MAYOR CRISIS DE SU HISTORIA, COMPROMETIENDO GRAVEMENTE EL DESARROLLO DE LAS INVESTIGACIONES SOBRE EL MAR Y SUS RECURSOS? ",
         "diputado": [
             {
-                "apellidos": "Martínez Oblanca",
-                "apellidosNombre": "Martínez Oblanca, Isidro Manuel",
+                "apellidos": "Mart\u00ednez Oblanca",
+                "apellidosNombre": "Mart\u00ednez Oblanca, Isidro Manuel",
                 "codParlamentario": 20,
                 "fchAlta": "19/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,401 @@
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-037.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "MARTÍNEZ OBLANCA"
+        "speacker": "MART\u00cdNEZ OBLANCA"
     },
-    "text": "Muchas gracias señora presidenta. El Instituto Español de Oceanografía atraviesa el momento más crítico de su historia centenaria, con un colapso económico-administrativo de gravísimas consecuencias para sus centros, instalaciones, buques y personal, así como para la investigación marina y los recursos pesqueros. De ahí que pregunte al Gobierno por las medidas de emergencia para solventar tan insostenible situación. Muchas gracias."
+    "text": "Muchas gracias se\u00f1ora presidenta. El Instituto Espa\u00f1ol de Oceanograf\u00eda atraviesa el momento m\u00e1s cr\u00edtico de su historia centenaria, con un colapso econ\u00f3mico-administrativo de grav\u00edsimas consecuencias para sus centros, instalaciones, buques y personal, as\u00ed como para la investigaci\u00f3n marina y los recursos pesqueros. De ah\u00ed que pregunte al Gobierno por las medidas de emergencia para solventar tan insostenible situaci\u00f3n. Muchas gracias.",
+    "freeling": [
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "El",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Instituto_Espa\u00f1ol_de_Oceanograf\u00eda",
+            "lema": "instituto_espa\u00f1ol_de_oceanograf\u00eda",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "atraviesa",
+            "lema": "atravesar",
+            "pos": "VMIP3S0",
+            "prob": "0.987805"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "momento",
+            "lema": "momento",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "m\u00e1s",
+            "lema": "m\u00e1s",
+            "pos": "RG",
+            "prob": "0.99993"
+        },
+        {
+            "word": "cr\u00edtico",
+            "lema": "cr\u00edtico",
+            "pos": "AQ0MS00",
+            "prob": "0.922535"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "historia",
+            "lema": "historia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "centenaria",
+            "lema": "centenario",
+            "pos": "AQ0FS00",
+            "prob": "0.661237"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "colapso",
+            "lema": "colapso",
+            "pos": "NCMS000",
+            "prob": "0.980769"
+        },
+        {
+            "word": "econ\u00f3mico-administrativo",
+            "lema": "econ\u00f3mico_administrativo",
+            "pos": "AQ0MS00",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "grav\u00edsimas",
+            "lema": "grave",
+            "pos": "AQSFP00",
+            "prob": "1"
+        },
+        {
+            "word": "consecuencias",
+            "lema": "consecuencia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "sus",
+            "lema": "su",
+            "pos": "DP3CPN",
+            "prob": "0.999903"
+        },
+        {
+            "word": "centros",
+            "lema": "centro",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "instalaciones",
+            "lema": "instalaci\u00f3n",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "buques",
+            "lema": "buque",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "personal",
+            "lema": "personal",
+            "pos": "AQ0CS00",
+            "prob": "0.711149"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "as\u00ed_como",
+            "lema": "as\u00ed_como",
+            "pos": "CC",
+            "prob": "1"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "investigaci\u00f3n",
+            "lema": "investigaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "marina",
+            "lema": "marino",
+            "pos": "AQ0FS00",
+            "prob": "0.279016"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "recursos",
+            "lema": "recurso",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "pesqueros",
+            "lema": "pesquero",
+            "pos": "AQ0MP00",
+            "prob": "0.661294"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "De",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "ah\u00ed",
+            "lema": "ah\u00ed",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "pregunte",
+            "lema": "preguntar",
+            "pos": "VMSP3S0",
+            "prob": "0.634863"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "medidas",
+            "lema": "medida",
+            "pos": "NCFP000",
+            "prob": "0.999067"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "emergencia",
+            "lema": "emergencia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "solventar",
+            "lema": "solventar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "tan",
+            "lema": "tan",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "insostenible",
+            "lema": "insostenible",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "situaci\u00f3n",
+            "lema": "situaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

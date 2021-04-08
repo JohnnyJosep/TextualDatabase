@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-19T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DE LA DIPUT ADA DOÑA ISABEL POZUET A FERNÁNDEZ, DEL GRUPO P ARLAMENT ARIO EUSKAL HERRIA BILDU, QUE FORMULA A LA SEÑORA VICEPRESIDENTA PRIMERA DEL GOBIERNO Y MINISTRA DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCRÁTICA: ¿RESPETARÁ EL AUTOGOBIERNO DE NAVARRA Y NUESTRA COMPETENCIA HISTÓRICA EN MATERIA DE DERECHO CIVIL, RETIRANDO EL RECURSO DE INCONSTITUCIONALIDAD A LEY FORAL 21/2019, DE 4 DE ABRIL, DE MODIFICACIÓN Y ACTUALIZACIÓN DE LA COMPILACIÓN DEL DERECHO CIVIL FORAL DE NA V ARRA O FUERO NUEVO? ",
+        "debate": "PREGUNTAS: -- DE LA DIPUT ADA DO\u00d1A ISABEL POZUET A FERN\u00c1NDEZ, DEL GRUPO P ARLAMENT ARIO EUSKAL HERRIA BILDU, QUE FORMULA A LA SE\u00d1ORA VICEPRESIDENTA PRIMERA DEL GOBIERNO Y MINISTRA DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCR\u00c1TICA: \u00bfRESPETAR\u00c1 EL AUTOGOBIERNO DE NAVARRA Y NUESTRA COMPETENCIA HIST\u00d3RICA EN MATERIA DE DERECHO CIVIL, RETIRANDO EL RECURSO DE INCONSTITUCIONALIDAD A LEY FORAL 21/2019, DE 4 DE ABRIL, DE MODIFICACI\u00d3N Y ACTUALIZACI\u00d3N DE LA COMPILACI\u00d3N DEL DERECHO CIVIL FORAL DE NA V ARRA O FUERO NUEVO? ",
         "diputado": [
             {
-                "apellidos": "Espinosa de los Monteros de Simón",
-                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "apellidos": "Espinosa de los Monteros de Sim\u00f3n",
+                "apellidosNombre": "Espinosa de los Monteros de Sim\u00f3n, Iv\u00e1n",
                 "codParlamentario": 83,
                 "fchAlta": "20/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario VOX",
                 "idCircunscripcion": 28,
                 "idLegislatura": 14,
-                "nombre": "Iván",
+                "nombre": "Iv\u00e1n",
                 "nombreCircunscripcion": "Madrid",
                 "twitter": "https://twitter.com/ivanedlm",
                 "twitterUserId": "48976307",
@@ -24,9 +24,125 @@
         ],
         "order": 3,
         "path": "../data/diaries-txts/DSCD-14-PL-010.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "MINISTRA DE POLÍTICA TERRITORIAL Y FUNCIÓN PÚBLICA (Darias San Sebastián)"
+        "speacker": "MINISTRA DE POL\u00cdTICA TERRITORIAL Y FUNCI\u00d3N P\u00daBLICA (Darias San Sebasti\u00e1n)"
     },
-    "text": "Señora presidenta. Señora Pozueta, este Gobierno respetará e impulsará el autogobierno en el marco jurídico constitucional vigente."
+    "text": "Se\u00f1ora presidenta. Se\u00f1ora Pozueta, este Gobierno respetar\u00e1 e impulsar\u00e1 el autogobierno en el marco jur\u00eddico constitucional vigente.",
+    "freeling": [
+        {
+            "word": "Se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Se\u00f1ora_Pozueta",
+            "lema": "se\u00f1ora_pozueta",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "este",
+            "lema": "este",
+            "pos": "DD0MS0",
+            "prob": "0.949201"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "respetar\u00e1",
+            "lema": "respetar",
+            "pos": "VMIF3S0",
+            "prob": "1"
+        },
+        {
+            "word": "e",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.987994"
+        },
+        {
+            "word": "impulsar\u00e1",
+            "lema": "impulsar",
+            "pos": "VMIF3S0",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "autogobierno",
+            "lema": "autogobierno",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "marco",
+            "lema": "marco",
+            "pos": "NCMS000",
+            "prob": "0.996894"
+        },
+        {
+            "word": "jur\u00eddico",
+            "lema": "jur\u00eddico",
+            "pos": "AQ0MS00",
+            "prob": "1"
+        },
+        {
+            "word": "constitucional",
+            "lema": "constitucional",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "vigente",
+            "lema": "vigente",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

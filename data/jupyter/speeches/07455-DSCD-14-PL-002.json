@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-10T00:00:00.000Z",
-        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES: -- REAL DECRETO-LEY 27/2020, DE 4 DE AGOSTO, DE MEDIDAS FINANCIERAS, DE CARÁCTER EXTRAORDINARIO Y URGENTE, APLICABLES A LAS ENTIDADES LOCALES. ",
+        "debate": "CONVALIDACI\u00d3N O DEROGACI\u00d3N DE REALES DECRETOS-LEYES: -- REAL DECRETO-LEY 27/2020, DE 4 DE AGOSTO, DE MEDIDAS FINANCIERAS, DE CAR\u00c1CTER EXTRAORDINARIO Y URGENTE, APLICABLES A LAS ENTIDADES LOCALES. ",
         "diputado": [
             {
                 "apellidos": "Rego Candamil",
-                "apellidosNombre": "Rego Candamil, Néstor",
+                "apellidosNombre": "Rego Candamil, N\u00e9stor",
                 "codParlamentario": 40,
                 "fchAlta": "19/11/2019",
                 "fchBaja": "",
@@ -14,8 +14,8 @@
                 "grupo": "Grupo Parlamentario Plural",
                 "idCircunscripcion": 15,
                 "idLegislatura": 14,
-                "nombre": "Néstor",
-                "nombreCircunscripcion": "Coruña (A)",
+                "nombre": "N\u00e9stor",
+                "nombreCircunscripcion": "Coru\u00f1a (A)",
                 "twitter": "https://twitter.com/NestorRego",
                 "twitterUserId": "435720619",
                 "twitterUserName": "NestorRego"
@@ -24,9 +24,161 @@
         ],
         "order": 57,
         "path": "../data/diaries-txts/DSCD-14-PL-043.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "REGO CANDAMIL"
     },
-    "text": "Este es, por tanto, un aspecto que necesariamente creemos que hay que modificar. En todo caso, el BNG votará no. Obrigado."
+    "text": "Este es, por tanto, un aspecto que necesariamente creemos que hay que modificar. En todo caso, el BNG votar\u00e1 no. Obrigado.",
+    "freeling": [
+        {
+            "word": "Este",
+            "lema": "este",
+            "pos": "PD0MS00",
+            "prob": "0.0356411"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "tanto",
+            "lema": "tanto",
+            "pos": "RG",
+            "prob": "0.806143"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "aspecto",
+            "lema": "aspecto",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "necesariamente",
+            "lema": "necesariamente",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "creemos",
+            "lema": "creer",
+            "pos": "VMIP1P0",
+            "prob": "0.972603"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "hay",
+            "lema": "haber",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "modificar",
+            "lema": "modificar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "En_todo_caso",
+            "lema": "en_todo_caso",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "BNG",
+            "lema": "bng",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "votar\u00e1",
+            "lema": "votar",
+            "pos": "VMIF3S0",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Obrigado",
+            "lema": "obrigado",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

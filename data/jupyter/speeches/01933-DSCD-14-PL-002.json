@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-25T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO P ARLAMENT ARIO MIXT O (SEÑORA ORAMAS GONZÁLEZ-MORO), SOBRE LAS MEDIDAS QUE VA A ADOPTAR EL GOBIERNO ANTE LA DELIMITACIÓN EFECTUADA POR PARTE DE MARRUECOS DE SU FRONTERA MARÍTIMA AFECTANDO A CANARIAS Y AL SÁHARA OCCIDENTAL. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO P ARLAMENT ARIO MIXT O (SE\u00d1ORA ORAMAS GONZ\u00c1LEZ-MORO), SOBRE LAS MEDIDAS QUE VA A ADOPTAR EL GOBIERNO ANTE LA DELIMITACI\u00d3N EFECTUADA POR PARTE DE MARRUECOS DE SU FRONTERA MAR\u00cdTIMA AFECTANDO A CANARIAS Y AL S\u00c1HARA OCCIDENTAL. ",
         "diputado": [
             {
-                "apellidos": "Oramas González-Moro",
-                "apellidosNombre": "Oramas González-Moro, Ana María",
+                "apellidos": "Oramas Gonz\u00e1lez-Moro",
+                "apellidosNombre": "Oramas Gonz\u00e1lez-Moro, Ana Mar\u00eda",
                 "codParlamentario": 161,
                 "fchAlta": "25/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario Mixto",
                 "idCircunscripcion": 38,
                 "idLegislatura": 14,
-                "nombre": "Ana María",
+                "nombre": "Ana Mar\u00eda",
                 "nombreCircunscripcion": "S/C Tenerife",
                 "twitter": "https://twitter.com/anioramas",
                 "twitterUserId": "479394745",
@@ -24,9 +24,71 @@
         ],
         "order": 21,
         "path": "../data/diaries-txts/DSCD-14-PL-012.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "ORAMAS GONZÁLEZ-MORO"
+        "speacker": "ORAMAS GONZ\u00c1LEZ-MORO"
     },
-    "text": "Ya está entregada a los letrados de la Mesa."
+    "text": "Ya est\u00e1 entregada a los letrados de la Mesa.",
+    "freeling": [
+        {
+            "word": "Ya",
+            "lema": "ya",
+            "pos": "RG",
+            "prob": "0.999785"
+        },
+        {
+            "word": "est\u00e1",
+            "lema": "estar",
+            "pos": "VMIP3S0",
+            "prob": "0.999398"
+        },
+        {
+            "word": "entregada",
+            "lema": "entregar",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "letrados",
+            "lema": "letrado",
+            "pos": "NCMP000",
+            "prob": "0.638706"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "Mesa",
+            "lema": "mesa",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

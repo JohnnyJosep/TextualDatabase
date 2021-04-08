@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-11T00:00:00.000Z",
-        "debate": "PROPUESTAS DE CREACIÓN DE COMISIONES. (VOTACIÓN): -- SOLICITUD DE LOS GRUPOS PARLAMENTARIOS SOCIALISTA, POPULAR EN EL CONGRESO Y CONFEDERAL DE UNIDAS PODEMOS-EN COMÚ PODEM-GALICIA EN COMÚN, DE CREACIÓN DE UNA COMISIÓN MIXTA DE CONTROL PARLAMENTARIO DE LA CORPORACIÓN RTVE Y SUS SOCIEDADES. ",
+        "debate": "PROPUESTAS DE CREACI\u00d3N DE COMISIONES. (VOTACI\u00d3N): -- SOLICITUD DE LOS GRUPOS PARLAMENTARIOS SOCIALISTA, POPULAR EN EL CONGRESO Y CONFEDERAL DE UNIDAS PODEMOS-EN COM\u00da PODEM-GALICIA EN COM\u00daN, DE CREACI\u00d3N DE UNA COMISI\u00d3N MIXTA DE CONTROL PARLAMENTARIO DE LA CORPORACI\u00d3N RTVE Y SUS SOCIEDADES. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,47 @@
         ],
         "order": 8,
         "path": "../data/diaries-txts/DSCD-14-PL-007.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señora Velarde, tiene que terminar."
+    "text": "Se\u00f1ora Velarde, tiene que terminar.",
+    "freeling": [
+        {
+            "word": "Se\u00f1ora_Velarde",
+            "lema": "se\u00f1ora_velarde",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "tiene",
+            "lema": "tener",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "terminar",
+            "lema": "terminar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

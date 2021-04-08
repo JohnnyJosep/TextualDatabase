@@ -4,14 +4,14 @@
         "debate": "DEBATES DE TOTALIDAD DE INICIATIVAS LEGISLATIVAS: -- PROYECTO DE LEY DEL IMPUESTO SOBRE DETERMINADOS SERVICIOS DIGITALES. ",
         "diputado": [
             {
-                "apellidos": "Guijarro García",
-                "apellidosNombre": "Guijarro García, Txema",
+                "apellidos": "Guijarro Garc\u00eda",
+                "apellidosNombre": "Guijarro Garc\u00eda, Txema",
                 "codParlamentario": 344,
                 "fchAlta": "29/11/2019",
                 "fchBaja": "",
                 "formacion": "UP",
                 "genero": 1,
-                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común",
+                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Com\u00fa Podem-Galicia en Com\u00fan",
                 "idCircunscripcion": 3,
                 "idLegislatura": 14,
                 "nombre": "Txema",
@@ -24,9 +24,59 @@
         ],
         "order": 35,
         "path": "../data/diaries-txts/DSCD-14-PL-026.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "GUIJARRO GARCÍA"
+        "speacker": "GUIJARRO GARC\u00cdA"
     },
-    "text": "Sí, voy terminando, señora presidenta."
+    "text": "S\u00ed, voy terminando, se\u00f1ora presidenta.",
+    "freeling": [
+        {
+            "word": "S\u00ed",
+            "lema": "s\u00ed",
+            "pos": "RG",
+            "prob": "0.654652"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "voy",
+            "lema": "ir",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "terminando",
+            "lema": "terminar",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

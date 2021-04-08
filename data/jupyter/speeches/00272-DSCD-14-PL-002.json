@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-04T00:00:00.000Z",
-        "debate": "JURAMENTO O PROMESA DE ACATAMIENTO DE LA CONSTITUCIÓN POR NUEVOS SEÑORES DIPUTADOS.",
+        "debate": "JURAMENTO O PROMESA DE ACATAMIENTO DE LA CONSTITUCI\u00d3N POR NUEVOS SE\u00d1ORES DIPUTADOS.",
         "diputado": [
             {
-                "apellidos": "Anguita Pérez",
-                "apellidosNombre": "Anguita Pérez, Omar",
+                "apellidos": "Anguita P\u00e9rez",
+                "apellidosNombre": "Anguita P\u00e9rez, Omar",
                 "codParlamentario": 354,
                 "fchAlta": "29/01/2020",
                 "fchBaja": "",
@@ -24,9 +24,35 @@
         ],
         "order": 3,
         "path": "../data/diaries-txts/DSCD-14-PL-006.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "ANGUITA PÉREZ"
+        "speacker": "ANGUITA P\u00c9REZ"
     },
-    "text": "Sí, prometo."
+    "text": "S\u00ed, prometo.",
+    "freeling": [
+        {
+            "word": "S\u00ed",
+            "lema": "s\u00ed",
+            "pos": "RG",
+            "prob": "0.654652"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "prometo",
+            "lema": "prometer",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

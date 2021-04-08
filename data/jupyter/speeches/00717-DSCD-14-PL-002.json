@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-11T00:00:00.000Z",
-        "debate": "DEBATE DE TOTALIDAD DE PROPUESTAS DE REFORMA DE ESTATUTOS DE AUTONOMÍA: -- DE LA ASAMBLEA REGIONAL DE MURCIA, DE REFORMA DE LA LEY ORGÁNICA 4/1982, DE 9 DE JUNIO, DE ESTATUTO DE AUTONOMÍA DE LA REGIÓN DE MURCIA (CORRESPONDE A LOS NÚMEROS DE EXPEDIENTE 127/000003 DE LA XII LEGISLATURA Y 127/000001 DE LA XIII LEGISLATURA). ",
+        "debate": "DEBATE DE TOTALIDAD DE PROPUESTAS DE REFORMA DE ESTATUTOS DE AUTONOM\u00cdA: -- DE LA ASAMBLEA REGIONAL DE MURCIA, DE REFORMA DE LA LEY ORG\u00c1NICA 4/1982, DE 9 DE JUNIO, DE ESTATUTO DE AUTONOM\u00cdA DE LA REGI\u00d3N DE MURCIA (CORRESPONDE A LOS N\u00daMEROS DE EXPEDIENTE 127/000003 DE LA XII LEGISLATURA Y 127/000001 DE LA XIII LEGISLATURA). ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,65 @@
         ],
         "order": 12,
         "path": "../data/diaries-txts/DSCD-14-PL-007.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Espejo-Saavedra, se le ha terminado el tiempo."
+    "text": "Se\u00f1or Espejo-Saavedra, se le ha terminado el tiempo.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Espejo-Saavedra",
+            "lema": "se\u00f1or_espejo-saavedra",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "terminado",
+            "lema": "terminar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "tiempo",
+            "lema": "tiempo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

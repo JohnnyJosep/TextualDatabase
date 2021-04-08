@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-12T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON ÁNGEL LÓPEZ MARAVER, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SEÑOR MINISTRO DE AGRICULTURA, PESCA Y ALIMENTACIÓN: ¿QUÉ MEDIDAS VA A ADOPTAR EL GOBIERNO PARA SATISFACER LAS LEGÍTIMAS REIVINDICACIONES DEL MUNDO RURAL ESPAÑOL? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON \u00c1NGEL L\u00d3PEZ MARAVER, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SE\u00d1OR MINISTRO DE AGRICULTURA, PESCA Y ALIMENTACI\u00d3N: \u00bfQU\u00c9 MEDIDAS VA A ADOPTAR EL GOBIERNO PARA SATISFACER LAS LEG\u00cdTIMAS REIVINDICACIONES DEL MUNDO RURAL ESPA\u00d1OL? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,29 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-008.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor López Maraver."
+    "text": "Se\u00f1or L\u00f3pez Maraver.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "L\u00f3pez_Maraver",
+            "lema": "l\u00f3pez_maraver",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

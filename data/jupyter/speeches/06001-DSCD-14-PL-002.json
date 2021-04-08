@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-07-14T00:00:00.000Z",
-        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS: -- PROYECTO DE LEY ORGÁNICA SOBRE LA UTILIZACIÓN DE LOS DATOS DEL REGISTRO DE NOMBRES DE PASAJEROS PARA LA PREVENCIÓN, DETECCIÓN, INVESTIGACIÓN Y ENJUICIAMIENTO DE DELITOS DE TERRORISMO Y DELITOS GRAVES. ",
+        "debate": "DICT\u00c1MENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS: -- PROYECTO DE LEY ORG\u00c1NICA SOBRE LA UTILIZACI\u00d3N DE LOS DATOS DEL REGISTRO DE NOMBRES DE PASAJEROS PARA LA PREVENCI\u00d3N, DETECCI\u00d3N, INVESTIGACI\u00d3N Y ENJUICIAMIENTO DE DELITOS DE TERRORISMO Y DELITOS GRAVES. ",
         "diputado": [
             {
                 "apellidos": "Carvalho Dantas",
-                "apellidosNombre": "Carvalho Dantas, María",
+                "apellidosNombre": "Carvalho Dantas, Mar\u00eda",
                 "codParlamentario": 190,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario Republicano",
                 "idCircunscripcion": 8,
                 "idLegislatura": 14,
-                "nombre": "María",
+                "nombre": "Mar\u00eda",
                 "nombreCircunscripcion": "Barcelona",
                 "twitter": "https://twitter.com/_Maria_Dantas_",
                 "twitterUserId": "87042194",
@@ -24,9 +24,185 @@
         ],
         "order": 9,
         "path": "../data/diaries-txts/DSCD-14-PL-034.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "CARVALHO DANTAS"
     },
-    "text": "Como digo, reconocemos el buen trabajo realizado, pero no podemos estar de acuerdo con una directiva que --a nuestro entender-- vulnera derechos fundamentales. Muchas gracias."
+    "text": "Como digo, reconocemos el buen trabajo realizado, pero no podemos estar de acuerdo con una directiva que --a nuestro entender-- vulnera derechos fundamentales. Muchas gracias.",
+    "freeling": [
+        {
+            "word": "Como",
+            "lema": "como",
+            "pos": "CS",
+            "prob": "0.967153"
+        },
+        {
+            "word": "digo",
+            "lema": "decir",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "reconocemos",
+            "lema": "reconocer",
+            "pos": "VMIP1P0",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "buen",
+            "lema": "bueno",
+            "pos": "AQ0MS00",
+            "prob": "1"
+        },
+        {
+            "word": "trabajo",
+            "lema": "trabajo",
+            "pos": "NCMS000",
+            "prob": "0.975768"
+        },
+        {
+            "word": "realizado",
+            "lema": "realizar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "pero",
+            "lema": "pero",
+            "pos": "CC",
+            "prob": "0.999902"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "podemos",
+            "lema": "poder",
+            "pos": "VMIP1P0",
+            "prob": "0.994638"
+        },
+        {
+            "word": "estar",
+            "lema": "estar",
+            "pos": "VMN0000",
+            "prob": "0.999154"
+        },
+        {
+            "word": "de_acuerdo_con",
+            "lema": "de_acuerdo_con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "directiva",
+            "lema": "directiva",
+            "pos": "NCFS000",
+            "prob": "0.893836"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "nuestro",
+            "lema": "nuestro",
+            "pos": "DP1MSP",
+            "prob": "0.957064"
+        },
+        {
+            "word": "entender",
+            "lema": "entender",
+            "pos": "VMN0000",
+            "prob": "0.994186"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": "vulnera",
+            "lema": "vulnerar",
+            "pos": "VMIP3S0",
+            "prob": "0.989241"
+        },
+        {
+            "word": "derechos",
+            "lema": "derecho",
+            "pos": "NCMP000",
+            "prob": "0.996795"
+        },
+        {
+            "word": "fundamentales",
+            "lema": "fundamental",
+            "pos": "AQ0CP00",
+            "prob": "0.992958"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

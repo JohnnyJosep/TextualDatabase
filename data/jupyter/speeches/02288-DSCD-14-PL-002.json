@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-26T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JULIO UTRILLA CANO, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SEÑOR VICEPRESIDENTE SEGUNDO DEL GOBIERNO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030: ¿POR QUÉ SE HA INCLUIDO AL VICEPRESIDENTE SEGUNDO DEL GOBIERNO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030 COMO MIEMBRO DE LA COMISIÓN DELEGADA DEL GOBIERNO PARA ASUNTOS DE INTELIGENCIA? (180/000054).",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JULIO UTRILLA CANO, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SE\u00d1OR VICEPRESIDENTE SEGUNDO DEL GOBIERNO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030: \u00bfPOR QU\u00c9 SE HA INCLUIDO AL VICEPRESIDENTE SEGUNDO DEL GOBIERNO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030 COMO MIEMBRO DE LA COMISI\u00d3N DELEGADA DEL GOBIERNO PARA ASUNTOS DE INTELIGENCIA? (180/000054).",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,23 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-013.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Utrilla."
+    "text": "Se\u00f1or Utrilla.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Utrilla",
+            "lema": "se\u00f1or_utrilla",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

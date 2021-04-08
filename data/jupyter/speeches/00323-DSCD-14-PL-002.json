@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-04T00:00:00.000Z",
-        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES: -- REAL DECRETO-LEY 1/2020, DE 14 DE ENERO, POR EL QUE SE ESTABLECE LA REVALORIZACIÓN Y MANTENIMIENTO DE LAS PENSIONES Y PRESTACIONES PÚBLICAS DEL SISTEMA DE SEGURIDAD SOCIAL. ",
+        "debate": "CONVALIDACI\u00d3N O DEROGACI\u00d3N DE REALES DECRETOS-LEYES: -- REAL DECRETO-LEY 1/2020, DE 14 DE ENERO, POR EL QUE SE ESTABLECE LA REVALORIZACI\u00d3N Y MANTENIMIENTO DE LAS PENSIONES Y PRESTACIONES P\u00daBLICAS DEL SISTEMA DE SEGURIDAD SOCIAL. ",
         "diputado": [
             {
                 "apellidos": "Perea i Conillas",
-                "apellidosNombre": "Perea i Conillas, María Mercè",
+                "apellidosNombre": "Perea i Conillas, Mar\u00eda Merc\u00e8",
                 "codParlamentario": 203,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario Socialista",
                 "idCircunscripcion": 8,
                 "idLegislatura": 14,
-                "nombre": "María Mercè",
+                "nombre": "Mar\u00eda Merc\u00e8",
                 "nombreCircunscripcion": "Barcelona",
                 "twitter": "https://twitter.com/merceperea",
                 "twitterUserId": "214794461",
@@ -24,9 +24,155 @@
         ],
         "order": 35,
         "path": "../data/diaries-txts/DSCD-14-PL-006.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PEREA I CONILLAS"
     },
-    "text": "Darían la imagen de sensibilidad y solvencia política que han perdido hace tiempo. Gracias y disculpe, presidenta. (Aplausos)."
+    "text": "Dar\u00edan la imagen de sensibilidad y solvencia pol\u00edtica que han perdido hace tiempo. Gracias y disculpe, presidenta. (Aplausos).",
+    "freeling": [
+        {
+            "word": "Dar\u00edan",
+            "lema": "dar",
+            "pos": "VMIC3P0",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "imagen",
+            "lema": "imagen",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "sensibilidad",
+            "lema": "sensibilidad",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "solvencia",
+            "lema": "solvencia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "pol\u00edtica",
+            "lema": "pol\u00edtico",
+            "pos": "AQ0FS00",
+            "prob": "0.261038"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "han",
+            "lema": "haber",
+            "pos": "VAIP3P0",
+            "prob": "0.999845"
+        },
+        {
+            "word": "perdido",
+            "lema": "perder",
+            "pos": "VMP00SM",
+            "prob": "0.998008"
+        },
+        {
+            "word": "hace",
+            "lema": "hacer",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "tiempo",
+            "lema": "tiempo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "disculpe",
+            "lema": "disculpar",
+            "pos": "VMM03S0",
+            "prob": "0.0302736"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplausos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

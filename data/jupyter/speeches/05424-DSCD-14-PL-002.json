@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-06-24T00:00:00.000Z",
-        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO A LA VICEPRESIDENTA TERCERA Y MINISTRA DE ASUNTOS ECONÓMICOS Y TRANSFORMACIÓN DIGITAL PARA QUE EXPONGA LAS MEDIDAS QUE ESTÁ PONIENDO EN MARCHA EL GOBIERNO PARA LA REACTIVACIÓN DE ",
+        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO A LA VICEPRESIDENTA TERCERA Y MINISTRA DE ASUNTOS ECON\u00d3MICOS Y TRANSFORMACI\u00d3N DIGITAL PARA QUE EXPONGA LAS MEDIDAS QUE EST\u00c1 PONIENDO EN MARCHA EL GOBIERNO PARA LA REACTIVACI\u00d3N DE ",
         "diputado": [
             {
-                "apellidos": "Garcés Sanagustín",
-                "apellidosNombre": "Garcés Sanagustín, Mario",
+                "apellidos": "Garc\u00e9s Sanagust\u00edn",
+                "apellidosNombre": "Garc\u00e9s Sanagust\u00edn, Mario",
                 "codParlamentario": 219,
                 "fchAlta": "26/11/2016",
                 "fchBaja": "",
@@ -24,9 +24,41 @@
         ],
         "order": 6,
         "path": "../data/diaries-txts/DSCD-14-PL-032.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "GARCÉS SANAGUSTIN"
+        "speacker": "GARC\u00c9S SANAGUSTIN"
     },
-    "text": "Sí, voy acabando."
+    "text": "S\u00ed, voy acabando.",
+    "freeling": [
+        {
+            "word": "S\u00ed",
+            "lema": "s\u00ed",
+            "pos": "RG",
+            "prob": "0.654652"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "voy",
+            "lema": "ir",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "acabando",
+            "lema": "acabar",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-19T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DE LA DIPUT ADA DOÑA JOSUNE GOROSPE ELEZCANO, DEL GRUPO P ARLAMENT ARIO VASCO (EAJ-PNV) QUE FORMULA A LA SEÑORA MINISTRA DE POLÍTICA TERRITORIAL Y FUNCIÓN PÚBLICA: ¿HA IMPLANT ADO EL GOBIERNO ALGÚN PLAN DE EUSKALDUNIZACIÓN RESPECTO DE LOS FUNCIONARIOS DE LA ADMINISTRACIÓN DEL ESTADO CON PRESENCIA EN EUSKADI? ",
+        "debate": "PREGUNTAS: -- DE LA DIPUT ADA DO\u00d1A JOSUNE GOROSPE ELEZCANO, DEL GRUPO P ARLAMENT ARIO VASCO (EAJ-PNV) QUE FORMULA A LA SE\u00d1ORA MINISTRA DE POL\u00cdTICA TERRITORIAL Y FUNCI\u00d3N P\u00daBLICA: \u00bfHA IMPLANT ADO EL GOBIERNO ALG\u00daN PLAN DE EUSKALDUNIZACI\u00d3N RESPECTO DE LOS FUNCIONARIOS DE LA ADMINISTRACI\u00d3N DEL ESTADO CON PRESENCIA EN EUSKADI? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,23 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-010.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señora Gorospe."
+    "text": "Se\u00f1ora Gorospe.",
+    "freeling": [
+        {
+            "word": "Se\u00f1ora_Gorospe",
+            "lema": "se\u00f1ora_gorospe",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

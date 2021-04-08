@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-08-25T00:00:00.000Z",
-        "debate": "CON EL SIGUIENTE ORDEN DEL DÍA: -- COMPARECENCIA DE LA MINISTRA DE EDUCACIÓN Y FORMACIÓN PROFESIONAL, PARA INFORMAR DE LAS MEDIDAS DEL GOBIERNO QUE ASEGUREN UN INICIO DEL CURSO ESCOLAR 2020/2021 EN LAS MISMAS CONDICIONES DE SEGURIDAD PARA TODOS LOS ALUMNOS, PROFESORES Y PERSONAL DE LOS CENTROS EDUCATIVOS.",
+        "debate": "CON EL SIGUIENTE ORDEN DEL D\u00cdA: -- COMPARECENCIA DE LA MINISTRA DE EDUCACI\u00d3N Y FORMACI\u00d3N PROFESIONAL, PARA INFORMAR DE LAS MEDIDAS DEL GOBIERNO QUE ASEGUREN UN INICIO DEL CURSO ESCOLAR 2020/2021 EN LAS MISMAS CONDICIONES DE SEGURIDAD PARA TODOS LOS ALUMNOS, PROFESORES Y PERSONAL DE LOS CENTROS EDUCATIVOS.",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,59 @@
         ],
         "order": 46,
         "path": "../data/diaries-txts/DSCD-14-PL-040.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Queda rechazada. Se levanta la sesión."
+    "text": "Queda rechazada. Se levanta la sesi\u00f3n.",
+    "freeling": [
+        {
+            "word": "Queda",
+            "lema": "quedar",
+            "pos": "VMIP3S0",
+            "prob": "0.945755"
+        },
+        {
+            "word": "rechazada",
+            "lema": "rechazar",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "levanta",
+            "lema": "levantar",
+            "pos": "VMIP3S0",
+            "prob": "0.983871"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "sesi\u00f3n",
+            "lema": "sesi\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

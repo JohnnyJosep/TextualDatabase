@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-09T00:00:00.000Z",
-        "debate": "─ DE LA DIPUT ADA DOÑA MERTXE AIZPURUA ARZALLUS, DEL GRUPO P ARLAMENT ARIO EUSKAL HERRIA BILDU, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿QUÉ HARÁ EL GOBIERNO PARA QUE MUERTES EVITABLES COMO LA DE IGOR GONZÁLEZ NO VUELVAN A OCURRIR? -- DEL DIPUTADO DON AGUSTÍN ALMODÓBAR BARCELÓ, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA MINISTRA DE INDUSTRIA, COMERCIO Y TURISMO: ¿CUÁL ES LA VALORACIÓN QUE HACE EL GOBIERNO DE LA SITUACIÓN DEL SECTOR TURÍSTICO ESPAÑOL? ",
+        "debate": "\u2500 DE LA DIPUT ADA DO\u00d1A MERTXE AIZPURUA ARZALLUS, DEL GRUPO P ARLAMENT ARIO EUSKAL HERRIA BILDU, QUE FORMULA AL SE\u00d1OR MINISTRO DEL INTERIOR: \u00bfQU\u00c9 HAR\u00c1 EL GOBIERNO PARA QUE MUERTES EVITABLES COMO LA DE IGOR GONZ\u00c1LEZ NO VUELVAN A OCURRIR? -- DEL DIPUTADO DON AGUST\u00cdN ALMOD\u00d3BAR BARCEL\u00d3, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SE\u00d1ORA MINISTRA DE INDUSTRIA, COMERCIO Y TURISMO: \u00bfCU\u00c1L ES LA VALORACI\u00d3N QUE HACE EL GOBIERNO DE LA SITUACI\u00d3N DEL SECTOR TUR\u00cdSTICO ESPA\u00d1OL? ",
         "diputado": [
             {
-                "apellidos": "Almodóbar Barceló",
-                "apellidosNombre": "Almodóbar Barceló, Agustín",
+                "apellidos": "Almod\u00f3bar Barcel\u00f3",
+                "apellidosNombre": "Almod\u00f3bar Barcel\u00f3, Agust\u00edn",
                 "codParlamentario": 305,
                 "fchAlta": "28/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario Popular en el Congreso",
                 "idCircunscripcion": 3,
                 "idLegislatura": 14,
-                "nombre": "Agustín",
+                "nombre": "Agust\u00edn",
                 "nombreCircunscripcion": "Alicante/Alacant",
                 "twitter": "https://twitter.com/aalmodobar",
                 "twitterUserId": "155350950",
@@ -24,9 +24,143 @@
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-042.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "ALMODÓBAR BARCELÓ"
+        "speacker": "ALMOD\u00d3BAR BARCEL\u00d3"
     },
-    "text": "Gracias, presidenta. ¿Cuál es la valoración que hace el Gobierno de la situación del sector turístico español?"
+    "text": "Gracias, presidenta. \u00bfCu\u00e1l es la valoraci\u00f3n que hace el Gobierno de la situaci\u00f3n del sector tur\u00edstico espa\u00f1ol?",
+    "freeling": [
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "Cu\u00e1l",
+            "lema": "cu\u00e1l",
+            "pos": "PT0CS00",
+            "prob": "0.989796"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "valoraci\u00f3n",
+            "lema": "valoraci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "hace",
+            "lema": "hacer",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "situaci\u00f3n",
+            "lema": "situaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "sector",
+            "lema": "sector",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "tur\u00edstico",
+            "lema": "tur\u00edstico",
+            "pos": "AQ0MS00",
+            "prob": "1"
+        },
+        {
+            "word": "espa\u00f1ol",
+            "lema": "espa\u00f1ol",
+            "pos": "AQ0MS00",
+            "prob": "0.767229"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        }
+    ]
 }

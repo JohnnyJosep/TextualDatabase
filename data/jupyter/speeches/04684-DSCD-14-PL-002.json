@@ -1,7 +1,7 @@
 {
     "metadata": {
         "celebrated": "2020-06-16T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, PARA QUE EL GOBIERNO ACLARE EL IMPACTO CONSTITUCIONAL DE LA REUNIÓN DE LA MESA ENTRE EL GOBIERNO DE ESPAÑA Y EL GOBIERNO DE LA GENERALITAT DE CATALUÑA QUE TUVO LUGAR EL DÍA 26/02/2020. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, PARA QUE EL GOBIERNO ACLARE EL IMPACTO CONSTITUCIONAL DE LA REUNI\u00d3N DE LA MESA ENTRE EL GOBIERNO DE ESPA\u00d1A Y EL GOBIERNO DE LA GENERALITAT DE CATALU\u00d1A QUE TUVO LUGAR EL D\u00cdA 26/02/2020. ",
         "diputado": [
             {
                 "apellidos": "Uriarte Bengoechea",
@@ -24,9 +24,47 @@
         ],
         "order": 22,
         "path": "../data/diaries-txts/DSCD-14-PL-029.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "URIARTE BENGOECHEA"
     },
-    "text": "Sí, aceptamos las enmiendas."
+    "text": "S\u00ed, aceptamos las enmiendas.",
+    "freeling": [
+        {
+            "word": "S\u00ed",
+            "lema": "s\u00ed",
+            "pos": "RG",
+            "prob": "0.654652"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "aceptamos",
+            "lema": "aceptar",
+            "pos": "VMIP1P0",
+            "prob": "0.65"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "enmiendas",
+            "lema": "enmienda",
+            "pos": "NCFP000",
+            "prob": "0.980769"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

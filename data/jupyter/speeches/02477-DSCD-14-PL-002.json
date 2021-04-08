@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-27T00:00:00.000Z",
-        "debate": "DICTÁMENES DE LA COMISIÓN DE ASUNTOS EXTERIORES SOBRE CONVENIOS INTERNACIONALES: -- PROTOCOLO AL TRATADO DEL ATLÁNTICO NORTE SOBRE LA ADHESIÓN DE LA REPÚBLICA DE MACEDONIA DEL NORTE, HECHO EN BRUSELAS EL 6 DE FEBRERO DE 2019. ",
+        "debate": "DICT\u00c1MENES DE LA COMISI\u00d3N DE ASUNTOS EXTERIORES SOBRE CONVENIOS INTERNACIONALES: -- PROTOCOLO AL TRATADO DEL ATL\u00c1NTICO NORTE SOBRE LA ADHESI\u00d3N DE LA REP\u00daBLICA DE MACEDONIA DEL NORTE, HECHO EN BRUSELAS EL 6 DE FEBRERO DE 2019. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,35 @@
         ],
         "order": 8,
         "path": "../data/diaries-txts/DSCD-14-PL-014.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Silencio, por favor."
+    "text": "Silencio, por favor.",
+    "freeling": [
+        {
+            "word": "Silencio",
+            "lema": "silencio",
+            "pos": "NCMS000",
+            "prob": "0.997076"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por_favor",
+            "lema": "por_favor",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

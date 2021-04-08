@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-06-24T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON IGNACIO GIL LÁZARO, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿SE ESTÁ NEGOCIANDO EL ACERCAMIENTO DE PRESOS DE ETA A CÁRCELES PRÓXIMAS AL PAÍS VASCO? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON IGNACIO GIL L\u00c1ZARO, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SE\u00d1OR MINISTRO DEL INTERIOR: \u00bfSE EST\u00c1 NEGOCIANDO EL ACERCAMIENTO DE PRESOS DE ETA A C\u00c1RCELES PR\u00d3XIMAS AL PA\u00cdS VASCO? ",
         "diputado": [
             {
-                "apellidos": "Gil Lázaro",
-                "apellidosNombre": "Gil Lázaro, Ignacio",
+                "apellidos": "Gil L\u00e1zaro",
+                "apellidosNombre": "Gil L\u00e1zaro, Ignacio",
                 "codParlamentario": 295,
                 "fchAlta": "27/11/2019",
                 "fchBaja": "",
@@ -15,15 +15,149 @@
                 "idCircunscripcion": 46,
                 "idLegislatura": 14,
                 "nombre": "Ignacio",
-                "nombreCircunscripcion": "Valencia/València"
+                "nombreCircunscripcion": "Valencia/Val\u00e8ncia"
             },
             0
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-032.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "GIL LÁZARO"
+        "speacker": "GIL L\u00c1ZARO"
     },
-    "text": "Gracias, señora presidenta. Señor ministro, ¿se está negociando el acercamiento de presos de ETA al País Vasco?"
+    "text": "Gracias, se\u00f1ora presidenta. Se\u00f1or ministro, \u00bfse est\u00e1 negociando el acercamiento de presos de ETA al Pa\u00eds Vasco?",
+    "freeling": [
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "ministro",
+            "lema": "ministro",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "est\u00e1",
+            "lema": "estar",
+            "pos": "VAIP3S0",
+            "prob": "0.000200642"
+        },
+        {
+            "word": "negociando",
+            "lema": "negociar",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "acercamiento",
+            "lema": "acercamiento",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "presos",
+            "lema": "preso",
+            "pos": "NCMP000",
+            "prob": "0.993827"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "ETA",
+            "lema": "eta",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Pa\u00eds_Vasco",
+            "lema": "pa\u00eds_vasco",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        }
+    ]
 }

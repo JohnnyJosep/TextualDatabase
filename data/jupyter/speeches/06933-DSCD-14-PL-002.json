@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-08T00:00:00.000Z",
-        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY: -- DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, RELA TIV A A LA MODIFICACIÓN DE LA LEY 50/1981, DE 30 DE DICIEMBRE, POR LA QUE SE REGULA EL EST A TUT O ORGÁNICO DEL MINISTERIO FISCAL. ",
+        "debate": "TOMA EN CONSIDERACI\u00d3N DE PROPOSICIONES DE LEY: -- DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, RELA TIV A A LA MODIFICACI\u00d3N DE LA LEY 50/1981, DE 30 DE DICIEMBRE, POR LA QUE SE REGULA EL EST A TUT O ORG\u00c1NICO DEL MINISTERIO FISCAL. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,47 @@
         ],
         "order": 32,
         "path": "../data/diaries-txts/DSCD-14-PL-041.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Muchas gracias, señor Aranda."
+    "text": "Muchas gracias, se\u00f1or Aranda.",
+    "freeling": [
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "Aranda",
+            "lema": "aranda",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

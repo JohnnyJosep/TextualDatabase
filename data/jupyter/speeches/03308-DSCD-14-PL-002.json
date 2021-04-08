@@ -1,7 +1,7 @@
 {
     "metadata": {
         "celebrated": "2020-03-13T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA ELVIRA VELASCO MORILLO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR MINISTRO DE SANIDAD: ¿QUÉ MEDIDAS ESTÁ ADOPTANDO EL GOBIERNO ANTE EL ELEVADO NÚMERO DE CONTAGIOS ENTRE LOS PROFESIONALES SANITARIOS? ",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DO\u00d1A ELVIRA VELASCO MORILLO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR MINISTRO DE SANIDAD: \u00bfQU\u00c9 MEDIDAS EST\u00c1 ADOPTANDO EL GOBIERNO ANTE EL ELEVADO N\u00daMERO DE CONTAGIOS ENTRE LOS PROFESIONALES SANITARIOS? ",
         "diputado": [
             {
                 "apellidos": "Velasco Morillo",
@@ -21,9 +21,569 @@
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-022.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "VELASCO MORILLO"
     },
-    "text": "Gracias, presidenta. Ayer agradecíamos el trabajo de mis compañeras enfermeras en el Día Internacional de Enfermería y mañana el Foro de la Profesión Médica guardará dos minutos de silencio en todos los centros de trabajo como muestra de agradecimiento a los compañeros que han perdido la vida como consecuencia de la COVID-19. Otros profesionales sanitarios también nos han dejado. Son más de sesenta los sanitarios que han fallecido y cerca de 49 000 los contagiados. Señor ministro, ¿qué medidas está tomando el Gobierno ante el elevado número de contagios de los profesionales sanitarios?"
+    "text": "Gracias, presidenta. Ayer agradec\u00edamos el trabajo de mis compa\u00f1eras enfermeras en el D\u00eda Internacional de Enfermer\u00eda y ma\u00f1ana el Foro de la Profesi\u00f3n M\u00e9dica guardar\u00e1 dos minutos de silencio en todos los centros de trabajo como muestra de agradecimiento a los compa\u00f1eros que han perdido la vida como consecuencia de la COVID-19. Otros profesionales sanitarios tambi\u00e9n nos han dejado. Son m\u00e1s de sesenta los sanitarios que han fallecido y cerca de 49 000 los contagiados. Se\u00f1or ministro, \u00bfqu\u00e9 medidas est\u00e1 tomando el Gobierno ante el elevado n\u00famero de contagios de los profesionales sanitarios?",
+    "freeling": [
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Ayer",
+            "lema": "ayer",
+            "pos": "RG",
+            "prob": "0.991836"
+        },
+        {
+            "word": "agradec\u00edamos",
+            "lema": "agradecer",
+            "pos": "VMII1P0",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "trabajo",
+            "lema": "trabajo",
+            "pos": "NCMS000",
+            "prob": "0.975768"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "mis",
+            "lema": "mi",
+            "pos": "DP1CPS",
+            "prob": "0.997312"
+        },
+        {
+            "word": "compa\u00f1eras",
+            "lema": "compa\u00f1ero",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "enfermeras",
+            "lema": "enfermero",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "D\u00eda_Internacional_de_Enfermer\u00eda",
+            "lema": "d\u00eda_internacional_de_enfermer\u00eda",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "ma\u00f1ana",
+            "lema": "ma\u00f1ana",
+            "pos": "RG",
+            "prob": "0.538408"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Foro_de_la_Profesi\u00f3n_M\u00e9dica",
+            "lema": "foro_de_la_profesi\u00f3n_m\u00e9dica",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "guardar\u00e1",
+            "lema": "guardar",
+            "pos": "VMIF3S0",
+            "prob": "1"
+        },
+        {
+            "word": "dos_minutos",
+            "lema": "TM_min:2",
+            "pos": "Zu",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "silencio",
+            "lema": "silencio",
+            "pos": "NCMS000",
+            "prob": "0.997076"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "todos",
+            "lema": "todo",
+            "pos": "DI0MP0",
+            "prob": "0.70665"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "centros",
+            "lema": "centro",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "trabajo",
+            "lema": "trabajo",
+            "pos": "NCMS000",
+            "prob": "0.975768"
+        },
+        {
+            "word": "como",
+            "lema": "como",
+            "pos": "CS",
+            "prob": "0.967153"
+        },
+        {
+            "word": "muestra",
+            "lema": "mostrar",
+            "pos": "VMIP3S0",
+            "prob": "0.598234"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "agradecimiento",
+            "lema": "agradecimiento",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "compa\u00f1eros",
+            "lema": "compa\u00f1ero",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "han",
+            "lema": "haber",
+            "pos": "VAIP3P0",
+            "prob": "0.999845"
+        },
+        {
+            "word": "perdido",
+            "lema": "perder",
+            "pos": "VMP00SM",
+            "prob": "0.998008"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "vida",
+            "lema": "vida",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "como",
+            "lema": "como",
+            "pos": "CS",
+            "prob": "0.967153"
+        },
+        {
+            "word": "consecuencia",
+            "lema": "consecuencia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "COVID-19",
+            "lema": "COVID-19",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Otros",
+            "lema": "otro",
+            "pos": "DI0MP0",
+            "prob": "0.745978"
+        },
+        {
+            "word": "profesionales",
+            "lema": "profesional",
+            "pos": "NCCP000",
+            "prob": "0.535461"
+        },
+        {
+            "word": "sanitarios",
+            "lema": "sanitario",
+            "pos": "AQ0MP00",
+            "prob": "0.98913"
+        },
+        {
+            "word": "tambi\u00e9n",
+            "lema": "tambi\u00e9n",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "nos",
+            "lema": "nos",
+            "pos": "PP1CP00",
+            "prob": "0.810258"
+        },
+        {
+            "word": "han",
+            "lema": "haber",
+            "pos": "VAIP3P0",
+            "prob": "0.999845"
+        },
+        {
+            "word": "dejado",
+            "lema": "dejar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Son",
+            "lema": "ser",
+            "pos": "VSIP3P0",
+            "prob": "0.995197"
+        },
+        {
+            "word": "m\u00e1s",
+            "lema": "m\u00e1s",
+            "pos": "RG",
+            "prob": "0.99993"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "sesenta",
+            "lema": "60",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "sanitarios",
+            "lema": "sanitario",
+            "pos": "AQ0MP00",
+            "prob": "0.98913"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "han",
+            "lema": "haber",
+            "pos": "VAIP3P0",
+            "prob": "0.999845"
+        },
+        {
+            "word": "fallecido",
+            "lema": "fallecer",
+            "pos": "VMP00SM",
+            "prob": "0.99505"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "cerca",
+            "lema": "cerca",
+            "pos": "RG",
+            "prob": "0.995192"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "49",
+            "lema": "49",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "000",
+            "lema": "0",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "contagiados",
+            "lema": "contagiar",
+            "pos": "VMP00PM",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "ministro",
+            "lema": "ministro",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "qu\u00e9",
+            "lema": "qu\u00e9",
+            "pos": "DT0CN0",
+            "prob": "0.216289"
+        },
+        {
+            "word": "medidas",
+            "lema": "medida",
+            "pos": "NCFP000",
+            "prob": "0.999067"
+        },
+        {
+            "word": "est\u00e1",
+            "lema": "estar",
+            "pos": "VAIP3S0",
+            "prob": "0.000200642"
+        },
+        {
+            "word": "tomando",
+            "lema": "tomar",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "ante",
+            "lema": "ante",
+            "pos": "SP",
+            "prob": "0.999744"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "elevado",
+            "lema": "elevar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "n\u00famero",
+            "lema": "n\u00famero",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "contagios",
+            "lema": "contagio",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "profesionales",
+            "lema": "profesional",
+            "pos": "NCCP000",
+            "prob": "0.535461"
+        },
+        {
+            "word": "sanitarios",
+            "lema": "sanitario",
+            "pos": "AQ0MP00",
+            "prob": "0.98913"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        }
+    ]
 }

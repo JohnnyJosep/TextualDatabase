@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-03-27T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON ALBERT BOTRAN P AHISSA, DEL GRUPO P ARLAMENT ARIO MIXT O, QUE FORMULA AL SEÑOR MINISTRO DE JUSTICIA: ¿QUÉ OPINIÓN LE MERECE EL INFORME DE AMNISTÍA INTERNACIONAL «ESPAÑA: LIBERTAD DE REUNIÓN Y DE EXPRESIÓN, Y PRINCIPIO DE LEGALIDAD, A LA LUZ DE LA SENTENCIA DEL TRIBUNAL SUPREMO EN LA CAUSA ESPECIAL 3/20907/2017»? ",
+        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON ALBERT BOTRAN P AHISSA, DEL GRUPO P ARLAMENT ARIO MIXT O, QUE FORMULA AL SE\u00d1OR MINISTRO DE JUSTICIA: \u00bfQU\u00c9 OPINI\u00d3N LE MERECE EL INFORME DE AMNIST\u00cdA INTERNACIONAL \u00abESPA\u00d1A: LIBERTAD DE REUNI\u00d3N Y DE EXPRESI\u00d3N, Y PRINCIPIO DE LEGALIDAD, A LA LUZ DE LA SENTENCIA DEL TRIBUNAL SUPREMO EN LA CAUSA ESPECIAL 3/20907/2017\u00bb? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,41 @@
         ],
         "order": 2,
         "path": "../data/diaries-txts/DSCD-14-PL-024.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor ministro de Justicia."
+    "text": "Se\u00f1or ministro de Justicia.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "ministro",
+            "lema": "ministro",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Justicia",
+            "lema": "justicia",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

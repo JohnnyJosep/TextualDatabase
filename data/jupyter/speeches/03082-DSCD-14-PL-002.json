@@ -1,17 +1,17 @@
 {
     "metadata": {
         "celebrated": "2020-04-29T00:00:00.000Z",
-        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES: -- REAL DECRETO-LEY 14/2020, DE 14 DE ABRIL, POR EL QUE SE EXTIENDE EL PLAZO PARA LA PRESENTACIÓN E INGRESO DE DETERMINADAS DECLARACIONES Y AUTOLIQUIDACIÓN TRIBUTARIAS. ",
+        "debate": "CONVALIDACI\u00d3N O DEROGACI\u00d3N DE REALES DECRETOS-LEYES: -- REAL DECRETO-LEY 14/2020, DE 14 DE ABRIL, POR EL QUE SE EXTIENDE EL PLAZO PARA LA PRESENTACI\u00d3N E INGRESO DE DETERMINADAS DECLARACIONES Y AUTOLIQUIDACI\u00d3N TRIBUTARIAS. ",
         "diputado": [
             {
-                "apellidos": "Guijarro García",
-                "apellidosNombre": "Guijarro García, Txema",
+                "apellidos": "Guijarro Garc\u00eda",
+                "apellidosNombre": "Guijarro Garc\u00eda, Txema",
                 "codParlamentario": 344,
                 "fchAlta": "29/11/2019",
                 "fchBaja": "",
                 "formacion": "UP",
                 "genero": 1,
-                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común",
+                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Com\u00fa Podem-Galicia en Com\u00fan",
                 "idCircunscripcion": 3,
                 "idLegislatura": 14,
                 "nombre": "Txema",
@@ -24,9 +24,791 @@
         ],
         "order": 17,
         "path": "../data/diaries-txts/DSCD-14-PL-020.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "GUIJARRO GARCÍA"
+        "speacker": "GUIJARRO GARC\u00cdA"
     },
-    "text": "Sí, señora presidenta, voy terminando. Quizá en ese otro contexto más sosegado, el de la Comisión, nos puedan explicar estos partidos qué fórmula mágica conocen ellos y que se nos escapan a los demás mortales; en definitiva, qué nueva doctrina económica manejan, toda vez que los pilares del neoliberalismo se han derrumbado estrepitosamente --señor Espinosa de los Monteros, le veo que sonríe--, dejando así a muchos de sus economistas de referencia o bien balbuceando, y eso es lo que me he encontrado en algún caso, o bien directamente abrazando medidas neokeynesianas, medidas que rechazaron hace apenas unos pocos meses por anatematizadoras y que hoy no les queda más remedio que reconocer. Muchas gracias. (Aplausos)."
+    "text": "S\u00ed, se\u00f1ora presidenta, voy terminando. Quiz\u00e1 en ese otro contexto m\u00e1s sosegado, el de la Comisi\u00f3n, nos puedan explicar estos partidos qu\u00e9 f\u00f3rmula m\u00e1gica conocen ellos y que se nos escapan a los dem\u00e1s mortales; en definitiva, qu\u00e9 nueva doctrina econ\u00f3mica manejan, toda vez que los pilares del neoliberalismo se han derrumbado estrepitosamente --se\u00f1or Espinosa de los Monteros, le veo que sonr\u00ede--, dejando as\u00ed a muchos de sus economistas de referencia o bien balbuceando, y eso es lo que me he encontrado en alg\u00fan caso, o bien directamente abrazando medidas neokeynesianas, medidas que rechazaron hace apenas unos pocos meses por anatematizadoras y que hoy no les queda m\u00e1s remedio que reconocer. Muchas gracias. (Aplausos).",
+    "freeling": [
+        {
+            "word": "S\u00ed",
+            "lema": "s\u00ed",
+            "pos": "RG",
+            "prob": "0.654652"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "voy",
+            "lema": "ir",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "terminando",
+            "lema": "terminar",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Quiz\u00e1",
+            "lema": "quiz\u00e1",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "ese",
+            "lema": "ese",
+            "pos": "DD0MS0",
+            "prob": "0.966694"
+        },
+        {
+            "word": "otro",
+            "lema": "otro",
+            "pos": "DI0MS0",
+            "prob": "0.658501"
+        },
+        {
+            "word": "contexto",
+            "lema": "contexto",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "m\u00e1s",
+            "lema": "m\u00e1s",
+            "pos": "RG",
+            "prob": "0.99993"
+        },
+        {
+            "word": "sosegado",
+            "lema": "sosegar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "Comisi\u00f3n",
+            "lema": "comisi\u00f3n",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "nos",
+            "lema": "nos",
+            "pos": "PP1CP00",
+            "prob": "0.810258"
+        },
+        {
+            "word": "puedan",
+            "lema": "poder",
+            "pos": "VMSP3P0",
+            "prob": "0.997382"
+        },
+        {
+            "word": "explicar",
+            "lema": "explicar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "estos",
+            "lema": "este",
+            "pos": "DD0MP0",
+            "prob": "0.972009"
+        },
+        {
+            "word": "partidos",
+            "lema": "partido",
+            "pos": "NCMP000",
+            "prob": "0.99933"
+        },
+        {
+            "word": "qu\u00e9",
+            "lema": "qu\u00e9",
+            "pos": "DT0CN0",
+            "prob": "0.216289"
+        },
+        {
+            "word": "f\u00f3rmula",
+            "lema": "f\u00f3rmula",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "m\u00e1gica",
+            "lema": "m\u00e1gico",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": "conocen",
+            "lema": "conocer",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "ellos",
+            "lema": "ellos",
+            "pos": "PP3MP00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "nos",
+            "lema": "nos",
+            "pos": "PP1CP00",
+            "prob": "0.810258"
+        },
+        {
+            "word": "escapan",
+            "lema": "escapar",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "dem\u00e1s",
+            "lema": "dem\u00e1s",
+            "pos": "PI0CP00",
+            "prob": "0.719907"
+        },
+        {
+            "word": "mortales",
+            "lema": "mortal",
+            "pos": "AQ0CP00",
+            "prob": "0.827869"
+        },
+        {
+            "word": ";",
+            "lema": ";",
+            "pos": "Fx",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "definitiva",
+            "lema": "definitivo",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "qu\u00e9",
+            "lema": "qu\u00e9",
+            "pos": "DE0CN0",
+            "prob": "0.0652643"
+        },
+        {
+            "word": "nueva",
+            "lema": "nuevo",
+            "pos": "AQ0FS00",
+            "prob": "0.993421"
+        },
+        {
+            "word": "doctrina",
+            "lema": "doctrina",
+            "pos": "NCFS000",
+            "prob": "0.962264"
+        },
+        {
+            "word": "econ\u00f3mica",
+            "lema": "econ\u00f3mico",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": "manejan",
+            "lema": "manejar",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "toda",
+            "lema": "todo",
+            "pos": "DI0FS0",
+            "prob": "0.984467"
+        },
+        {
+            "word": "vez",
+            "lema": "vez",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "pilares",
+            "lema": "pilar",
+            "pos": "NCMP000",
+            "prob": "0.986111"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "neoliberalismo",
+            "lema": "neoliberalismo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "han",
+            "lema": "haber",
+            "pos": "VAIP3P0",
+            "prob": "0.999845"
+        },
+        {
+            "word": "derrumbado",
+            "lema": "derrumbar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "estrepitosamente",
+            "lema": "estrepitosamente",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "Espinosa_de_los_Monteros",
+            "lema": "espinosa_de_los_monteros",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "veo",
+            "lema": "ver",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "sonr\u00ede",
+            "lema": "sonre\u00edr",
+            "pos": "VMIP3S0",
+            "prob": "0.98924"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "dejando",
+            "lema": "dejar",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": "as\u00ed",
+            "lema": "as\u00ed",
+            "pos": "RG",
+            "prob": "0.999409"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "muchos",
+            "lema": "mucho",
+            "pos": "PI0MP00",
+            "prob": "0.336006"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "sus",
+            "lema": "su",
+            "pos": "DP3CPN",
+            "prob": "0.999903"
+        },
+        {
+            "word": "economistas",
+            "lema": "economista",
+            "pos": "NCCP000",
+            "prob": "0.638706"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "referencia",
+            "lema": "referencia",
+            "pos": "NCFS000",
+            "prob": "0.989637"
+        },
+        {
+            "word": "o_bien",
+            "lema": "o_bien",
+            "pos": "CC",
+            "prob": "1"
+        },
+        {
+            "word": "balbuceando",
+            "lema": "balbucear",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "eso",
+            "lema": "ese",
+            "pos": "PD00S00",
+            "prob": "1"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "lo",
+            "lema": "el",
+            "pos": "DA00S0",
+            "prob": "0.665165"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "me",
+            "lema": "me",
+            "pos": "PP1CS00",
+            "prob": "0.755196"
+        },
+        {
+            "word": "he",
+            "lema": "haber",
+            "pos": "VAIP1S0",
+            "prob": "0.962485"
+        },
+        {
+            "word": "encontrado",
+            "lema": "encontrar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "alg\u00fan",
+            "lema": "alguno",
+            "pos": "DI0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "caso",
+            "lema": "caso",
+            "pos": "NCMS000",
+            "prob": "0.999445"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "o_bien",
+            "lema": "o_bien",
+            "pos": "CC",
+            "prob": "1"
+        },
+        {
+            "word": "directamente",
+            "lema": "directamente",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "abrazando",
+            "lema": "abrazar",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": "medidas",
+            "lema": "medida",
+            "pos": "NCFP000",
+            "prob": "0.999067"
+        },
+        {
+            "word": "neokeynesianas",
+            "lema": "neokeynesiano",
+            "pos": "AQ0FP00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "medidas",
+            "lema": "medida",
+            "pos": "NCFP000",
+            "prob": "0.999067"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "rechazaron",
+            "lema": "rechazar",
+            "pos": "VMIS3P0",
+            "prob": "1"
+        },
+        {
+            "word": "hace",
+            "lema": "hacer",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "apenas",
+            "lema": "apenas",
+            "pos": "RG",
+            "prob": "0.972286"
+        },
+        {
+            "word": "unos",
+            "lema": "uno",
+            "pos": "DI0MP0",
+            "prob": "0.959952"
+        },
+        {
+            "word": "pocos",
+            "lema": "poco",
+            "pos": "DI0MP0",
+            "prob": "0.736967"
+        },
+        {
+            "word": "meses",
+            "lema": "mes",
+            "pos": "NCMP000",
+            "prob": "0.999436"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "anatematizadoras",
+            "lema": "anatematizador",
+            "pos": "AQ0FP00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "hoy",
+            "lema": "hoy",
+            "pos": "RG",
+            "prob": "0.993864"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "les",
+            "lema": "le",
+            "pos": "PP3CPD0",
+            "prob": "1"
+        },
+        {
+            "word": "queda",
+            "lema": "quedar",
+            "pos": "VMIP3S0",
+            "prob": "0.945755"
+        },
+        {
+            "word": "m\u00e1s",
+            "lema": "m\u00e1s",
+            "pos": "RG",
+            "prob": "0.99993"
+        },
+        {
+            "word": "remedio",
+            "lema": "remedio",
+            "pos": "NCMS000",
+            "prob": "0.990196"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "reconocer",
+            "lema": "reconocer",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplausos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

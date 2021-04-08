@@ -1,7 +1,7 @@
 {
     "metadata": {
         "celebrated": "2020-09-09T00:00:00.000Z",
-        "debate": "PREGUNTAS: ─ DEL DIPUT ADO DON P ABLO CASADO BLANCO, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿HA DERROTADO EL GOBIERNO EL VIRUS? -- DEL DIPUTADO DON SANTIAGO ABASCAL CONDE, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL PRESIDENTE DEL GOBIERNO: ¿PIENSA EL GOBIERNO SEGUIR ANTEPONIENDO SU AGENDA IDEOLÓGICA A LAS VERDADERAS NECESIDADES DE LOS ESPAÑOLES? ",
+        "debate": "PREGUNTAS: \u2500 DEL DIPUT ADO DON P ABLO CASADO BLANCO, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR PRESIDENTE DEL GOBIERNO: \u00bfHA DERROTADO EL GOBIERNO EL VIRUS? -- DEL DIPUTADO DON SANTIAGO ABASCAL CONDE, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL PRESIDENTE DEL GOBIERNO: \u00bfPIENSA EL GOBIERNO SEGUIR ANTEPONIENDO SU AGENDA IDEOL\u00d3GICA A LAS VERDADERAS NECESIDADES DE LOS ESPA\u00d1OLES? ",
         "diputado": [
             {
                 "apellidos": "Abascal Conde",
@@ -24,9 +24,545 @@
         ],
         "order": 9,
         "path": "../data/diaries-txts/DSCD-14-PL-042.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "ABASCAL CONDE"
     },
-    "text": "Son ustedes una catástrofe con patas para España. Señor Sánchez, preside el peor Gobierno que ha tenido nuestro país en ochenta años, el que ha provocado la mayor contracción del producto interior bruto. El Gobierno… (El señor vicepresidente segundo del Gobierno, Iglesias Turrión, hace signos negativos). Sí, señor Iglesias, en ochenta años. La mayor destrucción de la economía, la mayor destrucción del PIB y la mayor deuda pública y la mayor división territorial."
+    "text": "Son ustedes una cat\u00e1strofe con patas para Espa\u00f1a. Se\u00f1or S\u00e1nchez, preside el peor Gobierno que ha tenido nuestro pa\u00eds en ochenta a\u00f1os, el que ha provocado la mayor contracci\u00f3n del producto interior bruto. El Gobierno\u2026 (El se\u00f1or vicepresidente segundo del Gobierno, Iglesias Turri\u00f3n, hace signos negativos). S\u00ed, se\u00f1or Iglesias, en ochenta a\u00f1os. La mayor destrucci\u00f3n de la econom\u00eda, la mayor destrucci\u00f3n del PIB y la mayor deuda p\u00fablica y la mayor divisi\u00f3n territorial.",
+    "freeling": [
+        {
+            "word": "Son",
+            "lema": "ser",
+            "pos": "VSIP3P0",
+            "prob": "0.995197"
+        },
+        {
+            "word": "ustedes",
+            "lema": "usted",
+            "pos": "PP2CP0P",
+            "prob": "1"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "cat\u00e1strofe",
+            "lema": "cat\u00e1strofe",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "patas",
+            "lema": "pata",
+            "pos": "NCFP000",
+            "prob": "0.5"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "Espa\u00f1a",
+            "lema": "espa\u00f1a",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Se\u00f1or_S\u00e1nchez",
+            "lema": "se\u00f1or_s\u00e1nchez",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "preside",
+            "lema": "presidir",
+            "pos": "VMIP3S0",
+            "prob": "0.990196"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "peor",
+            "lema": "peor",
+            "pos": "AQ0CS00",
+            "prob": "0.880117"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "tenido",
+            "lema": "tener",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "nuestro",
+            "lema": "nuestro",
+            "pos": "DP1MSP",
+            "prob": "0.957064"
+        },
+        {
+            "word": "pa\u00eds",
+            "lema": "pa\u00eds",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "ochenta",
+            "lema": "80",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "a\u00f1os",
+            "lema": "a\u00f1o",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "provocado",
+            "lema": "provocar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "mayor",
+            "lema": "mayor",
+            "pos": "AQ0CS00",
+            "prob": "0.9995"
+        },
+        {
+            "word": "contracci\u00f3n",
+            "lema": "contracci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "producto",
+            "lema": "producto",
+            "pos": "NCMS000",
+            "prob": "0.996324"
+        },
+        {
+            "word": "interior",
+            "lema": "interior",
+            "pos": "AQ0CS00",
+            "prob": "0.455837"
+        },
+        {
+            "word": "bruto",
+            "lema": "bruto",
+            "pos": "AQ0MS00",
+            "prob": "0.987805"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "El",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "El",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "vicepresidente",
+            "lema": "vicepresidente",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "segundo",
+            "lema": "2",
+            "pos": "AO0MS00",
+            "prob": "0.901147"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Iglesias_Turri\u00f3n",
+            "lema": "iglesias_turri\u00f3n",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "hace",
+            "lema": "hacer",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "signos",
+            "lema": "signo",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "negativos",
+            "lema": "negativo",
+            "pos": "AQ0MP00",
+            "prob": "0.983871"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "S\u00ed",
+            "lema": "s\u00ed",
+            "pos": "RG",
+            "prob": "0.654652"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "Iglesias",
+            "lema": "iglesias",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "ochenta",
+            "lema": "80",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "a\u00f1os",
+            "lema": "a\u00f1o",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "La",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "mayor",
+            "lema": "mayor",
+            "pos": "AQ0CS00",
+            "prob": "0.9995"
+        },
+        {
+            "word": "destrucci\u00f3n",
+            "lema": "destrucci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "econom\u00eda",
+            "lema": "econom\u00eda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "mayor",
+            "lema": "mayor",
+            "pos": "AQ0CS00",
+            "prob": "0.9995"
+        },
+        {
+            "word": "destrucci\u00f3n",
+            "lema": "destrucci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "PIB",
+            "lema": "pib",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "mayor",
+            "lema": "mayor",
+            "pos": "AQ0CS00",
+            "prob": "0.9995"
+        },
+        {
+            "word": "deuda",
+            "lema": "deuda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "p\u00fablica",
+            "lema": "p\u00fablico",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "mayor",
+            "lema": "mayor",
+            "pos": "AQ0CS00",
+            "prob": "0.9995"
+        },
+        {
+            "word": "divisi\u00f3n",
+            "lema": "divisi\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "territorial",
+            "lema": "territorial",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

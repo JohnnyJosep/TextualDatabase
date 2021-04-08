@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-11T00:00:00.000Z",
-        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO SOCIALISTA, ORGÁNICA DE REGULACIÓN DE LA EUTANASIA). ",
+        "debate": "TOMA EN CONSIDERACI\u00d3N DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO SOCIALISTA, ORG\u00c1NICA DE REGULACI\u00d3N DE LA EUTANASIA). ",
         "diputado": [
             {
                 "apellidos": "Nogueras i Camero",
-                "apellidosNombre": "Nogueras i Camero, Míriam",
+                "apellidosNombre": "Nogueras i Camero, M\u00edriam",
                 "codParlamentario": 27,
                 "fchAlta": "19/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario Plural",
                 "idCircunscripcion": 8,
                 "idLegislatura": 14,
-                "nombre": "Míriam",
+                "nombre": "M\u00edriam",
                 "nombreCircunscripcion": "Barcelona",
                 "twitter": "https://twitter.com/miriamnoguerasM",
                 "twitterUserId": "343507680",
@@ -24,9 +24,89 @@
         ],
         "order": 70,
         "path": "../data/diaries-txts/DSCD-14-PL-007.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "NOGUERAS I CAMERO"
     },
-    "text": "Aquí todo el mundo ha podido decir lo que ha querido…"
+    "text": "Aqu\u00ed todo el mundo ha podido decir lo que ha querido\u2026",
+    "freeling": [
+        {
+            "word": "Aqu\u00ed",
+            "lema": "aqu\u00ed",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "todo",
+            "lema": "todo",
+            "pos": "DI0MS0",
+            "prob": "0.6662"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "mundo",
+            "lema": "mundo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "podido",
+            "lema": "poder",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "decir",
+            "lema": "decir",
+            "pos": "VMN0000",
+            "prob": "0.998575"
+        },
+        {
+            "word": "lo",
+            "lema": "el",
+            "pos": "DA00S0",
+            "prob": "0.665165"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "querido",
+            "lema": "querer",
+            "pos": "VMP00SM",
+            "prob": "0.99505"
+        },
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

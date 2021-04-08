@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-19T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON JOAN CAPDEVILA I ESTEVE, DEL GRUPO P ARLAMENT ARIO REPUBLICANO, QUE FORMULA AL GOBIERNO: ¿QUÉ ACTUACIONES PREVÉ EL GOBIERNO ESPAÑOL PARA COMBATIR LA MOROSIDAD ENTRE EMPRESAS? ",
+        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON JOAN CAPDEVILA I ESTEVE, DEL GRUPO P ARLAMENT ARIO REPUBLICANO, QUE FORMULA AL GOBIERNO: \u00bfQU\u00c9 ACTUACIONES PREV\u00c9 EL GOBIERNO ESPA\u00d1OL PARA COMBATIR LA MOROSIDAD ENTRE EMPRESAS? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,23 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-010.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Capdevila."
+    "text": "Se\u00f1or Capdevila.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Capdevila",
+            "lema": "se\u00f1or_capdevila",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

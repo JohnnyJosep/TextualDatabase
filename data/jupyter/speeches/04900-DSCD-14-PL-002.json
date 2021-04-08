@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-06-17T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DE LA DIPUT ADA DOÑA JOSUNE GOROSPE ELEZCANO, DEL GRUPO P ARLAMENT ARIO VASCO (EAJ-PNV), QUE FORMULA AL SEÑOR MINISTRO DE UNIVERSIDADES: ¿QUÉ MEDIDAS HA ADOPTADO EL GOBIERNO EN SU ÁMBITO COMPETENCIAL PARA AUMENTAR LAS OPORTUNIDADES LABORALES QUE HOY OFRECEN LOS ESTUDIOS UNIVERSITARIOS A LOS Y LAS JÓVENES? ",
+        "debate": "PREGUNTAS: -- DE LA DIPUT ADA DO\u00d1A JOSUNE GOROSPE ELEZCANO, DEL GRUPO P ARLAMENT ARIO VASCO (EAJ-PNV), QUE FORMULA AL SE\u00d1OR MINISTRO DE UNIVERSIDADES: \u00bfQU\u00c9 MEDIDAS HA ADOPTADO EL GOBIERNO EN SU \u00c1MBITO COMPETENCIAL PARA AUMENTAR LAS OPORTUNIDADES LABORALES QUE HOY OFRECEN LOS ESTUDIOS UNIVERSITARIOS A LOS Y LAS J\u00d3VENES? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,23 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-030.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señora Gorospe Elezcano."
+    "text": "Se\u00f1ora Gorospe Elezcano.",
+    "freeling": [
+        {
+            "word": "Se\u00f1ora_Gorospe_Elezcano",
+            "lema": "se\u00f1ora_gorospe_elezcano",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

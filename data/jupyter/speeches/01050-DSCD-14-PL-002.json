@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-12T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JOSÉ MARÍA MAZÓN RAMOS, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA A LA SEÑORA MINISTRA DE POLÍTICA TERRITORIAL Y FUNCIÓN PÚBLICA: ¿CUÁNDO VA A REALIZAR EL GOBIERNO LOS TRÁMITES NECESARIOS PARA PAGAR LAS SUBVENCIONES INCLUIDAS EN EL DECRETO 630/2019, DE 31 DE OCTUBRE, QUE DESARROLLÓ EL REAL DECRETO­LEY 2/2019, DE 25 DE ENERO, PARA PALIAR LOS DAÑOS CAUSADOS POR LAS INUNDACIONES EN CANTABRIA? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JOS\u00c9 MAR\u00cdA MAZ\u00d3N RAMOS, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA A LA SE\u00d1ORA MINISTRA DE POL\u00cdTICA TERRITORIAL Y FUNCI\u00d3N P\u00daBLICA: \u00bfCU\u00c1NDO VA A REALIZAR EL GOBIERNO LOS TR\u00c1MITES NECESARIOS PARA PAGAR LAS SUBVENCIONES INCLUIDAS EN EL DECRETO 630/2019, DE 31 DE OCTUBRE, QUE DESARROLL\u00d3 EL REAL DECRETO\u00adLEY 2/2019, DE 25 DE ENERO, PARA PALIAR LOS DA\u00d1OS CAUSADOS POR LAS INUNDACIONES EN CANTABRIA? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,65 @@
         ],
         "order": 12,
         "path": "../data/diaries-txts/DSCD-14-PL-008.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "… suficientemente explicado, y la expresión…"
+    "text": "\u2026 suficientemente explicado, y la expresi\u00f3n\u2026",
+    "freeling": [
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": "suficientemente",
+            "lema": "suficientemente",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "explicado",
+            "lema": "explicar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "expresi\u00f3n",
+            "lema": "expresi\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

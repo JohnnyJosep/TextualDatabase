@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-04-29T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- PREGUNTA DEL DIPUTADO DON PEDRO QUEVEDO ITURBE, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA A LA SEÑORA MINISTRA DE HACIENDA: ¿TIENE PREVISTO FIJAR NUEVOS OBJETIVOS DE ESTABILIDAD PRESUPUESTARIA Y DEUDA PÚBLICA A LAS COMUNIDADES AUTÓNOMAS, EN RESPUESTA A LA CRISIS PROVOCADA POR LA COVID-19? ",
+        "debate": "PREGUNTAS: -- PREGUNTA DEL DIPUTADO DON PEDRO QUEVEDO ITURBE, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA A LA SE\u00d1ORA MINISTRA DE HACIENDA: \u00bfTIENE PREVISTO FIJAR NUEVOS OBJETIVOS DE ESTABILIDAD PRESUPUESTARIA Y DEUDA P\u00daBLICA A LAS COMUNIDADES AUT\u00d3NOMAS, EN RESPUESTA A LA CRISIS PROVOCADA POR LA COVID-19? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,29 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-020.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Quevedo Iturbe."
+    "text": "Se\u00f1or Quevedo Iturbe.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "Quevedo_Iturbe",
+            "lema": "quevedo_iturbe",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

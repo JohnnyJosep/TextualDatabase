@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-06-25T00:00:00.000Z",
-        "debate": "DEBATES DE TOTALIDAD DE INICIATIVAS LEGISLATIVAS. -- PROPOSICIÓN DE LEY ORGÁNICA DE REFORMA DE LA LEY ORGÁNICA 2/2012, DE 27 DE ABRIL, DE ESTABILIDAD PRESUPUESTARIA Y SOSTENIBILIDAD FINANCIERA. ",
+        "debate": "DEBATES DE TOTALIDAD DE INICIATIVAS LEGISLATIVAS. -- PROPOSICI\u00d3N DE LEY ORG\u00c1NICA DE REFORMA DE LA LEY ORG\u00c1NICA 2/2012, DE 27 DE ABRIL, DE ESTABILIDAD PRESUPUESTARIA Y SOSTENIBILIDAD FINANCIERA. ",
         "diputado": [
             {
-                "apellidos": "Píriz Maya",
-                "apellidosNombre": "Píriz Maya, Víctor Valentín",
+                "apellidos": "P\u00edriz Maya",
+                "apellidosNombre": "P\u00edriz Maya, V\u00edctor Valent\u00edn",
                 "codParlamentario": 9,
                 "fchAlta": "18/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario Popular en el Congreso",
                 "idCircunscripcion": 6,
                 "idLegislatura": 14,
-                "nombre": "Víctor Valentín",
+                "nombre": "V\u00edctor Valent\u00edn",
                 "nombreCircunscripcion": "Badajoz",
                 "twitter": "https://twitter.com/vicpiriz1975",
                 "twitterUserId": "807001880220073988",
@@ -24,9 +24,71 @@
         ],
         "order": 7,
         "path": "../data/diaries-txts/DSCD-14-PL-033.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "PÍRIZ MAYA"
+        "speacker": "P\u00cdRIZ MAYA"
     },
-    "text": "Es que estoy conectando los puntos, señor presidente."
+    "text": "Es que estoy conectando los puntos, se\u00f1or presidente.",
+    "freeling": [
+        {
+            "word": "Es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "estoy",
+            "lema": "estar",
+            "pos": "VAIP1S0",
+            "prob": "0.00184502"
+        },
+        {
+            "word": "conectando",
+            "lema": "conectar",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "puntos",
+            "lema": "punto",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "presidente",
+            "lema": "presidente",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

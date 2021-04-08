@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-04-15T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DE LA DIPUT ADA DOÑA CONCEPCIÓN GAMARRA RUIZ-CLA VIJO, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR MINISTRO DE SANIDAD: ¿CONSIDERA EL GOBIERNO QUE ESTÁ PROTEGIENDO ADECUADAMENTE A LOS ESPAÑOLES EN LA CRISIS DE LA COVID-19? ",
+        "debate": "PREGUNTAS: -- DE LA DIPUT ADA DO\u00d1A CONCEPCI\u00d3N GAMARRA RUIZ-CLA VIJO, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR MINISTRO DE SANIDAD: \u00bfCONSIDERA EL GOBIERNO QUE EST\u00c1 PROTEGIENDO ADECUADAMENTE A LOS ESPA\u00d1OLES EN LA CRISIS DE LA COVID-19? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,23 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-018.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señora Gamarra Ruiz-Clavijo."
+    "text": "Se\u00f1ora Gamarra Ruiz-Clavijo.",
+    "freeling": [
+        {
+            "word": "Se\u00f1ora_Gamarra_Ruiz-Clavijo",
+            "lema": "se\u00f1ora_gamarra_ruiz-clavijo",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-25T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO P ARLAMENT ARIO MIXT O (SEÑORA ORAMAS GONZÁLEZ-MORO), SOBRE LAS MEDIDAS QUE VA A ADOPTAR EL GOBIERNO ANTE LA DELIMITACIÓN EFECTUADA POR PARTE DE MARRUECOS DE SU FRONTERA MARÍTIMA AFECTANDO A CANARIAS Y AL SÁHARA OCCIDENTAL. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO P ARLAMENT ARIO MIXT O (SE\u00d1ORA ORAMAS GONZ\u00c1LEZ-MORO), SOBRE LAS MEDIDAS QUE VA A ADOPTAR EL GOBIERNO ANTE LA DELIMITACI\u00d3N EFECTUADA POR PARTE DE MARRUECOS DE SU FRONTERA MAR\u00cdTIMA AFECTANDO A CANARIAS Y AL S\u00c1HARA OCCIDENTAL. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,41 @@
         ],
         "order": 22,
         "path": "../data/diaries-txts/DSCD-14-PL-012.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Muchísimas gracias. --"
+    "text": "Much\u00edsimas gracias. --",
+    "freeling": [
+        {
+            "word": "Much\u00edsimas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.763114"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

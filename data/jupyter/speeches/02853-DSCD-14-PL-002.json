@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-04-15T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON EDMUNDO BAL FRANCÉS, DEL GRUPO PARLAMENTARIO CIUDADANOS, QUE FORMULA AL SEÑOR MINISTRO DE SANIDAD: ¿CÓMO TIENE PREVISTO GARANTIZAR EL GOBIERNO LA DISPONIBILIDAD DE EQUIPOS DE PROTECCIÓN INDIVIDUAL (EPI) Y DE TEST PARA DETECTAR EL COVID-19 EN NÚMERO SUFICIENTE PARA PODER ASEGURAR LA PROTECCIÓN ADECUADA DE LOS TRABAJADORES DEDICADOS A ACTIVIDADES ESENCIALES, ASÍ COMO DEL RESTO DE LA POBLACIÓN EN UN EVENTUAL ESCENARIO DE DESESCALADA DE LAS MEDIDAS DE CONFINAMIENTO? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON EDMUNDO BAL FRANCE\u0301S, DEL GRUPO PARLAMENTARIO CIUDADANOS, QUE FORMULA AL SE\u00d1OR MINISTRO DE SANIDAD: \u00bfC\u00d3MO TIENE PREVISTO GARANTIZAR EL GOBIERNO LA DISPONIBILIDAD DE EQUIPOS DE PROTECCI\u00d3N INDIVIDUAL (EPI) Y DE TEST PARA DETECTAR EL COVID-19 EN N\u00daMERO SUFICIENTE PARA PODER ASEGURAR LA PROTECCI\u00d3N ADECUADA DE LOS TRABAJADORES DEDICADOS A ACTIVIDADES ESENCIALES, AS\u00cd COMO DEL RESTO DE LA POBLACI\u00d3N EN UN EVENTUAL ESCENARIO DE DESESCALADA DE LAS MEDIDAS DE CONFINAMIENTO? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,41 @@
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-018.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor ministro de Sanidad."
+    "text": "Se\u00f1or ministro de Sanidad.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "ministro",
+            "lema": "ministro",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Sanidad",
+            "lema": "sanidad",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

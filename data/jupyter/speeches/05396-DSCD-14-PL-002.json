@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-06-24T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON JOSÉ IGNACIO ECHÁNIZ SALGADO, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR MINISTRO DE SANIDAD: ¿QUÉ BALANCE HACE DE LA GESTIÓN DEL MINISTERIO DE SANIDAD DURANTE LA VIGENCIA DEL ESTADO DE ALARMA? ",
+        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON JOS\u00c9 IGNACIO ECH\u00c1NIZ SALGADO, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR MINISTRO DE SANIDAD: \u00bfQU\u00c9 BALANCE HACE DE LA GESTI\u00d3N DEL MINISTERIO DE SANIDAD DURANTE LA VIGENCIA DEL ESTADO DE ALARMA? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,23 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-032.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Echániz Salgado."
+    "text": "Se\u00f1or Ech\u00e1niz Salgado.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Ech\u00e1niz_Salgado",
+            "lema": "se\u00f1or_ech\u00e1niz_salgado",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

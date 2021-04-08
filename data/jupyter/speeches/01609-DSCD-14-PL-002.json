@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-19T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON IGNACIO GARRIGA V AZ DE CONCICAO, EN SUSTITUCIÓN DE DON SANTIAGO ABASCAL CONDE, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿QUIÉN DIRIGE REALMENTE LA POLÍTICA DEL GOBIERNO? ",
+        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON IGNACIO GARRIGA V AZ DE CONCICAO, EN SUSTITUCI\u00d3N DE DON SANTIAGO ABASCAL CONDE, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SE\u00d1OR PRESIDENTE DEL GOBIERNO: \u00bfQUI\u00c9N DIRIGE REALMENTE LA POL\u00cdTICA DEL GOBIERNO? ",
         "diputado": [
             {
-                "apellidos": "Arrimadas García",
-                "apellidosNombre": "Arrimadas García, Inés",
+                "apellidos": "Arrimadas Garc\u00eda",
+                "apellidosNombre": "Arrimadas Garc\u00eda, In\u00e9s",
                 "codParlamentario": 331,
                 "fchAlta": "29/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario Ciudadanos",
                 "idCircunscripcion": 8,
                 "idLegislatura": 14,
-                "nombre": "Inés",
+                "nombre": "In\u00e9s",
                 "nombreCircunscripcion": "Barcelona",
                 "twitter": "https://twitter.com/InesArrimadas",
                 "twitterUserId": "552561770",
@@ -24,9 +24,89 @@
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-010.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "GARRIGA V AZ DE CONCICAO"
     },
-    "text": "Señora vicepresidenta, ¿quién dirige realmente las políticas del Gobierno?"
+    "text": "Se\u00f1ora vicepresidenta, \u00bfqui\u00e9n dirige realmente las pol\u00edticas del Gobierno?",
+    "freeling": [
+        {
+            "word": "Se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "vicepresidenta",
+            "lema": "vicepresidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "qui\u00e9n",
+            "lema": "qui\u00e9n",
+            "pos": "PT0CS00",
+            "prob": "0.997449"
+        },
+        {
+            "word": "dirige",
+            "lema": "dirigir",
+            "pos": "VMIP3S0",
+            "prob": "0.995868"
+        },
+        {
+            "word": "realmente",
+            "lema": "realmente",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "pol\u00edticas",
+            "lema": "pol\u00edtica",
+            "pos": "NCFP000",
+            "prob": "0.305633"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        }
+    ]
 }

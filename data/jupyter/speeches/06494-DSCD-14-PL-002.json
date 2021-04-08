@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-07-28T00:00:00.000Z",
-        "debate": "ORDEN DEL DÍA: -- COMPARECENCIA DEL MINISTRO DE SANIDAD, PARA INFORMAR SOBRE LAS MEDIDAS IMPULSADAS DESDE SU DEPARTAMENTO PARA PONER FRENO A LOS REBROTES DE COVID-19 QUE SE ESTÁN PRODUCIENDO EN ESPAÑA DESDE LA SUSPENSIÓN DEL ESTADO DE ALARMA.",
+        "debate": "ORDEN DEL D\u00cdA: -- COMPARECENCIA DEL MINISTRO DE SANIDAD, PARA INFORMAR SOBRE LAS MEDIDAS IMPULSADAS DESDE SU DEPARTAMENTO PARA PONER FRENO A LOS REBROTES DE COVID-19 QUE SE EST\u00c1N PRODUCIENDO EN ESPA\u00d1A DESDE LA SUSPENSI\u00d3N DEL ESTADO DE ALARMA.",
         "diputado": [
             {
-                "apellidos": "Díaz Gómez",
-                "apellidosNombre": "Díaz Gómez, Guillermo",
+                "apellidos": "D\u00edaz G\u00f3mez",
+                "apellidosNombre": "D\u00edaz G\u00f3mez, Guillermo",
                 "codParlamentario": 122,
                 "fchAlta": "21/11/2019",
                 "fchBaja": "",
@@ -15,7 +15,7 @@
                 "idCircunscripcion": 29,
                 "idLegislatura": 14,
                 "nombre": "Guillermo",
-                "nombreCircunscripcion": "Málaga",
+                "nombreCircunscripcion": "M\u00e1laga",
                 "twitter": "https://twitter.com/guillermodiazcs",
                 "twitterUserId": "208216783",
                 "twitterUserName": "guillermodiazcs"
@@ -24,9 +24,89 @@
         ],
         "order": 13,
         "path": "../data/diaries-txts/DSCD-14-PL-038.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "DÍAZ GÓMEZ"
+        "speacker": "D\u00cdAZ G\u00d3MEZ"
     },
-    "text": "Perdón presidenta, votaremos afirmativamente, no lo había dicho. Gracias."
+    "text": "Perd\u00f3n presidenta, votaremos afirmativamente, no lo hab\u00eda dicho. Gracias.",
+    "freeling": [
+        {
+            "word": "Perd\u00f3n",
+            "lema": "perd\u00f3n",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "votaremos",
+            "lema": "votar",
+            "pos": "VMIF1P0",
+            "prob": "1"
+        },
+        {
+            "word": "afirmativamente",
+            "lema": "afirmativamente",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "lo",
+            "lema": "lo",
+            "pos": "PP3MSA0",
+            "prob": "0.334764"
+        },
+        {
+            "word": "hab\u00eda",
+            "lema": "haber",
+            "pos": "VAII3S0",
+            "prob": "0.499853"
+        },
+        {
+            "word": "dicho",
+            "lema": "decir",
+            "pos": "VMP00SM",
+            "prob": "0.997159"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

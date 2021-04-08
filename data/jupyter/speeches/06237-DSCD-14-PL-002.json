@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-07-21T00:00:00.000Z",
-        "debate": "DICTÁMENES DE COMISIONES NO PERMANENTES: -- DICTAMEN DE LA COMISIÓN PARA LA RECONSTRUCCIÓN SOCIAL Y ECONÓMICA. ",
+        "debate": "DICT\u00c1MENES DE COMISIONES NO PERMANENTES: -- DICTAMEN DE LA COMISI\u00d3N PARA LA RECONSTRUCCI\u00d3N SOCIAL Y ECON\u00d3MICA. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,23 @@
         ],
         "order": 36,
         "path": "../data/diaries-txts/DSCD-14-PL-036.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Gracias."
+    "text": "Gracias.",
+    "freeling": [
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

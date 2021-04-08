@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-26T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON MARCOS DE QUINT O ROMERO, DEL GRUPO P ARLAMENT ARIO CIUDADANOS, QUE FORMULA A LA SEÑORA MINISTRA DE HACIENDA: ¿QUÉ CRITERIOS SIGUE ESTE GOBIERNO EN LAS RELACIONES DEL MINISTERIO DE HACIENDA CON LAS COMUNIDADES AUTÓNOMAS? ",
+        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON MARCOS DE QUINT O ROMERO, DEL GRUPO P ARLAMENT ARIO CIUDADANOS, QUE FORMULA A LA SE\u00d1ORA MINISTRA DE HACIENDA: \u00bfQU\u00c9 CRITERIOS SIGUE ESTE GOBIERNO EN LAS RELACIONES DEL MINISTERIO DE HACIENDA CON LAS COMUNIDADES AUT\u00d3NOMAS? ",
         "diputado": [
             {
                 "apellidos": "Angulo Romero",
-                "apellidosNombre": "Angulo Romero, María Teresa",
+                "apellidosNombre": "Angulo Romero, Mar\u00eda Teresa",
                 "codParlamentario": 113,
                 "fchAlta": "21/11/2019",
                 "fchBaja": "",
@@ -14,16 +14,468 @@
                 "grupo": "Grupo Parlamentario Popular en el Congreso",
                 "idCircunscripcion": 6,
                 "idLegislatura": 14,
-                "nombre": "María Teresa",
+                "nombre": "Mar\u00eda Teresa",
                 "nombreCircunscripcion": "Badajoz"
             },
             7
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-013.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "DE QUINTO ROMERO"
     },
-    "text": "Señora Montero, ahora que estamos solos, le pregunto en confianza: ¿Considera usted que la política que sigue su Gobierno con las comunidades autónomas es justa y progresista? Se lo digo porque no sé si a usted, en conciencia, le parece justo y progresista premiar a aquellas comunidades autónomas que exhiben un comportamiento desleal con España e insolidario con los españoles mientras ignoran e incluso castigan a las demás."
+    "text": "Se\u00f1ora Montero, ahora que estamos solos, le pregunto en confianza: \u00bfConsidera usted que la pol\u00edtica que sigue su Gobierno con las comunidades aut\u00f3nomas es justa y progresista? Se lo digo porque no s\u00e9 si a usted, en conciencia, le parece justo y progresista premiar a aquellas comunidades aut\u00f3nomas que exhiben un comportamiento desleal con Espa\u00f1a e insolidario con los espa\u00f1oles mientras ignoran e incluso castigan a las dem\u00e1s.",
+    "freeling": [
+        {
+            "word": "Se\u00f1ora_Montero",
+            "lema": "se\u00f1ora_montero",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "ahora",
+            "lema": "ahora",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "estamos",
+            "lema": "estar",
+            "pos": "VMIP1P0",
+            "prob": "0.998282"
+        },
+        {
+            "word": "solos",
+            "lema": "solo",
+            "pos": "AQ0MP00",
+            "prob": "0.738095"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "pregunto",
+            "lema": "preguntar",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "confianza",
+            "lema": "confianza",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ":",
+            "lema": ":",
+            "pos": "Fd",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "Considera",
+            "lema": "considerar",
+            "pos": "VMIP3S0",
+            "prob": "0.998721"
+        },
+        {
+            "word": "usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "pol\u00edtica",
+            "lema": "pol\u00edtica",
+            "pos": "NCFS000",
+            "prob": "0.369481"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "sigue",
+            "lema": "seguir",
+            "pos": "VMIP3S0",
+            "prob": "0.998798"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "comunidades",
+            "lema": "comunidad",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "aut\u00f3nomas",
+            "lema": "aut\u00f3nomo",
+            "pos": "AQ0FP00",
+            "prob": "1"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "justa",
+            "lema": "justo",
+            "pos": "AQ0FS00",
+            "prob": "0.952941"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "progresista",
+            "lema": "progresista",
+            "pos": "AQ0CS00",
+            "prob": "0.97619"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        },
+        {
+            "word": "Se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "lo",
+            "lema": "lo",
+            "pos": "PP3MSA0",
+            "prob": "0.334764"
+        },
+        {
+            "word": "digo",
+            "lema": "decir",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "porque",
+            "lema": "porque",
+            "pos": "CS",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "s\u00e9",
+            "lema": "saber",
+            "pos": "VMIP1S0",
+            "prob": "0.97043"
+        },
+        {
+            "word": "si",
+            "lema": "si",
+            "pos": "CS",
+            "prob": "0.999827"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "conciencia",
+            "lema": "conciencia",
+            "pos": "NCFS000",
+            "prob": "0.989637"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "parece",
+            "lema": "parecer",
+            "pos": "VMIP3S0",
+            "prob": "0.999002"
+        },
+        {
+            "word": "justo",
+            "lema": "justo",
+            "pos": "AQ0MS00",
+            "prob": "0.544586"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "progresista",
+            "lema": "progresista",
+            "pos": "AQ0CS00",
+            "prob": "0.97619"
+        },
+        {
+            "word": "premiar",
+            "lema": "premiar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "aquellas",
+            "lema": "aquel",
+            "pos": "DD0FP0",
+            "prob": "0.819767"
+        },
+        {
+            "word": "comunidades",
+            "lema": "comunidad",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "aut\u00f3nomas",
+            "lema": "aut\u00f3nomo",
+            "pos": "AQ0FP00",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "exhiben",
+            "lema": "exhibir",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "comportamiento",
+            "lema": "comportamiento",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "desleal",
+            "lema": "desleal",
+            "pos": "AQ0CS00",
+            "prob": "0.661294"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "Espa\u00f1a",
+            "lema": "espa\u00f1a",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "e",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.987994"
+        },
+        {
+            "word": "insolidario",
+            "lema": "insolidario",
+            "pos": "AQ0MS00",
+            "prob": "1"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "espa\u00f1oles",
+            "lema": "espa\u00f1ol",
+            "pos": "NCMP000",
+            "prob": "0.413379"
+        },
+        {
+            "word": "mientras",
+            "lema": "mientras",
+            "pos": "CS",
+            "prob": "0.88835"
+        },
+        {
+            "word": "ignoran",
+            "lema": "ignorar",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "e",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.987994"
+        },
+        {
+            "word": "incluso",
+            "lema": "incluso",
+            "pos": "RG",
+            "prob": "0.998488"
+        },
+        {
+            "word": "castigan",
+            "lema": "castigar",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "dem\u00e1s",
+            "lema": "dem\u00e1s",
+            "pos": "PI0CP00",
+            "prob": "0.719907"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

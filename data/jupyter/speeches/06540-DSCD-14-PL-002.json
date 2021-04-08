@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-07-28T00:00:00.000Z",
-        "debate": "PETICIÓN FORMULADA POR LOS GRUPOS PARLAMENTARIOS POPULAR EN EL CONGRESO Y CIUDADANOS, DE QUE SE ACUERDE LA CONVOCATORIA DE UNA SESIÓN EXTRAORDINARIA -- COMPARECENCIA URGENTE DE LA MINISTRA DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN, PARA DAR CUENTA DE LA REUNIÓN BILATERAL MANTENIDA CON FABIÁN PICARDO, EL DÍA 23/07/2020, PARA TRATAR MATERIAS RELACIONADAS CON GIBRALTAR.",
+        "debate": "PETICI\u00d3N FORMULADA POR LOS GRUPOS PARLAMENTARIOS POPULAR EN EL CONGRESO Y CIUDADANOS, DE QUE SE ACUERDE LA CONVOCATORIA DE UNA SESI\u00d3N EXTRAORDINARIA -- COMPARECENCIA URGENTE DE LA MINISTRA DE ASUNTOS EXTERIORES, UNI\u00d3N EUROPEA Y COOPERACI\u00d3N, PARA DAR CUENTA DE LA REUNI\u00d3N BILATERAL MANTENIDA CON FABI\u00c1N PICARDO, EL D\u00cdA 23/07/2020, PARA TRATAR MATERIAS RELACIONADAS CON GIBRALTAR.",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,47 @@
         ],
         "order": 34,
         "path": "../data/diaries-txts/DSCD-14-PL-038.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Muy bien. Señor Rodrí guez."
+    "text": "Muy bien. Se\u00f1or Rodr\u00ed guez.",
+    "freeling": [
+        {
+            "word": "Muy",
+            "lema": "muy",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "bien",
+            "lema": "bien",
+            "pos": "RG",
+            "prob": "0.876088"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Se\u00f1or_Rodr\u00ed",
+            "lema": "se\u00f1or_rodr\u00ed",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": "guez",
+            "lema": "guez",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

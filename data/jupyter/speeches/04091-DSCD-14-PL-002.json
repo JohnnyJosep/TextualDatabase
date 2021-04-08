@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-06-04T00:00:00.000Z",
-        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY: -- DEL GRUPO P ARLAMENT ARIO VOX, RELA TIV A A LA EFECTIV A IGUALDAD Y EQUIP ARACIÓN SALARIAL DE LAS FUERZAS Y CUERPOS DE SEGURIDAD DEL ESTADO RESPECTO DE LAS POLICÍAS AUTONÓMICAS. ",
+        "debate": "TOMA EN CONSIDERACI\u00d3N DE PROPOSICIONES DE LEY: -- DEL GRUPO P ARLAMENT ARIO VOX, RELA TIV A A LA EFECTIV A IGUALDAD Y EQUIP ARACI\u00d3N SALARIAL DE LAS FUERZAS Y CUERPOS DE SEGURIDAD DEL ESTADO RESPECTO DE LAS POLIC\u00cdAS AUTON\u00d3MICAS. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,59 @@
         ],
         "order": 12,
         "path": "../data/diaries-txts/DSCD-14-PL-026.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Santiago, tiene que terminar, por favor."
+    "text": "Se\u00f1or Santiago, tiene que terminar, por favor.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Santiago",
+            "lema": "se\u00f1or_santiago",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "tiene",
+            "lema": "tener",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "terminar",
+            "lema": "terminar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por_favor",
+            "lema": "por_favor",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

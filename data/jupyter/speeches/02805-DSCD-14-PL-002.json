@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-04-15T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON ÍÑIGO ERREJÓN GALVÁN, DEL GRUPO PARLAMENTARIO PLURAL, QUE FORMULA AL GOBIERNO: ¿TIENE PREVISTO EL GOBIERNO ALGUNA MEDIDA FISCAL PARA RECAUDAR DE QUIENES MÁS TIENEN LOS RECURSOS NECESARIOS PARA LUCHAR CONTRA LA COVID-19? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON \u00cd\u00d1IGO ERREJ\u00d3N GALV\u00c1N, DEL GRUPO PARLAMENTARIO PLURAL, QUE FORMULA AL GOBIERNO: \u00bfTIENE PREVISTO EL GOBIERNO ALGUNA MEDIDA FISCAL PARA RECAUDAR DE QUIENES M\u00c1S TIENEN LOS RECURSOS NECESARIOS PARA LUCHAR CONTRA LA COVID-19? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,29 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-018.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Errejón Galván."
+    "text": "Se\u00f1or Errej\u00f3n Galv\u00e1n.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "Errej\u00f3n_Galv\u00e1n",
+            "lema": "errej\u00f3n_galv\u00e1n",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

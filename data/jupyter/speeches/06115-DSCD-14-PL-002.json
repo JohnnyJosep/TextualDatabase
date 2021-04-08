@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-07-15T00:00:00.000Z",
-        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES: -- REAL DECRETO-LEY 24/2020, DE 26 DE JUNIO, DE MEDIDAS SOCIALES DE REACTIVACIÓN DEL EMPLEO Y PROTECCIÓN DEL TRABAJO AUTÓNOMO Y DE COMPETITIVIDAD DEL SECTOR INDUSTRIAL. ",
+        "debate": "CONVALIDACI\u00d3N O DEROGACI\u00d3N DE REALES DECRETOS-LEYES: -- REAL DECRETO-LEY 24/2020, DE 26 DE JUNIO, DE MEDIDAS SOCIALES DE REACTIVACI\u00d3N DEL EMPLEO Y PROTECCI\u00d3N DEL TRABAJO AUT\u00d3NOMO Y DE COMPETITIVIDAD DEL SECTOR INDUSTRIAL. ",
         "diputado": [
             {
                 "apellidos": "Barandiaran Benito",
-                "apellidosNombre": "Barandiaran Benito, Íñigo",
+                "apellidosNombre": "Barandiaran Benito, \u00cd\u00f1igo",
                 "codParlamentario": 97,
                 "fchAlta": "21/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario Vasco (EAJ-PNV)",
                 "idCircunscripcion": 20,
                 "idLegislatura": 14,
-                "nombre": "Íñigo",
+                "nombre": "\u00cd\u00f1igo",
                 "nombreCircunscripcion": "Gipuzkoa",
                 "twitter": "https://twitter.com/inibaran",
                 "twitterUserId": "878647221532729345",
@@ -24,9 +24,185 @@
         ],
         "order": 11,
         "path": "../data/diaries-txts/DSCD-14-PL-035.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "BARANDIARAN BENITO"
     },
-    "text": "Termino, presidenta. Las deslocalizaciones son intolerables, no podemos dejar que suceda lo que está ocurriendo en estos momentos en Gamesa en Aoiz. Muchas gracias."
+    "text": "Termino, presidenta. Las deslocalizaciones son intolerables, no podemos dejar que suceda lo que est\u00e1 ocurriendo en estos momentos en Gamesa en Aoiz. Muchas gracias.",
+    "freeling": [
+        {
+            "word": "Termino",
+            "lema": "terminar",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "deslocalizaciones",
+            "lema": "deslocalizaci\u00f3n",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "son",
+            "lema": "ser",
+            "pos": "VSIP3P0",
+            "prob": "0.995197"
+        },
+        {
+            "word": "intolerables",
+            "lema": "intolerable",
+            "pos": "AQ0CP00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "podemos",
+            "lema": "poder",
+            "pos": "VMIP1P0",
+            "prob": "0.994638"
+        },
+        {
+            "word": "dejar",
+            "lema": "dejar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "suceda",
+            "lema": "suceder",
+            "pos": "VMSP3S0",
+            "prob": "0.634861"
+        },
+        {
+            "word": "lo",
+            "lema": "el",
+            "pos": "DA00S0",
+            "prob": "0.665165"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "est\u00e1",
+            "lema": "estar",
+            "pos": "VAIP3S0",
+            "prob": "0.000200642"
+        },
+        {
+            "word": "ocurriendo",
+            "lema": "ocurrir",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "estos",
+            "lema": "este",
+            "pos": "DD0MP0",
+            "prob": "0.972009"
+        },
+        {
+            "word": "momentos",
+            "lema": "momento",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "Gamesa",
+            "lema": "gamesa",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "Aoiz",
+            "lema": "aoiz",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

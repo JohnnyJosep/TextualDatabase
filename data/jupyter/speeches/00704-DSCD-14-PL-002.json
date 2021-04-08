@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-11T00:00:00.000Z",
-        "debate": "PROPUESTAS DE CREACIÓN DE COMISIONES. (VOTACIÓN): -- SOLICITUD DE LOS GRUPOS SOCIALISTA, POPULAR EN EL CONGRESO Y CONFEDERAL DE UNIDAS PODEMOS-EN COMÚ PODEM-GALICIA EN COMÚN, DE CREACIÓN DE UNA COMISIÓN SOLICITUD DE LOS GRUPOS PARLAMENTARIOS MIXTA PARA LA COORDINACIÓN Y SEGUIMIENTO DE LA ESTRATEGIA ESPAÑOLA PARA ALCANZAR LOS OBJETIVOS DE DESARROLLO SOSTENIBLE (ODS). ",
+        "debate": "PROPUESTAS DE CREACI\u00d3N DE COMISIONES. (VOTACI\u00d3N): -- SOLICITUD DE LOS GRUPOS SOCIALISTA, POPULAR EN EL CONGRESO Y CONFEDERAL DE UNIDAS PODEMOS-EN COM\u00da PODEM-GALICIA EN COM\u00daN, DE CREACI\u00d3N DE UNA COMISI\u00d3N SOLICITUD DE LOS GRUPOS PARLAMENTARIOS MIXTA PARA LA COORDINACI\u00d3N Y SEGUIMIENTO DE LA ESTRATEGIA ESPA\u00d1OLA PARA ALCANZAR LOS OBJETIVOS DE DESARROLLO SOSTENIBLE (ODS). ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,65 @@
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-007.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Queda aprobada la creación de la citada Comisión Mixta."
+    "text": "Queda aprobada la creaci\u00f3n de la citada Comisi\u00f3n Mixta.",
+    "freeling": [
+        {
+            "word": "Queda",
+            "lema": "quedar",
+            "pos": "VMIP3S0",
+            "prob": "0.945755"
+        },
+        {
+            "word": "aprobada",
+            "lema": "aprobar",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "creaci\u00f3n",
+            "lema": "creaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "citada",
+            "lema": "citar",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": "Comisi\u00f3n_Mixta",
+            "lema": "comisi\u00f3n_mixta",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

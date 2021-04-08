@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-04-29T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DE LA DIPUT ADA DOÑA MACARENA OLONA CHOCLÁN, DEL GRUPO P ARLAMENT ARIO VOX, QUE FORMULA AL SEÑOR MINISTRO DE SANIDAD: ¿QUÉ CRITERIOS ESTÁN SIGUIENDO PARA SELECCIONAR A LAS EMPRESAS A QUIENES ENCARGAN LA COMPRA O LA FABRICACIÓN DE MATERIAL SANITARIO? ",
+        "debate": "PREGUNTAS: -- DE LA DIPUT ADA DO\u00d1A MACARENA OLONA CHOCL\u00c1N, DEL GRUPO P ARLAMENT ARIO VOX, QUE FORMULA AL SE\u00d1OR MINISTRO DE SANIDAD: \u00bfQU\u00c9 CRITERIOS EST\u00c1N SIGUIENDO PARA SELECCIONAR A LAS EMPRESAS A QUIENES ENCARGAN LA COMPRA O LA FABRICACI\u00d3N DE MATERIAL SANITARIO? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,41 @@
         ],
         "order": 6,
         "path": "../data/diaries-txts/DSCD-14-PL-020.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor ministro de Sanidad."
+    "text": "Se\u00f1or ministro de Sanidad.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "ministro",
+            "lema": "ministro",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Sanidad",
+            "lema": "sanidad",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

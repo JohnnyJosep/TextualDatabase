@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-03-27T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON MARIO GARCÉS SANAGUSTÍN, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿PRETENDE CON EL ACUERDO DEL CONSEJO DE MINISTROS ADOPTADO HOY PARA FACILITAR EL PAGO DEL TERCER TRAMO DE LA EQUIPARACIÓN SALARIAL PACTADA EN 2018 ENCUBRIR LAS DECISIONES ARBITRARIAS ADOPTADAS EN SU MINISTERIO? ",
+        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON MARIO GARC\u00c9S SANAGUST\u00cdN, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR MINISTRO DEL INTERIOR: \u00bfPRETENDE CON EL ACUERDO DEL CONSEJO DE MINISTROS ADOPTADO HOY PARA FACILITAR EL PAGO DEL TERCER TRAMO DE LA EQUIPARACI\u00d3N SALARIAL PACTADA EN 2018 ENCUBRIR LAS DECISIONES ARBITRARIAS ADOPTADAS EN SU MINISTERIO? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,29 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-024.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Garcés Sanagustín."
+    "text": "Se\u00f1or Garc\u00e9s Sanagust\u00edn.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "Garc\u00e9s_Sanagust\u00edn",
+            "lema": "garc\u00e9s_sanagust\u00edn",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

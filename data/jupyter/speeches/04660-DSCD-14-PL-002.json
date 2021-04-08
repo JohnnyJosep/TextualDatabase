@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-06-16T00:00:00.000Z",
-        "debate": "PROPOSICIONES NO DE LEY: -- DEL GRUPO PARLAMENTARIO MIXTO (SEÑOR MAZÓN RAMOS), SOBRE EL ESTATUTO DE CONSUMIDORES ELECTROINTENSIVOS PARA GARANTIZAR LA COMPETITIVIDAD DE LAS INDUSTRIAS AFECTADAS. ",
+        "debate": "PROPOSICIONES NO DE LEY: -- DEL GRUPO PARLAMENTARIO MIXTO (SE\u00d1OR MAZ\u00d3N RAMOS), SOBRE EL ESTATUTO DE CONSUMIDORES ELECTROINTENSIVOS PARA GARANTIZAR LA COMPETITIVIDAD DE LAS INDUSTRIAS AFECTADAS. ",
         "diputado": [
             {
-                "apellidos": "Mazón Ramos",
-                "apellidosNombre": "Mazón Ramos, José María",
+                "apellidos": "Maz\u00f3n Ramos",
+                "apellidosNombre": "Maz\u00f3n Ramos, Jos\u00e9 Mar\u00eda",
                 "codParlamentario": 349,
                 "fchAlta": "02/12/2019",
                 "fchBaja": "",
@@ -14,16 +14,66 @@
                 "grupo": "Grupo Parlamentario Mixto",
                 "idCircunscripcion": 39,
                 "idLegislatura": 14,
-                "nombre": "José María",
+                "nombre": "Jos\u00e9 Mar\u00eda",
                 "nombreCircunscripcion": "Cantabria"
             },
             0
         ],
         "order": 41,
         "path": "../data/diaries-txts/DSCD-14-PL-029.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "MAZÓN RAMOS"
+        "speacker": "MAZ\u00d3N RAMOS"
     },
-    "text": "Vamos a intentar llegar a una transaccional."
+    "text": "Vamos a intentar llegar a una transaccional.",
+    "freeling": [
+        {
+            "word": "Vamos",
+            "lema": "ir",
+            "pos": "VMIP1P0",
+            "prob": "0.965015"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "intentar",
+            "lema": "intentar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "llegar",
+            "lema": "llegar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "transaccional",
+            "lema": "transaccional",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

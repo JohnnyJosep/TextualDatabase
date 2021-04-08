@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-19T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DE LA DIPUT ADA DOÑA CA YET ANA ÁL V AREZ DE T OLEDO PERAL T A-RAMOS, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA VICEPRESIDENTA PRIMERA DEL GOBIERNO Y MINISTRA DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCRÁTICA: ¿CUÁLES SON LOS PRÓXIMOS PASOS QUE PIENSA DAR EL GOBIERNO PARA DAR CUMPLIMIENTO A LOS COMPROMISOS ADQUIRIDOS DURANTE EL DEBATE DE INVESTIDURA? ",
+        "debate": "PREGUNTAS: -- DE LA DIPUT ADA DO\u00d1A CA YET ANA \u00c1L V AREZ DE T OLEDO PERAL T A-RAMOS, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SE\u00d1ORA VICEPRESIDENTA PRIMERA DEL GOBIERNO Y MINISTRA DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCR\u00c1TICA: \u00bfCU\u00c1LES SON LOS PR\u00d3XIMOS PASOS QUE PIENSA DAR EL GOBIERNO PARA DAR CUMPLIMIENTO A LOS COMPROMISOS ADQUIRIDOS DURANTE EL DEBATE DE INVESTIDURA? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,23 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-010.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señora Álvarez de Toledo."
+    "text": "Se\u00f1ora \u00c1lvarez de Toledo.",
+    "freeling": [
+        {
+            "word": "Se\u00f1ora_\u00c1lvarez_de_Toledo",
+            "lema": "se\u00f1ora_\u00e1lvarez_de_toledo",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

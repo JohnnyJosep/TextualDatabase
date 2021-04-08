@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-25T00:00:00.000Z",
-        "debate": "PROPOSICIONES NO DE LEY. (VOTACIÓN): -- DEL GRUPO P ARLAMENT ARIO CIUDADANOS, SOBRE MEDIDAS P ARA REFORZAR LOS PROTOCOLOS DE PREVENCIÓN, DETECCIÓN Y ACTUACIÓN ANTE SITUACIONES DE ABUSO, AGRESIÓN Y EXPLOTACIÓN SEXUAL COMO LAS QUE HAN TENIDO LUGAR DE MANERA CONTINUADA EN CENTROS DE MENORES TUTELADOS DEPENDIENTES DEL CONSELL DE MALLORCA, Y SOBRE LAS ACTUACIONES LLEVADAS A CABO POR LAS FUERZAS Y CUERPOS DE SEGURIDAD DEL ESTADO EN TORNO A LA PRESUNTA AGRESIÓN SEXUAL COMETIDA POR VARIOS JÓVENES A UNA MENOR EN PALMA LA MADRUGADA DEL 24 Y 25/12/2019. ",
+        "debate": "PROPOSICIONES NO DE LEY. (VOTACI\u00d3N): -- DEL GRUPO P ARLAMENT ARIO CIUDADANOS, SOBRE MEDIDAS P ARA REFORZAR LOS PROTOCOLOS DE PREVENCI\u00d3N, DETECCI\u00d3N Y ACTUACI\u00d3N ANTE SITUACIONES DE ABUSO, AGRESI\u00d3N Y EXPLOTACI\u00d3N SEXUAL COMO LAS QUE HAN TENIDO LUGAR DE MANERA CONTINUADA EN CENTROS DE MENORES TUTELADOS DEPENDIENTES DEL CONSELL DE MALLORCA, Y SOBRE LAS ACTUACIONES LLEVADAS A CABO POR LAS FUERZAS Y CUERPOS DE SEGURIDAD DEL ESTADO EN TORNO A LA PRESUNTA AGRESI\u00d3N SEXUAL COMETIDA POR VARIOS J\u00d3VENES A UNA MENOR EN PALMA LA MADRUGADA DEL 24 Y 25/12/2019. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,71 @@
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-012.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Queda rechazada la proposición no de ley. --"
+    "text": "Queda rechazada la proposici\u00f3n no de ley. --",
+    "freeling": [
+        {
+            "word": "Queda",
+            "lema": "quedar",
+            "pos": "VMIP3S0",
+            "prob": "0.945755"
+        },
+        {
+            "word": "rechazada",
+            "lema": "rechazar",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "proposici\u00f3n",
+            "lema": "proposici\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "ley",
+            "lema": "ley",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

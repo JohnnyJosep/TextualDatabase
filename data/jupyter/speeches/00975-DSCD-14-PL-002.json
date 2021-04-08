@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-12T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON JON IÑARRITU GARCÍA, DEL GRUPO P ARLAMENT ARIO EUSKAL HERRIA BILDU, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿QUÉ PREVISIONES TIENE EL GOBIERNO PARA RETIRAR LAS CONDECORACIONES A LOS AGENTES POLICIALES IMPLICADOS EN CONCULCACIONES DE DERECHOS HUMANOS, COMO LAS DEL TORTURADOR FRANQUISTA ANTONIO GONZÁLEZ PACHECO, «BILLY EL NIÑO»? ",
+        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON JON I\u00d1ARRITU GARC\u00cdA, DEL GRUPO P ARLAMENT ARIO EUSKAL HERRIA BILDU, QUE FORMULA AL SE\u00d1OR MINISTRO DEL INTERIOR: \u00bfQU\u00c9 PREVISIONES TIENE EL GOBIERNO PARA RETIRAR LAS CONDECORACIONES A LOS AGENTES POLICIALES IMPLICADOS EN CONCULCACIONES DE DERECHOS HUMANOS, COMO LAS DEL TORTURADOR FRANQUISTA ANTONIO GONZ\u00c1LEZ PACHECO, \u00abBILLY EL NI\u00d1O\u00bb? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,23 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-008.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Iñarritu."
+    "text": "Se\u00f1or I\u00f1arritu.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_I\u00f1arritu",
+            "lema": "se\u00f1or_i\u00f1arritu",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

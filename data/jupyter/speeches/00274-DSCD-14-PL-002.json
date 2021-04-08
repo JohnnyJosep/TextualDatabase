@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-04T00:00:00.000Z",
-        "debate": "JURAMENTO O PROMESA DE ACATAMIENTO DE LA CONSTITUCIÓN POR NUEVOS SEÑORES DIPUTADOS.",
+        "debate": "JURAMENTO O PROMESA DE ACATAMIENTO DE LA CONSTITUCI\u00d3N POR NUEVOS SE\u00d1ORES DIPUTADOS.",
         "diputado": [
             {
-                "apellidos": "Losada Fernández",
-                "apellidosNombre": "Losada Fernández, José",
+                "apellidos": "Losada Fern\u00e1ndez",
+                "apellidosNombre": "Losada Fern\u00e1ndez, Jos\u00e9",
                 "codParlamentario": 353,
                 "fchAlta": "29/01/2020",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario Socialista",
                 "idCircunscripcion": 41,
                 "idLegislatura": 14,
-                "nombre": "José",
+                "nombre": "Jos\u00e9",
                 "nombreCircunscripcion": "Sevilla",
                 "twitter": "https://twitter.com/pepelosadaf",
                 "twitterUserId": "225094442",
@@ -24,9 +24,35 @@
         ],
         "order": 5,
         "path": "../data/diaries-txts/DSCD-14-PL-006.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "LOSADA FERNÁNDEZ"
+        "speacker": "LOSADA FERN\u00c1NDEZ"
     },
-    "text": "Sí, prometo."
+    "text": "S\u00ed, prometo.",
+    "freeling": [
+        {
+            "word": "S\u00ed",
+            "lema": "s\u00ed",
+            "pos": "RG",
+            "prob": "0.654652"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "prometo",
+            "lema": "prometer",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-06-17T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DE LA DIPUT ADA DOÑA CONCEPCIÓN GAMARRA RUIZ-CLA VIJO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA MINISTRA DE EDUCACIÓN Y FORMACIÓN PROFESIONAL: ¿QUÉ RESPONSABILIDADES ASUME EL GOBIERNO DE CARA AL COMIENZO DEL PRÓXIMO CURSO ESCOLAR? ",
+        "debate": "PREGUNTAS: -- DE LA DIPUT ADA DO\u00d1A CONCEPCI\u00d3N GAMARRA RUIZ-CLA VIJO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SE\u00d1ORA MINISTRA DE EDUCACI\u00d3N Y FORMACI\u00d3N PROFESIONAL: \u00bfQU\u00c9 RESPONSABILIDADES ASUME EL GOBIERNO DE CARA AL COMIENZO DEL PR\u00d3XIMO CURSO ESCOLAR? ",
         "diputado": [
             {
                 "apellidos": "Gamarra Ruiz-Clavijo",
-                "apellidosNombre": "Gamarra Ruiz-Clavijo, Concepción",
+                "apellidosNombre": "Gamarra Ruiz-Clavijo, Concepci\u00f3n",
                 "codParlamentario": 261,
                 "fchAlta": "27/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario Popular en el Congreso",
                 "idCircunscripcion": 26,
                 "idLegislatura": 14,
-                "nombre": "Concepción",
+                "nombre": "Concepci\u00f3n",
                 "nombreCircunscripcion": "Rioja (La)",
                 "twitter": "https://twitter.com/cucagamarra",
                 "twitterUserId": "83573034",
@@ -24,9 +24,641 @@
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-030.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "GAMARRA RUIZ-CLA VIJO"
     },
-    "text": "Gracias, presidenta. Señora ministra, el 10 de marzo, Madrid, La Rioja y Álava tomaban la iniciativa y sus Gobiernos regionales suspendían las clases para frenar la propagación del COVID-19. El 12 de marzo se adoptaba la misma medida en toda España para diez millones de estudiantes y, de la noche a la mañana, las familias españolas y toda la comunidad educativa tuvieron que afrontar una situación inédita: pasar a la educación no presencial, todo un desafío. Señora ministra, ¿dónde estaba usted? Señora Celaá, ¿qué responsabilidad asume el Gobierno de cara al comienzo del próximo curso? (Aplausos)."
+    "text": "Gracias, presidenta. Se\u00f1ora ministra, el 10 de marzo, Madrid, La Rioja y \u00c1lava tomaban la iniciativa y sus Gobiernos regionales suspend\u00edan las clases para frenar la propagaci\u00f3n del COVID-19. El 12 de marzo se adoptaba la misma medida en toda Espa\u00f1a para diez millones de estudiantes y, de la noche a la ma\u00f1ana, las familias espa\u00f1olas y toda la comunidad educativa tuvieron que afrontar una situaci\u00f3n in\u00e9dita: pasar a la educaci\u00f3n no presencial, todo un desaf\u00edo. Se\u00f1ora ministra, \u00bfd\u00f3nde estaba usted? Se\u00f1ora Cela\u00e1, \u00bfqu\u00e9 responsabilidad asume el Gobierno de cara al comienzo del pr\u00f3ximo curso? (Aplausos).",
+    "freeling": [
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "ministra",
+            "lema": "ministro",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "10_de_marzo",
+            "lema": "[??:10/3/??:??.??:??]",
+            "pos": "W",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Madrid",
+            "lema": "madrid",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "La_Rioja",
+            "lema": "la_rioja",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "\u00c1lava",
+            "lema": "\u00e1lava",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": "tomaban",
+            "lema": "tomar",
+            "pos": "VMII3P0",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "iniciativa",
+            "lema": "iniciativa",
+            "pos": "NCFS000",
+            "prob": "0.958015"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "sus",
+            "lema": "su",
+            "pos": "DP3CPN",
+            "prob": "0.999903"
+        },
+        {
+            "word": "Gobiernos",
+            "lema": "gobiernos",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "regionales",
+            "lema": "regional",
+            "pos": "AQ0CP00",
+            "prob": "1"
+        },
+        {
+            "word": "suspend\u00edan",
+            "lema": "suspender",
+            "pos": "VMII3P0",
+            "prob": "1"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "clases",
+            "lema": "clase",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "frenar",
+            "lema": "frenar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "propagaci\u00f3n",
+            "lema": "propagaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "COVID-19",
+            "lema": "COVID-19",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "El",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "12_de_marzo",
+            "lema": "[??:12/3/??:??.??:??]",
+            "pos": "W",
+            "prob": "1"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "adoptaba",
+            "lema": "adoptar",
+            "pos": "VMII3S0",
+            "prob": "0.649996"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "misma",
+            "lema": "mismo",
+            "pos": "AQ0FS00",
+            "prob": "0.81684"
+        },
+        {
+            "word": "medida",
+            "lema": "medida",
+            "pos": "NCFS000",
+            "prob": "0.966772"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "toda",
+            "lema": "todo",
+            "pos": "DI0FS0",
+            "prob": "0.984467"
+        },
+        {
+            "word": "Espa\u00f1a",
+            "lema": "espa\u00f1a",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "diez_millones",
+            "lema": "10000000",
+            "pos": "Zd",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "estudiantes",
+            "lema": "estudiante",
+            "pos": "NCCP000",
+            "prob": "0.996183"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "de_la_noche_a_la_ma\u00f1ana",
+            "lema": "de_la_noche_a_la_ma\u00f1ana",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "familias",
+            "lema": "familia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "espa\u00f1olas",
+            "lema": "espa\u00f1ol",
+            "pos": "AQ0FP00",
+            "prob": "0.995157"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "toda",
+            "lema": "todo",
+            "pos": "DI0FS0",
+            "prob": "0.984467"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "comunidad",
+            "lema": "comunidad",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "educativa",
+            "lema": "educativo",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": "tuvieron",
+            "lema": "tener",
+            "pos": "VMIS3P0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "afrontar",
+            "lema": "afrontar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "situaci\u00f3n",
+            "lema": "situaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "in\u00e9dita",
+            "lema": "in\u00e9dito",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": ":",
+            "lema": ":",
+            "pos": "Fd",
+            "prob": "1"
+        },
+        {
+            "word": "pasar",
+            "lema": "pasar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "educaci\u00f3n",
+            "lema": "educaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "presencial",
+            "lema": "presencial",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "todo",
+            "lema": "todo",
+            "pos": "DI0MS0",
+            "prob": "0.6662"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "desaf\u00edo",
+            "lema": "desaf\u00edo",
+            "pos": "NCMS000",
+            "prob": "0.980769"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "ministra",
+            "lema": "ministro",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "d\u00f3nde",
+            "lema": "d\u00f3nde",
+            "pos": "PT00000",
+            "prob": "0.99505"
+        },
+        {
+            "word": "estaba",
+            "lema": "estar",
+            "pos": "VMII3S0",
+            "prob": "0.499587"
+        },
+        {
+            "word": "usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        },
+        {
+            "word": "Se\u00f1ora_Cela\u00e1",
+            "lema": "se\u00f1ora_cela\u00e1",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "qu\u00e9",
+            "lema": "qu\u00e9",
+            "pos": "DT0CN0",
+            "prob": "0.216289"
+        },
+        {
+            "word": "responsabilidad",
+            "lema": "responsabilidad",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "asume",
+            "lema": "asumir",
+            "pos": "VMIP3S0",
+            "prob": "0.987805"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "de_cara_a",
+            "lema": "de_cara_a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "comienzo",
+            "lema": "comienzo",
+            "pos": "NCMS000",
+            "prob": "0.992424"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "pr\u00f3ximo",
+            "lema": "pr\u00f3ximo",
+            "pos": "AQ0MS00",
+            "prob": "1"
+        },
+        {
+            "word": "curso",
+            "lema": "curso",
+            "pos": "NCMS000",
+            "prob": "0.994505"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplausos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

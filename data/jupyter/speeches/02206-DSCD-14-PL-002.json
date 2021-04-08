@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-25T00:00:00.000Z",
-        "debate": "PROPOSICIONES NO DE LEY. (VOTACIÓN): -- DEL GRUPO P ARLAMENT ARIO DE EUSKAL HERRIA BILDU, SOBRE PENSIONES. ",
+        "debate": "PROPOSICIONES NO DE LEY. (VOTACI\u00d3N): -- DEL GRUPO P ARLAMENT ARIO DE EUSKAL HERRIA BILDU, SOBRE PENSIONES. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,437 @@
         ],
         "order": 65,
         "path": "../data/diaries-txts/DSCD-14-PL-012.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Muchísimas gracias. -- DEL GRUPO P ARLAMENT ARIO VOX, SOBRE LAS MEDIDAS QUE EL GOBIERNO V A A ADOPT AR PARA GARANTIZAR EL CUMPLIMIENTO DE LA LEGISLACIÓN PENITENCIARIA EN CATALUÑA Y EN OTROS POSIBLES TERRITORIOS DE ESPAÑA EN LOS QUE, MEDIANTE UN EJERCICIO FRAUDULENTO DE LA COMPETENCIA TRANSFERIDA, LA ADMINISTRACIÓN AUTONÓMICA APLICA FRAUDULENTAMENTE DICHA LEGISLACIÓN CON EL FIN DE EVITAR LA EFICACIA DE LAS SENTENCIAS CONDENATORIAS Y CONSEGUIR INDULTOS ENCUBIERTOS."
+    "text": "Much\u00edsimas gracias. -- DEL GRUPO P ARLAMENT ARIO VOX, SOBRE LAS MEDIDAS QUE EL GOBIERNO V A A ADOPT AR PARA GARANTIZAR EL CUMPLIMIENTO DE LA LEGISLACI\u00d3N PENITENCIARIA EN CATALU\u00d1A Y EN OTROS POSIBLES TERRITORIOS DE ESPA\u00d1A EN LOS QUE, MEDIANTE UN EJERCICIO FRAUDULENTO DE LA COMPETENCIA TRANSFERIDA, LA ADMINISTRACI\u00d3N AUTON\u00d3MICA APLICA FRAUDULENTAMENTE DICHA LEGISLACI\u00d3N CON EL FIN DE EVITAR LA EFICACIA DE LAS SENTENCIAS CONDENATORIAS Y CONSEGUIR INDULTOS ENCUBIERTOS.",
+    "freeling": [
+        {
+            "word": "Much\u00edsimas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.763114"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "GRUPO_P_ARLAMENT",
+            "lema": "grupo_p_arlament",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "ARIO",
+            "lema": "ario",
+            "pos": "AQ0MS00",
+            "prob": "0.516134"
+        },
+        {
+            "word": "VOX",
+            "lema": "vox",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "SOBRE",
+            "lema": "sobre",
+            "pos": "SP",
+            "prob": "0.997804"
+        },
+        {
+            "word": "LAS",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "MEDIDAS",
+            "lema": "medida",
+            "pos": "NCFP000",
+            "prob": "0.999067"
+        },
+        {
+            "word": "QUE",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "GOBIERNO",
+            "lema": "gobierno",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": "V_A_A_ADOPT",
+            "lema": "v_a_a_adopt",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": "AR",
+            "lema": "ar",
+            "pos": "I",
+            "prob": "1"
+        },
+        {
+            "word": "PARA",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "GARANTIZAR",
+            "lema": "garantizar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "CUMPLIMIENTO",
+            "lema": "cumplimiento",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "LA",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "LEGISLACI\u00d3N",
+            "lema": "legislaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "PENITENCIARIA",
+            "lema": "penitenciario",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": "EN",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "CATALU\u00d1A",
+            "lema": "catalu\u00f1a",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": "Y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "EN",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "OTROS",
+            "lema": "otro",
+            "pos": "DI0MP0",
+            "prob": "0.745978"
+        },
+        {
+            "word": "POSIBLES",
+            "lema": "posible",
+            "pos": "AQ0CP00",
+            "prob": "1"
+        },
+        {
+            "word": "TERRITORIOS",
+            "lema": "territorio",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "ESPA\u00d1A",
+            "lema": "espa\u00f1a",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "EN",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "LOS",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "QUE",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "MEDIANTE",
+            "lema": "mediante",
+            "pos": "SP",
+            "prob": "0.99763"
+        },
+        {
+            "word": "UN",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "EJERCICIO",
+            "lema": "ejercicio",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "FRAUDULENTO",
+            "lema": "fraudulento",
+            "pos": "AQ0MS00",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "LA",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "COMPETENCIA",
+            "lema": "competencia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "TRANSFERIDA",
+            "lema": "transferir",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "LA",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "ADMINISTRACI\u00d3N",
+            "lema": "administraci\u00f3n",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "AUTON\u00d3MICA",
+            "lema": "auton\u00f3mico",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": "APLICA",
+            "lema": "aplicar",
+            "pos": "VMIP3S0",
+            "prob": "0.983871"
+        },
+        {
+            "word": "FRAUDULENTAMENTE",
+            "lema": "fraudulentamente",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "DICHA",
+            "lema": "decir",
+            "pos": "VMP00SF",
+            "prob": "0.819767"
+        },
+        {
+            "word": "LEGISLACI\u00d3N",
+            "lema": "legislaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "CON",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "FIN",
+            "lema": "fin",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "EVITAR",
+            "lema": "evitar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "LA",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "EFICACIA",
+            "lema": "eficacia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "LAS",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "SENTENCIAS",
+            "lema": "sentencia",
+            "pos": "NCFP000",
+            "prob": "0.983871"
+        },
+        {
+            "word": "CONDENATORIAS",
+            "lema": "condenatorio",
+            "pos": "AQ0FP00",
+            "prob": "1"
+        },
+        {
+            "word": "Y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "CONSEGUIR",
+            "lema": "conseguir",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "INDULTOS",
+            "lema": "indulto",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "ENCUBIERTOS",
+            "lema": "encubrir",
+            "pos": "VMP00PM",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -5,25 +5,81 @@
         "diputado": [
             {
                 "apellidos": "Guitarte Gimeno",
-                "apellidosNombre": "Guitarte Gimeno, Tomás",
+                "apellidosNombre": "Guitarte Gimeno, Tom\u00e1s",
                 "codParlamentario": 306,
                 "fchAlta": "28/11/2019",
                 "fchBaja": "",
-                "formacion": "¡Teruel Existe!",
+                "formacion": "\u00a1Teruel Existe!",
                 "genero": 1,
                 "grupo": "Grupo Parlamentario Mixto",
                 "idCircunscripcion": 44,
                 "idLegislatura": 14,
-                "nombre": "Tomás",
+                "nombre": "Tom\u00e1s",
                 "nombreCircunscripcion": "Teruel"
             },
             0
         ],
         "order": 94,
         "path": "../data/diaries-txts/DSCD-14-PL-002.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "GUITARTE GIMENO"
     },
-    "text": "¿Podemos utilizar el tiempo de la réplica?"
+    "text": "\u00bfPodemos utilizar el tiempo de la r\u00e9plica?",
+    "freeling": [
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "Podemos",
+            "lema": "poder",
+            "pos": "VMIP1P0",
+            "prob": "0.994638"
+        },
+        {
+            "word": "utilizar",
+            "lema": "utilizar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "tiempo",
+            "lema": "tiempo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "r\u00e9plica",
+            "lema": "r\u00e9plica",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        }
+    ]
 }

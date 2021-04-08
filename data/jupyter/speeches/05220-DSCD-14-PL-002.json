@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-06-23T00:00:00.000Z",
-        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), DE REFORMA DE LA LEY 9/1968, DE 5 DE ABRIL, SOBRE SECRETOS OFICIALES. ",
+        "debate": "TOMA EN CONSIDERACI\u00d3N DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), DE REFORMA DE LA LEY 9/1968, DE 5 DE ABRIL, SOBRE SECRETOS OFICIALES. ",
         "diputado": [
             {
-                "apellidos": "Giménez Giménez",
-                "apellidosNombre": "Giménez Giménez, Sara",
+                "apellidos": "Gim\u00e9nez Gim\u00e9nez",
+                "apellidosNombre": "Gim\u00e9nez Gim\u00e9nez, Sara",
                 "codParlamentario": 169,
                 "fchAlta": "25/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,263 @@
         ],
         "order": 148,
         "path": "../data/diaries-txts/DSCD-14-PL-031.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "GIMÉNEZ GIMÉNEZ"
+        "speacker": "GIM\u00c9NEZ GIM\u00c9NEZ"
     },
-    "text": "Sí, voy terminando. Politizar esta situación o intentar hacer valer que hay colores políticos en la lucha contra la violencia machista es lo último que necesitan las víctimas, lo que necesitan son soluciones y nuestro compromiso. Gracias."
+    "text": "S\u00ed, voy terminando. Politizar esta situaci\u00f3n o intentar hacer valer que hay colores pol\u00edticos en la lucha contra la violencia machista es lo \u00faltimo que necesitan las v\u00edctimas, lo que necesitan son soluciones y nuestro compromiso. Gracias.",
+    "freeling": [
+        {
+            "word": "S\u00ed",
+            "lema": "s\u00ed",
+            "pos": "RG",
+            "prob": "0.654652"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "voy",
+            "lema": "ir",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "terminando",
+            "lema": "terminar",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Politizar",
+            "lema": "politizar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "esta",
+            "lema": "este",
+            "pos": "DD0FS0",
+            "prob": "0.978817"
+        },
+        {
+            "word": "situaci\u00f3n",
+            "lema": "situaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "o",
+            "lema": "o",
+            "pos": "CC",
+            "prob": "0.999864"
+        },
+        {
+            "word": "intentar",
+            "lema": "intentar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "hacer",
+            "lema": "hacer",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "valer",
+            "lema": "valer",
+            "pos": "VMN0000",
+            "prob": "0.821918"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "hay",
+            "lema": "haber",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "colores",
+            "lema": "color",
+            "pos": "NCMP000",
+            "prob": "0.988439"
+        },
+        {
+            "word": "pol\u00edticos",
+            "lema": "pol\u00edtico",
+            "pos": "AQ0MP00",
+            "prob": "0.548828"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "lucha",
+            "lema": "lucha",
+            "pos": "NCFS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "contra",
+            "lema": "contra",
+            "pos": "SP",
+            "prob": "0.984245"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "violencia",
+            "lema": "violencia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "machista",
+            "lema": "machista",
+            "pos": "AQ0CS00",
+            "prob": "0.618437"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "lo",
+            "lema": "el",
+            "pos": "DA00S0",
+            "prob": "0.665165"
+        },
+        {
+            "word": "\u00faltimo",
+            "lema": "\u00faltimo",
+            "pos": "AO0MS00",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "necesitan",
+            "lema": "necesitar",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "v\u00edctimas",
+            "lema": "v\u00edctima",
+            "pos": "NCFP000",
+            "prob": "0.997881"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "lo",
+            "lema": "el",
+            "pos": "DA00S0",
+            "prob": "0.665165"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "necesitan",
+            "lema": "necesitar",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "son",
+            "lema": "ser",
+            "pos": "VSIP3P0",
+            "prob": "0.995197"
+        },
+        {
+            "word": "soluciones",
+            "lema": "soluci\u00f3n",
+            "pos": "NCFP000",
+            "prob": "0.993421"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "nuestro",
+            "lema": "nuestro",
+            "pos": "DP1MSP",
+            "prob": "0.957064"
+        },
+        {
+            "word": "compromiso",
+            "lema": "compromiso",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

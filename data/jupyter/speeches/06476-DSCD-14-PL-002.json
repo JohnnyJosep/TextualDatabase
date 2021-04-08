@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-07-28T00:00:00.000Z",
-        "debate": "DEL DÍA: -- COMP ARECENCIA URGENTE DE LA MINISTRA DE HACIENDA, P ARA DAR CUENT A DE LA DENUNCIA EFECTUADA POR EL SINDICATO CC.OO. DE RTVE, SEGÚN LA CUAL EL DIRECTOR DE INFORMACIÓN Y ACTUALIDAD DE RTVE DON ENRIC HERNÁNDEZ ELABORÓ LA RESPUESTA DE LA MINISTRA PORTAVOZ A UNA PREGUNTA ORAL EN PLENO SOBRE RTVE DEL GRUPO PARLAMENTARIO POPULAR EL 22/04/2020. ",
+        "debate": "DEL D\u00cdA: -- COMP ARECENCIA URGENTE DE LA MINISTRA DE HACIENDA, P ARA DAR CUENT A DE LA DENUNCIA EFECTUADA POR EL SINDICATO CC.OO. DE RTVE, SEG\u00daN LA CUAL EL DIRECTOR DE INFORMACI\u00d3N Y ACTUALIDAD DE RTVE DON ENRIC HERN\u00c1NDEZ ELABOR\u00d3 LA RESPUESTA DE LA MINISTRA PORTAVOZ A UNA PREGUNTA ORAL EN PLENO SOBRE RTVE DEL GRUPO PARLAMENTARIO POPULAR EL 22/04/2020. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,113 @@
         ],
         "order": 14,
         "path": "../data/diaries-txts/DSCD-14-PL-038.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Muchas gracias, señor Guijarro. Por el Grupo Parlamentario VOX, tiene la palabra el señor Espinosa de los Monteros de Simón."
+    "text": "Muchas gracias, se\u00f1or Guijarro. Por el Grupo Parlamentario VOX, tiene la palabra el se\u00f1or Espinosa de los Monteros de Sim\u00f3n.",
+    "freeling": [
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "Guijarro",
+            "lema": "guijarro",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Grupo_Parlamentario_VOX",
+            "lema": "grupo_parlamentario_vox",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "tiene",
+            "lema": "tener",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "palabra",
+            "lema": "palabra",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "Espinosa_de_los_Monteros_de_Sim\u00f3n",
+            "lema": "espinosa_de_los_monteros_de_sim\u00f3n",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

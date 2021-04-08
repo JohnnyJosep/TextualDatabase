@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-27T00:00:00.000Z",
-        "debate": "DICTÁMENES DE LA COMISIÓN DE ASUNTOS EXTERIORES SOBRE CONVENIOS INTERNACIONALES. (VOTACIÓN): -- PROT OCOLO AL TRA T ADO DEL A TLÁNTICO NORTE SOBRE LA ADHESIÓN DE LA REPÚBLICA DE MACEDONIA DEL NORTE, HECHO EN BRUSELAS EL 6 DE FEBRERO DE 2019. ",
+        "debate": "DICT\u00c1MENES DE LA COMISI\u00d3N DE ASUNTOS EXTERIORES SOBRE CONVENIOS INTERNACIONALES. (VOTACI\u00d3N): -- PROT OCOLO AL TRA T ADO DEL A TL\u00c1NTICO NORTE SOBRE LA ADHESI\u00d3N DE LA REP\u00daBLICA DE MACEDONIA DEL NORTE, HECHO EN BRUSELAS EL 6 DE FEBRERO DE 2019. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,41 @@
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-014.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Queda aprobado el dictamen."
+    "text": "Queda aprobado el dictamen.",
+    "freeling": [
+        {
+            "word": "Queda",
+            "lema": "quedar",
+            "pos": "VMIP3S0",
+            "prob": "0.945755"
+        },
+        {
+            "word": "aprobado",
+            "lema": "aprobar",
+            "pos": "VMP00SM",
+            "prob": "0.958015"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "dictamen",
+            "lema": "dictamen",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

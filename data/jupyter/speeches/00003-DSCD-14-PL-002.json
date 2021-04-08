@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-01-04T00:00:00.000Z",
-        "debate": "JURAMENTO O PROMESA DE ACATAMIENTO DE LA CONSTITUCIÓN POR NUEVOS SEÑORES DIPUTADOS.",
+        "debate": "JURAMENTO O PROMESA DE ACATAMIENTO DE LA CONSTITUCI\u00d3N POR NUEVOS SE\u00d1ORES DIPUTADOS.",
         "diputado": [
             {
                 "apellidos": "Nogueras i Camero",
-                "apellidosNombre": "Nogueras i Camero, Míriam",
+                "apellidosNombre": "Nogueras i Camero, M\u00edriam",
                 "codParlamentario": 27,
                 "fchAlta": "19/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario Plural",
                 "idCircunscripcion": 8,
                 "idLegislatura": 14,
-                "nombre": "Míriam",
+                "nombre": "M\u00edriam",
                 "nombreCircunscripcion": "Barcelona",
                 "twitter": "https://twitter.com/miriamnoguerasM",
                 "twitterUserId": "343507680",
@@ -24,9 +24,59 @@
         ],
         "order": 3,
         "path": "../data/diaries-txts/DSCD-14-PL-002.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "ALONSO-CUEVILLAS I SAYROL"
     },
-    "text": "(Termina su intervención en catalán)."
+    "text": "(Termina su intervenci\u00f3n en catal\u00e1n).",
+    "freeling": [
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Termina",
+            "lema": "terminar",
+            "pos": "VMIP3S0",
+            "prob": "0.987805"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "intervenci\u00f3n",
+            "lema": "intervenci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "catal\u00e1n",
+            "lema": "catal\u00e1n",
+            "pos": "NCMS000",
+            "prob": "0.295752"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

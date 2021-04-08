@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-07-28T00:00:00.000Z",
-        "debate": "ORDEN DEL DÍA: -- COMPARECENCIA DEL MINISTRO DE SANIDAD, PARA INFORMAR SOBRE LAS MEDIDAS IMPULSADAS DESDE SU DEPARTAMENTO PARA PONER FRENO A LOS REBROTES DE COVID-19 QUE SE ESTÁN PRODUCIENDO EN ESPAÑA DESDE LA SUSPENSIÓN DEL ESTADO DE ALARMA.",
+        "debate": "ORDEN DEL D\u00cdA: -- COMPARECENCIA DEL MINISTRO DE SANIDAD, PARA INFORMAR SOBRE LAS MEDIDAS IMPULSADAS DESDE SU DEPARTAMENTO PARA PONER FRENO A LOS REBROTES DE COVID-19 QUE SE EST\u00c1N PRODUCIENDO EN ESPA\u00d1A DESDE LA SUSPENSI\u00d3N DEL ESTADO DE ALARMA.",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,29 @@
         ],
         "order": 12,
         "path": "../data/diaries-txts/DSCD-14-PL-038.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Muchas gracias."
+    "text": "Muchas gracias.",
+    "freeling": [
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

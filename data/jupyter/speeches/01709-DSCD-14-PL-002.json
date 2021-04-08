@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-19T00:00:00.000Z",
-        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO P ARLAMENT ARIO MIXT O (SEÑORA ORAMAS GONZÁLEZ-MORO), SOBRE LAS MEDIDAS QUE VA A ADOPTAR EL GOBIERNO ANTE LA DELIMITACIÓN EFECTUADA POR PARTE DE MARRUECOS DE SU FRONTERA MARÍTIMA AFECTANDO A CANARIAS Y AL SÁHARA OCCIDENTAL. ",
+        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO P ARLAMENT ARIO MIXT O (SE\u00d1ORA ORAMAS GONZ\u00c1LEZ-MORO), SOBRE LAS MEDIDAS QUE VA A ADOPTAR EL GOBIERNO ANTE LA DELIMITACI\u00d3N EFECTUADA POR PARTE DE MARRUECOS DE SU FRONTERA MAR\u00cdTIMA AFECTANDO A CANARIAS Y AL S\u00c1HARA OCCIDENTAL. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,65 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-010.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Tiene el tiempo parado, no se preocupe."
+    "text": "Tiene el tiempo parado, no se preocupe.",
+    "freeling": [
+        {
+            "word": "Tiene",
+            "lema": "tener",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "tiempo",
+            "lema": "tiempo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "parado",
+            "lema": "parar",
+            "pos": "VMP00SM",
+            "prob": "0.788462"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "preocupe",
+            "lema": "preocupar",
+            "pos": "VMSP3S0",
+            "prob": "0.634863"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

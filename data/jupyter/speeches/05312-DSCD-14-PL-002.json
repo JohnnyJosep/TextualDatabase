@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-06-24T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JOAN BALDOVÍ RODA, DEL GRUPO PARLAMENTARIO PLURAL, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿PIENSA EL GOBIERNO CUMPLIR EL ACUERDO DE INVESTIDURA CON COMPROMÍS? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JOAN BALDOV\u00cd RODA, DEL GRUPO PARLAMENTARIO PLURAL, QUE FORMULA AL SE\u00d1OR PRESIDENTE DEL GOBIERNO: \u00bfPIENSA EL GOBIERNO CUMPLIR EL ACUERDO DE INVESTIDURA CON COMPROM\u00cdS? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,29 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-032.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Baldoví Roda."
+    "text": "Se\u00f1or Baldov\u00ed Roda.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "Baldov\u00ed_Roda",
+            "lema": "baldov\u00ed_roda",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

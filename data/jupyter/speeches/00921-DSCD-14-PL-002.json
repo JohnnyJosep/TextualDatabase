@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-12T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON SANTIAGO ABASCAL CONDE, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿SE REUNIÓ EL MINISTRO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA, SEÑOR ÁBALOS, CON LA VICEPRESIDENTA DE VENEZUELA, DOÑA DELCY RODRÍ GUEZ, EN EL AEROPUERTO MADRID­BARAJAS ADOLFO SUÁREZ Y FUERA DEL AVIÓN POR INSTRUCCIONES EXPRESAS DEL PRESIDENTE DEL GOBIERNO? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON SANTIAGO ABASCAL CONDE, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SE\u00d1OR PRESIDENTE DEL GOBIERNO: \u00bfSE REUNI\u00d3 EL MINISTRO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA, SE\u00d1OR \u00c1BALOS, CON LA VICEPRESIDENTA DE VENEZUELA, DO\u00d1A DELCY RODR\u00cd GUEZ, EN EL AEROPUERTO MADRID\u00adBARAJAS ADOLFO SU\u00c1REZ Y FUERA DEL AVI\u00d3N POR INSTRUCCIONES EXPRESAS DEL PRESIDENTE DEL GOBIERNO? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,35 @@
         ],
         "order": 8,
         "path": "../data/diaries-txts/DSCD-14-PL-008.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Gracias. --"
+    "text": "Gracias. --",
+    "freeling": [
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

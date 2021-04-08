@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-02-25T00:00:00.000Z",
-        "debate": "JURAMENTO O PROMESA DE ACATAMIENTO DE LA CONSTITUCIÓN POR NUEVOS SEÑORES DIPUTADOS.",
+        "debate": "JURAMENTO O PROMESA DE ACATAMIENTO DE LA CONSTITUCI\u00d3N POR NUEVOS SE\u00d1ORES DIPUTADOS.",
         "diputado": [
             {
-                "apellidos": "Azorín Salar",
-                "apellidosNombre": "Azorín Salar, Lázaro",
+                "apellidos": "Azor\u00edn Salar",
+                "apellidosNombre": "Azor\u00edn Salar, L\u00e1zaro",
                 "codParlamentario": 371,
                 "fchAlta": "25/02/2020",
                 "fchBaja": "",
@@ -14,16 +14,42 @@
                 "grupo": "Grupo Parlamentario Socialista",
                 "idCircunscripcion": 3,
                 "idLegislatura": 14,
-                "nombre": "Lázaro",
+                "nombre": "L\u00e1zaro",
                 "nombreCircunscripcion": "Alicante/Alacant"
             },
             0
         ],
         "order": 3,
         "path": "../data/diaries-txts/DSCD-14-PL-012.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "AZORÍN SALAR"
+        "speacker": "AZOR\u00cdN SALAR"
     },
-    "text": "Sí, prometo."
+    "text": "S\u00ed, prometo.",
+    "freeling": [
+        {
+            "word": "S\u00ed",
+            "lema": "s\u00ed",
+            "pos": "RG",
+            "prob": "0.654652"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "prometo",
+            "lema": "prometer",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }
