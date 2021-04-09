@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-11-18T00:00:00.000Z",
-        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO CIUDADANOS, A LA MINISTRA DE TRABAJO Y ECONOMÍA SOCIAL SOBRE LAS MEDIDAS QUE PIENSA ADOPTAR EL GOBIERNO PARA GARANTIZAR EL DERECHO A LA CONCILIACIÓN DEL TRABAJO Y LA FAMILIA, ESPECIALMENTE ANTE LAS DIFICULTADES EXCEPCIONALES GENERADAS POR LA EMERGENCIA SANITARIA DE LA COVID-19. (CONTINUACIÓN). ",
+        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO CIUDADANOS, A LA MINISTRA DE TRABAJO Y ECONOM\u00cdA SOCIAL SOBRE LAS MEDIDAS QUE PIENSA ADOPTAR EL GOBIERNO PARA GARANTIZAR EL DERECHO A LA CONCILIACI\u00d3N DEL TRABAJO Y LA FAMILIA, ESPECIALMENTE ANTE LAS DIFICULTADES EXCEPCIONALES GENERADAS POR LA EMERGENCIA SANITARIA DE LA COVID-19. (CONTINUACI\u00d3N). ",
         "diputado": [
             {
-                "apellidos": "Hoyo Juliá",
-                "apellidosNombre": "Hoyo Juliá, Belén",
+                "apellidos": "Hoyo Juli\u00e1",
+                "apellidosNombre": "Hoyo Juli\u00e1, Bel\u00e9n",
                 "codParlamentario": 141,
                 "fchAlta": "22/11/2019",
                 "fchBaja": "",
@@ -14,8 +14,8 @@
                 "grupo": "Grupo Parlamentario Popular en el Congreso",
                 "idCircunscripcion": 46,
                 "idLegislatura": 14,
-                "nombre": "Belén",
-                "nombreCircunscripcion": "Valencia/València",
+                "nombre": "Bel\u00e9n",
+                "nombreCircunscripcion": "Valencia/Val\u00e8ncia",
                 "twitter": "https://twitter.com/BelenHoyo",
                 "twitterUserId": "239779545",
                 "twitterUserName": "BelenHoyo"
@@ -24,9 +24,59 @@
         ],
         "order": 68,
         "path": "../data/diaries-txts/DSCD-14-PL-063.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "HOYO JULIÁ"
+        "speacker": "HOYO JULI\u00c1"
     },
-    "text": "Sí, aceptamos la enmienda de Ciudadanos."
+    "text": "S\u00ed, aceptamos la enmienda de Ciudadanos.",
+    "freeling": [
+        {
+            "word": "S\u00ed",
+            "lema": "s\u00ed",
+            "pos": "RG",
+            "prob": "0.654652"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "aceptamos",
+            "lema": "aceptar",
+            "pos": "VMIP1P0",
+            "prob": "0.65"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "enmienda",
+            "lema": "enmienda",
+            "pos": "NCFS000",
+            "prob": "0.953488"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Ciudadanos",
+            "lema": "ciudadanos",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

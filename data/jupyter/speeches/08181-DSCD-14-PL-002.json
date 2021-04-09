@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-22T00:00:00.000Z",
-        "debate": "PROPOSICIONES NO DE LEY: -- DEL GRUPO PARLAMENTARIO PLURAL, SOBRE EL PLAN FISCAL COVID-19, O IMPUESTOS DE SOLIDARIDAD CÍVICA PARA HACER FRENTE A LAS CONSECUENCIAS ECONÓMICAS Y SOCIALES DEL COVID-19. ",
+        "debate": "PROPOSICIONES NO DE LEY: -- DEL GRUPO PARLAMENTARIO PLURAL, SOBRE EL PLAN FISCAL COVID-19, O IMPUESTOS DE SOLIDARIDAD C\u00cdVICA PARA HACER FRENTE A LAS CONSECUENCIAS ECON\u00d3MICAS Y SOCIALES DEL COVID-19. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,47 @@
         ],
         "order": 24,
         "path": "../data/diaries-txts/DSCD-14-PL-046.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Bas, tiene que terminar."
+    "text": "Se\u00f1or Bas, tiene que terminar.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Bas",
+            "lema": "se\u00f1or_bas",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "tiene",
+            "lema": "tener",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "terminar",
+            "lema": "terminar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

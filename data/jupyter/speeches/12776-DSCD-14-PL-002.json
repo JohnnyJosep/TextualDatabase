@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-12-16T00:00:00.000Z",
-        "debate": "COMPARECENCIA DEL GOBIERNO ANTE EL PLENO DE LA CÁMARA, DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO 203 DEL REGLAMENTO: -- SOLICITUD DE COMPARECENCIA, A PETICIÓN PROPIA, DEL PRESIDENTE DEL GOBIERNO ANTE EL PLENO DEL CONGRESO DE LOS DIPUTADOS, PARA INFORMAR DEL CONSEJO EUROPEO EXTRAORDINARIO CELEBRADO LOS DÍAS 1 Y 2 DE OCTUBRE Y DE LOS CONSEJOS EUROPEOS ORDINARIOS CELEBRADOS LOS DÍAS 15 Y 16 DE OCTUBRE Y EL CELEBRADO LOS DÍAS 10 Y 11 DE DICIEMBRE, ASÍ COMO EN CUMPLIMIENTO DEL ARTÍCULO 14 DEL REAL DECRETO 926/2020, DE 25 DE OCTUBRE, POR EL QUE SE DECLARA EL ESTADO DE ALARMA ",
+        "debate": "COMPARECENCIA DEL GOBIERNO ANTE EL PLENO DE LA C\u00c1MARA, DE CONFORMIDAD CON LO DISPUESTO POR EL ART\u00cdCULO 203 DEL REGLAMENTO: -- SOLICITUD DE COMPARECENCIA, A PETICI\u00d3N PROPIA, DEL PRESIDENTE DEL GOBIERNO ANTE EL PLENO DEL CONGRESO DE LOS DIPUTADOS, PARA INFORMAR DEL CONSEJO EUROPEO EXTRAORDINARIO CELEBRADO LOS D\u00cdAS 1 Y 2 DE OCTUBRE Y DE LOS CONSEJOS EUROPEOS ORDINARIOS CELEBRADOS LOS D\u00cdAS 15 Y 16 DE OCTUBRE Y EL CELEBRADO LOS D\u00cdAS 10 Y 11 DE DICIEMBRE, AS\u00cd COMO EN CUMPLIMIENTO DEL ART\u00cdCULO 14 DEL REAL DECRETO 926/2020, DE 25 DE OCTUBRE, POR EL QUE SE DECLARA EL ESTADO DE ALARMA ",
         "diputado": [
             {
-                "apellidos": "Vehí Cantenys",
-                "apellidosNombre": "Vehí Cantenys, Mireia",
+                "apellidos": "Veh\u00ed Cantenys",
+                "apellidosNombre": "Veh\u00ed Cantenys, Mireia",
                 "codParlamentario": 86,
                 "fchAlta": "21/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,209 @@
         ],
         "order": 28,
         "path": "../data/diaries-txts/DSCD-14-PL-070.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "VEHÍ CANTENYS"
+        "speacker": "VEH\u00cd CANTENYS"
     },
-    "text": "Perdone, presidenta. Le pido a la Mesa que le hagan retirar las palabras, como nos hacen retirarlas a nosotros cuando criticamos a la monarquía. (Aplausos)."
+    "text": "Perdone, presidenta. Le pido a la Mesa que le hagan retirar las palabras, como nos hacen retirarlas a nosotros cuando criticamos a la monarqu\u00eda. (Aplausos).",
+    "freeling": [
+        {
+            "word": "Perdone",
+            "lema": "perdonar",
+            "pos": "VMM03S0",
+            "prob": "0.0302731"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "pido",
+            "lema": "pedir",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "Mesa",
+            "lema": "mesa",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "hagan",
+            "lema": "hacer",
+            "pos": "VMSP3P0",
+            "prob": "0.992958"
+        },
+        {
+            "word": "retirar",
+            "lema": "retirar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "palabras",
+            "lema": "palabra",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "como",
+            "lema": "como",
+            "pos": "CS",
+            "prob": "0.967153"
+        },
+        {
+            "word": "nos",
+            "lema": "nos",
+            "pos": "PP1CP00",
+            "prob": "0.810258"
+        },
+        {
+            "word": "hacen",
+            "lema": "hacer",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "retirar",
+            "lema": "retirar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "las",
+            "lema": "lo",
+            "pos": "PP3FPA0",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "nosotros",
+            "lema": "nosotros",
+            "pos": "PP1MP00",
+            "prob": "1"
+        },
+        {
+            "word": "cuando",
+            "lema": "cuando",
+            "pos": "CS",
+            "prob": "0.86298"
+        },
+        {
+            "word": "criticamos",
+            "lema": "criticar",
+            "pos": "VMIP1P0",
+            "prob": "0.65"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "monarqu\u00eda",
+            "lema": "monarqu\u00eda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplausos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

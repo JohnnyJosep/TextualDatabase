@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-10-28T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA CARMEN RIOLOBOS REGADERA, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR MINISTRO DE SANIDAD: ¿POR QUÉ NO HA DIMITIDO A PESAR DE LA EVOLUCIÓN DEL COVID-19 EN ESPAÑA? ",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DO\u00d1A CARMEN RIOLOBOS REGADERA, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR MINISTRO DE SANIDAD: \u00bfPOR QUE\u0301 NO HA DIMITIDO A PESAR DE LA EVOLUCI\u00d3N DEL COVID-19 EN ESPA\u00d1A? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,149 @@
         ],
         "order": 0,
         "path": "../data/diaries-txts/DSCD-14-PL-058.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Preguntas dirigidas al señor ministro de Sanidad. Pregunta de la diputada doña Carmen Riolobos Regadera, del Grupo Parlamentario Popular en el Congreso."
+    "text": "Preguntas dirigidas al se\u00f1or ministro de Sanidad. Pregunta de la diputada do\u00f1a Carmen Riolobos Regadera, del Grupo Parlamentario Popular en el Congreso.",
+    "freeling": [
+        {
+            "word": "Preguntas",
+            "lema": "pregunta",
+            "pos": "NCFP000",
+            "prob": "0.995868"
+        },
+        {
+            "word": "dirigidas",
+            "lema": "dirigir",
+            "pos": "VMP00PF",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "ministro",
+            "lema": "ministro",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Sanidad",
+            "lema": "sanidad",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Pregunta",
+            "lema": "preguntar",
+            "pos": "VMIP3S0",
+            "prob": "0.300493"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "diputada",
+            "lema": "diputado",
+            "pos": "NCFS000",
+            "prob": "0.987805"
+        },
+        {
+            "word": "do\u00f1a",
+            "lema": "don",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "Carmen_Riolobos_Regadera",
+            "lema": "carmen_riolobos_regadera",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Grupo_Parlamentario_Popular",
+            "lema": "grupo_parlamentario_popular",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Congreso",
+            "lema": "congreso",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

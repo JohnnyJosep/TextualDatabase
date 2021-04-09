@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-03T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON SANTIAGO ABASCAL CONDE, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿POR QUÉ ACTÚA EL GOBIERNO EN CONTRA DEL INTERÉS GENERAL DE LOS ESPAÑOLES? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON SANTIAGO ABASCAL CONDE, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SE\u00d1OR PRESIDENTE DEL GOBIERNO: \u00bfPOR QU\u00c9 ACT\u00daA EL GOBIERNO EN CONTRA DEL INTER\u00c9S GENERAL DE LOS ESPA\u00d1OLES? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,23 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-076.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Abascal."
+    "text": "Se\u00f1or Abascal.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Abascal",
+            "lema": "se\u00f1or_abascal",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

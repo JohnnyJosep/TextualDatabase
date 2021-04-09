@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-10-15T00:00:00.000Z",
-        "debate": "ACTOS EN RELACIÓN CON LOS ESTADOS DE ALARMA, EXCEPCIÓN Y SITIO: -- COMUNICACIÓN DEL GOBIERNO QUE ACOMPAÑA AL REAL DECRETO 900/2020, DE 9 DE OCTUBRE, POR EL QUE SE DECLARA EL ESTADO DE ALARMA PARA RESPONDER ANTE SITUACIONES DE ESPECIAL RIESGO POR TRANSMISIÓN NO CONTROLADA DE INFECCIONES CAUSADAS POR EL SARS-COV-2. ",
+        "debate": "ACTOS EN RELACI\u00d3N CON LOS ESTADOS DE ALARMA, EXCEPCI\u00d3N Y SITIO: -- COMUNICACI\u00d3N DEL GOBIERNO QUE ACOMPA\u00d1A AL REAL DECRETO 900/2020, DE 9 DE OCTUBRE, POR EL QUE SE DECLARA EL ESTADO DE ALARMA PARA RESPONDER ANTE SITUACIONES DE ESPECIAL RIESGO POR TRANSMISI\u00d3N NO CONTROLADA DE INFECCIONES CAUSADAS POR EL SARS-COV-2. ",
         "diputado": [
             {
-                "apellidos": "Oramas González-Moro",
-                "apellidosNombre": "Oramas González-Moro, Ana María",
+                "apellidos": "Oramas Gonz\u00e1lez-Moro",
+                "apellidosNombre": "Oramas Gonz\u00e1lez-Moro, Ana Mar\u00eda",
                 "codParlamentario": 161,
                 "fchAlta": "25/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario Mixto",
                 "idCircunscripcion": 38,
                 "idLegislatura": 14,
-                "nombre": "Ana María",
+                "nombre": "Ana Mar\u00eda",
                 "nombreCircunscripcion": "S/C Tenerife",
                 "twitter": "https://twitter.com/anioramas",
                 "twitterUserId": "479394745",
@@ -24,9 +24,149 @@
         ],
         "order": 25,
         "path": "../data/diaries-txts/DSCD-14-PL-053.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "ORAMAS GONZÁLEZ-MORO"
+        "speacker": "ORAMAS GONZ\u00c1LEZ-MORO"
     },
-    "text": "Termino ya. ... si uno de los dos no quiere pelear, no hay pelea. Muchas gracias, señor presidente."
+    "text": "Termino ya. ... si uno de los dos no quiere pelear, no hay pelea. Muchas gracias, se\u00f1or presidente.",
+    "freeling": [
+        {
+            "word": "Termino",
+            "lema": "terminar",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "ya",
+            "lema": "ya",
+            "pos": "RG",
+            "prob": "0.999785"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "...",
+            "lema": "...",
+            "pos": "Fs",
+            "prob": "1"
+        },
+        {
+            "word": "si",
+            "lema": "si",
+            "pos": "CS",
+            "prob": "0.999827"
+        },
+        {
+            "word": "uno",
+            "lema": "uno",
+            "pos": "PI0MS00",
+            "prob": "0.981709"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "dos",
+            "lema": "2",
+            "pos": "Z",
+            "prob": "0.999868"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "quiere",
+            "lema": "querer",
+            "pos": "VMIP3S0",
+            "prob": "0.999058"
+        },
+        {
+            "word": "pelear",
+            "lema": "pelear",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "hay",
+            "lema": "haber",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "pelea",
+            "lema": "pelea",
+            "pos": "NCFS000",
+            "prob": "0.992674"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "presidente",
+            "lema": "presidente",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

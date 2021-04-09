@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-01-25T00:00:00.000Z",
-        "debate": "DEL DÍA: -- COMP ARECENCIA DEL MINISTRO DE JUSTICIA P ARA INFORMAR SOBRE EL POSICIONAMIENTO Y LAS INTENCIONES DEL GOBIERNO ANTE LA POSIBLE CONCESIÓN DEL INDULTO A LOS PRESOS DEL PROCÉS.",
+        "debate": "DEL D\u00cdA: -- COMP ARECENCIA DEL MINISTRO DE JUSTICIA P ARA INFORMAR SOBRE EL POSICIONAMIENTO Y LAS INTENCIONES DEL GOBIERNO ANTE LA POSIBLE CONCESI\u00d3N DEL INDULTO A LOS PRESOS DEL PROC\u00c9S.",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,71 @@
         ],
         "order": 16,
         "path": "../data/diaries-txts/DSCD-14-PL-073.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Asens, lo siento, pero tiene que finalizar."
+    "text": "Se\u00f1or Asens, lo siento, pero tiene que finalizar.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Asens",
+            "lema": "se\u00f1or_asens",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "lo",
+            "lema": "lo",
+            "pos": "PP3MSA0",
+            "prob": "0.334764"
+        },
+        {
+            "word": "siento",
+            "lema": "sentar",
+            "pos": "VMIP1S0",
+            "prob": "0.5"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "pero",
+            "lema": "pero",
+            "pos": "CC",
+            "prob": "0.999902"
+        },
+        {
+            "word": "tiene",
+            "lema": "tener",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "finalizar",
+            "lema": "finalizar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

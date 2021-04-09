@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-03T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES (CONTINUACIÓN): -- DEL GRUPO PARLAMENTARIO VOX, SOBRE LAS MEDIDAS QUE VA A ADOPTAR EL GOBIERNO PARA FRENAR LA INVASIÓN MIGRATORIA EN ESPAÑA. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES (CONTINUACI\u00d3N): -- DEL GRUPO PARLAMENTARIO VOX, SOBRE LAS MEDIDAS QUE VA A ADOPTAR EL GOBIERNO PARA FRENAR LA INVASI\u00d3N MIGRATORIA EN ESPA\u00d1A. ",
         "diputado": [
             {
-                "apellidos": "Espinosa de los Monteros de Simón",
-                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "apellidos": "Espinosa de los Monteros de Sim\u00f3n",
+                "apellidosNombre": "Espinosa de los Monteros de Sim\u00f3n, Iv\u00e1n",
                 "codParlamentario": 83,
                 "fchAlta": "20/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario VOX",
                 "idCircunscripcion": 28,
                 "idLegislatura": 14,
-                "nombre": "Iván",
+                "nombre": "Iv\u00e1n",
                 "nombreCircunscripcion": "Madrid",
                 "twitter": "https://twitter.com/ivanedlm",
                 "twitterUserId": "48976307",
@@ -24,9 +24,131 @@
         ],
         "order": 14,
         "path": "../data/diaries-txts/DSCD-14-PL-076.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "ESPINOSA DE LOS MONTEROS DE SIMÓN"
+        "speacker": "ESPINOSA DE LOS MONTEROS DE SIM\u00d3N"
     },
-    "text": "Sobre la base de la mención que nos acaba de hacer, señor presidente. Yo creo que…"
+    "text": "Sobre la base de la menci\u00f3n que nos acaba de hacer, se\u00f1or presidente. Yo creo que\u2026",
+    "freeling": [
+        {
+            "word": "Sobre",
+            "lema": "sobre",
+            "pos": "SP",
+            "prob": "0.997804"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "base",
+            "lema": "base",
+            "pos": "NCCS000",
+            "prob": "0.963722"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "menci\u00f3n",
+            "lema": "menci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "nos",
+            "lema": "nos",
+            "pos": "PP1CP00",
+            "prob": "0.810258"
+        },
+        {
+            "word": "acaba",
+            "lema": "acabar",
+            "pos": "VMIP3S0",
+            "prob": "0.99569"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "hacer",
+            "lema": "hacer",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "presidente",
+            "lema": "presidente",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Yo",
+            "lema": "yo",
+            "pos": "PP1CSN0",
+            "prob": "1"
+        },
+        {
+            "word": "creo",
+            "lema": "creer",
+            "pos": "VMIP1S0",
+            "prob": "0.5"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

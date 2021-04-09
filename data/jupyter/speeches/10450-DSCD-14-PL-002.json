@@ -1,7 +1,7 @@
 {
     "metadata": {
         "celebrated": "2020-10-28T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON ALBERT BOTRAN PAHISSA, EN SUSTITUCIÓN DE LA DIPUTADA DOÑA MIREIA VEHÍ CANTENYS, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA A LA SEÑORA MINISTRA DE HACIENDA: ¿LA POLÍTICA FISCAL DEL GOBIERNO PASARÁ A SER MÁS PROGRESIVA ANTE LA EVIDENCIA DE LAS NECESIDADES CON EL NUEVO ESTADO DE ALARMA? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON ALBERT BOTRAN PAHISSA, EN SUSTITUCI\u00d3N DE LA DIPUTADA DO\u00d1A MIREIA VEH\u00cd CANTENYS, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA A LA SE\u00d1ORA MINISTRA DE HACIENDA: \u00bfLA POL\u00cdTICA FISCAL DEL GOBIERNO PASAR\u00c1 A SER M\u00c1S PROGRESIVA ANTE LA EVIDENCIA DE LAS NECESIDADES CON EL NUEVO ESTADO DE ALARMA? ",
         "diputado": [
             {
                 "apellidos": "Botran Pahissa",
@@ -24,9 +24,341 @@
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-058.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "BOTRAN PAHISSA"
     },
-    "text": "Ministra, esta semana se hacía efectivo que la pandemia va para largo y, por tanto, su impacto en la economía también. Conocemos algunas de sus medidas en fiscalidad, pero nuestra pregunta es: ¿Esto es todo lo lejos que va a llegar el Gobierno llamado progresista en fiscalidad?"
+    "text": "Ministra, esta semana se hac\u00eda efectivo que la pandemia va para largo y, por tanto, su impacto en la econom\u00eda tambi\u00e9n. Conocemos algunas de sus medidas en fiscalidad, pero nuestra pregunta es: \u00bfEsto es todo lo lejos que va a llegar el Gobierno llamado progresista en fiscalidad?",
+    "freeling": [
+        {
+            "word": "Ministra",
+            "lema": "ministro",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "esta",
+            "lema": "este",
+            "pos": "DD0FS0",
+            "prob": "0.978817"
+        },
+        {
+            "word": "semana",
+            "lema": "semana",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "hac\u00eda",
+            "lema": "hacer",
+            "pos": "VMII3S0",
+            "prob": "0.65"
+        },
+        {
+            "word": "efectivo",
+            "lema": "efectivo",
+            "pos": "AQ0MS00",
+            "prob": "0.78169"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "pandemia",
+            "lema": "pandemia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "va",
+            "lema": "ir",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "largo",
+            "lema": "largo",
+            "pos": "AQ0MS00",
+            "prob": "0.990132"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "tanto",
+            "lema": "tanto",
+            "pos": "RG",
+            "prob": "0.806143"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "impacto",
+            "lema": "impacto",
+            "pos": "NCMS000",
+            "prob": "0.992958"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "econom\u00eda",
+            "lema": "econom\u00eda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "tambi\u00e9n",
+            "lema": "tambi\u00e9n",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Conocemos",
+            "lema": "conocer",
+            "pos": "VMIP1P0",
+            "prob": "1"
+        },
+        {
+            "word": "algunas",
+            "lema": "alguno",
+            "pos": "PI0FP00",
+            "prob": "0.359865"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "sus",
+            "lema": "su",
+            "pos": "DP3CPN",
+            "prob": "0.999903"
+        },
+        {
+            "word": "medidas",
+            "lema": "medida",
+            "pos": "NCFP000",
+            "prob": "0.999067"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "fiscalidad",
+            "lema": "fiscalidad",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "pero",
+            "lema": "pero",
+            "pos": "CC",
+            "prob": "0.999902"
+        },
+        {
+            "word": "nuestra",
+            "lema": "nuestro",
+            "pos": "DP1FSP",
+            "prob": "0.867454"
+        },
+        {
+            "word": "pregunta",
+            "lema": "pregunta",
+            "pos": "NCFS000",
+            "prob": "0.694581"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": ":",
+            "lema": ":",
+            "pos": "Fd",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "Esto",
+            "lema": "este",
+            "pos": "PD00S00",
+            "prob": "1"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "todo",
+            "lema": "todo",
+            "pos": "DI0MS0",
+            "prob": "0.6662"
+        },
+        {
+            "word": "lo",
+            "lema": "lo",
+            "pos": "PP3MSA0",
+            "prob": "0.334764"
+        },
+        {
+            "word": "lejos",
+            "lema": "lejos",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "va",
+            "lema": "ir",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "llegar",
+            "lema": "llegar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "llamado",
+            "lema": "llamar",
+            "pos": "VMP00SM",
+            "prob": "0.996454"
+        },
+        {
+            "word": "progresista",
+            "lema": "progresista",
+            "pos": "AQ0CS00",
+            "prob": "0.97619"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "fiscalidad",
+            "lema": "fiscalidad",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        }
+    ]
 }

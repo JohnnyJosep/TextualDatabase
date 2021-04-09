@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-11T00:00:00.000Z",
-        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS: -- PROPOSICIÓN DE LEY ORGÁNICA DE DEROGACIÓN DEL ARTÍCULO 315, APARTADO 3, DEL CÓDIGO PENAL. ",
+        "debate": "DICT\u00c1MENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS: -- PROPOSICI\u00d3N DE LEY ORG\u00c1NICA DE DEROGACI\u00d3N DEL ART\u00cdCULO 315, APARTADO 3, DEL C\u00d3DIGO PENAL. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,59 @@
         ],
         "order": 24,
         "path": "../data/diaries-txts/DSCD-14-PL-086.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señora Vidal, tiene que terminar, por favor."
+    "text": "Se\u00f1ora Vidal, tiene que terminar, por favor.",
+    "freeling": [
+        {
+            "word": "Se\u00f1ora_Vidal",
+            "lema": "se\u00f1ora_vidal",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "tiene",
+            "lema": "tener",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "terminar",
+            "lema": "terminar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por_favor",
+            "lema": "por_favor",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

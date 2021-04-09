@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-16T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON TEODORO GARCÍA EGEA, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR VICEPRESIDENTE SEGUNDO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030: ¿CONSIDERA EL VICEPRESIDENTE SEGUNDO QUE LA OLA DE OKUPACIONES DE VIVIENDAS EN ESPAÑA SUPONE UN GRAVE PROBLEMA SOCIAL? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON TEODORO GARC\u00cdA EGEA, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR VICEPRESIDENTE SEGUNDO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030: \u00bfCONSIDERA EL VICEPRESIDENTE SEGUNDO QUE LA OLA DE OKUPACIONES DE VIVIENDAS EN ESPA\u00d1A SUPONE UN GRAVE PROBLEMA SOCIAL? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,827 @@
         ],
         "order": 7,
         "path": "../data/diaries-txts/DSCD-14-PL-045.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Silencio, por favor. El señor VICEPRESIDENTE SEGUNDO DEL GOBIERNO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030 (Iglesias Turrión): Y me va a permitir, señoría, que salude la iniciativa del Sindicato de Inquilinos, que se ha convertido en ley en el Parlament de Catalunya, que tiene que ser una referencia para regular los alquileres en España. Permítame que le lea algo, a ver si les suena a ustedes: «Todos los españoles tienen derecho a disfrutar de una vivienda digna y adecuada». (Aplausos). «Los poderes públicos promoverán las condiciones necesarias y establecerán las normas pertinentes para hacer efectivo ese derecho, regulando la utilización del suelo de acuerdo con el interés general para impedir la especulación». (Rumores)."
+    "text": "Silencio, por favor. El se\u00f1or VICEPRESIDENTE SEGUNDO DEL GOBIERNO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030 (Iglesias Turri\u00f3n): Y me va a permitir, se\u00f1or\u00eda, que salude la iniciativa del Sindicato de Inquilinos, que se ha convertido en ley en el Parlament de Catalunya, que tiene que ser una referencia para regular los alquileres en Espa\u00f1a. Perm\u00edtame que le lea algo, a ver si les suena a ustedes: \u00abTodos los espa\u00f1oles tienen derecho a disfrutar de una vivienda digna y adecuada\u00bb. (Aplausos). \u00abLos poderes p\u00fablicos promover\u00e1n las condiciones necesarias y establecer\u00e1n las normas pertinentes para hacer efectivo ese derecho, regulando la utilizaci\u00f3n del suelo de acuerdo con el inter\u00e9s general para impedir la especulaci\u00f3n\u00bb. (Rumores).",
+    "freeling": [
+        {
+            "word": "Silencio",
+            "lema": "silencio",
+            "pos": "NCMS000",
+            "prob": "0.997076"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por_favor",
+            "lema": "por_favor",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "El",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "VICEPRESIDENTE",
+            "lema": "vicepresidente",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": "SEGUNDO",
+            "lema": "segundo",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "GOBIERNO",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "Y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "MINISTRO",
+            "lema": "ministro",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "DERECHOS",
+            "lema": "derecho",
+            "pos": "NCMP000",
+            "prob": "0.996795"
+        },
+        {
+            "word": "SOCIALES",
+            "lema": "social",
+            "pos": "AQ0CP00",
+            "prob": "0.997835"
+        },
+        {
+            "word": "Y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "AGENDA",
+            "lema": "agenda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "2030",
+            "lema": "2030",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Iglesias_Turri\u00f3n",
+            "lema": "iglesias_turri\u00f3n",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ":",
+            "lema": ":",
+            "pos": "Fd",
+            "prob": "1"
+        },
+        {
+            "word": "Y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "me",
+            "lema": "me",
+            "pos": "PP1CS00",
+            "prob": "0.755196"
+        },
+        {
+            "word": "va",
+            "lema": "ir",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "permitir",
+            "lema": "permitir",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or\u00eda",
+            "lema": "se\u00f1or\u00eda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "salude",
+            "lema": "saludar",
+            "pos": "VMSP3S0",
+            "prob": "0.634863"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "iniciativa",
+            "lema": "iniciativa",
+            "pos": "NCFS000",
+            "prob": "0.958015"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Sindicato_de_Inquilinos",
+            "lema": "sindicato_de_inquilinos",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "convertido",
+            "lema": "convertir",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "ley",
+            "lema": "ley",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Parlament_de_Catalunya",
+            "lema": "parlament_de_catalunya",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "tiene",
+            "lema": "tener",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "ser",
+            "lema": "ser",
+            "pos": "VSN0000",
+            "prob": "0.959637"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "referencia",
+            "lema": "referencia",
+            "pos": "NCFS000",
+            "prob": "0.989637"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "regular",
+            "lema": "regular",
+            "pos": "VMN0000",
+            "prob": "0.5"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "alquileres",
+            "lema": "alquiler",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "Espa\u00f1a",
+            "lema": "espa\u00f1a",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Permita",
+            "lema": "permitir",
+            "pos": "VMM03S0",
+            "prob": "1"
+        },
+        {
+            "word": "me",
+            "lema": "me",
+            "pos": "PP1CS00",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "lea",
+            "lema": "leer",
+            "pos": "VMSP3S0",
+            "prob": "0.634857"
+        },
+        {
+            "word": "algo",
+            "lema": "algo",
+            "pos": "PI0CS00",
+            "prob": "0.854421"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "ver",
+            "lema": "ver",
+            "pos": "VMN0000",
+            "prob": "0.998812"
+        },
+        {
+            "word": "si",
+            "lema": "si",
+            "pos": "CS",
+            "prob": "0.999827"
+        },
+        {
+            "word": "les",
+            "lema": "le",
+            "pos": "PP3CPD0",
+            "prob": "1"
+        },
+        {
+            "word": "suena",
+            "lema": "sonar",
+            "pos": "VMIP3S0",
+            "prob": "0.989241"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "ustedes",
+            "lema": "usted",
+            "pos": "PP2CP0P",
+            "prob": "1"
+        },
+        {
+            "word": ":",
+            "lema": ":",
+            "pos": "Fd",
+            "prob": "1"
+        },
+        {
+            "word": "\u00ab",
+            "lema": "\u00ab",
+            "pos": "Fra",
+            "prob": "1"
+        },
+        {
+            "word": "Todos",
+            "lema": "todo",
+            "pos": "DI0MP0",
+            "prob": "0.70665"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "espa\u00f1oles",
+            "lema": "espa\u00f1ol",
+            "pos": "NCMP000",
+            "prob": "0.413379"
+        },
+        {
+            "word": "tienen",
+            "lema": "tener",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "derecho",
+            "lema": "derecho",
+            "pos": "NCMS000",
+            "prob": "0.882166"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "disfrutar",
+            "lema": "disfrutar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "vivienda",
+            "lema": "vivienda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "digna",
+            "lema": "digno",
+            "pos": "AQ0FS00",
+            "prob": "0.962264"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "adecuada",
+            "lema": "adecuar",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bb",
+            "lema": "\u00bb",
+            "pos": "Frc",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplauso",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "\u00ab",
+            "lema": "\u00ab",
+            "pos": "Fra",
+            "prob": "1"
+        },
+        {
+            "word": "Los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "poderes",
+            "lema": "poder",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "p\u00fablicos",
+            "lema": "p\u00fablico",
+            "pos": "AQ0MP00",
+            "prob": "0.974537"
+        },
+        {
+            "word": "promover\u00e1n",
+            "lema": "promover",
+            "pos": "VMIF3P0",
+            "prob": "1"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "condiciones",
+            "lema": "condici\u00f3n",
+            "pos": "NCFP000",
+            "prob": "0.998418"
+        },
+        {
+            "word": "necesarias",
+            "lema": "necesario",
+            "pos": "AQ0FP00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "establecer\u00e1n",
+            "lema": "establecer",
+            "pos": "VMIF3P0",
+            "prob": "1"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "normas",
+            "lema": "norma",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "pertinentes",
+            "lema": "pertinente",
+            "pos": "AQ0CP00",
+            "prob": "1"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "hacer",
+            "lema": "hacer",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "efectivo",
+            "lema": "efectivo",
+            "pos": "NCMS000",
+            "prob": "0.21831"
+        },
+        {
+            "word": "ese",
+            "lema": "ese",
+            "pos": "DD0MS0",
+            "prob": "0.966694"
+        },
+        {
+            "word": "derecho",
+            "lema": "derecho",
+            "pos": "NCMS000",
+            "prob": "0.882166"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "regulando",
+            "lema": "regular",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "utilizaci\u00f3n",
+            "lema": "utilizaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "suelo",
+            "lema": "suelo",
+            "pos": "NCMS000",
+            "prob": "0.88102"
+        },
+        {
+            "word": "de_acuerdo_con",
+            "lema": "de_acuerdo_con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "inter\u00e9s",
+            "lema": "inter\u00e9s",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "general",
+            "lema": "general",
+            "pos": "AQ0CS00",
+            "prob": "0.826212"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "impedir",
+            "lema": "impedir",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "especulaci\u00f3n",
+            "lema": "especulaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bb",
+            "lema": "\u00bb",
+            "pos": "Frc",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Rumores",
+            "lema": "rumores",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

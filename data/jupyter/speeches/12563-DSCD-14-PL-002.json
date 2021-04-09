@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-12-15T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, PARA QUE EL GOBIERNO DÉ SU VISIÓN SOBRE LA VALORACIÓN DEL GOBERNADOR DEL BANCO DE ESPAÑA Y LA PRESIDENTA DE LA AIREF SOBRE EL CUADRO MACROECONÓMICO INCLUIDO EN LOS PRESUPUESTOS GENERALES DEL ESTADO. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, PARA QUE EL GOBIERNO D\u00c9 SU VISI\u00d3N SOBRE LA VALORACI\u00d3N DEL GOBERNADOR DEL BANCO DE ESPA\u00d1A Y LA PRESIDENTA DE LA AIREF SOBRE EL CUADRO MACROECON\u00d3MICO INCLUIDO EN LOS PRESUPUESTOS GENERALES DEL ESTADO. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,53 @@
         ],
         "order": 14,
         "path": "../data/diaries-txts/DSCD-14-PL-069.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Guijarro, ha acabado su tiempo."
+    "text": "Se\u00f1or Guijarro, ha acabado su tiempo.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Guijarro",
+            "lema": "se\u00f1or_guijarro",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "acabado",
+            "lema": "acabar",
+            "pos": "VMP00SM",
+            "prob": "0.865854"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "tiempo",
+            "lema": "tiempo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

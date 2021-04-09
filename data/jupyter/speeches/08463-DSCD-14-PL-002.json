@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-23T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA CAROLINA ESPAÑA REINA, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA MINISTRA DE HACIENDA: ¿CUÁNDO VA A APROBAR EL GOBIERNO LOS NUEVOS OBJETIVOS DE ESTABILIDAD Y DE DEUDA? ",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DO\u00d1A CAROLINA ESPA\u00d1A REINA, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SE\u00d1ORA MINISTRA DE HACIENDA: \u00bfCU\u00c1NDO VA A APROBAR EL GOBIERNO LOS NUEVOS OBJETIVOS DE ESTABILIDAD Y DE DEUDA? ",
         "diputado": [
             {
                 "apellidos": "Montero Cuadrado",
-                "apellidosNombre": "Montero Cuadrado, María Jesús",
+                "apellidosNombre": "Montero Cuadrado, Mar\u00eda Jes\u00fas",
                 "codParlamentario": 225,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario Socialista",
                 "idCircunscripcion": 41,
                 "idLegislatura": 14,
-                "nombre": "María Jesús",
+                "nombre": "Mar\u00eda Jes\u00fas",
                 "nombreCircunscripcion": "Sevilla",
                 "twitter": "https://twitter.com/mjmonteroc",
                 "twitterUserId": "310187114",
@@ -24,9 +24,299 @@
         ],
         "order": 9,
         "path": "../data/diaries-txts/DSCD-14-PL-047.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "MINISTRA DE HACIENDA (Montero Cuadrado)"
     },
-    "text": "Tercera reflexión. Señoría, pienso traer a la Cámara el proyecto de presupuestos, desde luego mucho antes de lo que lo trajo la última vez el señor Montoro, que le recuerdo que estábamos aquí en el mes de junio aprobando el proyecto de presupuestos… (Rumores)."
+    "text": "Tercera reflexi\u00f3n. Se\u00f1or\u00eda, pienso traer a la C\u00e1mara el proyecto de presupuestos, desde luego mucho antes de lo que lo trajo la \u00faltima vez el se\u00f1or Montoro, que le recuerdo que est\u00e1bamos aqu\u00ed en el mes de junio aprobando el proyecto de presupuestos\u2026 (Rumores).",
+    "freeling": [
+        {
+            "word": "Tercera",
+            "lema": "3",
+            "pos": "AO0FS00",
+            "prob": "0.99763"
+        },
+        {
+            "word": "reflexi\u00f3n",
+            "lema": "reflexi\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Se\u00f1or\u00eda",
+            "lema": "se\u00f1or\u00eda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "pienso",
+            "lema": "pensar",
+            "pos": "VMIP1S0",
+            "prob": "0.991803"
+        },
+        {
+            "word": "traer",
+            "lema": "traer",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "C\u00e1mara",
+            "lema": "c\u00e1mara",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "proyecto",
+            "lema": "proyecto",
+            "pos": "NCMS000",
+            "prob": "0.999084"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "presupuestos",
+            "lema": "presupuesto",
+            "pos": "NCMP000",
+            "prob": "0.987805"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "desde_luego",
+            "lema": "desde_luego",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "mucho",
+            "lema": "mucho",
+            "pos": "RG",
+            "prob": "0.776908"
+        },
+        {
+            "word": "antes_de",
+            "lema": "antes_de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "lo",
+            "lema": "el",
+            "pos": "DA00S0",
+            "prob": "0.665165"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "lo",
+            "lema": "lo",
+            "pos": "PP3MSA0",
+            "prob": "0.334764"
+        },
+        {
+            "word": "trajo",
+            "lema": "traer",
+            "pos": "VMIS3S0",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "\u00faltima",
+            "lema": "\u00faltimo",
+            "pos": "AO0FS00",
+            "prob": "1"
+        },
+        {
+            "word": "vez",
+            "lema": "vez",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "Montoro",
+            "lema": "montoro",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "recuerdo",
+            "lema": "recordar",
+            "pos": "VMIP1S0",
+            "prob": "0.22973"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "est\u00e1bamos",
+            "lema": "estar",
+            "pos": "VMII1P0",
+            "prob": "0.983871"
+        },
+        {
+            "word": "aqu\u00ed",
+            "lema": "aqu\u00ed",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "mes_de_junio",
+            "lema": "[??:??/6/??:??.??:??]",
+            "pos": "W",
+            "prob": "1"
+        },
+        {
+            "word": "aprobando",
+            "lema": "aprobar",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "proyecto",
+            "lema": "proyecto",
+            "pos": "NCMS000",
+            "prob": "0.999084"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "presupuestos",
+            "lema": "presupuesto",
+            "pos": "NCMP000",
+            "prob": "0.987805"
+        },
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Rumores",
+            "lema": "rumores",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-12-16T00:00:00.000Z",
-        "debate": "COMPARECENCIA DEL GOBIERNO ANTE EL PLENO DE LA CÁMARA, DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO 203 DEL REGLAMENTO: -- SOLICITUD DE COMPARECENCIA, A PETICIÓN PROPIA, DEL PRESIDENTE DEL GOBIERNO ANTE EL PLENO DEL CONGRESO DE LOS DIPUTADOS, PARA INFORMAR DEL CONSEJO EUROPEO EXTRAORDINARIO CELEBRADO LOS DÍAS 1 Y 2 DE OCTUBRE Y DE LOS CONSEJOS EUROPEOS ORDINARIOS CELEBRADOS LOS DÍAS 15 Y 16 DE OCTUBRE Y EL CELEBRADO LOS DÍAS 10 Y 11 DE DICIEMBRE, ASÍ COMO EN CUMPLIMIENTO DEL ARTÍCULO 14 DEL REAL DECRETO 926/2020, DE 25 DE OCTUBRE, POR EL QUE SE DECLARA EL ESTADO DE ALARMA ",
+        "debate": "COMPARECENCIA DEL GOBIERNO ANTE EL PLENO DE LA C\u00c1MARA, DE CONFORMIDAD CON LO DISPUESTO POR EL ART\u00cdCULO 203 DEL REGLAMENTO: -- SOLICITUD DE COMPARECENCIA, A PETICI\u00d3N PROPIA, DEL PRESIDENTE DEL GOBIERNO ANTE EL PLENO DEL CONGRESO DE LOS DIPUTADOS, PARA INFORMAR DEL CONSEJO EUROPEO EXTRAORDINARIO CELEBRADO LOS D\u00cdAS 1 Y 2 DE OCTUBRE Y DE LOS CONSEJOS EUROPEOS ORDINARIOS CELEBRADOS LOS D\u00cdAS 15 Y 16 DE OCTUBRE Y EL CELEBRADO LOS D\u00cdAS 10 Y 11 DE DICIEMBRE, AS\u00cd COMO EN CUMPLIMIENTO DEL ART\u00cdCULO 14 DEL REAL DECRETO 926/2020, DE 25 DE OCTUBRE, POR EL QUE SE DECLARA EL ESTADO DE ALARMA ",
         "diputado": [
             {
-                "apellidos": "Vehí Cantenys",
-                "apellidosNombre": "Vehí Cantenys, Mireia",
+                "apellidos": "Veh\u00ed Cantenys",
+                "apellidosNombre": "Veh\u00ed Cantenys, Mireia",
                 "codParlamentario": 86,
                 "fchAlta": "21/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,95 @@
         ],
         "order": 24,
         "path": "../data/diaries-txts/DSCD-14-PL-070.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "VEHÍ CANTENYS"
+        "speacker": "VEH\u00cd CANTENYS"
     },
-    "text": "Le pido la palabra por el artículo 103 del Reglamento, por favor."
+    "text": "Le pido la palabra por el art\u00edculo 103 del Reglamento, por favor.",
+    "freeling": [
+        {
+            "word": "Le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "pido",
+            "lema": "pedir",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "palabra",
+            "lema": "palabra",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "art\u00edculo",
+            "lema": "art\u00edculo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "103",
+            "lema": "103",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Reglamento",
+            "lema": "reglamento",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por_favor",
+            "lema": "por_favor",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

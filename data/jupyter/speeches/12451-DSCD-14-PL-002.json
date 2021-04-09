@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-12-15T00:00:00.000Z",
-        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY: -- DE LOS GRUPOS P ARLAMENT ARIOS SOCIALIST A Y CONFEDERAL DE UNIDAS PODEMOS-EN COMÚ PODEM-GALICIA EN COMÚN, ORGÁNICA POR LA QUE SE MODIFICA LA LEY ORGÁNICA 6/1985, DE 1 DE JULIO, DEL PODER JUDICIAL, PARA EL ESTABLECIMIENTO DEL RÉGIMEN JURÍDICO APLICABLE AL CONSEJO GENERAL DEL PODER JUDICIAL EN FUNCIONES. ",
+        "debate": "TOMA EN CONSIDERACI\u00d3N DE PROPOSICIONES DE LEY: -- DE LOS GRUPOS P ARLAMENT ARIOS SOCIALIST A Y CONFEDERAL DE UNIDAS PODEMOS-EN COM\u00da PODEM-GALICIA EN COM\u00daN, ORG\u00c1NICA POR LA QUE SE MODIFICA LA LEY ORG\u00c1NICA 6/1985, DE 1 DE JULIO, DEL PODER JUDICIAL, PARA EL ESTABLECIMIENTO DEL R\u00c9GIMEN JUR\u00cdDICO APLICABLE AL CONSEJO GENERAL DEL PODER JUDICIAL EN FUNCIONES. ",
         "diputado": [
             {
-                "apellidos": "Rodríguez Gómez de Celis",
-                "apellidosNombre": "Rodríguez Gómez de Celis, Alfonso",
+                "apellidos": "Rodr\u00edguez G\u00f3mez de Celis",
+                "apellidosNombre": "Rodr\u00edguez G\u00f3mez de Celis, Alfonso",
                 "codParlamentario": 168,
                 "fchAlta": "25/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,47 @@
         ],
         "order": 28,
         "path": "../data/diaries-txts/DSCD-14-PL-069.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "VICEPRESIDENTE (Rodrí guez Gómez de Celis)"
+        "speacker": "VICEPRESIDENTE (Rodr\u00ed guez G\u00f3mez de Celis)"
     },
-    "text": "Debe terminar ya, por favor."
+    "text": "Debe terminar ya, por favor.",
+    "freeling": [
+        {
+            "word": "Debe",
+            "lema": "deber",
+            "pos": "VMIP3S0",
+            "prob": "0.998712"
+        },
+        {
+            "word": "terminar",
+            "lema": "terminar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "ya",
+            "lema": "ya",
+            "pos": "RG",
+            "prob": "0.999785"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por_favor",
+            "lema": "por_favor",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

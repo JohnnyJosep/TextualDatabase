@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-17T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (CONTINUACIÓN): -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, SOBRE LA APROBACIÓN EN EL CONSEJO DE MINISTROS DEL 2 DE MARZO DE 2021 DE LAS DIRECTRICES GENERALES DE LA ESTRATEGIA DE DESARROLLO SOSTENIBLE 2030 Y SUS CONSECUENCIAS EN LA FUTURA LEY DE VIVIENDA. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (CONTINUACI\u00d3N): -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, SOBRE LA APROBACI\u00d3N EN EL CONSEJO DE MINISTROS DEL 2 DE MARZO DE 2021 DE LAS DIRECTRICES GENERALES DE LA ESTRATEGIA DE DESARROLLO SOSTENIBLE 2030 Y SUS CONSECUENCIAS EN LA FUTURA LEY DE VIVIENDA. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,77 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-088.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señora Esteban, tiene que terminar. ¿Ha terminado ya?"
+    "text": "Se\u00f1ora Esteban, tiene que terminar. \u00bfHa terminado ya?",
+    "freeling": [
+        {
+            "word": "Se\u00f1ora_Esteban",
+            "lema": "se\u00f1ora_esteban",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "tiene",
+            "lema": "tener",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "terminar",
+            "lema": "terminar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "Ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "terminado",
+            "lema": "terminar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "ya",
+            "lema": "ya",
+            "pos": "RG",
+            "prob": "0.999785"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        }
+    ]
 }

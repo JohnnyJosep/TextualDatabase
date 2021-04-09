@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-16T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- PREGUNTA DE LA DIPUTADA DOÑA MACARENA OLONA CHOCLÁN, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SEÑOR VICEPRESIDENTE SEGUNDO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030: ¿VA A DIMITIR A LA VISTA DE LOS ESCÁNDALOS JUDICIALES QUE LE AFECTAN A USTED Y SU PARTIDO? ",
+        "debate": "PREGUNTAS: -- PREGUNTA DE LA DIPUTADA DO\u00d1A MACARENA OLONA CHOCL\u00c1N, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SE\u00d1OR VICEPRESIDENTE SEGUNDO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030: \u00bfVA A DIMITIR A LA VISTA DE LOS ESC\u00c1NDALOS JUDICIALES QUE LE AFECTAN A USTED Y SU PARTIDO? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,311 @@
         ],
         "order": 5,
         "path": "../data/diaries-txts/DSCD-14-PL-045.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor vicepresidente segundo del Gobierno. El señor VICEPRESIDENTE SEGUNDO DEL GOBIERNO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030 (Iglesias Turrión): Como caballero retado, señoría, me toca elegir las armas: la palabra. (Rumores.--Aplausos). --"
+    "text": "Se\u00f1or vicepresidente segundo del Gobierno. El se\u00f1or VICEPRESIDENTE SEGUNDO DEL GOBIERNO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030 (Iglesias Turri\u00f3n): Como caballero retado, se\u00f1or\u00eda, me toca elegir las armas: la palabra. (Rumores.--Aplausos). --",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "vicepresidente",
+            "lema": "vicepresidente",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "segundo",
+            "lema": "2",
+            "pos": "AO0MS00",
+            "prob": "0.901147"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "El",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "VICEPRESIDENTE",
+            "lema": "vicepresidente",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": "SEGUNDO",
+            "lema": "segundo",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "GOBIERNO",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "Y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "MINISTRO",
+            "lema": "ministro",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "DERECHOS",
+            "lema": "derecho",
+            "pos": "NCMP000",
+            "prob": "0.996795"
+        },
+        {
+            "word": "SOCIALES",
+            "lema": "social",
+            "pos": "AQ0CP00",
+            "prob": "0.997835"
+        },
+        {
+            "word": "Y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "AGENDA",
+            "lema": "agenda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "2030",
+            "lema": "2030",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Iglesias_Turri\u00f3n",
+            "lema": "iglesias_turri\u00f3n",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ":",
+            "lema": ":",
+            "pos": "Fd",
+            "prob": "1"
+        },
+        {
+            "word": "Como",
+            "lema": "como",
+            "pos": "CS",
+            "prob": "0.967153"
+        },
+        {
+            "word": "caballero",
+            "lema": "caballero",
+            "pos": "NCMS000",
+            "prob": "0.822581"
+        },
+        {
+            "word": "retado",
+            "lema": "retar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or\u00eda",
+            "lema": "se\u00f1or\u00eda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "me",
+            "lema": "me",
+            "pos": "PP1CS00",
+            "prob": "0.755196"
+        },
+        {
+            "word": "toca",
+            "lema": "tocar",
+            "pos": "VMIP3S0",
+            "prob": "0.98374"
+        },
+        {
+            "word": "elegir",
+            "lema": "elegir",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "armas",
+            "lema": "arma",
+            "pos": "NCFP000",
+            "prob": "0.998047"
+        },
+        {
+            "word": ":",
+            "lema": ":",
+            "pos": "Fd",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "palabra",
+            "lema": "palabra",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Rumores",
+            "lema": "rumor",
+            "pos": "NCMP000",
+            "prob": "0.992424"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplauso",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

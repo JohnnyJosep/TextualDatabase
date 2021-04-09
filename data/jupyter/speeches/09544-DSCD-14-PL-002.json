@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-10-14T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA CONCEPCIÓN GAMARRA RUIZ-CLAVIJO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA VICEPRESIDENTA PRIMERA Y MINISTRA DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCRÁTICA: ¿QUÉ ENTIENDE EL GOBIERNO POR CALIDAD DEMOCRÁTICA? ",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DO\u00d1A CONCEPCI\u00d3N GAMARRA RUIZ-CLAVIJO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SE\u00d1ORA VICEPRESIDENTA PRIMERA Y MINISTRA DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCR\u00c1TICA: \u00bfQU\u00c9 ENTIENDE EL GOBIERNO POR CALIDAD DEMOCR\u00c1TICA? ",
         "diputado": [
             {
                 "apellidos": "Gamarra Ruiz-Clavijo",
-                "apellidosNombre": "Gamarra Ruiz-Clavijo, Concepción",
+                "apellidosNombre": "Gamarra Ruiz-Clavijo, Concepci\u00f3n",
                 "codParlamentario": 261,
                 "fchAlta": "27/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario Popular en el Congreso",
                 "idCircunscripcion": 26,
                 "idLegislatura": 14,
-                "nombre": "Concepción",
+                "nombre": "Concepci\u00f3n",
                 "nombreCircunscripcion": "Rioja (La)",
                 "twitter": "https://twitter.com/cucagamarra",
                 "twitterUserId": "83573034",
@@ -24,9 +24,551 @@
         ],
         "order": 5,
         "path": "../data/diaries-txts/DSCD-14-PL-052.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "GAMARRA RUIZ-CLAVIJO"
     },
-    "text": "La agravante de género, señorías, sí. El aforado Iglesias dice que no concibe ni como mera hipótesis que se le abra una causa penal, pero simultáneamente presiona al Tribunal Supremo para que no le impute. Avasallar a las instituciones, subvertir la democracia, suplantar el Estado de derecho por un régimen populista (rumores), eso es lo que es una amenaza para la calidad democrática, que la promueve el señor que se sienta… (Rumores.--Protestas)."
+    "text": "La agravante de g\u00e9nero, se\u00f1or\u00edas, s\u00ed. El aforado Iglesias dice que no concibe ni como mera hip\u00f3tesis que se le abra una causa penal, pero simult\u00e1neamente presiona al Tribunal Supremo para que no le impute. Avasallar a las instituciones, subvertir la democracia, suplantar el Estado de derecho por un r\u00e9gimen populista (rumores), eso es lo que es una amenaza para la calidad democr\u00e1tica, que la promueve el se\u00f1or que se sienta\u2026 (Rumores.--Protestas).",
+    "freeling": [
+        {
+            "word": "La",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "agravante",
+            "lema": "agravante",
+            "pos": "NCCS000",
+            "prob": "0.338781"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "g\u00e9nero",
+            "lema": "g\u00e9nero",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or\u00edas",
+            "lema": "se\u00f1or\u00eda",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "s\u00ed",
+            "lema": "s\u00ed",
+            "pos": "RG",
+            "prob": "0.654652"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "El",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "aforado",
+            "lema": "aforado",
+            "pos": "NCMS000",
+            "prob": "0.376253"
+        },
+        {
+            "word": "Iglesias",
+            "lema": "iglesias",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "dice",
+            "lema": "decir",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "concibe",
+            "lema": "concebir",
+            "pos": "VMIP3S0",
+            "prob": "0.989241"
+        },
+        {
+            "word": "ni",
+            "lema": "ni",
+            "pos": "CC",
+            "prob": "0.834853"
+        },
+        {
+            "word": "como",
+            "lema": "como",
+            "pos": "CS",
+            "prob": "0.967153"
+        },
+        {
+            "word": "mera",
+            "lema": "mero",
+            "pos": "AQ0FS00",
+            "prob": "0.975904"
+        },
+        {
+            "word": "hip\u00f3tesis",
+            "lema": "hip\u00f3tesis",
+            "pos": "NCFN000",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "abra",
+            "lema": "abrir",
+            "pos": "VMSP3S0",
+            "prob": "0.455224"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "causa",
+            "lema": "causa",
+            "pos": "NCFS000",
+            "prob": "0.903904"
+        },
+        {
+            "word": "penal",
+            "lema": "penal",
+            "pos": "AQ0CS00",
+            "prob": "0.983871"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "pero",
+            "lema": "pero",
+            "pos": "CC",
+            "prob": "0.999902"
+        },
+        {
+            "word": "simult\u00e1neamente",
+            "lema": "simult\u00e1neamente",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "presiona",
+            "lema": "presionar",
+            "pos": "VMIP3S0",
+            "prob": "0.989241"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Tribunal_Supremo",
+            "lema": "tribunal_supremo",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "impute",
+            "lema": "imputar",
+            "pos": "VMSP3S0",
+            "prob": "0.634863"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Avasallar",
+            "lema": "avasallar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "instituciones",
+            "lema": "instituci\u00f3n",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "subvertir",
+            "lema": "subvertir",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "democracia",
+            "lema": "democracia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "suplantar",
+            "lema": "suplantar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Estado",
+            "lema": "estado",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "derecho",
+            "lema": "derecho",
+            "pos": "NCMS000",
+            "prob": "0.882166"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "r\u00e9gimen",
+            "lema": "r\u00e9gimen",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "populista",
+            "lema": "populista",
+            "pos": "AQ0CS00",
+            "prob": "0.596154"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "rumores",
+            "lema": "rumor",
+            "pos": "NCMP000",
+            "prob": "0.992424"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "eso",
+            "lema": "ese",
+            "pos": "PD00S00",
+            "prob": "1"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "lo",
+            "lema": "el",
+            "pos": "DA00S0",
+            "prob": "0.665165"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "amenaza",
+            "lema": "amenaza",
+            "pos": "NCFS000",
+            "prob": "0.699634"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "calidad",
+            "lema": "calidad",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "democr\u00e1tica",
+            "lema": "democr\u00e1tico",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "la",
+            "lema": "lo",
+            "pos": "PP3FSA0",
+            "prob": "0.010734"
+        },
+        {
+            "word": "promueve",
+            "lema": "promover",
+            "pos": "VMIP3S0",
+            "prob": "0.980769"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "sienta",
+            "lema": "sentar",
+            "pos": "VMIP3S0",
+            "prob": "0.869767"
+        },
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Rumores",
+            "lema": "rumor",
+            "pos": "NCMP000",
+            "prob": "0.992424"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": "Protestas",
+            "lema": "protesta",
+            "pos": "NCFP000",
+            "prob": "0.995868"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

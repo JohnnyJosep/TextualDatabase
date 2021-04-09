@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-10T00:00:00.000Z",
-        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, SOBRE LA APROBACIÓN EN EL CONSEJO DE MINISTROS DEL 2 DE MARZO DE 2021 DE LAS DIRECTRICES GENERALES DE LA ESTRATEGIA DE DESARROLLO SOSTENIBLE 2030 Y SUS CONSECUENCIAS EN LA FUTURA LEY DE VIVIENDA. ",
+        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, SOBRE LA APROBACI\u00d3N EN EL CONSEJO DE MINISTROS DEL 2 DE MARZO DE 2021 DE LAS DIRECTRICES GENERALES DE LA ESTRATEGIA DE DESARROLLO SOSTENIBLE 2030 Y SUS CONSECUENCIAS EN LA FUTURA LEY DE VIVIENDA. ",
         "diputado": [
             {
                 "apellidos": "Gamarra Ruiz-Clavijo",
-                "apellidosNombre": "Gamarra Ruiz-Clavijo, Concepción",
+                "apellidosNombre": "Gamarra Ruiz-Clavijo, Concepci\u00f3n",
                 "codParlamentario": 261,
                 "fchAlta": "27/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario Popular en el Congreso",
                 "idCircunscripcion": 26,
                 "idLegislatura": 14,
-                "nombre": "Concepción",
+                "nombre": "Concepci\u00f3n",
                 "nombreCircunscripcion": "Rioja (La)",
                 "twitter": "https://twitter.com/cucagamarra",
                 "twitterUserId": "83573034",
@@ -24,9 +24,173 @@
         ],
         "order": 3,
         "path": "../data/diaries-txts/DSCD-14-PL-085.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "GAMARRA RUIZ-CLAVIJO"
     },
-    "text": "Les recomendamos que hagan una política de vivienda que dinamice el mercado y que no paralice la economía española. Muchas gracias. (Aplausos)."
+    "text": "Les recomendamos que hagan una pol\u00edtica de vivienda que dinamice el mercado y que no paralice la econom\u00eda espa\u00f1ola. Muchas gracias. (Aplausos).",
+    "freeling": [
+        {
+            "word": "Les",
+            "lema": "le",
+            "pos": "PP3CPD0",
+            "prob": "1"
+        },
+        {
+            "word": "recomendamos",
+            "lema": "recomendar",
+            "pos": "VMIP1P0",
+            "prob": "0.65"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "hagan",
+            "lema": "hacer",
+            "pos": "VMSP3P0",
+            "prob": "0.992958"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "pol\u00edtica",
+            "lema": "pol\u00edtica",
+            "pos": "NCFS000",
+            "prob": "0.369481"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "vivienda",
+            "lema": "vivienda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "dinamice",
+            "lema": "dinamizar",
+            "pos": "VMSP3S0",
+            "prob": "0.610864"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "mercado",
+            "lema": "mercado",
+            "pos": "NCMS000",
+            "prob": "0.999343"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "paralice",
+            "lema": "paralizar",
+            "pos": "VMSP3S0",
+            "prob": "0.495146"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "econom\u00eda",
+            "lema": "econom\u00eda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "espa\u00f1ola",
+            "lema": "espa\u00f1ol",
+            "pos": "AQ0FS00",
+            "prob": "0.9614"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplausos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

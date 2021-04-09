@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-10-15T00:00:00.000Z",
-        "debate": "ACTOS EN RELACIÓN CON LOS ESTADOS DE ALARMA, EXCEPCIÓN Y SITIO: -- COMUNICACIÓN DEL GOBIERNO QUE ACOMPAÑA AL REAL DECRETO 900/2020, DE 9 DE OCTUBRE, POR EL QUE SE DECLARA EL ESTADO DE ALARMA PARA RESPONDER ANTE SITUACIONES DE ESPECIAL RIESGO POR TRANSMISIÓN NO CONTROLADA DE INFECCIONES CAUSADAS POR EL SARS-COV-2. ",
+        "debate": "ACTOS EN RELACI\u00d3N CON LOS ESTADOS DE ALARMA, EXCEPCI\u00d3N Y SITIO: -- COMUNICACI\u00d3N DEL GOBIERNO QUE ACOMPA\u00d1A AL REAL DECRETO 900/2020, DE 9 DE OCTUBRE, POR EL QUE SE DECLARA EL ESTADO DE ALARMA PARA RESPONDER ANTE SITUACIONES DE ESPECIAL RIESGO POR TRANSMISI\u00d3N NO CONTROLADA DE INFECCIONES CAUSADAS POR EL SARS-COV-2. ",
         "diputado": [
             {
-                "apellidos": "Pastor Julián",
-                "apellidosNombre": "Pastor Julián, Ana María",
+                "apellidos": "Pastor Juli\u00e1n",
+                "apellidosNombre": "Pastor Juli\u00e1n, Ana Mar\u00eda",
                 "codParlamentario": 31,
                 "fchAlta": "19/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario Popular en el Congreso",
                 "idCircunscripcion": 28,
                 "idLegislatura": 14,
-                "nombre": "Ana María",
+                "nombre": "Ana Mar\u00eda",
                 "nombreCircunscripcion": "Madrid",
                 "twitter": "https://twitter.com/anapastorjulian",
                 "twitterUserId": "307570052",
@@ -24,9 +24,143 @@
         ],
         "order": 92,
         "path": "../data/diaries-txts/DSCD-14-PL-053.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "VICEPRESIDENTA (Pastor Julián)"
+        "speacker": "VICEPRESIDENTA (Pastor Juli\u00e1n)"
     },
-    "text": "Un momento, señora ministra. Si abandonan el hemiciclo, háganlo en silencio, por favor. Adelante, ministra."
+    "text": "Un momento, se\u00f1ora ministra. Si abandonan el hemiciclo, h\u00e1ganlo en silencio, por favor. Adelante, ministra.",
+    "freeling": [
+        {
+            "word": "Un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "momento",
+            "lema": "momento",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "ministra",
+            "lema": "ministro",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Si",
+            "lema": "si",
+            "pos": "CS",
+            "prob": "0.999827"
+        },
+        {
+            "word": "abandonan",
+            "lema": "abandonar",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "hemiciclo",
+            "lema": "hemiciclo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "hagan",
+            "lema": "hacer",
+            "pos": "VMM03P0",
+            "prob": "1"
+        },
+        {
+            "word": "lo",
+            "lema": "lo",
+            "pos": "PP3MSA0",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "silencio",
+            "lema": "silencio",
+            "pos": "NCMS000",
+            "prob": "0.997076"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por_favor",
+            "lema": "por_favor",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Adelante",
+            "lema": "adelante",
+            "pos": "RG",
+            "prob": "0.982979"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "ministra",
+            "lema": "ministro",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

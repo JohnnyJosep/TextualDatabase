@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-12-02T00:00:00.000Z",
-        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (CONTINUACIÓN): -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL AÑO 2021. (CONTINUACIÓN). ",
+        "debate": "DICTA\u0301MENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (CONTINUACI\u00d3N): -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL A\u00d1O 2021. (CONTINUACI\u00d3N). ",
         "diputado": [
             {
-                "apellidos": "Rodríguez Gómez de Celis",
-                "apellidosNombre": "Rodríguez Gómez de Celis, Alfonso",
+                "apellidos": "Rodr\u00edguez G\u00f3mez de Celis",
+                "apellidosNombre": "Rodr\u00edguez G\u00f3mez de Celis, Alfonso",
                 "codParlamentario": 168,
                 "fchAlta": "25/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,113 @@
         ],
         "order": 66,
         "path": "../data/diaries-txts/DSCD-14-PL-067.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "VICEPRESIDENTE (Rodrí guez Gómez de Celis)"
+        "speacker": "VICEPRESIDENTE (Rodr\u00ed guez G\u00f3mez de Celis)"
     },
-    "text": "Un segundo. Ruego, por favor, que guarden silencio para poder escuchar a la interviniente."
+    "text": "Un segundo. Ruego, por favor, que guarden silencio para poder escuchar a la interviniente.",
+    "freeling": [
+        {
+            "word": "Un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "segundo",
+            "lema": "2",
+            "pos": "AO0MS00",
+            "prob": "0.901147"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Ruego",
+            "lema": "ruego",
+            "pos": "NCMS000",
+            "prob": "0.985804"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por_favor",
+            "lema": "por_favor",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "guarden",
+            "lema": "guardar",
+            "pos": "VMSP3P0",
+            "prob": "0.941964"
+        },
+        {
+            "word": "silencio",
+            "lema": "silencio",
+            "pos": "NCMS000",
+            "prob": "0.997076"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "poder",
+            "lema": "poder",
+            "pos": "VMN0000",
+            "prob": "0.393475"
+        },
+        {
+            "word": "escuchar",
+            "lema": "escuchar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "interviniente",
+            "lema": "interviniente",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

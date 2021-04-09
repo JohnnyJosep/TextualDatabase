@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-12-17T00:00:00.000Z",
-        "debate": "DICTÁMENES DE LA COMISIÓN DEL ESTATUTO DE LOS DIPUTADOS. (VOTACIÓN): -- DICTAMEN DE LA COMISIÓN DEL ESTATUTO DE LOS DIPUTADOS ACERCA DEL SUPLICATORIO FORMULADO EN RELACIÓN CON UN SEÑOR DIPUTADO. ",
+        "debate": "DICT\u00c1MENES DE LA COMISI\u00d3N DEL ESTATUTO DE LOS DIPUTADOS. (VOTACI\u00d3N): -- DICTAMEN DE LA COMISI\u00d3N DEL ESTATUTO DE LOS DIPUTADOS ACERCA DEL SUPLICATORIO FORMULADO EN RELACI\u00d3N CON UN SE\u00d1OR DIPUTADO. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,101 @@
         ],
         "order": 28,
         "path": "../data/diaries-txts/DSCD-14-PL-071.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Perdone, señor Requena, espere un segundo porque es imposible seguir su intervención."
+    "text": "Perdone, se\u00f1or Requena, espere un segundo porque es imposible seguir su intervenci\u00f3n.",
+    "freeling": [
+        {
+            "word": "Perdone",
+            "lema": "perdonar",
+            "pos": "VMM03S0",
+            "prob": "0.0302731"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "Requena",
+            "lema": "requena",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "espere",
+            "lema": "esperar",
+            "pos": "VMSP3S0",
+            "prob": "0.634863"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "segundo",
+            "lema": "segundo",
+            "pos": "NCMS000",
+            "prob": "0.09797"
+        },
+        {
+            "word": "porque",
+            "lema": "porque",
+            "pos": "CS",
+            "prob": "1"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "imposible",
+            "lema": "imposible",
+            "pos": "AQ0CS00",
+            "prob": "0.997238"
+        },
+        {
+            "word": "seguir",
+            "lema": "seguir",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "intervenci\u00f3n",
+            "lema": "intervenci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

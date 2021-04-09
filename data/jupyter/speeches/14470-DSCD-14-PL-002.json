@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-16T00:00:00.000Z",
-        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY. (VOTACIÓN): -- DEL GRUPO PARLAMENTARIO SOCIALISTA, INTEGRAL PARA LA IGUALDAD DE TRATO Y LA NO DISCRIMINACIÓN. ",
+        "debate": "TOMA EN CONSIDERACI\u00d3N DE PROPOSICIONES DE LEY. (VOTACI\u00d3N): -- DEL GRUPO PARLAMENTARIO SOCIALISTA, INTEGRAL PARA LA IGUALDAD DE TRATO Y LA NO DISCRIMINACI\u00d3N. ",
         "diputado": [
             {
                 "apellidos": "Carvalho Dantas",
-                "apellidosNombre": "Carvalho Dantas, María",
+                "apellidosNombre": "Carvalho Dantas, Mar\u00eda",
                 "codParlamentario": 190,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario Republicano",
                 "idCircunscripcion": 8,
                 "idLegislatura": 14,
-                "nombre": "María",
+                "nombre": "Mar\u00eda",
                 "nombreCircunscripcion": "Barcelona",
                 "twitter": "https://twitter.com/_Maria_Dantas_",
                 "twitterUserId": "87042194",
@@ -24,9 +24,59 @@
         ],
         "order": 41,
         "path": "../data/diaries-txts/DSCD-14-PL-078.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "CARVALHO DANTAS"
     },
-    "text": "Cuando diga usted. ¿Puedo continuar?"
+    "text": "Cuando diga usted. \u00bfPuedo continuar?",
+    "freeling": [
+        {
+            "word": "Cuando",
+            "lema": "cuando",
+            "pos": "CS",
+            "prob": "0.86298"
+        },
+        {
+            "word": "diga",
+            "lema": "decir",
+            "pos": "VMSP3S0",
+            "prob": "0.458647"
+        },
+        {
+            "word": "usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "Puedo",
+            "lema": "poder",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "continuar",
+            "lema": "continuar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        }
+    ]
 }

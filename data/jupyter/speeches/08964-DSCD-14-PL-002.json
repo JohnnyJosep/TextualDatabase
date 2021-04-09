@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-30T00:00:00.000Z",
-        "debate": "PREGUNTA DEL DIPUTADO DON PABLO CASADO BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿ESTÁ PROTEGIENDO EL FUTURO DE LOS ESPAÑOLES? -- DEL DIPUTADO DON CARLOS ROJAS GARCÍA, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR MINISTRO DE JUSTICIA: ¿CONSIDERA QUE EL PROYECTO DE PAÍS DEL GOBIERNO ENCAJA EN NUESTRO ESTADO DE DERECHO? ",
+        "debate": "PREGUNTA DEL DIPUTADO DON PABLO CASADO BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR PRESIDENTE DEL GOBIERNO: \u00bfEST\u00c1 PROTEGIENDO EL FUTURO DE LOS ESPA\u00d1OLES? -- DEL DIPUTADO DON CARLOS ROJAS GARC\u00cdA, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR MINISTRO DE JUSTICIA: \u00bfCONSIDERA QUE EL PROYECTO DE PA\u00cdS DEL GOBIERNO ENCAJA EN NUESTRO ESTADO DE DERECHO? ",
         "diputado": [
             {
                 "apellidos": "Nevado del Campo",
-                "apellidosNombre": "Nevado del Campo, María Magdalena",
+                "apellidosNombre": "Nevado del Campo, Mar\u00eda Magdalena",
                 "codParlamentario": 293,
                 "fchAlta": "27/11/2019",
                 "fchBaja": "",
@@ -14,8 +14,8 @@
                 "grupo": "Grupo Parlamentario VOX",
                 "idCircunscripcion": 10,
                 "idLegislatura": 14,
-                "nombre": "María Magdalena",
-                "nombreCircunscripcion": "Cáceres",
+                "nombre": "Mar\u00eda Magdalena",
+                "nombreCircunscripcion": "C\u00e1ceres",
                 "twitter": "https://twitter.com/malenanevado",
                 "twitterUserId": "274481242",
                 "twitterUserName": "malenanevado"
@@ -24,9 +24,461 @@
         ],
         "order": 3,
         "path": "../data/diaries-txts/DSCD-14-PL-049.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "MINISTRO DE JUSTICIA (Campo Moreno)"
     },
-    "text": "Gracias, señora presidenta. Señor Rojas, muchas gracias. Me gustaría hacer una primera reflexión. Veo que ese concepto freudiano de que la voz de la razón es suave y no descansa hasta ser oída va calando en su grupo. Hoy con la formulación de su pregunta sé que saben que este Gobierno tiene un proyecto de país, otra cosa es que no les guste. (Protestas)."
+    "text": "Gracias, se\u00f1ora presidenta. Se\u00f1or Rojas, muchas gracias. Me gustar\u00eda hacer una primera reflexi\u00f3n. Veo que ese concepto freudiano de que la voz de la raz\u00f3n es suave y no descansa hasta ser o\u00edda va calando en su grupo. Hoy con la formulaci\u00f3n de su pregunta s\u00e9 que saben que este Gobierno tiene un proyecto de pa\u00eds, otra cosa es que no les guste. (Protestas).",
+    "freeling": [
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "Rojas",
+            "lema": "rojo",
+            "pos": "AQ0FP00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Me",
+            "lema": "me",
+            "pos": "PP1CS00",
+            "prob": "0.755196"
+        },
+        {
+            "word": "gustar\u00eda",
+            "lema": "gustar",
+            "pos": "VMIC3S0",
+            "prob": "0.65"
+        },
+        {
+            "word": "hacer",
+            "lema": "hacer",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "primera",
+            "lema": "1",
+            "pos": "AO0FS00",
+            "prob": "0.995242"
+        },
+        {
+            "word": "reflexi\u00f3n",
+            "lema": "reflexi\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Veo",
+            "lema": "ver",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "ese",
+            "lema": "ese",
+            "pos": "DD0MS0",
+            "prob": "0.966694"
+        },
+        {
+            "word": "concepto",
+            "lema": "concepto",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "freudiano",
+            "lema": "freudiano",
+            "pos": "AQ0MS00",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "voz",
+            "lema": "voz",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "raz\u00f3n",
+            "lema": "raz\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "suave",
+            "lema": "suave",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "descansa",
+            "lema": "descansar",
+            "pos": "VMIP3S0",
+            "prob": "0.989241"
+        },
+        {
+            "word": "hasta",
+            "lema": "hasta",
+            "pos": "SP",
+            "prob": "0.922749"
+        },
+        {
+            "word": "ser",
+            "lema": "ser",
+            "pos": "VSN0000",
+            "prob": "0.959637"
+        },
+        {
+            "word": "o\u00edda",
+            "lema": "o\u00edr",
+            "pos": "VMP00SF",
+            "prob": "0.363426"
+        },
+        {
+            "word": "va",
+            "lema": "ir",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "calando",
+            "lema": "calar",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "grupo",
+            "lema": "grupo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Hoy",
+            "lema": "hoy",
+            "pos": "RG",
+            "prob": "0.993864"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "formulaci\u00f3n",
+            "lema": "formulaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "pregunta",
+            "lema": "pregunta",
+            "pos": "NCFS000",
+            "prob": "0.694581"
+        },
+        {
+            "word": "s\u00e9",
+            "lema": "saber",
+            "pos": "VMIP1S0",
+            "prob": "0.97043"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "saben",
+            "lema": "saber",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "este",
+            "lema": "este",
+            "pos": "DD0MS0",
+            "prob": "0.949201"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "tiene",
+            "lema": "tener",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "proyecto",
+            "lema": "proyecto",
+            "pos": "NCMS000",
+            "prob": "0.999084"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "pa\u00eds",
+            "lema": "pa\u00eds",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "otra",
+            "lema": "otro",
+            "pos": "DI0FS0",
+            "prob": "0.740893"
+        },
+        {
+            "word": "cosa",
+            "lema": "cosa",
+            "pos": "NCFS000",
+            "prob": "0.992574"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "les",
+            "lema": "le",
+            "pos": "PP3CPD0",
+            "prob": "1"
+        },
+        {
+            "word": "guste",
+            "lema": "gustar",
+            "pos": "VMSP3S0",
+            "prob": "0.634863"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Protestas",
+            "lema": "protestas",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

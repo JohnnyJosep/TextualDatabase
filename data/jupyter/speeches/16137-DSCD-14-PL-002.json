@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-11T00:00:00.000Z",
-        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS: -- PROPOSICIÓN DE LEY ORGÁNICA DE DEROGACIÓN DEL ARTÍCULO 315, APARTADO 3, DEL CÓDIGO PENAL. ",
+        "debate": "DICT\u00c1MENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS: -- PROPOSICI\u00d3N DE LEY ORG\u00c1NICA DE DEROGACI\u00d3N DEL ART\u00cdCULO 315, APARTADO 3, DEL C\u00d3DIGO PENAL. ",
         "diputado": [
             {
-                "apellidos": "Rodríguez Gómez de Celis",
-                "apellidosNombre": "Rodríguez Gómez de Celis, Alfonso",
+                "apellidos": "Rodr\u00edguez G\u00f3mez de Celis",
+                "apellidosNombre": "Rodr\u00edguez G\u00f3mez de Celis, Alfonso",
                 "codParlamentario": 168,
                 "fchAlta": "25/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,281 @@
         ],
         "order": 161,
         "path": "../data/diaries-txts/DSCD-14-PL-086.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "VICEPRESIDENTE (Rodríguez Gómez de Celis)"
+        "speacker": "VICEPRESIDENTE (Rodr\u00edguez G\u00f3mez de Celis)"
     },
-    "text": "En consecuencia, queda aprobada la moción consecuencia de interpelación urgente. -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, PARA QUE EL GOBIERNO EXPLIQUE LA SITUACIÓN DE LAS MUJERES EN ESPAÑA AL CUMPLIRSE UN AÑO DE LA CREACIÓN DEL MINISTERIO DE IGUALDAD."
+    "text": "En consecuencia, queda aprobada la moci\u00f3n consecuencia de interpelaci\u00f3n urgente. -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, PARA QUE EL GOBIERNO EXPLIQUE LA SITUACI\u00d3N DE LAS MUJERES EN ESPA\u00d1A AL CUMPLIRSE UN A\u00d1O DE LA CREACI\u00d3N DEL MINISTERIO DE IGUALDAD.",
+    "freeling": [
+        {
+            "word": "En_consecuencia",
+            "lema": "en_consecuencia",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "queda",
+            "lema": "quedar",
+            "pos": "VMIP3S0",
+            "prob": "0.945755"
+        },
+        {
+            "word": "aprobada",
+            "lema": "aprobar",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "moci\u00f3n",
+            "lema": "moci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "consecuencia",
+            "lema": "consecuencia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "interpelaci\u00f3n",
+            "lema": "interpelaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "urgente",
+            "lema": "urgente",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "GRUPO_PARLAMENTARIO",
+            "lema": "grupo_parlamentario",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "POPULAR",
+            "lema": "popular",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "EN",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "CONGRESO",
+            "lema": "congreso",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "PARA",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "QUE",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "GOBIERNO",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "EXPLIQUE",
+            "lema": "explicar",
+            "pos": "VMSP3S0",
+            "prob": "0.478376"
+        },
+        {
+            "word": "LA",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "SITUACI\u00d3N",
+            "lema": "situaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "LAS",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "MUJERES",
+            "lema": "mujer",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "EN",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "ESPA\u00d1A",
+            "lema": "espa\u00f1a",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": "A",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "CUMPLIR",
+            "lema": "cumplir",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "SE",
+            "lema": "se",
+            "pos": "PP3CN00",
+            "prob": "1"
+        },
+        {
+            "word": "UN",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "A\u00d1O",
+            "lema": "a\u00f1o",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "LA",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "CREACI\u00d3N",
+            "lema": "creaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "MINISTERIO_DE_IGUALDAD",
+            "lema": "ministerio_de_igualdad",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

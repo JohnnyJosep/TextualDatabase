@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-11-18T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON ÓSCAR CLA VELL LÓPEZ, EN SUSTITUCIÓN DE DOÑA MACARENA MONTESINOS DE MIGUEL, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA MINISTRA DE EDUCACIÓN Y FORMACIÓN PROFESIONAL: ¿QUÉ ENTIENDE LA MINISTRA DE EDUCACIÓN Y FORMACIÓN PROFESIONAL POR DAR CUMPLIMIENTO A LOS ARTÍCULOS 3 Y 27 DE LA CONSTITUCIÓN? ",
+        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON \u00d3SCAR CLA VELL L\u00d3PEZ, EN SUSTITUCI\u00d3N DE DO\u00d1A MACARENA MONTESINOS DE MIGUEL, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SE\u00d1ORA MINISTRA DE EDUCACI\u00d3N Y FORMACI\u00d3N PROFESIONAL: \u00bfQU\u00c9 ENTIENDE LA MINISTRA DE EDUCACI\u00d3N Y FORMACI\u00d3N PROFESIONAL POR DAR CUMPLIMIENTO A LOS ART\u00cdCULOS 3 Y 27 DE LA CONSTITUCI\u00d3N? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,29 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-063.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Clavell López."
+    "text": "Se\u00f1or Clavell L\u00f3pez.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "Clavell_L\u00f3pez",
+            "lema": "clavell_l\u00f3pez",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

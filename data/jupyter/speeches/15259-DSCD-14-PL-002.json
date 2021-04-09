@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-24T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON DIEGO GAGO BUGARÍN, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA VICEPRESIDENTA CUARTA Y MINISTRA PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO: ¿CONSIDERA QUE SUS POLÍTICAS EN LA LUCHA CONTRA EL CAMBIO CLIMÁTICO FAVORECEN EL DESARROLLO DE LA INDUSTRIA DE NUESTRO PAÍS? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON DIEGO GAGO BUGAR\u00cdN, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SE\u00d1ORA VICEPRESIDENTA CUARTA Y MINISTRA PARA LA TRANSICI\u00d3N ECOL\u00d3GICA Y EL RETO DEMOGR\u00c1FICO: \u00bfCONSIDERA QUE SUS POL\u00cdTICAS EN LA LUCHA CONTRA EL CAMBIO CLIM\u00c1TICO FAVORECEN EL DESARROLLO DE LA INDUSTRIA DE NUESTRO PA\u00cdS? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,23 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-082.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Gago."
+    "text": "Se\u00f1or Gago.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Gago",
+            "lema": "se\u00f1or_gago",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

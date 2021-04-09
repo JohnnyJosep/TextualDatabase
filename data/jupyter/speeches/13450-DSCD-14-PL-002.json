@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-12-17T00:00:00.000Z",
-        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS: -- PROPOSICIÓN DE LEY ORGÁNICA DE REGULACIÓN DE LA EUTANASIA. ",
+        "debate": "DICT\u00c1MENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS: -- PROPOSICI\u00d3N DE LEY ORG\u00c1NICA DE REGULACI\u00d3N DE LA EUTANASIA. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,35 @@
         ],
         "order": 26,
         "path": "../data/diaries-txts/DSCD-14-PL-072.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señorías, por favor."
+    "text": "Se\u00f1or\u00edas, por favor.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or\u00edas",
+            "lema": "se\u00f1or\u00eda",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por_favor",
+            "lema": "por_favor",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

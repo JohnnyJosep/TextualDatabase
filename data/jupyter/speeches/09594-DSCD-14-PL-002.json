@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-10-14T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON TEODORO GARCÍA EGEA, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR VICEPRESIDENTE SEGUNDO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030: ¿SE VE USTED PREPARADO PARA ATENDER SUS OBLIGACIONES COMO VICEPRESIDENTE TRAS EL A V ANCE DE SUS ÚL TIMAS INFORMACIONES JUDICIALES? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON TEODORO GARC\u00cdA EGEA, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR VICEPRESIDENTE SEGUNDO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030: \u00bfSE VE USTED PREPARADO PARA ATENDER SUS OBLIGACIONES COMO VICEPRESIDENTE TRAS EL A V ANCE DE SUS \u00daL TIMAS INFORMACIONES JUDICIALES? ",
         "diputado": [
             {
-                "apellidos": "García Egea",
-                "apellidosNombre": "García Egea, Teodoro",
+                "apellidos": "Garc\u00eda Egea",
+                "apellidosNombre": "Garc\u00eda Egea, Teodoro",
                 "codParlamentario": 310,
                 "fchAlta": "28/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,77 @@
         ],
         "order": 9,
         "path": "../data/diaries-txts/DSCD-14-PL-052.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "GARCÍA EGEA"
+        "speacker": "GARC\u00cdA EGEA"
     },
-    "text": "¿Qué tiene usted que ocultar? (Rumores)."
+    "text": "\u00bfQu\u00e9 tiene usted que ocultar? (Rumores).",
+    "freeling": [
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "Qu\u00e9",
+            "lema": "qu\u00e9",
+            "pos": "PT00000",
+            "prob": "0.712513"
+        },
+        {
+            "word": "tiene",
+            "lema": "tener",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "ocultar",
+            "lema": "ocultar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Rumores",
+            "lema": "rumores",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-10-01T00:00:00.000Z",
-        "debate": "SOLICITUDES DE CREACIÓN DE COMISIONES DE INVESTIGACIÓN: -- SOLICITUD DE LOS GRUPOS PARLAMENTARIOS SOCIALISTA Y CONFEDERAL DE UNIDAS PODEMOS-EN COMÚ PODEM-GALICIA EN COMÚN, DE CREACIÓN DE UNA COMISIÓN DE INVESTIGACIÓN RELATIVA A LA UTILIZACIÓN ILEGAL DE EFECTIVOS, MEDIOS Y RECURSOS DEL MINISTERIO DEL INTERIOR, CON LA FINALIDAD DE FAVORECER INTERESES POLÍTICOS DEL PP Y DE ANULAR PRUEBAS INCULPATORIAS PARA ESTE PARTIDO EN CASOS DE CORRUPCIÓN, DURANTE LOS MANDATOS DE GOBIERNO DEL PARTIDO POPULAR. ",
+        "debate": "SOLICITUDES DE CREACI\u00d3N DE COMISIONES DE INVESTIGACI\u00d3N: -- SOLICITUD DE LOS GRUPOS PARLAMENTARIOS SOCIALISTA Y CONFEDERAL DE UNIDAS PODEMOS-EN COM\u00da PODEM-GALICIA EN COM\u00daN, DE CREACI\u00d3N DE UNA COMISI\u00d3N DE INVESTIGACI\u00d3N RELATIVA A LA UTILIZACI\u00d3N ILEGAL DE EFECTIVOS, MEDIOS Y RECURSOS DEL MINISTERIO DEL INTERIOR, CON LA FINALIDAD DE FAVORECER INTERESES POL\u00cdTICOS DEL PP Y DE ANULAR PRUEBAS INCULPATORIAS PARA ESTE PARTIDO EN CASOS DE CORRUPCI\u00d3N, DURANTE LOS MANDATOS DE GOBIERNO DEL PARTIDO POPULAR. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,35 @@
         ],
         "order": 30,
         "path": "../data/diaries-txts/DSCD-14-PL-050.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Silencio, por favor."
+    "text": "Silencio, por favor.",
+    "freeling": [
+        {
+            "word": "Silencio",
+            "lema": "silencio",
+            "pos": "NCMS000",
+            "prob": "0.997076"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por_favor",
+            "lema": "por_favor",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

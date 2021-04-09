@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-17T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON ALBERT BOTRAN PAHISSA, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA AL MINISTRO DE JUSTICIA: ¿QUÉ MEDIDAS TOMARÁ EL GOBIERNO PARA LA DESJUDICIALIZACIÓN DEL CONFLICTO CATALÁN? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON ALBERT BOTRAN PAHISSA, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA AL MINISTRO DE JUSTICIA: \u00bfQU\u00c9 MEDIDAS TOMAR\u00c1 EL GOBIERNO PARA LA DESJUDICIALIZACI\u00d3N DEL CONFLICTO CATAL\u00c1N? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,41 @@
         ],
         "order": 6,
         "path": "../data/diaries-txts/DSCD-14-PL-088.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor ministro de Justicia."
+    "text": "Se\u00f1or ministro de Justicia.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "ministro",
+            "lema": "ministro",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Justicia",
+            "lema": "justicia",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

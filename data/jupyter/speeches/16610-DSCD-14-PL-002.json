@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-18T00:00:00.000Z",
-        "debate": "PROPOSICIONES NO DE LEY. (VOTACIÓN): -- PROPOSICIÓN NO DE LEY DEL GRUPO PARLAMENTARIO SOCIALISTA, SOBRE EL CUMPLIMIENTO DEL ARTÍCULO 27.1 Y 27.2 DE LA CONSTITUCIÓN ESP AÑOLA Y LA PROMOCIÓN DE LA LIBERTAD DE PENSAMIENTO Y EL DESARROLLO DE LA CAPACIDAD CRÍTICA DEL ALUMNADO. ",
+        "debate": "PROPOSICIONES NO DE LEY. (VOTACI\u00d3N): -- PROPOSICI\u00d3N NO DE LEY DEL GRUPO PARLAMENTARIO SOCIALISTA, SOBRE EL CUMPLIMIENTO DEL ART\u00cdCULO 27.1 Y 27.2 DE LA CONSTITUCI\u00d3N ESP A\u00d1OLA Y LA PROMOCI\u00d3N DE LA LIBERTAD DE PENSAMIENTO Y EL DESARROLLO DE LA CAPACIDAD CR\u00cdTICA DEL ALUMNADO. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,29 @@
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-089.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Queda aprobada."
+    "text": "Queda aprobada.",
+    "freeling": [
+        {
+            "word": "Queda",
+            "lema": "quedar",
+            "pos": "VMIP3S0",
+            "prob": "0.945755"
+        },
+        {
+            "word": "aprobada",
+            "lema": "aprobar",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

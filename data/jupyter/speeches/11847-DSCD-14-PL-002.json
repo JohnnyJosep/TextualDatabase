@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-12-01T00:00:00.000Z",
-        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (CONTINUACIÓN): -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL AÑO 2021. ",
+        "debate": "DICT\u00c1MENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (CONTINUACI\u00d3N): -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL A\u00d1O 2021. ",
         "diputado": [
             {
-                "apellidos": "Robles López",
-                "apellidosNombre": "Robles López, Joaquín",
+                "apellidos": "Robles L\u00f3pez",
+                "apellidosNombre": "Robles L\u00f3pez, Joaqu\u00edn",
                 "codParlamentario": 246,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario VOX",
                 "idCircunscripcion": 30,
                 "idLegislatura": 14,
-                "nombre": "Joaquín",
+                "nombre": "Joaqu\u00edn",
                 "nombreCircunscripcion": "Murcia",
                 "twitter": "https://twitter.com/JoaquinRobles55",
                 "twitterUserId": "1133273163884826624",
@@ -24,9 +24,173 @@
         ],
         "order": 118,
         "path": "../data/diaries-txts/DSCD-14-PL-066.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "ROBLES LÓPEZ"
+        "speacker": "ROBLES L\u00d3PEZ"
     },
-    "text": "… se mencionan partidas presupuestarias cuyo destino es… (Aplausos de las señores y los señores diputados del Grupo Parlamentario VOX, puestos en pie)."
+    "text": "\u2026 se mencionan partidas presupuestarias cuyo destino es\u2026 (Aplausos de las se\u00f1ores y los se\u00f1ores diputados del Grupo Parlamentario VOX, puestos en pie).",
+    "freeling": [
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "mencionan",
+            "lema": "mencionar",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "partidas",
+            "lema": "partida",
+            "pos": "NCFP000",
+            "prob": "0.97619"
+        },
+        {
+            "word": "presupuestarias",
+            "lema": "presupuestario",
+            "pos": "AQ0FP00",
+            "prob": "1"
+        },
+        {
+            "word": "cuyo",
+            "lema": "cuyo",
+            "pos": "PR0MS00",
+            "prob": "1"
+        },
+        {
+            "word": "destino",
+            "lema": "destino",
+            "pos": "NCMS000",
+            "prob": "0.996575"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplauso",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "se\u00f1ores",
+            "lema": "se\u00f1or",
+            "pos": "NCMP000",
+            "prob": "0.638706"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "se\u00f1ores",
+            "lema": "se\u00f1or",
+            "pos": "AQ0MP00",
+            "prob": "0.361294"
+        },
+        {
+            "word": "diputados",
+            "lema": "diputado",
+            "pos": "NCMP000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Grupo_Parlamentario_VOX",
+            "lema": "grupo_parlamentario_vox",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "puestos",
+            "lema": "puesto",
+            "pos": "NCMP000",
+            "prob": "0.791096"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "pie",
+            "lema": "pie",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

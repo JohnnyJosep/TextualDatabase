@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-11-17T00:00:00.000Z",
-        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, ORGÁNICA DE PROTECCIÓN DE LA SALUD Y DE LOS DERECHOS Y LIBERTADES FUNDAMENTALES. ",
+        "debate": "TOMA EN CONSIDERACI\u00d3N DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, ORG\u00c1NICA DE PROTECCI\u00d3N DE LA SALUD Y DE LOS DERECHOS Y LIBERTADES FUNDAMENTALES. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,167 @@
         ],
         "order": 55,
         "path": "../data/diaries-txts/DSCD-14-PL-062.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Botran, por tercera vez, le pido que se atenga a la cuestión. Si no, le tendré que llamar al orden."
+    "text": "Se\u00f1or Botran, por tercera vez, le pido que se atenga a la cuesti\u00f3n. Si no, le tendr\u00e9 que llamar al orden.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Botran",
+            "lema": "se\u00f1or_botran",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "tercera",
+            "lema": "3",
+            "pos": "AO0FS00",
+            "prob": "0.99763"
+        },
+        {
+            "word": "vez",
+            "lema": "vez",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "pido",
+            "lema": "pedir",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "atenga",
+            "lema": "atener",
+            "pos": "VMSP3S0",
+            "prob": "0.634863"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "cuesti\u00f3n",
+            "lema": "cuesti\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Si",
+            "lema": "si",
+            "pos": "CS",
+            "prob": "0.999827"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "tendr\u00e9",
+            "lema": "tener",
+            "pos": "VMIF1S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "llamar",
+            "lema": "llamar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "orden",
+            "lema": "orden",
+            "pos": "NCCS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

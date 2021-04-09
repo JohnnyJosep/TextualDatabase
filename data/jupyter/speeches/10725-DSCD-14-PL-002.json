@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-10-29T00:00:00.000Z",
-        "debate": "ENMIENDAS DEL SENADO: -- PROYECTO DE LEY REGULADORA DE DETERMINADOS ASPECTOS DE LOS SERVICIOS ELECTRÓNICOS DE CONFIANZA. ",
+        "debate": "ENMIENDAS DEL SENADO: -- PROYECTO DE LEY REGULADORA DE DETERMINADOS ASPECTOS DE LOS SERVICIOS ELECTR\u00d3NICOS DE CONFIANZA. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,239 @@
         ],
         "order": 52,
         "path": "../data/diaries-txts/DSCD-14-PL-059.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "En consecuencia, quedan aprobados los dictámenes. DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (VOTACIÓN). -- PROPUESTA DE REFORMA DE LA LEY ORGÁNICA 4/1982, DE 9 DE JUNIO, DE ESTATUTO DE AUTONOMÍA DE LA REGIÓN DE MURCIA."
+    "text": "En consecuencia, quedan aprobados los dict\u00e1menes. DICT\u00c1MENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (VOTACI\u00d3N). -- PROPUESTA DE REFORMA DE LA LEY ORG\u00c1NICA 4/1982, DE 9 DE JUNIO, DE ESTATUTO DE AUTONOM\u00cdA DE LA REGI\u00d3N DE MURCIA.",
+    "freeling": [
+        {
+            "word": "En_consecuencia",
+            "lema": "en_consecuencia",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "quedan",
+            "lema": "quedar",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "aprobados",
+            "lema": "aprobar",
+            "pos": "VMP00PM",
+            "prob": "0.623747"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "dict\u00e1menes",
+            "lema": "dictamen",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "DICT\u00c1MENES",
+            "lema": "dictamen",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "COMISIONES",
+            "lema": "comisi\u00f3n",
+            "pos": "NCFP000",
+            "prob": "0.992424"
+        },
+        {
+            "word": "SOBRE",
+            "lema": "sobre",
+            "pos": "SP",
+            "prob": "0.997804"
+        },
+        {
+            "word": "INICIATIVAS",
+            "lema": "iniciativa",
+            "pos": "NCFP000",
+            "prob": "0.996032"
+        },
+        {
+            "word": "LEGISLATIVAS",
+            "lema": "legislativo",
+            "pos": "AQ0FP00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "VOTACI\u00d3N",
+            "lema": "votaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": "PROPUESTA",
+            "lema": "propuesta",
+            "pos": "NCFS000",
+            "prob": "0.983384"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "REFORMA",
+            "lema": "reforma",
+            "pos": "NCFS000",
+            "prob": "0.99689"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "LA",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "LEY_ORG\u00c1NICA",
+            "lema": "ley_org\u00e1nica",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": "4/1982",
+            "lema": "4/1982",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "9_DE_JUNIO",
+            "lema": "[??:9/6/??:??.??:??]",
+            "pos": "W",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "ESTATUTO_DE_AUTONOM\u00cdA",
+            "lema": "estatuto_de_autonom\u00eda",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "LA",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "REGI\u00d3N",
+            "lema": "regi\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "MURCIA",
+            "lema": "murcia",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

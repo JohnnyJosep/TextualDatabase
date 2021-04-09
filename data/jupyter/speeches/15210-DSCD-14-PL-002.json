@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-24T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON AITOR ESTEBAN BRAVO, DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿QUÉ BALANCE HACE DE LA SITUACIÓN POLÍTICA? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON AITOR ESTEBAN BRAVO, DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), QUE FORMULA AL SE\u00d1OR PRESIDENTE DEL GOBIERNO: \u00bfQU\u00c9 BALANCE HACE DE LA SITUACI\u00d3N POL\u00cdTICA? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,29 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-082.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Esteban Bravo."
+    "text": "Se\u00f1or Esteban Bravo.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "Esteban_Bravo",
+            "lema": "esteban_bravo",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

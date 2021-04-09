@@ -1,20 +1,20 @@
 {
     "metadata": {
         "celebrated": "2020-09-22T00:00:00.000Z",
-        "debate": "PROPOSICIONES NO DE LEY: -- DEL GRUPO PARLAMENTARIO PLURAL, SOBRE EL PLAN FISCAL COVID-19, O IMPUESTOS DE SOLIDARIDAD CÍVICA PARA HACER FRENTE A LAS CONSECUENCIAS ECONÓMICAS Y SOCIALES DEL COVID-19. ",
+        "debate": "PROPOSICIONES NO DE LEY: -- DEL GRUPO PARLAMENTARIO PLURAL, SOBRE EL PLAN FISCAL COVID-19, O IMPUESTOS DE SOLIDARIDAD C\u00cdVICA PARA HACER FRENTE A LAS CONSECUENCIAS ECON\u00d3MICAS Y SOCIALES DEL COVID-19. ",
         "diputado": [
             {
-                "apellidos": "Errejón Galván",
-                "apellidosNombre": "Errejón Galván, Íñigo",
+                "apellidos": "Errej\u00f3n Galv\u00e1n",
+                "apellidosNombre": "Errej\u00f3n Galv\u00e1n, \u00cd\u00f1igo",
                 "codParlamentario": 233,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
-                "formacion": "MÁS PAÍS-EQUO",
+                "formacion": "M\u00c1S PA\u00cdS-EQUO",
                 "genero": 1,
                 "grupo": "Grupo Parlamentario Plural",
                 "idCircunscripcion": 28,
                 "idLegislatura": 14,
-                "nombre": "Íñigo",
+                "nombre": "\u00cd\u00f1igo",
                 "nombreCircunscripcion": "Madrid",
                 "twitter": "https://twitter.com/ierrejon",
                 "twitterUserId": "482389606",
@@ -24,9 +24,35 @@
         ],
         "order": 29,
         "path": "../data/diaries-txts/DSCD-14-PL-046.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "ERREJÓN GALVÁN"
+        "speacker": "ERREJ\u00d3N GALV\u00c1N"
     },
-    "text": "No aceptamos ninguna."
+    "text": "No aceptamos ninguna.",
+    "freeling": [
+        {
+            "word": "No",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "aceptamos",
+            "lema": "aceptar",
+            "pos": "VMIP1P0",
+            "prob": "0.65"
+        },
+        {
+            "word": "ninguna",
+            "lema": "ninguno",
+            "pos": "PI0FS00",
+            "prob": "0.170608"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

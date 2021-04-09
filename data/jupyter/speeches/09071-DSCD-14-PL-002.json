@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-30T00:00:00.000Z",
-        "debate": "PREGUNTA DEL DIPUTADO DON PABLO CASADO BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿ESTÁ PROTEGIENDO EL FUTURO DE LOS ESPAÑOLES? -- DE LA DIPUT ADA DOÑA MARGARIT A PROHENS RIGO, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR MINISTRO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES: ¿PIENSA HACER ALGO EL GOBIERNO PARA SOLUCIONAR EL COLAPSO DE LAS OFICINAS DE LA SEGURIDAD SOCIAL, QUE ESTÁ IMPIDIENDO A DECENAS DE MILES DE ESPAÑOLES TRAMITAR AYUDAS Y PENSIONES? ",
+        "debate": "PREGUNTA DEL DIPUTADO DON PABLO CASADO BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR PRESIDENTE DEL GOBIERNO: \u00bfEST\u00c1 PROTEGIENDO EL FUTURO DE LOS ESPA\u00d1OLES? -- DE LA DIPUT ADA DO\u00d1A MARGARIT A PROHENS RIGO, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR MINISTRO DE INCLUSI\u00d3N, SEGURIDAD SOCIAL Y MIGRACIONES: \u00bfPIENSA HACER ALGO EL GOBIERNO PARA SOLUCIONAR EL COLAPSO DE LAS OFICINAS DE LA SEGURIDAD SOCIAL, QUE EST\u00c1 IMPIDIENDO A DECENAS DE MILES DE ESPA\u00d1OLES TRAMITAR AYUDAS Y PENSIONES? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,65 @@
         ],
         "order": 2,
         "path": "../data/diaries-txts/DSCD-14-PL-049.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor ministro de Inclusión, Seguridad Social y Migraciones."
+    "text": "Se\u00f1or ministro de Inclusi\u00f3n, Seguridad Social y Migraciones.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "ministro",
+            "lema": "ministro",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Inclusi\u00f3n",
+            "lema": "inclusi\u00f3n",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Seguridad_Social",
+            "lema": "seguridad_social",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "Migraciones",
+            "lema": "migraciones",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

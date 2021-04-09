@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-24T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JAVIER MERINO MARTÍNEZ, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR MINISTRO DE CULTURA Y DEPORTE: ¿CONFIRMA EL GOBIERNO QUE HA ACORDADO QUE LA SELECCIÓN VASCA DE FÚTBOL PUEDA OSTENT AR REPRESENT ACIÓN INTERNACIONAL DEL P AÍS V ASCO EN COMPETICIONES OFICIALES? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JAVIER MERINO MART\u00cdNEZ, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR MINISTRO DE CULTURA Y DEPORTE: \u00bfCONFIRMA EL GOBIERNO QUE HA ACORDADO QUE LA SELECCI\u00d3N VASCA DE F\u00daTBOL PUEDA OSTENT AR REPRESENT ACI\u00d3N INTERNACIONAL DEL P A\u00cdS V ASCO EN COMPETICIONES OFICIALES? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,29 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-082.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Merino."
+    "text": "Se\u00f1or Merino.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "Merino",
+            "lema": "merino",
+            "pos": "AQ0MS00",
+            "prob": "0.660972"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

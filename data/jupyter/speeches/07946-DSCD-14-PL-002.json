@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-16T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JOSÉ ÁNGEL ALONSO PÉREZ, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA MINISTRA DE TRABAJO Y ECONOMÍA SOCIAL: ¿CONSIDERA EL GOBIERNO QUE UNA TASA DE PARO JUVENIL DEL 40 % ES DEJAR A LA JUVENTUD ATRÁS? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JOS\u00c9 \u00c1NGEL ALONSO P\u00c9REZ, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SE\u00d1ORA MINISTRA DE TRABAJO Y ECONOM\u00cdA SOCIAL: \u00bfCONSIDERA EL GOBIERNO QUE UNA TASA DE PARO JUVENIL DEL 40 % ES DEJAR A LA JUVENTUD ATR\u00c1S? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,53 @@
         ],
         "order": 6,
         "path": "../data/diaries-txts/DSCD-14-PL-045.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señora ministra de Trabajo y Economía Social."
+    "text": "Se\u00f1ora ministra de Trabajo y Econom\u00eda Social.",
+    "freeling": [
+        {
+            "word": "Se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "ministra",
+            "lema": "ministro",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Trabajo",
+            "lema": "trabajo",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "Econom\u00eda_Social",
+            "lema": "econom\u00eda_social",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

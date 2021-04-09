@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-11-18T00:00:00.000Z",
-        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO VOX, SOBRE LAS MEDIDAS QUE VA A ADOPTAR EL GOBIERNO EN EL ÁMBITO DE LA LIBERTAD DE EXPRESIÓN EN ESPAÑA. ",
+        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO VOX, SOBRE LAS MEDIDAS QUE VA A ADOPTAR EL GOBIERNO EN EL \u00c1MBITO DE LA LIBERTAD DE EXPRESI\u00d3N EN ESPA\u00d1A. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,65 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-063.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Mariscal, se le ha acabado el tiempo."
+    "text": "Se\u00f1or Mariscal, se le ha acabado el tiempo.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Mariscal",
+            "lema": "se\u00f1or_mariscal",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "acabado",
+            "lema": "acabar",
+            "pos": "VMP00SM",
+            "prob": "0.865854"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "tiempo",
+            "lema": "tiempo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

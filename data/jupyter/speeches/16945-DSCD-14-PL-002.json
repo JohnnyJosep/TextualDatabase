@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-24T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON MIGUEL ÁNGEL CASTELLÓN RUBIO, EN SUSTITUCIÓN DEL DIPUTADO DON MIGUEL ÁNGEL JEREZ JUAN, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR MINISTRO DE CONSUMO: ¿CONSIDERA EL GOBIERNO QUE LA ADMISIÓN A TRÁMITE POR EL TRIBUNAL CONSTITUCIONAL DEL RECURSO CONTRA EL REAL DECRETO-LEY 1/2021 PONE EN PELIGRO LAS POLÍTICAS DE APOYO A LA OCUPACIÓN DEL GOBIERNO DE ESPAÑA? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON MIGUEL \u00c1NGEL CASTELL\u00d3N RUBIO, EN SUSTITUCI\u00d3N DEL DIPUTADO DON MIGUEL \u00c1NGEL JEREZ JUAN, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR MINISTRO DE CONSUMO: \u00bfCONSIDERA EL GOBIERNO QUE LA ADMISI\u00d3N A TR\u00c1MITE POR EL TRIBUNAL CONSTITUCIONAL DEL RECURSO CONTRA EL REAL DECRETO-LEY 1/2021 PONE EN PELIGRO LAS POL\u00cdTICAS DE APOYO A LA OCUPACI\u00d3N DEL GOBIERNO DE ESPA\u00d1A? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,65 @@
         ],
         "order": 2,
         "path": "../data/diaries-txts/DSCD-14-PL-091.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor ministro de Transportes, Movilidad y Agenda Urbana."
+    "text": "Se\u00f1or ministro de Transportes, Movilidad y Agenda Urbana.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "ministro",
+            "lema": "ministro",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Transportes",
+            "lema": "transportes",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Movilidad",
+            "lema": "movilidad",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "Agenda_Urbana",
+            "lema": "agenda_urbana",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

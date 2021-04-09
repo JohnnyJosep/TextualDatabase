@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-10-28T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON PABLO CASADO BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿QUÉ ESTÁ HACIENDO EL GOBIERNO ANTE LA NUEVA OLA DE LA PANDEMIA? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON PABLO CASADO BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR PRESIDENTE DEL GOBIERNO: \u00bfQUE\u0301 EST\u00c1 HACIENDO EL GOBIERNO ANTE LA NUEVA OLA DE LA PANDEMIA? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,41 @@
         ],
         "order": 10,
         "path": "../data/diaries-txts/DSCD-14-PL-058.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "¡Silencio, por favor!"
+    "text": "\u00a1Silencio, por favor!",
+    "freeling": [
+        {
+            "word": "\u00a1",
+            "lema": "\u00a1",
+            "pos": "Faa",
+            "prob": "1"
+        },
+        {
+            "word": "Silencio",
+            "lema": "silencio",
+            "pos": "NCMS000",
+            "prob": "0.997076"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por_favor",
+            "lema": "por_favor",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "!",
+            "lema": "!",
+            "pos": "Fat",
+            "prob": "1"
+        }
+    ]
 }

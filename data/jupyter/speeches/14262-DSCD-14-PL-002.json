@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-04T00:00:00.000Z",
-        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES: -- REAL DECRET O-LEY 1/2021, DE 19 DE ENERO, DE PROTECCIÓN DE LOS CONSUMIDORES Y USUARIOS FRENTE A SITUACIONES DE VULNERABILIDAD SOCIAL Y ECONÓMICA. ",
+        "debate": "CONVALIDACI\u00d3N O DEROGACI\u00d3N DE REALES DECRETOS-LEYES: -- REAL DECRET O-LEY 1/2021, DE 19 DE ENERO, DE PROTECCI\u00d3N DE LOS CONSUMIDORES Y USUARIOS FRENTE A SITUACIONES DE VULNERABILIDAD SOCIAL Y ECON\u00d3MICA. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,209 @@
         ],
         "order": 133,
         "path": "../data/diaries-txts/DSCD-14-PL-077.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Muchas gracias. PROPOSICIONES NO DE LEY. (VOTACIONES): -- DEL GRUPO PARLAMENTARIO SOCIALISTA, SOBRE LA CREACIÓN DE UNA HOJA DE RUTA DE LA TRANSFERENCIA DE CONOCIMIENTO."
+    "text": "Muchas gracias. PROPOSICIONES NO DE LEY. (VOTACIONES): -- DEL GRUPO PARLAMENTARIO SOCIALISTA, SOBRE LA CREACI\u00d3N DE UNA HOJA DE RUTA DE LA TRANSFERENCIA DE CONOCIMIENTO.",
+    "freeling": [
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "PROPOSICIONES",
+            "lema": "proposici\u00f3n",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "NO",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "LEY",
+            "lema": "ley",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "VOTACIONES",
+            "lema": "votaci\u00f3n",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ":",
+            "lema": ":",
+            "pos": "Fd",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "GRUPO",
+            "lema": "grupo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "PARLAMENTARIO",
+            "lema": "parlamentario",
+            "pos": "AQ0MS00",
+            "prob": "0.685185"
+        },
+        {
+            "word": "SOCIALISTA",
+            "lema": "socialista",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "SOBRE",
+            "lema": "sobre",
+            "pos": "SP",
+            "prob": "0.997804"
+        },
+        {
+            "word": "LA",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "CREACI\u00d3N",
+            "lema": "creaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "UNA",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "HOJA",
+            "lema": "hoja",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "RUTA",
+            "lema": "ruta",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "LA",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "TRANSFERENCIA",
+            "lema": "transferencia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "CONOCIMIENTO",
+            "lema": "conocimiento",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

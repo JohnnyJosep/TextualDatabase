@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-04T00:00:00.000Z",
-        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES: -- REAL DECRET O-LEY 1/2021, DE 19 DE ENERO, DE PROTECCIÓN DE LOS CONSUMIDORES Y USUARIOS FRENTE A SITUACIONES DE VULNERABILIDAD SOCIAL Y ECONÓMICA. ",
+        "debate": "CONVALIDACI\u00d3N O DEROGACI\u00d3N DE REALES DECRETOS-LEYES: -- REAL DECRET O-LEY 1/2021, DE 19 DE ENERO, DE PROTECCI\u00d3N DE LOS CONSUMIDORES Y USUARIOS FRENTE A SITUACIONES DE VULNERABILIDAD SOCIAL Y ECON\u00d3MICA. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,155 @@
         ],
         "order": 83,
         "path": "../data/diaries-txts/DSCD-14-PL-077.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señora Carvalho, ha finalizado su tiempo. Muchas gracias. (El señor Espinosa de los Monteros de Simón pide la palabra). ¿Sí, Señor Espinosa de los Monteros?"
+    "text": "Se\u00f1ora Carvalho, ha finalizado su tiempo. Muchas gracias. (El se\u00f1or Espinosa de los Monteros de Sim\u00f3n pide la palabra). \u00bfS\u00ed, Se\u00f1or Espinosa de los Monteros?",
+    "freeling": [
+        {
+            "word": "Se\u00f1ora_Carvalho",
+            "lema": "se\u00f1ora_carvalho",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "finalizado",
+            "lema": "finalizar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "tiempo",
+            "lema": "tiempo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "El",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "Espinosa_de_los_Monteros_de_Sim\u00f3n",
+            "lema": "espinosa_de_los_monteros_de_sim\u00f3n",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": "pide",
+            "lema": "pedir",
+            "pos": "VMIP3S0",
+            "prob": "0.997449"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "palabra",
+            "lema": "palabra",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "S\u00ed",
+            "lema": "s\u00ed",
+            "pos": "RG",
+            "prob": "0.654652"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Se\u00f1or_Espinosa_de_los_Monteros",
+            "lema": "se\u00f1or_espinosa_de_los_monteros",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        }
+    ]
 }

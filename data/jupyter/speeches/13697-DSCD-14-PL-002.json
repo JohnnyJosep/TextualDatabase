@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-01-25T00:00:00.000Z",
-        "debate": "PETICIÓN FORMULADA POR UN NÚMERO SUFICIENTE DE DIPUTADOS MIEMBROS DE LA DIPUTACIÓN PERMANENTE, PERTENECIENTES AL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, DE QUE SE ACUERDE LA CONVOCATORIA DE UNA SESIÓN EXTRAORDINARIA -- COMPARECENCIA URGENTE DEL MINISTRO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA, PARA DAR CUENTA DE LAS MODIFICACIONES EN EL ÁMBITO DE LA VIVIENDA Y EN MATERIA DE TRANSPORTES DEL REAL DECRETO-LEY 11/2020, DE 31 DE MARZO, POR EL QUE SE ADOPTAN MEDIDAS URGENTES COMPLEMENTARIAS EN EL ÁMBITO SOCIAL Y ECONÓMICO PARA HACER FRENTE AL COVID-19, CONTENIDAS EN EL REAL DECRETO-LEY 37/2020, DE 22 DE DICIEMBRE, DE MEDIDAS URGENTES PARA HACER FRENTE A LAS SITUACIONES DE VULNERABILIDAD SOCIAL Y ECONÓMICA EN EL ÁMBITO DE LA VIVIENDA Y EN MATERIA DE TRANSPORTES Y EN EL REAL DECRETO-LEY 1/2021, DE 19 DE ENERO, DE PROTECCIÓN DE LOS CONSUMIDORES Y USUARIOS FRENTE A SITUACIONES DE VULNERABILIDAD SOCIAL Y ECONÓMICA.",
+        "debate": "PETICI\u00d3N FORMULADA POR UN N\u00daMERO SUFICIENTE DE DIPUTADOS MIEMBROS DE LA DIPUTACI\u00d3N PERMANENTE, PERTENECIENTES AL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, DE QUE SE ACUERDE LA CONVOCATORIA DE UNA SESI\u00d3N EXTRAORDINARIA -- COMPARECENCIA URGENTE DEL MINISTRO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA, PARA DAR CUENTA DE LAS MODIFICACIONES EN EL \u00c1MBITO DE LA VIVIENDA Y EN MATERIA DE TRANSPORTES DEL REAL DECRETO-LEY 11/2020, DE 31 DE MARZO, POR EL QUE SE ADOPTAN MEDIDAS URGENTES COMPLEMENTARIAS EN EL \u00c1MBITO SOCIAL Y ECON\u00d3MICO PARA HACER FRENTE AL COVID-19, CONTENIDAS EN EL REAL DECRETO-LEY 37/2020, DE 22 DE DICIEMBRE, DE MEDIDAS URGENTES PARA HACER FRENTE A LAS SITUACIONES DE VULNERABILIDAD SOCIAL Y ECON\u00d3MICA EN EL \u00c1MBITO DE LA VIVIENDA Y EN MATERIA DE TRANSPORTES Y EN EL REAL DECRETO-LEY 1/2021, DE 19 DE ENERO, DE PROTECCI\u00d3N DE LOS CONSUMIDORES Y USUARIOS FRENTE A SITUACIONES DE VULNERABILIDAD SOCIAL Y ECON\u00d3MICA.",
         "diputado": [
             {
                 "apellidos": "Perea i Conillas",
-                "apellidosNombre": "Perea i Conillas, María Mercè",
+                "apellidosNombre": "Perea i Conillas, Mar\u00eda Merc\u00e8",
                 "codParlamentario": 203,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario Socialista",
                 "idCircunscripcion": 8,
                 "idLegislatura": 14,
-                "nombre": "María Mercè",
+                "nombre": "Mar\u00eda Merc\u00e8",
                 "nombreCircunscripcion": "Barcelona",
                 "twitter": "https://twitter.com/merceperea",
                 "twitterUserId": "214794461",
@@ -24,9 +24,71 @@
         ],
         "order": 52,
         "path": "../data/diaries-txts/DSCD-14-PL-073.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PEREA I CONILLAS"
     },
-    "text": "Espero que no sea dilapidar… (Rumores)."
+    "text": "Espero que no sea dilapidar\u2026 (Rumores).",
+    "freeling": [
+        {
+            "word": "Espero",
+            "lema": "esperar",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "sea",
+            "lema": "ser",
+            "pos": "VSSP1S0",
+            "prob": "0.49434"
+        },
+        {
+            "word": "dilapidar",
+            "lema": "dilapidar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Rumores",
+            "lema": "rumor",
+            "pos": "NCMP000",
+            "prob": "0.992424"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

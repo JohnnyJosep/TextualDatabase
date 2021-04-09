@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-11-19T00:00:00.000Z",
-        "debate": "INFORMES DE COMISIONES PERMANENTES: -- INFORME DE EVALUACIÓN Y REFORMA DEL PACTO DE TOLEDO, APROBADO POR LA COMISIÓN PERMANENTE DE SEGUIMIENTO Y EVALUACIÓN DE LOS ACUERDOS DEL PACTO DE TOLEDO. ",
+        "debate": "INFORMES DE COMISIONES PERMANENTES: -- INFORME DE EVALUACI\u00d3N Y REFORMA DEL PACTO DE TOLEDO, APROBADO POR LA COMISI\u00d3N PERMANENTE DE SEGUIMIENTO Y EVALUACI\u00d3N DE LOS ACUERDOS DEL PACTO DE TOLEDO. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,47 @@
         ],
         "order": 32,
         "path": "../data/diaries-txts/DSCD-14-PL-064.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Sáez, tiene que terminar."
+    "text": "Se\u00f1or S\u00e1ez, tiene que terminar.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_S\u00e1ez",
+            "lema": "se\u00f1or_s\u00e1ez",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "tiene",
+            "lema": "tener",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "terminar",
+            "lema": "terminar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

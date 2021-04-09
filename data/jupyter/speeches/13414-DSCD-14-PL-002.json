@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-12-17T00:00:00.000Z",
-        "debate": "DICTÁMENES DE LA COMISIÓN DEL ESTATUTO DE LOS DIPUTADOS. (VOTACIÓN): -- DICTAMEN DE LA COMISIÓN DEL ESTATUTO DE LOS DIPUTADOS ACERCA DEL SUPLICATORIO FORMULADO EN RELACIÓN CON UN SEÑOR DIPUTADO. ",
+        "debate": "DICT\u00c1MENES DE LA COMISI\u00d3N DEL ESTATUTO DE LOS DIPUTADOS. (VOTACI\u00d3N): -- DICTAMEN DE LA COMISI\u00d3N DEL ESTATUTO DE LOS DIPUTADOS ACERCA DEL SUPLICATORIO FORMULADO EN RELACI\u00d3N CON UN SE\u00d1OR DIPUTADO. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,425 @@
         ],
         "order": 98,
         "path": "../data/diaries-txts/DSCD-14-PL-071.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Dictámenes de la Comisión de Asuntos Exteriores sobre convenios internacionales. Votación conjunta de los dictámenes de la Comisión de Asuntos Exteriores sobre convenios internacionales. Comienza la votación. (Pausa). Efectuada la votación, dio el siguiente resultado: votos emitidos, 102 más 244 votos telemáticos, 346; a favor, 101 más 215 votos telemáticos, 316; abstenciones, 1 más 29 votos telemáticos, 30."
+    "text": "Dict\u00e1menes de la Comisi\u00f3n de Asuntos Exteriores sobre convenios internacionales. Votaci\u00f3n conjunta de los dict\u00e1menes de la Comisi\u00f3n de Asuntos Exteriores sobre convenios internacionales. Comienza la votaci\u00f3n. (Pausa). Efectuada la votaci\u00f3n, dio el siguiente resultado: votos emitidos, 102 m\u00e1s 244 votos telem\u00e1ticos, 346; a favor, 101 m\u00e1s 215 votos telem\u00e1ticos, 316; abstenciones, 1 m\u00e1s 29 votos telem\u00e1ticos, 30.",
+    "freeling": [
+        {
+            "word": "Dict\u00e1menes",
+            "lema": "dictamen",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "Comisi\u00f3n_de_Asuntos_Exteriores",
+            "lema": "comisi\u00f3n_de_asuntos_exteriores",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "sobre",
+            "lema": "sobre",
+            "pos": "SP",
+            "prob": "0.997804"
+        },
+        {
+            "word": "convenios",
+            "lema": "convenio",
+            "pos": "NCMP000",
+            "prob": "0.991071"
+        },
+        {
+            "word": "internacionales",
+            "lema": "internacional",
+            "pos": "AQ0CP00",
+            "prob": "0.948505"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Votaci\u00f3n",
+            "lema": "votaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "conjunta",
+            "lema": "conjunto",
+            "pos": "AQ0FS00",
+            "prob": "0.990148"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "dict\u00e1menes",
+            "lema": "dictamen",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "Comisi\u00f3n_de_Asuntos_Exteriores",
+            "lema": "comisi\u00f3n_de_asuntos_exteriores",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "sobre",
+            "lema": "sobre",
+            "pos": "SP",
+            "prob": "0.997804"
+        },
+        {
+            "word": "convenios",
+            "lema": "convenio",
+            "pos": "NCMP000",
+            "prob": "0.991071"
+        },
+        {
+            "word": "internacionales",
+            "lema": "internacional",
+            "pos": "AQ0CP00",
+            "prob": "0.948505"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Comienza",
+            "lema": "comenzar",
+            "pos": "VMIP3S0",
+            "prob": "0.993827"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "votaci\u00f3n",
+            "lema": "votaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Pausa",
+            "lema": "pausa",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Efectuada",
+            "lema": "efectuar",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "votaci\u00f3n",
+            "lema": "votaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "dio",
+            "lema": "dar",
+            "pos": "VMIS3S0",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "siguiente",
+            "lema": "siguiente",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "resultado",
+            "lema": "resultado",
+            "pos": "NCMS000",
+            "prob": "0.924877"
+        },
+        {
+            "word": ":",
+            "lema": ":",
+            "pos": "Fd",
+            "prob": "1"
+        },
+        {
+            "word": "votos",
+            "lema": "voto",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "emitidos",
+            "lema": "emitir",
+            "pos": "VMP00PM",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "102",
+            "lema": "102",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "m\u00e1s",
+            "lema": "m\u00e1s",
+            "pos": "RG",
+            "prob": "0.99993"
+        },
+        {
+            "word": "244",
+            "lema": "244",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "votos",
+            "lema": "voto",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "telem\u00e1ticos",
+            "lema": "telem\u00e1tico",
+            "pos": "AQ0MP00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "346",
+            "lema": "346",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": ";",
+            "lema": ";",
+            "pos": "Fx",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "favor",
+            "lema": "favor",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "101",
+            "lema": "101",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "m\u00e1s",
+            "lema": "m\u00e1s",
+            "pos": "RG",
+            "prob": "0.99993"
+        },
+        {
+            "word": "215",
+            "lema": "215",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "votos",
+            "lema": "voto",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "telem\u00e1ticos",
+            "lema": "telem\u00e1tico",
+            "pos": "AQ0MP00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "316",
+            "lema": "316",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": ";",
+            "lema": ";",
+            "pos": "Fx",
+            "prob": "1"
+        },
+        {
+            "word": "abstenciones",
+            "lema": "abstenci\u00f3n",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "1",
+            "lema": "1",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "m\u00e1s",
+            "lema": "m\u00e1s",
+            "pos": "RG",
+            "prob": "0.99993"
+        },
+        {
+            "word": "29",
+            "lema": "29",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "votos",
+            "lema": "voto",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "telem\u00e1ticos",
+            "lema": "telem\u00e1tico",
+            "pos": "AQ0MP00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "30",
+            "lema": "30",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

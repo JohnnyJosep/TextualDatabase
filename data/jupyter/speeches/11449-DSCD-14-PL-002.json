@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-11-19T00:00:00.000Z",
-        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (VOTACIÓN): -- PROYECTO DE LEY ORGÁNICA POR LA QUE SE MODIFICA LA LEY ORGÁNICA 2/2006, DE 3 DE MAYO, DE EDUCACIÓN. ",
+        "debate": "DICT\u00c1MENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (VOTACI\u00d3N): -- PROYECTO DE LEY ORG\u00c1NICA POR LA QUE SE MODIFICA LA LEY ORG\u00c1NICA 2/2006, DE 3 DE MAYO, DE EDUCACI\u00d3N. ",
         "diputado": [
             {
-                "apellidos": "Martín Llaguno",
-                "apellidosNombre": "Martín Llaguno, Marta",
+                "apellidos": "Mart\u00edn Llaguno",
+                "apellidosNombre": "Mart\u00edn Llaguno, Marta",
                 "codParlamentario": 155,
                 "fchAlta": "25/11/2019",
                 "fchBaja": "",
@@ -21,9 +21,137 @@
         ],
         "order": 17,
         "path": "../data/diaries-txts/DSCD-14-PL-064.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "MARTÍN LLAGUNO"
+        "speacker": "MART\u00cdN LLAGUNO"
     },
-    "text": "... con el tema de la Ley de educación, que es una verdadera barbaridad. Muchas gracias. (Aplausos)."
+    "text": "... con el tema de la Ley de educaci\u00f3n, que es una verdadera barbaridad. Muchas gracias. (Aplausos).",
+    "freeling": [
+        {
+            "word": "...",
+            "lema": "...",
+            "pos": "Fs",
+            "prob": "1"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "tema",
+            "lema": "tema",
+            "pos": "NCMS000",
+            "prob": "0.993088"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "Ley_de_educaci\u00f3n",
+            "lema": "ley_de_educaci\u00f3n",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "verdadera",
+            "lema": "verdadero",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": "barbaridad",
+            "lema": "barbaridad",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplausos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

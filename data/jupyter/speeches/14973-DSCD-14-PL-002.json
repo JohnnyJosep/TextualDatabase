@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-23T00:00:00.000Z",
-        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO VOX, ORGÁNICA DE VIOLENCIA INTRAFAMILIAR. ",
+        "debate": "TOMA EN CONSIDERACI\u00d3N DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO VOX, ORG\u00c1NICA DE VIOLENCIA INTRAFAMILIAR. ",
         "diputado": [
             {
-                "apellidos": "Illamola Dausà",
-                "apellidosNombre": "Illamola Dausà, Mariona",
+                "apellidos": "Illamola Daus\u00e0",
+                "apellidosNombre": "Illamola Daus\u00e0, Mariona",
                 "codParlamentario": 22,
                 "fchAlta": "19/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,701 @@
         ],
         "order": 23,
         "path": "../data/diaries-txts/DSCD-14-PL-081.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "ILLAMOLA DAUSÀ"
+        "speacker": "ILLAMOLA DAUS\u00c0"
     },
-    "text": "(Comienza su intervención en catalán). Mónica (aplausos continuados durante la intervención de la señora diputada), Elena Florentina, Giovanna, Fructuosa, Deisy María, Caridad, María Isabel, Esther, Lucía, Clementina, Mina, María Dolores, Salud, Roxana, Claudia, Yvonne Philippine, Cristina, Mara, Amaranta, Eunice, Tatiana, Sabrina, Silvia, Fátima, Matilde, María, Yulia, Inmaculada, Nataliya, Antonia, Carmen, María Rosa, Amparo, Estrella, Anna, Manpreet, Rhimo, Elisa, Rosa Dina, Julia, Caridad de los Ángeles. (Prolongados aplausos con algunos de los grupos parlamentarios puestos en pie)."
+    "text": "(Comienza su intervenci\u00f3n en catal\u00e1n). M\u00f3nica (aplausos continuados durante la intervenci\u00f3n de la se\u00f1ora diputada), Elena Florentina, Giovanna, Fructuosa, Deisy Mar\u00eda, Caridad, Mar\u00eda Isabel, Esther, Luc\u00eda, Clementina, Mina, Mar\u00eda Dolores, Salud, Roxana, Claudia, Yvonne Philippine, Cristina, Mara, Amaranta, Eunice, Tatiana, Sabrina, Silvia, F\u00e1tima, Matilde, Mar\u00eda, Yulia, Inmaculada, Nataliya, Antonia, Carmen, Mar\u00eda Rosa, Amparo, Estrella, Anna, Manpreet, Rhimo, Elisa, Rosa Dina, Julia, Caridad de los \u00c1ngeles. (Prolongados aplausos con algunos de los grupos parlamentarios puestos en pie).",
+    "freeling": [
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Comienza",
+            "lema": "comenzar",
+            "pos": "VMIP3S0",
+            "prob": "0.993827"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "intervenci\u00f3n",
+            "lema": "intervenci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "catal\u00e1n",
+            "lema": "catal\u00e1n",
+            "pos": "NCMS000",
+            "prob": "0.295752"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "M\u00f3nica",
+            "lema": "m\u00f3nica",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "aplausos",
+            "lema": "aplauso",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "continuados",
+            "lema": "continuar",
+            "pos": "VMP00PM",
+            "prob": "1"
+        },
+        {
+            "word": "durante",
+            "lema": "durante",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "intervenci\u00f3n",
+            "lema": "intervenci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "diputada",
+            "lema": "diputado",
+            "pos": "NCFS000",
+            "prob": "0.987805"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Elena_Florentina",
+            "lema": "elena_florentina",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Giovanna",
+            "lema": "giovanna",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Fructuosa",
+            "lema": "fructuosa",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Deisy_Mar\u00eda",
+            "lema": "deisy_mar\u00eda",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Caridad",
+            "lema": "caridad",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Mar\u00eda_Isabel",
+            "lema": "mar\u00eda_isabel",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Esther",
+            "lema": "esther",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Luc\u00eda",
+            "lema": "lucir",
+            "pos": "VMII3S0",
+            "prob": "0.649996"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Clementina",
+            "lema": "clementina",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Mina",
+            "lema": "mina",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Mar\u00eda_Dolores",
+            "lema": "mar\u00eda_dolores",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Salud",
+            "lema": "salud",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Roxana",
+            "lema": "roxana",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Claudia",
+            "lema": "claudia",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Yvonne_Philippine",
+            "lema": "yvonne_philippine",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Cristina",
+            "lema": "cristina",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Mara",
+            "lema": "mara",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Amaranta",
+            "lema": "amaranta",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Eunice",
+            "lema": "eunice",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Tatiana",
+            "lema": "tatiana",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Sabrina",
+            "lema": "sabrina",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Silvia",
+            "lema": "silvia",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "F\u00e1tima",
+            "lema": "f\u00e1tima",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Matilde",
+            "lema": "matilde",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Mar\u00eda",
+            "lema": "mar\u00eda",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Yulia",
+            "lema": "yulia",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Inmaculada",
+            "lema": "inmaculada",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Nataliya",
+            "lema": "nataliya",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Antonia",
+            "lema": "antonia",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Carmen",
+            "lema": "carmen",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Mar\u00eda_Rosa",
+            "lema": "mar\u00eda_rosa",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Amparo",
+            "lema": "amparo",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Estrella",
+            "lema": "estrella",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Anna",
+            "lema": "anna",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Manpreet",
+            "lema": "manpreet",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Rhimo",
+            "lema": "rhimo",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Elisa",
+            "lema": "elisa",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Rosa_Dina",
+            "lema": "rosa_dina",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Julia",
+            "lema": "julia",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Caridad_de_los_\u00c1ngeles",
+            "lema": "caridad_de_los_\u00e1ngeles",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Prolongados",
+            "lema": "prolongar",
+            "pos": "VMP00PM",
+            "prob": "1"
+        },
+        {
+            "word": "aplausos",
+            "lema": "aplauso",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "algunos",
+            "lema": "alguno",
+            "pos": "PI0MP00",
+            "prob": "0.39667"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "grupos",
+            "lema": "grupo",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "parlamentarios",
+            "lema": "parlamentario",
+            "pos": "AQ0MP00",
+            "prob": "0.587209"
+        },
+        {
+            "word": "puestos",
+            "lema": "puesto",
+            "pos": "NCMP000",
+            "prob": "0.791096"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "pie",
+            "lema": "pie",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

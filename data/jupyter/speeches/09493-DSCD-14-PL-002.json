@@ -1,20 +1,20 @@
 {
     "metadata": {
         "celebrated": "2020-10-13T00:00:00.000Z",
-        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO CONFEDERAL DE UNIDAS PODEMOS-EN COMÚ PODEM- GALICIA EN COMÚN, DE COORDINACIÓN DE LOS SERVICIOS DE PREVENCIÓN, EXTINCIÓN DE INCENDIOS Y SALVAMENTO EN EL MARCO DEL SISTEMA NACIONAL DE PROTECCIÓN CIVIL. ",
+        "debate": "TOMA EN CONSIDERACI\u00d3N DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO CONFEDERAL DE UNIDAS PODEMOS-EN COM\u00da PODEM- GALICIA EN COM\u00daN, DE COORDINACI\u00d3N DE LOS SERVICIOS DE PREVENCI\u00d3N, EXTINCI\u00d3N DE INCENDIOS Y SALVAMENTO EN EL MARCO DEL SISTEMA NACIONAL DE PROTECCI\u00d3N CIVIL. ",
         "diputado": [
             {
-                "apellidos": "Muñoz Dalda",
-                "apellidosNombre": "Muñoz Dalda, Lucía",
+                "apellidos": "Mu\u00f1oz Dalda",
+                "apellidosNombre": "Mu\u00f1oz Dalda, Luc\u00eda",
                 "codParlamentario": 335,
                 "fchAlta": "29/11/2019",
                 "fchBaja": "",
                 "formacion": "UP",
                 "genero": 2,
-                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común",
+                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Com\u00fa Podem-Galicia en Com\u00fan",
                 "idCircunscripcion": 7,
                 "idLegislatura": 14,
-                "nombre": "Lucía",
+                "nombre": "Luc\u00eda",
                 "nombreCircunscripcion": "Balears (Illes)",
                 "twitter": "https://twitter.com/luciadalda",
                 "twitterUserId": "2578198139",
@@ -24,9 +24,569 @@
         ],
         "order": 108,
         "path": "../data/diaries-txts/DSCD-14-PL-051.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "MUÑOZ DALDA"
+        "speacker": "MU\u00d1OZ DALDA"
     },
-    "text": "Y hemos llegado a ver el desmantelamiento de un taller clandestino que albergaba el mayor arsenal de artefactos explosivos, 17, y 26 armas de fuego, de un señor que hacía apología del franquismo. ¿Saben de qué era la propaganda que difundía en sus redes sociales también? De VOX. Podría agotar mi tiempo poniendo ejemplos. (Rumores). Lo último que hemos visto… (Rumores). Están ustedes un poco incómodos con este tema, ¿no? (Rumores)."
+    "text": "Y hemos llegado a ver el desmantelamiento de un taller clandestino que albergaba el mayor arsenal de artefactos explosivos, 17, y 26 armas de fuego, de un se\u00f1or que hac\u00eda apolog\u00eda del franquismo. \u00bfSaben de qu\u00e9 era la propaganda que difund\u00eda en sus redes sociales tambi\u00e9n? De VOX. Podr\u00eda agotar mi tiempo poniendo ejemplos. (Rumores). Lo \u00faltimo que hemos visto\u2026 (Rumores). Est\u00e1n ustedes un poco inc\u00f3modos con este tema, \u00bfno? (Rumores).",
+    "freeling": [
+        {
+            "word": "Y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "hemos",
+            "lema": "haber",
+            "pos": "VAIP1P0",
+            "prob": "0.997509"
+        },
+        {
+            "word": "llegado",
+            "lema": "llegar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "ver",
+            "lema": "ver",
+            "pos": "VMN0000",
+            "prob": "0.998812"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "desmantelamiento",
+            "lema": "desmantelamiento",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "taller",
+            "lema": "taller",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "clandestino",
+            "lema": "clandestino",
+            "pos": "AQ0MS00",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "albergaba",
+            "lema": "albergar",
+            "pos": "VMII3S0",
+            "prob": "0.65"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "mayor",
+            "lema": "mayor",
+            "pos": "AQ0CS00",
+            "prob": "0.9995"
+        },
+        {
+            "word": "arsenal",
+            "lema": "arsenal",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "artefactos",
+            "lema": "artefacto",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "explosivos",
+            "lema": "explosivo",
+            "pos": "AQ0MP00",
+            "prob": "0.228261"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "17",
+            "lema": "17",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "26",
+            "lema": "26",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "armas",
+            "lema": "arma",
+            "pos": "NCFP000",
+            "prob": "0.998047"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "fuego",
+            "lema": "fuego",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "hac\u00eda",
+            "lema": "hacer",
+            "pos": "VMII3S0",
+            "prob": "0.65"
+        },
+        {
+            "word": "apolog\u00eda",
+            "lema": "apolog\u00eda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "franquismo",
+            "lema": "franquismo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "Saben",
+            "lema": "saber",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "qu\u00e9",
+            "lema": "qu\u00e9",
+            "pos": "PT00000",
+            "prob": "0.712513"
+        },
+        {
+            "word": "era",
+            "lema": "ser",
+            "pos": "VSII3S0",
+            "prob": "0.491317"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "propaganda",
+            "lema": "propaganda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "difund\u00eda",
+            "lema": "difundir",
+            "pos": "VMII3S0",
+            "prob": "0.638462"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "sus",
+            "lema": "su",
+            "pos": "DP3CPN",
+            "prob": "0.999903"
+        },
+        {
+            "word": "redes",
+            "lema": "red",
+            "pos": "NCFP000",
+            "prob": "0.990196"
+        },
+        {
+            "word": "sociales",
+            "lema": "social",
+            "pos": "AQ0CP00",
+            "prob": "0.997835"
+        },
+        {
+            "word": "tambi\u00e9n",
+            "lema": "tambi\u00e9n",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        },
+        {
+            "word": "De",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "VOX",
+            "lema": "vox",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Podr\u00eda",
+            "lema": "poder",
+            "pos": "VMIC3S0",
+            "prob": "0.643879"
+        },
+        {
+            "word": "agotar",
+            "lema": "agotar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "mi",
+            "lema": "mi",
+            "pos": "DP1CSS",
+            "prob": "0.999325"
+        },
+        {
+            "word": "tiempo",
+            "lema": "tiempo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "poniendo",
+            "lema": "poner",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": "ejemplos",
+            "lema": "ejemplo",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Rumores",
+            "lema": "rumores",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Lo",
+            "lema": "el",
+            "pos": "DA00S0",
+            "prob": "0.665165"
+        },
+        {
+            "word": "\u00faltimo",
+            "lema": "\u00faltimo",
+            "pos": "AO0MS00",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "hemos",
+            "lema": "haber",
+            "pos": "VAIP1P0",
+            "prob": "0.997509"
+        },
+        {
+            "word": "visto",
+            "lema": "ver",
+            "pos": "VMP00SM",
+            "prob": "0.998418"
+        },
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Rumores",
+            "lema": "rumores",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Est\u00e1n",
+            "lema": "estar",
+            "pos": "VMIP3P0",
+            "prob": "0.99949"
+        },
+        {
+            "word": "ustedes",
+            "lema": "usted",
+            "pos": "PP2CP0P",
+            "prob": "1"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "poco",
+            "lema": "poco",
+            "pos": "RG",
+            "prob": "0.663123"
+        },
+        {
+            "word": "inc\u00f3modos",
+            "lema": "inc\u00f3modo",
+            "pos": "AQ0MP00",
+            "prob": "0.661294"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "este",
+            "lema": "este",
+            "pos": "DD0MS0",
+            "prob": "0.949201"
+        },
+        {
+            "word": "tema",
+            "lema": "tema",
+            "pos": "NCMS000",
+            "prob": "0.993088"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Rumores",
+            "lema": "rumores",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

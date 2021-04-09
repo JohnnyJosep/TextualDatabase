@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-17T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON IÑAKI RUIZ DE PINEDO UNDIANO, DEL GRUPO PARLAMENTARIO EUSKAL HERRIA BILDU, QUE FORMULA AL SEÑOR MINISTRO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES: ¿INCLUYEN RECORTES LAS REFORMAS REMITIDAS A EUROPA EN MATERIA DE PENSIONES? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON I\u00d1AKI RUIZ DE PINEDO UNDIANO, DEL GRUPO PARLAMENTARIO EUSKAL HERRIA BILDU, QUE FORMULA AL SE\u00d1OR MINISTRO DE INCLUSI\u00d3N, SEGURIDAD SOCIAL Y MIGRACIONES: \u00bfINCLUYEN RECORTES LAS REFORMAS REMITIDAS A EUROPA EN MATERIA DE PENSIONES? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,101 @@
         ],
         "order": 6,
         "path": "../data/diaries-txts/DSCD-14-PL-088.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Muchas gracias, señor Ruiz de Pinedo. Señor ministro de Inclusión, Seguridad Social y Migraciones."
+    "text": "Muchas gracias, se\u00f1or Ruiz de Pinedo. Se\u00f1or ministro de Inclusi\u00f3n, Seguridad Social y Migraciones.",
+    "freeling": [
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "Ruiz_de_Pinedo",
+            "lema": "ruiz_de_pinedo",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "ministro",
+            "lema": "ministro",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Inclusi\u00f3n",
+            "lema": "inclusi\u00f3n",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Seguridad_Social",
+            "lema": "seguridad_social",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "Migraciones",
+            "lema": "migraciones",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

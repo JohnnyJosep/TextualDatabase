@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-10-14T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JOSÉ IGNACIO ECHÁNIZ SALGADO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR MINISTRO DE SANIDAD: ¿COMO MINISTRO DE SANIDAD Y MIEMBRO DEL CONSEJO DE SEGURIDAD NACIONAL, RECIBIÓ LAS ALERTAS DEL DEPARTAMENTO DE SEGURIDAD NACIONAL DURANTE LOS MESES DE ENERO, FEBRERO Y MARZO ALERTANDO DEL RIESGO DE PANDEMIA? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JOS\u00c9 IGNACIO ECH\u00c1NIZ SALGADO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR MINISTRO DE SANIDAD: \u00bfCOMO MINISTRO DE SANIDAD Y MIEMBRO DEL CONSEJO DE SEGURIDAD NACIONAL, RECIBI\u00d3 LAS ALERTAS DEL DEPARTAMENTO DE SEGURIDAD NACIONAL DURANTE LOS MESES DE ENERO, FEBRERO Y MARZO ALERTANDO DEL RIESGO DE PANDEMIA? ",
         "diputado": [
             {
                 "apellidos": "Ruiz de Pinedo Undiano",
-                "apellidosNombre": "Ruiz de Pinedo Undiano, Iñaki",
+                "apellidosNombre": "Ruiz de Pinedo Undiano, I\u00f1aki",
                 "codParlamentario": 64,
                 "fchAlta": "20/11/2019",
                 "fchBaja": "",
@@ -14,8 +14,8 @@
                 "grupo": "Grupo Parlamentario Euskal Herria Bildu",
                 "idCircunscripcion": 1,
                 "idLegislatura": 14,
-                "nombre": "Iñaki",
-                "nombreCircunscripcion": "Araba/Álava",
+                "nombre": "I\u00f1aki",
+                "nombreCircunscripcion": "Araba/\u00c1lava",
                 "twitter": "https://twitter.com/RuizdePinedo",
                 "twitterUserId": "596531845",
                 "twitterUserName": "RuizdePinedo"
@@ -24,9 +24,809 @@
         ],
         "order": 9,
         "path": "../data/diaries-txts/DSCD-14-PL-052.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "MINISTRO DE SANIDAD (Illa Roca)"
     },
-    "text": "Señoría, yo no tengo un pulso con Madrid, yo tengo un pulso con el virus (Una señora diputada: ¡Mentira!). Yo tengo un pulso con el COVID-19. (Aplausos). Usted ha tenido responsabilidades en el ámbito sanitario en dos comunidades autónomas, por lo que me permito sugerirle un poquito más de humildad. Mire los datos. El problema de la Comunidad Autónoma de Madrid no es el instrumento legal que tuvo que adoptar el Gobierno para dar cobertura a una decisión por mayoría de la Comisión Interterritorial y del Sistema Nacional de Salud; el problema de Madrid son los datos, es la situación epidemiológica. Mire a Europa, mire la segunda ola, mire los datos de Madrid… (Rumores)."
+    "text": "Se\u00f1or\u00eda, yo no tengo un pulso con Madrid, yo tengo un pulso con el virus (Una se\u00f1ora diputada: \u00a1Mentira!). Yo tengo un pulso con el COVID-19. (Aplausos). Usted ha tenido responsabilidades en el \u00e1mbito sanitario en dos comunidades aut\u00f3nomas, por lo que me permito sugerirle un poquito m\u00e1s de humildad. Mire los datos. El problema de la Comunidad Aut\u00f3noma de Madrid no es el instrumento legal que tuvo que adoptar el Gobierno para dar cobertura a una decisi\u00f3n por mayor\u00eda de la Comisi\u00f3n Interterritorial y del Sistema Nacional de Salud; el problema de Madrid son los datos, es la situaci\u00f3n epidemiol\u00f3gica. Mire a Europa, mire la segunda ola, mire los datos de Madrid\u2026 (Rumores).",
+    "freeling": [
+        {
+            "word": "Se\u00f1or\u00eda",
+            "lema": "se\u00f1or\u00eda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "yo",
+            "lema": "yo",
+            "pos": "PP1CSN0",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "tengo",
+            "lema": "tener",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "pulso",
+            "lema": "pulso",
+            "pos": "NCMS000",
+            "prob": "0.986111"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "Madrid",
+            "lema": "madrid",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "yo",
+            "lema": "yo",
+            "pos": "PP1CSN0",
+            "prob": "1"
+        },
+        {
+            "word": "tengo",
+            "lema": "tener",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "pulso",
+            "lema": "pulso",
+            "pos": "NCMS000",
+            "prob": "0.986111"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "virus",
+            "lema": "virus",
+            "pos": "NCMN000",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "diputada",
+            "lema": "diputado",
+            "pos": "NCFS000",
+            "prob": "0.987805"
+        },
+        {
+            "word": ":",
+            "lema": ":",
+            "pos": "Fd",
+            "prob": "1"
+        },
+        {
+            "word": "\u00a1",
+            "lema": "\u00a1",
+            "pos": "Faa",
+            "prob": "1"
+        },
+        {
+            "word": "Mentira",
+            "lema": "mentira",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "!",
+            "lema": "!",
+            "pos": "Fat",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Yo",
+            "lema": "yo",
+            "pos": "PP1CSN0",
+            "prob": "1"
+        },
+        {
+            "word": "tengo",
+            "lema": "tener",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "pulso",
+            "lema": "pulso",
+            "pos": "NCMS000",
+            "prob": "0.986111"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "COVID-19",
+            "lema": "COVID-19",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplausos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "tenido",
+            "lema": "tener",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "responsabilidades",
+            "lema": "responsabilidad",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "\u00e1mbito",
+            "lema": "\u00e1mbito",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "sanitario",
+            "lema": "sanitario",
+            "pos": "AQ0MS00",
+            "prob": "0.991803"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "dos",
+            "lema": "2",
+            "pos": "Z",
+            "prob": "0.999868"
+        },
+        {
+            "word": "comunidades",
+            "lema": "comunidad",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "aut\u00f3nomas",
+            "lema": "aut\u00f3nomo",
+            "pos": "AQ0FP00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "lo",
+            "lema": "el",
+            "pos": "DA00S0",
+            "prob": "0.665165"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "me",
+            "lema": "me",
+            "pos": "PP1CS00",
+            "prob": "0.755196"
+        },
+        {
+            "word": "permito",
+            "lema": "permitir",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "sugerir",
+            "lema": "sugerir",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "poquito",
+            "lema": "poco",
+            "pos": "PI0MS00",
+            "prob": "0.236886"
+        },
+        {
+            "word": "m\u00e1s",
+            "lema": "m\u00e1s",
+            "pos": "RG",
+            "prob": "0.99993"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "humildad",
+            "lema": "humildad",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Mire",
+            "lema": "mirar",
+            "pos": "VMM03S0",
+            "prob": "0.0302731"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "datos",
+            "lema": "dato",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "El",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "problema",
+            "lema": "problema",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "Comunidad_Aut\u00f3noma_de_Madrid",
+            "lema": "comunidad_aut\u00f3noma_de_madrid",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "instrumento",
+            "lema": "instrumento",
+            "pos": "NCMS000",
+            "prob": "0.991071"
+        },
+        {
+            "word": "legal",
+            "lema": "legal",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "tuvo",
+            "lema": "tener",
+            "pos": "VMIS3S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "adoptar",
+            "lema": "adoptar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "dar",
+            "lema": "dar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "cobertura",
+            "lema": "cobertura",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "decisi\u00f3n",
+            "lema": "decisi\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "mayor\u00eda",
+            "lema": "mayor\u00eda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "Comisi\u00f3n_Interterritorial",
+            "lema": "comisi\u00f3n_interterritorial",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Sistema_Nacional_de_Salud",
+            "lema": "sistema_nacional_de_salud",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": ";",
+            "lema": ";",
+            "pos": "Fx",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "problema",
+            "lema": "problema",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Madrid",
+            "lema": "madrid",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": "son",
+            "lema": "ser",
+            "pos": "VSIP3P0",
+            "prob": "0.995197"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "datos",
+            "lema": "dato",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "situaci\u00f3n",
+            "lema": "situaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "epidemiol\u00f3gica",
+            "lema": "epidemiol\u00f3gico",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Mire",
+            "lema": "mirar",
+            "pos": "VMSP3S0",
+            "prob": "0.634848"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "Europa",
+            "lema": "europa",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "mire",
+            "lema": "mirar",
+            "pos": "VMSP3S0",
+            "prob": "0.634848"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "segunda",
+            "lema": "2",
+            "pos": "AO0FS00",
+            "prob": "0.997801"
+        },
+        {
+            "word": "ola",
+            "lema": "ola",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "mire",
+            "lema": "mirar",
+            "pos": "VMSP3S0",
+            "prob": "0.634848"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "datos",
+            "lema": "dato",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Madrid",
+            "lema": "madrid",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Rumores",
+            "lema": "rumores",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

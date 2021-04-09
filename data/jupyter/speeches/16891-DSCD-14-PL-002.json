@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-24T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON TEODORO GARCÍA EGEA, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR VICEPRESIDENTE SEGUNDO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030: ¿PIENSA EL VICEPRESIDENTE SEGUNDO DEJAR SU ACTA DE DIPUTADO CUANDO DIMITA? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON TEODORO GARC\u00cdA EGEA, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR VICEPRESIDENTE SEGUNDO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030: \u00bfPIENSA EL VICEPRESIDENTE SEGUNDO DEJAR SU ACTA DE DIPUTADO CUANDO DIMITA? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,47 @@
         ],
         "order": 7,
         "path": "../data/diaries-txts/DSCD-14-PL-091.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Silencio, por favor. --"
+    "text": "Silencio, por favor. --",
+    "freeling": [
+        {
+            "word": "Silencio",
+            "lema": "silencio",
+            "pos": "NCMS000",
+            "prob": "0.997076"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por_favor",
+            "lema": "por_favor",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

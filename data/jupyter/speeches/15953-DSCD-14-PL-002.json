@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-10T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIÓN URGENTE (CONTINUACIÓN): -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, PARA QUE EL GOBIERNO EXPLIQUE LA SITUACIÓN DE LAS MUJERES EN ESPAÑA AL CUMPLIRSE UN AÑO DE LA CREACIÓN DEL MINISTERIO DE IGUALDAD. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACI\u00d3N URGENTE (CONTINUACI\u00d3N): -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, PARA QUE EL GOBIERNO EXPLIQUE LA SITUACI\u00d3N DE LAS MUJERES EN ESPA\u00d1A AL CUMPLIRSE UN A\u00d1O DE LA CREACI\u00d3N DEL MINISTERIO DE IGUALDAD. ",
         "diputado": [
             {
-                "apellidos": "Pérez Díaz",
-                "apellidosNombre": "Pérez Díaz, María Auxiliadora",
+                "apellidos": "P\u00e9rez D\u00edaz",
+                "apellidosNombre": "P\u00e9rez D\u00edaz, Mar\u00eda Auxiliadora",
                 "codParlamentario": 160,
                 "fchAlta": "25/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario Popular en el Congreso",
                 "idCircunscripcion": 35,
                 "idLegislatura": 14,
-                "nombre": "María Auxiliadora",
+                "nombre": "Mar\u00eda Auxiliadora",
                 "nombreCircunscripcion": "Palmas (Las)",
                 "twitter": "https://twitter.com/AuxiPD",
                 "twitterUserId": "192883412",
@@ -24,9 +24,47 @@
         ],
         "order": 7,
         "path": "../data/diaries-txts/DSCD-14-PL-085.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "PÉREZ DÍAZ"
+        "speacker": "P\u00c9REZ D\u00cdAZ"
     },
-    "text": "Una frase, señora presidenta."
+    "text": "Una frase, se\u00f1ora presidenta.",
+    "freeling": [
+        {
+            "word": "Una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "frase",
+            "lema": "frase",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

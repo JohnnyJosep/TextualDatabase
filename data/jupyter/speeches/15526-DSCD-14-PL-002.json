@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-09T00:00:00.000Z",
-        "debate": "PROPOSICIONES NO DE LEY: -- DEL GRUPO P ARLAMENT ARIO EUSKAL HERRIA BILDU, SOBRE LA REALIDAD PLURILINGÜE E IGUALDAD LINGÜÍSTICA. ",
+        "debate": "PROPOSICIONES NO DE LEY: -- DEL GRUPO P ARLAMENT ARIO EUSKAL HERRIA BILDU, SOBRE LA REALIDAD PLURILING\u00dcE E IGUALDAD LING\u00dc\u00cdSTICA. ",
         "diputado": [
             {
                 "apellidos": "Boadella Esteve",
-                "apellidosNombre": "Boadella Esteve, Genís",
+                "apellidosNombre": "Boadella Esteve, Gen\u00eds",
                 "codParlamentario": 24,
                 "fchAlta": "19/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario Plural",
                 "idCircunscripcion": 8,
                 "idLegislatura": 14,
-                "nombre": "Genís",
+                "nombre": "Gen\u00eds",
                 "nombreCircunscripcion": "Barcelona",
                 "twitter": "https://twitter.com/genisboadella",
                 "twitterUserId": "541483505",
@@ -24,9 +24,293 @@
         ],
         "order": 27,
         "path": "../data/diaries-txts/DSCD-14-PL-084.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "BOADELLA ESTEVE"
     },
-    "text": "Voy terminando, señor presidente. No se extrañen si cada día hay más independentistas porque este Estado, que se comprometió a defender las lenguas propias de los territorios, dejó de hacer los deberes hace mucho tiempo. Muchas gracias. (Aplausos)."
+    "text": "Voy terminando, se\u00f1or presidente. No se extra\u00f1en si cada d\u00eda hay m\u00e1s independentistas porque este Estado, que se comprometi\u00f3 a defender las lenguas propias de los territorios, dej\u00f3 de hacer los deberes hace mucho tiempo. Muchas gracias. (Aplausos).",
+    "freeling": [
+        {
+            "word": "Voy",
+            "lema": "ir",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "terminando",
+            "lema": "terminar",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "presidente",
+            "lema": "presidente",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "No",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "extra\u00f1en",
+            "lema": "extra\u00f1ar",
+            "pos": "VMSP3P0",
+            "prob": "0.941963"
+        },
+        {
+            "word": "si",
+            "lema": "si",
+            "pos": "CS",
+            "prob": "0.999827"
+        },
+        {
+            "word": "cada",
+            "lema": "cada",
+            "pos": "DI0CS0",
+            "prob": "1"
+        },
+        {
+            "word": "d\u00eda",
+            "lema": "d\u00eda",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "hay",
+            "lema": "haber",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "m\u00e1s",
+            "lema": "m\u00e1s",
+            "pos": "RG",
+            "prob": "0.99993"
+        },
+        {
+            "word": "independentistas",
+            "lema": "independentista",
+            "pos": "AQ0CP00",
+            "prob": "0.66129"
+        },
+        {
+            "word": "porque",
+            "lema": "porque",
+            "pos": "CS",
+            "prob": "1"
+        },
+        {
+            "word": "este",
+            "lema": "este",
+            "pos": "DD0MS0",
+            "prob": "0.949201"
+        },
+        {
+            "word": "Estado",
+            "lema": "estado",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "comprometi\u00f3",
+            "lema": "comprometer",
+            "pos": "VMIS3S0",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "defender",
+            "lema": "defender",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "lenguas",
+            "lema": "lengua",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "propias",
+            "lema": "propio",
+            "pos": "AQ0FP00",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "territorios",
+            "lema": "territorio",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "dej\u00f3",
+            "lema": "dejar",
+            "pos": "VMIS3S0",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "hacer",
+            "lema": "hacer",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "deberes",
+            "lema": "deber",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "hace",
+            "lema": "hacer",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "mucho",
+            "lema": "mucho",
+            "pos": "DI0MS0",
+            "prob": "0.183301"
+        },
+        {
+            "word": "tiempo",
+            "lema": "tiempo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplausos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

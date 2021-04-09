@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-12-16T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON PEDRO QUEVEDO ITURBE, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿ESTARÍA DISPUESTO A CONSENSUAR CON LAS INSTITUCIONES CANARIAS LA GESTIÓN SOLIDARIA A ESCALA ESTATAL PARA HACER FRENTE A LA CRISIS MIGRATORIA QUE SOPORTAN LAS ISLAS, DE MANERA QUE LA ATENCIÓN A LOS MENORES Y ADULTOS SEA COMPARTIDA POR EL CONJUNTO DEL ESTADO? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON PEDRO QUEVEDO ITURBE, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA AL SE\u00d1OR PRESIDENTE DEL GOBIERNO: \u00bfESTAR\u00cdA DISPUESTO A CONSENSUAR CON LAS INSTITUCIONES CANARIAS LA GESTI\u00d3N SOLIDARIA A ESCALA ESTATAL PARA HACER FRENTE A LA CRISIS MIGRATORIA QUE SOPORTAN LAS ISLAS, DE MANERA QUE LA ATENCI\u00d3N A LOS MENORES Y ADULTOS SEA COMPARTIDA POR EL CONJUNTO DEL ESTADO? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,29 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-070.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Quevedo Iturbe."
+    "text": "Se\u00f1or Quevedo Iturbe.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "Quevedo_Iturbe",
+            "lema": "quevedo_iturbe",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

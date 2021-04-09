@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-10-13T00:00:00.000Z",
-        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO CONFEDERAL DE UNIDAS PODEMOS-EN COMÚ PODEM- GALICIA EN COMÚN, DE COORDINACIÓN DE LOS SERVICIOS DE PREVENCIÓN, EXTINCIÓN DE INCENDIOS Y SALVAMENTO EN EL MARCO DEL SISTEMA NACIONAL DE PROTECCIÓN CIVIL. ",
+        "debate": "TOMA EN CONSIDERACI\u00d3N DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO CONFEDERAL DE UNIDAS PODEMOS-EN COM\u00da PODEM- GALICIA EN COM\u00daN, DE COORDINACI\u00d3N DE LOS SERVICIOS DE PREVENCI\u00d3N, EXTINCI\u00d3N DE INCENDIOS Y SALVAMENTO EN EL MARCO DEL SISTEMA NACIONAL DE PROTECCI\u00d3N CIVIL. ",
         "diputado": [
             {
-                "apellidos": "Rodríguez Gómez de Celis",
-                "apellidosNombre": "Rodríguez Gómez de Celis, Alfonso",
+                "apellidos": "Rodr\u00edguez G\u00f3mez de Celis",
+                "apellidosNombre": "Rodr\u00edguez G\u00f3mez de Celis, Alfonso",
                 "codParlamentario": 168,
                 "fchAlta": "25/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,53 @@
         ],
         "order": 64,
         "path": "../data/diaries-txts/DSCD-14-PL-051.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "VICEPRESIDENTE (Rodrí guez Gómez de Celis)"
+        "speacker": "VICEPRESIDENTE (Rodr\u00ed guez G\u00f3mez de Celis)"
     },
-    "text": "Señoría, debe terminar, por favor."
+    "text": "Se\u00f1or\u00eda, debe terminar, por favor.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or\u00eda",
+            "lema": "se\u00f1or\u00eda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "debe",
+            "lema": "deber",
+            "pos": "VMIP3S0",
+            "prob": "0.998712"
+        },
+        {
+            "word": "terminar",
+            "lema": "terminar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por_favor",
+            "lema": "por_favor",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-17T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON GABRIEL RUFIÁN ROMERO, DEL GRUPO PARLAMENTARIO REPUBLICANO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿QUÉ CARENCIAS DEMOCRÁTICAS IDENTIFICA EN UN ESTADO ESPAÑOL QUE USTEDES CALIFICAN DE DEMOCRACIA PLENA? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON GABRIEL RUFI\u00c1N ROMERO, DEL GRUPO PARLAMENTARIO REPUBLICANO, QUE FORMULA AL SE\u00d1OR PRESIDENTE DEL GOBIERNO: \u00bfQU\u00c9 CARENCIAS DEMOCR\u00c1TICAS IDENTIFICA EN UN ESTADO ESPA\u00d1OL QUE USTEDES CALIFICAN DE DEMOCRACIA PLENA? ",
         "diputado": [
             {
-                "apellidos": "Rufián Romero",
-                "apellidosNombre": "Rufián Romero, Gabriel",
+                "apellidos": "Rufi\u00e1n Romero",
+                "apellidosNombre": "Rufi\u00e1n Romero, Gabriel",
                 "codParlamentario": 187,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,893 @@
         ],
         "order": 5,
         "path": "../data/diaries-txts/DSCD-14-PL-088.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "RUFIÁN ROMERO"
+        "speacker": "RUFI\u00c1N ROMERO"
     },
-    "text": "Muchas gracias, señora presidenta. Democracia plena, ¿no? Bueno, democracia plena… Le voy a ser muy claro y duro: si las democracias del mundo fueran casas, la democracia española sería una chabola; una chabola. Porque ¿en una democracia plena un Gobierno veta la comparecencia de un ministro del Interior por el asesinato vil de Mikel Zabaltza? ¿En una democracia plena se protege, incluso se ayuda, a un rey y a unas infantas a robar vacunas? (Protestas). ¿En una democracia plena se absuelve, se archiva la causa de unos jefes militares que amenazan con fusilar a 26 millones de rojos? ¡Muchos rojos me parecen! ¿En una democracia plena se tiene a nueve demócratas salvajemente encarcelados por un referéndum? (Rumores)."
+    "text": "Muchas gracias, se\u00f1ora presidenta. Democracia plena, \u00bfno? Bueno, democracia plena\u2026 Le voy a ser muy claro y duro: si las democracias del mundo fueran casas, la democracia espa\u00f1ola ser\u00eda una chabola; una chabola. Porque \u00bfen una democracia plena un Gobierno veta la comparecencia de un ministro del Interior por el asesinato vil de Mikel Zabaltza? \u00bfEn una democracia plena se protege, incluso se ayuda, a un rey y a unas infantas a robar vacunas? (Protestas). \u00bfEn una democracia plena se absuelve, se archiva la causa de unos jefes militares que amenazan con fusilar a 26 millones de rojos? \u00a1Muchos rojos me parecen! \u00bfEn una democracia plena se tiene a nueve dem\u00f3cratas salvajemente encarcelados por un refer\u00e9ndum? (Rumores).",
+    "freeling": [
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Democracia",
+            "lema": "democracia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "plena",
+            "lema": "pleno",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        },
+        {
+            "word": "Bueno",
+            "lema": "bueno",
+            "pos": "I",
+            "prob": "0.175325"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "democracia",
+            "lema": "democracia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "plena",
+            "lema": "pleno",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": "Le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "voy",
+            "lema": "ir",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "ser",
+            "lema": "ser",
+            "pos": "VSN0000",
+            "prob": "0.959637"
+        },
+        {
+            "word": "muy",
+            "lema": "muy",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "claro",
+            "lema": "claro",
+            "pos": "AQ0MS00",
+            "prob": "0.610577"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "duro",
+            "lema": "duro",
+            "pos": "AQ0MS00",
+            "prob": "0.811377"
+        },
+        {
+            "word": ":",
+            "lema": ":",
+            "pos": "Fd",
+            "prob": "1"
+        },
+        {
+            "word": "si",
+            "lema": "si",
+            "pos": "CS",
+            "prob": "0.999827"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "democracias",
+            "lema": "democracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "mundo",
+            "lema": "mundo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "fueran",
+            "lema": "ser",
+            "pos": "VSSI3P0",
+            "prob": "0.827869"
+        },
+        {
+            "word": "casas",
+            "lema": "casa",
+            "pos": "NCFP000",
+            "prob": "0.995495"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "democracia",
+            "lema": "democracia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "espa\u00f1ola",
+            "lema": "espa\u00f1ol",
+            "pos": "AQ0FS00",
+            "prob": "0.9614"
+        },
+        {
+            "word": "ser\u00eda",
+            "lema": "ser",
+            "pos": "VSIC1S0",
+            "prob": "0.5"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "chabola",
+            "lema": "chabola",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ";",
+            "lema": ";",
+            "pos": "Fx",
+            "prob": "1"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "chabola",
+            "lema": "chabola",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Porque",
+            "lema": "porque",
+            "pos": "CS",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "democracia",
+            "lema": "democracia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "plena",
+            "lema": "pleno",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "veta",
+            "lema": "vetar",
+            "pos": "VMIP3S0",
+            "prob": "0.183622"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "comparecencia",
+            "lema": "comparecencia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "ministro",
+            "lema": "ministro",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Interior",
+            "lema": "interior",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "asesinato",
+            "lema": "asesinato",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "vil",
+            "lema": "vil",
+            "pos": "AQ0CS00",
+            "prob": "0.656124"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Mikel_Zabaltza",
+            "lema": "mikel_zabaltza",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "En",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "democracia",
+            "lema": "democracia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "plena",
+            "lema": "pleno",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "protege",
+            "lema": "proteger",
+            "pos": "VMIP3S0",
+            "prob": "0.989241"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "incluso",
+            "lema": "incluso",
+            "pos": "RG",
+            "prob": "0.998488"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "ayuda",
+            "lema": "ayudar",
+            "pos": "VMIP3S0",
+            "prob": "0.0348259"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "rey",
+            "lema": "rey",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "unas",
+            "lema": "uno",
+            "pos": "DI0FP0",
+            "prob": "0.991065"
+        },
+        {
+            "word": "infantas",
+            "lema": "infante",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "robar",
+            "lema": "robar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "vacunas",
+            "lema": "vacuna",
+            "pos": "NCFP000",
+            "prob": "0.736395"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Protestas",
+            "lema": "protestas",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "En",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "democracia",
+            "lema": "democracia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "plena",
+            "lema": "pleno",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "absuelve",
+            "lema": "absolver",
+            "pos": "VMIP3S0",
+            "prob": "0.989241"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "archiva",
+            "lema": "archivar",
+            "pos": "VMIP3S0",
+            "prob": "0.98924"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "causa",
+            "lema": "causa",
+            "pos": "NCFS000",
+            "prob": "0.903904"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "unos",
+            "lema": "uno",
+            "pos": "DI0MP0",
+            "prob": "0.959952"
+        },
+        {
+            "word": "jefes",
+            "lema": "jefe",
+            "pos": "NCCP000",
+            "prob": "1"
+        },
+        {
+            "word": "militares",
+            "lema": "militar",
+            "pos": "AQ0CP00",
+            "prob": "0.458445"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "amenazan",
+            "lema": "amenazar",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "fusilar",
+            "lema": "fusilar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "26_millones",
+            "lema": "26000000",
+            "pos": "Zd",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "rojos",
+            "lema": "rojo",
+            "pos": "AQ0MP00",
+            "prob": "0.771739"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        },
+        {
+            "word": "\u00a1",
+            "lema": "\u00a1",
+            "pos": "Faa",
+            "prob": "1"
+        },
+        {
+            "word": "Muchos",
+            "lema": "mucho",
+            "pos": "DI0MP0",
+            "prob": "0.663994"
+        },
+        {
+            "word": "rojos",
+            "lema": "rojo",
+            "pos": "AQ0MP00",
+            "prob": "0.771739"
+        },
+        {
+            "word": "me",
+            "lema": "me",
+            "pos": "PP1CS00",
+            "prob": "0.755196"
+        },
+        {
+            "word": "parecen",
+            "lema": "parecer",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "!",
+            "lema": "!",
+            "pos": "Fat",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "En",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "democracia",
+            "lema": "democracia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "plena",
+            "lema": "pleno",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "tiene",
+            "lema": "tener",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "nueve",
+            "lema": "9",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "dem\u00f3cratas",
+            "lema": "dem\u00f3crata",
+            "pos": "NCCP000",
+            "prob": "0.71978"
+        },
+        {
+            "word": "salvajemente",
+            "lema": "salvajemente",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "encarcelados",
+            "lema": "encarcelar",
+            "pos": "VMP00PM",
+            "prob": "1"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "refer\u00e9ndum",
+            "lema": "refer\u00e9ndum",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Rumores",
+            "lema": "rumores",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

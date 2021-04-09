@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-10-28T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA MACARENA OLONA CHOCLÁN, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SEÑOR VICEPRESIDENTE SEGUNDO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030: ¿QUÉ OPINIÓN LE MERECE EL LLAMADO «MANIFIESTO EN FAVOR DE LA DEMOCRACIA»? ",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DO\u00d1A MACARENA OLONA CHOCL\u00c1N, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SE\u00d1OR VICEPRESIDENTE SEGUNDO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030: \u00bfQUE\u0301 OPINI\u00d3N LE MERECE EL LLAMADO \u00abMANIFIESTO EN FAVOR DE LA DEMOCRACIA\u00bb? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,551 @@
         ],
         "order": 2,
         "path": "../data/diaries-txts/DSCD-14-PL-058.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor vicepresidente segundo del Gobierno. El señor VICEPRESIDENTE SEGUNDO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030 (Iglesias Turrión): Muchas gracias por su pregunta, señoría. Mi opinión del manifiesto es positiva. Creo que revela que ustedes son un pegamento para una mayoría democrática y plural que hizo posible la investidura, que está llamada, después de negociar, a hacer posible los presupuestos y, también, a una dirección de Estado en un sentido reformista y democrático. (Aplausos)."
+    "text": "Se\u00f1or vicepresidente segundo del Gobierno. El se\u00f1or VICEPRESIDENTE SEGUNDO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030 (Iglesias Turri\u00f3n): Muchas gracias por su pregunta, se\u00f1or\u00eda. Mi opini\u00f3n del manifiesto es positiva. Creo que revela que ustedes son un pegamento para una mayor\u00eda democr\u00e1tica y plural que hizo posible la investidura, que est\u00e1 llamada, despu\u00e9s de negociar, a hacer posible los presupuestos y, tambi\u00e9n, a una direcci\u00f3n de Estado en un sentido reformista y democr\u00e1tico. (Aplausos).",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "vicepresidente",
+            "lema": "vicepresidente",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "segundo",
+            "lema": "2",
+            "pos": "AO0MS00",
+            "prob": "0.901147"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "El",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "VICEPRESIDENTE_SEGUNDO",
+            "lema": "vicepresidente_segundo",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": "Y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "MINISTRO",
+            "lema": "ministro",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "DERECHOS",
+            "lema": "derecho",
+            "pos": "NCMP000",
+            "prob": "0.996795"
+        },
+        {
+            "word": "SOCIALES",
+            "lema": "social",
+            "pos": "AQ0CP00",
+            "prob": "0.997835"
+        },
+        {
+            "word": "Y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "AGENDA",
+            "lema": "agenda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "2030",
+            "lema": "2030",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Iglesias_Turri\u00f3n",
+            "lema": "iglesias_turri\u00f3n",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ":",
+            "lema": ":",
+            "pos": "Fd",
+            "prob": "1"
+        },
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "pregunta",
+            "lema": "pregunta",
+            "pos": "NCFS000",
+            "prob": "0.694581"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or\u00eda",
+            "lema": "se\u00f1or\u00eda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Mi",
+            "lema": "mi",
+            "pos": "DP1CSS",
+            "prob": "0.999325"
+        },
+        {
+            "word": "opini\u00f3n",
+            "lema": "opini\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "manifiesto",
+            "lema": "manifiesto",
+            "pos": "NCMS000",
+            "prob": "0.902439"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "positiva",
+            "lema": "positivo",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Creo",
+            "lema": "creer",
+            "pos": "VMIP1S0",
+            "prob": "0.5"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "revela",
+            "lema": "revelar",
+            "pos": "VMIP3S0",
+            "prob": "0.968254"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "ustedes",
+            "lema": "usted",
+            "pos": "PP2CP0P",
+            "prob": "1"
+        },
+        {
+            "word": "son",
+            "lema": "ser",
+            "pos": "VSIP3P0",
+            "prob": "0.995197"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "pegamento",
+            "lema": "pegamento",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "mayor\u00eda",
+            "lema": "mayor\u00eda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "democr\u00e1tica",
+            "lema": "democr\u00e1tico",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "plural",
+            "lema": "plural",
+            "pos": "AQ0CS00",
+            "prob": "0.980769"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "hizo",
+            "lema": "hacer",
+            "pos": "VMIS3S0",
+            "prob": "1"
+        },
+        {
+            "word": "posible",
+            "lema": "posible",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "investidura",
+            "lema": "investidura",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "est\u00e1",
+            "lema": "estar",
+            "pos": "VMIP3S0",
+            "prob": "0.999398"
+        },
+        {
+            "word": "llamada",
+            "lema": "llamar",
+            "pos": "VMP00SF",
+            "prob": "0.519841"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "despu\u00e9s_de",
+            "lema": "despu\u00e9s_de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "negociar",
+            "lema": "negociar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "hacer",
+            "lema": "hacer",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "posible",
+            "lema": "posible",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "presupuestos",
+            "lema": "presupuesto",
+            "pos": "NCMP000",
+            "prob": "0.987805"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "tambi\u00e9n",
+            "lema": "tambi\u00e9n",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "direcci\u00f3n",
+            "lema": "direcci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Estado",
+            "lema": "estado",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "sentido",
+            "lema": "sentido",
+            "pos": "NCMS000",
+            "prob": "0.940835"
+        },
+        {
+            "word": "reformista",
+            "lema": "reformista",
+            "pos": "AQ0CS00",
+            "prob": "0.561294"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "democr\u00e1tico",
+            "lema": "democr\u00e1tico",
+            "pos": "AQ0MS00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplausos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-01-25T00:00:00.000Z",
-        "debate": "PETICIÓN FORMULADA POR LOS GRUPOS PARLAMENTARIOS EUSKAL HERRIA BILDU Y REPUBLICANO, DE QUE SE ACUERDE LA CONVOCATORIA DE UNA SESIÓN DEL PLENO DE LA -- COMPARECENCIA DE LA VICEPRESIDENTA PRIMERA DEL GOBIERNO Y MINISTRA DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCRÁTICA, PARA DAR CUENTA DE LA IMPLICACIÓN, GASTOS Y ACTUACIONES DE PATRIMONIO NACIONAL EN RELACIÓN CON LA ESTANCIA DEL REY EMÉRITO EN LOS EMIRATOS ÁRABES UNIDOS. ",
+        "debate": "PETICI\u00d3N FORMULADA POR LOS GRUPOS PARLAMENTARIOS EUSKAL HERRIA BILDU Y REPUBLICANO, DE QUE SE ACUERDE LA CONVOCATORIA DE UNA SESI\u00d3N DEL PLENO DE LA -- COMPARECENCIA DE LA VICEPRESIDENTA PRIMERA DEL GOBIERNO Y MINISTRA DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCR\u00c1TICA, PARA DAR CUENTA DE LA IMPLICACI\u00d3N, GASTOS Y ACTUACIONES DE PATRIMONIO NACIONAL EN RELACI\u00d3N CON LA ESTANCIA DEL REY EM\u00c9RITO EN LOS EMIRATOS \u00c1RABES UNIDOS. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,47 @@
         ],
         "order": 6,
         "path": "../data/diaries-txts/DSCD-14-PL-073.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Garcés, por favor, silencio."
+    "text": "Se\u00f1or Garc\u00e9s, por favor, silencio.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Garc\u00e9s",
+            "lema": "se\u00f1or_garc\u00e9s",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por_favor",
+            "lema": "por_favor",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "silencio",
+            "lema": "silencio",
+            "pos": "NCMS000",
+            "prob": "0.997076"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

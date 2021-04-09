@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-10-27T00:00:00.000Z",
-        "debate": "PROPOSICIONES NO DE LEY: -- DEL GRUPO PARLAMENTARIO SOCIALISTA, RELATIVA A GARANTIZAR LA PROTECCIÓN, INCLUSIÓN Y ATENCIÓN ADECUADA DE LOS Y LAS MENORES MIGRANTES NO ACOMPAÑADOS. ",
+        "debate": "PROPOSICIONES NO DE LEY: -- DEL GRUPO PARLAMENTARIO SOCIALISTA, RELATIVA A GARANTIZAR LA PROTECCI\u00d3N, INCLUSI\u00d3N Y ATENCI\u00d3N ADECUADA DE LOS Y LAS MENORES MIGRANTES NO ACOMPA\u00d1ADOS. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,149 @@
         ],
         "order": 6,
         "path": "../data/diaries-txts/DSCD-14-PL-057.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señora Giménez, ha terminado su tiempo. Le dejo terminar esta frase, pero le ruego que se atenga al tiempo."
+    "text": "Se\u00f1ora Gim\u00e9nez, ha terminado su tiempo. Le dejo terminar esta frase, pero le ruego que se atenga al tiempo.",
+    "freeling": [
+        {
+            "word": "Se\u00f1ora_Gim\u00e9nez",
+            "lema": "se\u00f1ora_gim\u00e9nez",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "terminado",
+            "lema": "terminar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "tiempo",
+            "lema": "tiempo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "dejo",
+            "lema": "dejar",
+            "pos": "VMIP1S0",
+            "prob": "0.160206"
+        },
+        {
+            "word": "terminar",
+            "lema": "terminar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "esta",
+            "lema": "este",
+            "pos": "DD0FS0",
+            "prob": "0.978817"
+        },
+        {
+            "word": "frase",
+            "lema": "frase",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "pero",
+            "lema": "pero",
+            "pos": "CC",
+            "prob": "0.999902"
+        },
+        {
+            "word": "le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "ruego",
+            "lema": "rogar",
+            "pos": "VMIP1S0",
+            "prob": "0.0102795"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "atenga",
+            "lema": "atener",
+            "pos": "VMSP3S0",
+            "prob": "0.634863"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "tiempo",
+            "lema": "tiempo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

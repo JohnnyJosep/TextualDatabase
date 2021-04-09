@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-16T00:00:00.000Z",
-        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, ORGÁNICA CONTRA LA OCUPACIÓN ILEGAL Y PARA LA CONVIVENCIA VECINAL Y LA PROTECCIÓN DE LA SEGURIDAD DE LAS PERSONAS Y COSAS EN LAS COMUNIDADES DE PROPIETARIOS. ",
+        "debate": "TOMA EN CONSIDERACI\u00d3N DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, ORG\u00c1NICA CONTRA LA OCUPACI\u00d3N ILEGAL Y PARA LA CONVIVENCIA VECINAL Y LA PROTECCI\u00d3N DE LA SEGURIDAD DE LAS PERSONAS Y COSAS EN LAS COMUNIDADES DE PROPIETARIOS. ",
         "diputado": [
             {
-                "apellidos": "Pastor Julián",
-                "apellidosNombre": "Pastor Julián, Ana María",
+                "apellidos": "Pastor Juli\u00e1n",
+                "apellidosNombre": "Pastor Juli\u00e1n, Ana Mar\u00eda",
                 "codParlamentario": 31,
                 "fchAlta": "19/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario Popular en el Congreso",
                 "idCircunscripcion": 28,
                 "idLegislatura": 14,
-                "nombre": "Ana María",
+                "nombre": "Ana Mar\u00eda",
                 "nombreCircunscripcion": "Madrid",
                 "twitter": "https://twitter.com/anapastorjulian",
                 "twitterUserId": "307570052",
@@ -24,9 +24,47 @@
         ],
         "order": 6,
         "path": "../data/diaries-txts/DSCD-14-PL-078.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "VICEPRESIDENTA (Pastor Julián)"
+        "speacker": "VICEPRESIDENTA (Pastor Juli\u00e1n)"
     },
-    "text": "Señor Mayoral, tiene que terminar."
+    "text": "Se\u00f1or Mayoral, tiene que terminar.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Mayoral",
+            "lema": "se\u00f1or_mayoral",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "tiene",
+            "lema": "tener",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "terminar",
+            "lema": "terminar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-24T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DE LA DIPUT ADA DOÑA CONCEPCIÓN GAMARRA RUIZ-CLA VIJO, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA VICEPRESIDENTA PRIMERA Y MINISTRA DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCRÁTICA: ¿CONSIDERA QUE EL GOBIERNO DE COALICIÓN ES ANTISISTEMA? ",
+        "debate": "PREGUNTAS: -- DE LA DIPUT ADA DO\u00d1A CONCEPCI\u00d3N GAMARRA RUIZ-CLA VIJO, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SE\u00d1ORA VICEPRESIDENTA PRIMERA Y MINISTRA DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCR\u00c1TICA: \u00bfCONSIDERA QUE EL GOBIERNO DE COALICI\u00d3N ES ANTISISTEMA? ",
         "diputado": [
             {
-                "apellidos": "Espinosa de los Monteros de Simón",
-                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "apellidos": "Espinosa de los Monteros de Sim\u00f3n",
+                "apellidosNombre": "Espinosa de los Monteros de Sim\u00f3n, Iv\u00e1n",
                 "codParlamentario": 83,
                 "fchAlta": "20/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario VOX",
                 "idCircunscripcion": 28,
                 "idLegislatura": 14,
-                "nombre": "Iván",
+                "nombre": "Iv\u00e1n",
                 "nombreCircunscripcion": "Madrid",
                 "twitter": "https://twitter.com/ivanedlm",
                 "twitterUserId": "48976307",
@@ -24,9 +24,179 @@
         ],
         "order": 9,
         "path": "../data/diaries-txts/DSCD-14-PL-082.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "VICEPRESIDENTA PRIMERA DEL GOBIERNO Y MINISTRA DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCRÁTICA (Calvo Poyato)"
+        "speacker": "VICEPRESIDENTA PRIMERA DEL GOBIERNO Y MINISTRA DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCR\u00c1TICA (Calvo Poyato)"
     },
-    "text": "¿Entiende cómo una cosa es estar en el sistema y otra en el antisistema? Pues eso, señora Gamarra. (Aplausos). --"
+    "text": "\u00bfEntiende c\u00f3mo una cosa es estar en el sistema y otra en el antisistema? Pues eso, se\u00f1ora Gamarra. (Aplausos). --",
+    "freeling": [
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "Entiende",
+            "lema": "entender",
+            "pos": "VMIP3S0",
+            "prob": "0.991071"
+        },
+        {
+            "word": "c\u00f3mo",
+            "lema": "c\u00f3mo",
+            "pos": "PT00000",
+            "prob": "0.997099"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "cosa",
+            "lema": "cosa",
+            "pos": "NCFS000",
+            "prob": "0.992574"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "estar",
+            "lema": "estar",
+            "pos": "VMN0000",
+            "prob": "0.999154"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "sistema",
+            "lema": "sistema",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "otra",
+            "lema": "otro",
+            "pos": "PI0FS00",
+            "prob": "0.259107"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "antisistema",
+            "lema": "antisistema",
+            "pos": "AQ0CN00",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        },
+        {
+            "word": "Pues",
+            "lema": "pues",
+            "pos": "CS",
+            "prob": "0.999049"
+        },
+        {
+            "word": "eso",
+            "lema": "ese",
+            "pos": "PD00S00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "Gamarra",
+            "lema": "gamarra",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplauso",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

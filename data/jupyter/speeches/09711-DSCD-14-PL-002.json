@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-10-14T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO CIUDADANOS, SOBRE LA GRAVE CRISIS ABIERTA EN EL SENO DE LA GUARDIA CIVIL POR LAS ÚLTIMAS DESTITUCIONES OCURRIDAS EN EL CITADO CUERPO, POR LA POLÍTICA GENERAL DE DESTITUCIONES Y NOMBRAMIENTOS LLEVADAS A CABO POR EL MINISTRO DEL INTERIOR Y, EN GENERAL, POR LAS ÓRDENES EMANADAS DEL GOBIERNO HACIA LOS ALTOS MANDOS DE LAS FUERZAS Y CUERPOS DE SEGURIDAD DEL ESTADO DURANTE ESTA CRISIS SANITARIA. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO CIUDADANOS, SOBRE LA GRAVE CRISIS ABIERTA EN EL SENO DE LA GUARDIA CIVIL POR LAS \u00daLTIMAS DESTITUCIONES OCURRIDAS EN EL CITADO CUERPO, POR LA POL\u00cdTICA GENERAL DE DESTITUCIONES Y NOMBRAMIENTOS LLEVADAS A CABO POR EL MINISTRO DEL INTERIOR Y, EN GENERAL, POR LAS \u00d3RDENES EMANADAS DEL GOBIERNO HACIA LOS ALTOS MANDOS DE LAS FUERZAS Y CUERPOS DE SEGURIDAD DEL ESTADO DURANTE ESTA CRISIS SANITARIA. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,59 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-052.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Gil, tendría que terminar, por favor."
+    "text": "Se\u00f1or Gil, tendr\u00eda que terminar, por favor.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Gil",
+            "lema": "se\u00f1or_gil",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "tendr\u00eda",
+            "lema": "tener",
+            "pos": "VMIC3S0",
+            "prob": "0.65"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "terminar",
+            "lema": "terminar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por_favor",
+            "lema": "por_favor",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

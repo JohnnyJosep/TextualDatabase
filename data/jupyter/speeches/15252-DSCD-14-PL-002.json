@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-24T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON EDMUNDO BAL FRANCÉS, DEL GRUPO PARLAMENTARIO CIUDADANOS, QUE FORMULA AL SEÑOR VICEPRESIDENTE SEGUNDO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030: ¿QUÉ BALANCE HACE DEL DESEMPEÑO DE SUS FUNCIONES COMO VICEPRESIDENTE DEL GOBIERNO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030 A LO LARGO DE ESTE AÑO? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON EDMUNDO BAL FRANC\u00c9S, DEL GRUPO PARLAMENTARIO CIUDADANOS, QUE FORMULA AL SE\u00d1OR VICEPRESIDENTE SEGUNDO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030: \u00bfQU\u00c9 BALANCE HACE DEL DESEMPE\u00d1O DE SUS FUNCIONES COMO VICEPRESIDENTE DEL GOBIERNO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030 A LO LARGO DE ESTE A\u00d1O? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,29 @@
         ],
         "order": 3,
         "path": "../data/diaries-txts/DSCD-14-PL-082.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Bal Francés."
+    "text": "Se\u00f1or Bal Franc\u00e9s.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "Bal_Franc\u00e9s",
+            "lema": "bal_franc\u00e9s",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

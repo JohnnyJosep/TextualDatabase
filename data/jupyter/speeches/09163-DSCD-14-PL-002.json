@@ -1,20 +1,20 @@
 {
     "metadata": {
         "celebrated": "2020-09-30T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, PARA QUE EL GOBIERNO VALORE LAS ALARMANTES PREVISIONES CONOCIDAS RECIENTEMENTE EN RELACIÓN A LA ECONOMÍA Y EL EMPLEO DE LOS ESPAÑOLES. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, PARA QUE EL GOBIERNO VALORE LAS ALARMANTES PREVISIONES CONOCIDAS RECIENTEMENTE EN RELACI\u00d3N A LA ECONOM\u00cdA Y EL EMPLEO DE LOS ESPA\u00d1OLES. ",
         "diputado": [
             {
-                "apellidos": "Fernández Castañón",
-                "apellidosNombre": "Fernández Castañón, Sofía",
+                "apellidos": "Fern\u00e1ndez Casta\u00f1\u00f3n",
+                "apellidosNombre": "Fern\u00e1ndez Casta\u00f1\u00f3n, Sof\u00eda",
                 "codParlamentario": 272,
                 "fchAlta": "27/11/2019",
                 "fchBaja": "",
                 "formacion": "UP",
                 "genero": 2,
-                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común",
+                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Com\u00fa Podem-Galicia en Com\u00fan",
                 "idCircunscripcion": 33,
                 "idLegislatura": 14,
-                "nombre": "Sofía",
+                "nombre": "Sof\u00eda",
                 "nombreCircunscripcion": "Asturias",
                 "twitter": "https://twitter.com/SofCastanon",
                 "twitterUserId": "3495603017",
@@ -24,9 +24,131 @@
         ],
         "order": 23,
         "path": "../data/diaries-txts/DSCD-14-PL-049.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "FERNÁNDEZ CAST AÑÓN"
+        "speacker": "FERN\u00c1NDEZ CAST A\u00d1\u00d3N"
     },
-    "text": "… que giran sobre sí mismas, la cultura nos hace avanzar. Muchas gracias. (Aplausos)."
+    "text": "\u2026 que giran sobre s\u00ed mismas, la cultura nos hace avanzar. Muchas gracias. (Aplausos).",
+    "freeling": [
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "giran",
+            "lema": "girar",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "sobre",
+            "lema": "sobre",
+            "pos": "SP",
+            "prob": "0.997804"
+        },
+        {
+            "word": "s\u00ed",
+            "lema": "s\u00ed",
+            "pos": "PP3CNO0",
+            "prob": "0.336127"
+        },
+        {
+            "word": "mismas",
+            "lema": "mismo",
+            "pos": "AQ0FP00",
+            "prob": "0.995495"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "cultura",
+            "lema": "cultura",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "nos",
+            "lema": "nos",
+            "pos": "PP1CP00",
+            "prob": "0.810258"
+        },
+        {
+            "word": "hace",
+            "lema": "hacer",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "avanzar",
+            "lema": "avanzar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplausos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -24,9 +24,83 @@
         ],
         "order": 43,
         "path": "../data/diaries-txts/DSCD-14-PL-091.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "URIARTE BENGOECHEA"
     },
-    "text": "… en esta Cámara y en Euskadi. (Aplausos)."
+    "text": "\u2026 en esta C\u00e1mara y en Euskadi. (Aplausos).",
+    "freeling": [
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "esta",
+            "lema": "este",
+            "pos": "DD0FS0",
+            "prob": "0.978817"
+        },
+        {
+            "word": "C\u00e1mara",
+            "lema": "c\u00e1mara",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "Euskadi",
+            "lema": "euskadi",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplausos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

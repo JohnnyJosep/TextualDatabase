@@ -1,7 +1,7 @@
 {
     "metadata": {
         "celebrated": "2020-10-13T00:00:00.000Z",
-        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO CONFEDERAL DE UNIDAS PODEMOS-EN COMÚ PODEM- GALICIA EN COMÚN, DE COORDINACIÓN DE LOS SERVICIOS DE PREVENCIÓN, EXTINCIÓN DE INCENDIOS Y SALVAMENTO EN EL MARCO DEL SISTEMA NACIONAL DE PROTECCIÓN CIVIL. ",
+        "debate": "TOMA EN CONSIDERACI\u00d3N DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO CONFEDERAL DE UNIDAS PODEMOS-EN COM\u00da PODEM- GALICIA EN COM\u00daN, DE COORDINACI\u00d3N DE LOS SERVICIOS DE PREVENCI\u00d3N, EXTINCI\u00d3N DE INCENDIOS Y SALVAMENTO EN EL MARCO DEL SISTEMA NACIONAL DE PROTECCI\u00d3N CIVIL. ",
         "diputado": [
             {
                 "apellidos": "Tirado Ochoa",
@@ -24,9 +24,77 @@
         ],
         "order": 25,
         "path": "../data/diaries-txts/DSCD-14-PL-051.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "TIRADO OCHOA"
     },
-    "text": "Respete a quien está en el uso de la palabra."
+    "text": "Respete a quien est\u00e1 en el uso de la palabra.",
+    "freeling": [
+        {
+            "word": "Respete",
+            "lema": "respetar",
+            "pos": "VMSP3S0",
+            "prob": "0.496933"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "quien",
+            "lema": "quien",
+            "pos": "PR0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "est\u00e1",
+            "lema": "estar",
+            "pos": "VMIP3S0",
+            "prob": "0.999398"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "uso",
+            "lema": "uso",
+            "pos": "NCMS000",
+            "prob": "0.998047"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "palabra",
+            "lema": "palabra",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

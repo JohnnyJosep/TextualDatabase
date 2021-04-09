@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-23T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON IGNACIO GIL LÁZARO, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿POR QUÉ ESTÁ CONTRIBUYENDO EL MINISTERIO DEL INTERIOR AL INTENTO DE BLANQUEAR LA HISTORIA CRIMINAL DE ETA? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON IGNACIO GIL L\u00c1ZARO, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SE\u00d1OR MINISTRO DEL INTERIOR: \u00bfPOR QU\u00c9 EST\u00c1 CONTRIBUYENDO EL MINISTERIO DEL INTERIOR AL INTENTO DE BLANQUEAR LA HISTORIA CRIMINAL DE ETA? ",
         "diputado": [
             {
-                "apellidos": "Gil Lázaro",
-                "apellidosNombre": "Gil Lázaro, Ignacio",
+                "apellidos": "Gil L\u00e1zaro",
+                "apellidosNombre": "Gil L\u00e1zaro, Ignacio",
                 "codParlamentario": 295,
                 "fchAlta": "27/11/2019",
                 "fchBaja": "",
@@ -15,15 +15,173 @@
                 "idCircunscripcion": 46,
                 "idLegislatura": 14,
                 "nombre": "Ignacio",
-                "nombreCircunscripcion": "Valencia/València"
+                "nombreCircunscripcion": "Valencia/Val\u00e8ncia"
             },
             0
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-047.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "GIL LÁZARO"
+        "speacker": "GIL L\u00c1ZARO"
     },
-    "text": "Gracias, señora presidenta. Señor ministro, ¿por qué hoy usted está contribuyendo al intento de blanquear la historia criminal de ETA?"
+    "text": "Gracias, se\u00f1ora presidenta. Se\u00f1or ministro, \u00bfpor qu\u00e9 hoy usted est\u00e1 contribuyendo al intento de blanquear la historia criminal de ETA?",
+    "freeling": [
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "ministro",
+            "lema": "ministro",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "qu\u00e9",
+            "lema": "qu\u00e9",
+            "pos": "PT00000",
+            "prob": "0.712513"
+        },
+        {
+            "word": "hoy",
+            "lema": "hoy",
+            "pos": "RG",
+            "prob": "0.993864"
+        },
+        {
+            "word": "usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": "est\u00e1",
+            "lema": "estar",
+            "pos": "VAIP3S0",
+            "prob": "0.000200642"
+        },
+        {
+            "word": "contribuyendo",
+            "lema": "contribuir",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "intento",
+            "lema": "intento",
+            "pos": "NCMS000",
+            "prob": "0.909357"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "blanquear",
+            "lema": "blanquear",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "historia",
+            "lema": "historia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "criminal",
+            "lema": "criminal",
+            "pos": "AQ0CS00",
+            "prob": "0.661294"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "ETA",
+            "lema": "eta",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        }
+    ]
 }

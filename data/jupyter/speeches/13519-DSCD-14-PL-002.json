@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-01-25T00:00:00.000Z",
-        "debate": "DEL DÍA: -- COMPARECENCIA DEL PRESIDENTE DEL GOBIERNO, PARA RENDIR CUENTAS SOBRE LA CRÍTICA SITUACIÓN ACTUAL DE LA COVID-19 EN ESPAÑA --CON LOS PEORES REGISTROS DESDE ENERO DE 2020-- Y ACLARAR SI TIENE PREVISTO LLEVAR A LA PRÁCTICA EN ALGÚN MOMENTO ALGUNA MEDIDA DE UTILIDAD REAL PARA CONTROLAR LA PANDEMIA. ",
+        "debate": "DEL D\u00cdA: -- COMPARECENCIA DEL PRESIDENTE DEL GOBIERNO, PARA RENDIR CUENTAS SOBRE LA CR\u00cdTICA SITUACI\u00d3N ACTUAL DE LA COVID-19 EN ESPA\u00d1A --CON LOS PEORES REGISTROS DESDE ENERO DE 2020-- Y ACLARAR SI TIENE PREVISTO LLEVAR A LA PR\u00c1CTICA EN ALG\u00daN MOMENTO ALGUNA MEDIDA DE UTILIDAD REAL PARA CONTROLAR LA PANDEMIA. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,53 @@
         ],
         "order": 22,
         "path": "../data/diaries-txts/DSCD-14-PL-073.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Espinosa de los Monteros, el tiempo ha finalizado."
+    "text": "Se\u00f1or Espinosa de los Monteros, el tiempo ha finalizado.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Espinosa_de_los_Monteros",
+            "lema": "se\u00f1or_espinosa_de_los_monteros",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "tiempo",
+            "lema": "tiempo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "finalizado",
+            "lema": "finalizar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-24T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES (CONTINUACIÓN): -- DEL GRUPO PARLAMENTARIO VOX, SOBRE QUÉ MEDIDAS VA A ADOPTAR EL GOBIERNO PARA INDEMNIZAR A TODOS LOS ESPAÑOLES A QUIENES SE LES HA PROHIBIDO TRABAJAR. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES (CONTINUACI\u00d3N): -- DEL GRUPO PARLAMENTARIO VOX, SOBRE QU\u00c9 MEDIDAS VA A ADOPTAR EL GOBIERNO PARA INDEMNIZAR A TODOS LOS ESPA\u00d1OLES A QUIENES SE LES HA PROHIBIDO TRABAJAR. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,59 @@
         ],
         "order": 16,
         "path": "../data/diaries-txts/DSCD-14-PL-082.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señora Baños, tiene que terminar, por favor."
+    "text": "Se\u00f1ora Ba\u00f1os, tiene que terminar, por favor.",
+    "freeling": [
+        {
+            "word": "Se\u00f1ora_Ba\u00f1os",
+            "lema": "se\u00f1ora_ba\u00f1os",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "tiene",
+            "lema": "tener",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "terminar",
+            "lema": "terminar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por_favor",
+            "lema": "por_favor",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

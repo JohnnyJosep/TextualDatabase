@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-01-25T00:00:00.000Z",
-        "debate": "DEL DÍA: -- COMPARECENCIA DEL MINISTRO DEL INTERIOR, PARA DAR CUENTA DE LAS ACTUACIONES LLEVADAS A CABO POR PARTE DE SU MINISTERIO, DE FORMA PREVIA AL TEMPORAL QUE CON LA DENOMINACIÓN DE BORRASCA «FILOMENA», HA AZOTADO BUENA PARTE DE NUESTRO TERRITORIO NACIONAL DURANTE DISTINTAS JORNADAS DE LA PRIMERA QUINCENA DE ENERO DE 2021; ASÍ COMO DE LAS ACTUACIONES LLEVADAS A CABO DURANTE EL DESARROLLO DEL REFERIDO TEMPORAL Y DE FORMA POSTERIOR AL MISMO.",
+        "debate": "DEL D\u00cdA: -- COMPARECENCIA DEL MINISTRO DEL INTERIOR, PARA DAR CUENTA DE LAS ACTUACIONES LLEVADAS A CABO POR PARTE DE SU MINISTERIO, DE FORMA PREVIA AL TEMPORAL QUE CON LA DENOMINACI\u00d3N DE BORRASCA \u00abFILOMENA\u00bb, HA AZOTADO BUENA PARTE DE NUESTRO TERRITORIO NACIONAL DURANTE DISTINTAS JORNADAS DE LA PRIMERA QUINCENA DE ENERO DE 2021; AS\u00cd COMO DE LAS ACTUACIONES LLEVADAS A CABO DURANTE EL DESARROLLO DEL REFERIDO TEMPORAL Y DE FORMA POSTERIOR AL MISMO.",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,275 @@
         ],
         "order": 16,
         "path": "../data/diaries-txts/DSCD-14-PL-073.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Muchas gracias, señor Ramos. PETICIÓN FORMULADA POR LOS GRUPOS PARLAMENTARIOS EUSKAL HERRIA BILDU Y REPUBLICANO, DE QUE SE ACUERDE LA CONVOCATORIA DE UNA SESIÓN DEL PLENO DE LA CÁMARA (número de expediente 62/000049), CON EL SIGUIENTE ORDEN DEL DÍA: --"
+    "text": "Muchas gracias, se\u00f1or Ramos. PETICI\u00d3N FORMULADA POR LOS GRUPOS PARLAMENTARIOS EUSKAL HERRIA BILDU Y REPUBLICANO, DE QUE SE ACUERDE LA CONVOCATORIA DE UNA SESI\u00d3N DEL PLENO DE LA C\u00c1MARA (n\u00famero de expediente 62/000049), CON EL SIGUIENTE ORDEN DEL D\u00cdA: --",
+    "freeling": [
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "Ramos",
+            "lema": "ramos",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "PETICI\u00d3N",
+            "lema": "petici\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "FORMULADA",
+            "lema": "formular",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": "POR",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "LOS",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "GRUPOS_PARLAMENTARIOS_EUSKAL",
+            "lema": "grupos_parlamentarios_euskal",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "HERRIA",
+            "lema": "herria",
+            "pos": "AQ0FS00",
+            "prob": "0.375793"
+        },
+        {
+            "word": "BILDU",
+            "lema": "bildu",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "Y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "REPUBLICANO",
+            "lema": "republicano",
+            "pos": "AQ0MS00",
+            "prob": "0.77027"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "QUE",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "SE",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "ACUERDE",
+            "lema": "acordar",
+            "pos": "VMSP3S0",
+            "prob": "0.478376"
+        },
+        {
+            "word": "LA",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "CONVOCATORIA",
+            "lema": "convocatoria",
+            "pos": "NCFS000",
+            "prob": "0.993827"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "UNA",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "SESI\u00d3N",
+            "lema": "sesi\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL_PLENO_DE_LA_C\u00c1MARA",
+            "lema": "el_pleno_de_la_c\u00e1mara",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "n\u00famero",
+            "lema": "n\u00famero",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "expediente",
+            "lema": "expediente",
+            "pos": "NCMS000",
+            "prob": "0.982759"
+        },
+        {
+            "word": "62/000049",
+            "lema": "62/000049",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "CON",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "SIGUIENTE",
+            "lema": "siguiente",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "ORDEN",
+            "lema": "orden",
+            "pos": "NCCS000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "D\u00cdA",
+            "lema": "d\u00eda",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ":",
+            "lema": ":",
+            "pos": "Fd",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

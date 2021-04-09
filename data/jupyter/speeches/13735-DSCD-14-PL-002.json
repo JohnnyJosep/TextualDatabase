@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-01-28T00:00:00.000Z",
-        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES: -- REAL DECRETO-LEY 38/2020, DE 29 DE DICIEMBRE, POR EL QUE SE ADOPTAN MEDIDAS DE ADAPTACIÓN A LA SITUACIÓN DE ESTADO TERCERO DEL REINO UNIDO DE GRAN BRETAÑA E IRLANDA DEL NORTE TRAS LA FINALIZACIÓN DEL PERIODO TRANSITORIO PREVISTO EN EL ACUERDO SOBRE LA RETIRADA DEL REINO UNIDO DE GRAN BRETAÑA E IRLANDA DEL NORTE DE LA UNIÓN EUROPEA Y DE LA COMUNIDAD EUROPEA DE LA ENERGÍA ATÓMICA, DE 31 DE ENERO DE 2020. ",
+        "debate": "CONVALIDACI\u00d3N O DEROGACI\u00d3N DE REALES DECRETOS-LEYES: -- REAL DECRETO-LEY 38/2020, DE 29 DE DICIEMBRE, POR EL QUE SE ADOPTAN MEDIDAS DE ADAPTACI\u00d3N A LA SITUACI\u00d3N DE ESTADO TERCERO DEL REINO UNIDO DE GRAN BRETA\u00d1A E IRLANDA DEL NORTE TRAS LA FINALIZACI\u00d3N DEL PERIODO TRANSITORIO PREVISTO EN EL ACUERDO SOBRE LA RETIRADA DEL REINO UNIDO DE GRAN BRETA\u00d1A E IRLANDA DEL NORTE DE LA UNI\u00d3N EUROPEA Y DE LA COMUNIDAD EUROPEA DE LA ENERG\u00cdA AT\u00d3MICA, DE 31 DE ENERO DE 2020. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,53 @@
         ],
         "order": 12,
         "path": "../data/diaries-txts/DSCD-14-PL-074.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señorías, por favor, guarden silencio."
+    "text": "Se\u00f1or\u00edas, por favor, guarden silencio.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or\u00edas",
+            "lema": "se\u00f1or\u00eda",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por_favor",
+            "lema": "por_favor",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "guarden",
+            "lema": "guardar",
+            "pos": "VMM03P0",
+            "prob": "0.0580364"
+        },
+        {
+            "word": "silencio",
+            "lema": "silencio",
+            "pos": "NCMS000",
+            "prob": "0.997076"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

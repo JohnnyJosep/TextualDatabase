@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-30T00:00:00.000Z",
-        "debate": "PREGUNTA DEL DIPUTADO DON PABLO CASADO BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿ESTÁ PROTEGIENDO EL FUTURO DE LOS ESPAÑOLES? -- DE LA DIPUT ADA DOÑA ISABEL POZUET A FERNÁNDEZ, DEL GRUPO P ARLAMENT ARIO EUSKAL HERRIA BILDU, QUE FORMULA AL SEÑOR MINISTRO DE SANIDAD: ¿QUÉ MEDIDAS TOMARÁN PARA CONTENER LOS CONTAGIOS EN EL ÁMBITO PÚBLICO Y LABORAL? ",
+        "debate": "PREGUNTA DEL DIPUTADO DON PABLO CASADO BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR PRESIDENTE DEL GOBIERNO: \u00bfEST\u00c1 PROTEGIENDO EL FUTURO DE LOS ESPA\u00d1OLES? -- DE LA DIPUT ADA DO\u00d1A ISABEL POZUET A FERN\u00c1NDEZ, DEL GRUPO P ARLAMENT ARIO EUSKAL HERRIA BILDU, QUE FORMULA AL SE\u00d1OR MINISTRO DE SANIDAD: \u00bfQU\u00c9 MEDIDAS TOMAR\u00c1N PARA CONTENER LOS CONTAGIOS EN EL \u00c1MBITO P\u00daBLICO Y LABORAL? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,41 @@
         ],
         "order": 2,
         "path": "../data/diaries-txts/DSCD-14-PL-049.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor ministro de Sanidad."
+    "text": "Se\u00f1or ministro de Sanidad.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "ministro",
+            "lema": "ministro",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Sanidad",
+            "lema": "sanidad",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

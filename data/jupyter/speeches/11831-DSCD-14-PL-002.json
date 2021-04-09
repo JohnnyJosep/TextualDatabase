@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-12-01T00:00:00.000Z",
-        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (CONTINUACIÓN): -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL AÑO 2021. ",
+        "debate": "DICT\u00c1MENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (CONTINUACI\u00d3N): -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL A\u00d1O 2021. ",
         "diputado": [
             {
-                "apellidos": "Martín Llaguno",
-                "apellidosNombre": "Martín Llaguno, Marta",
+                "apellidos": "Mart\u00edn Llaguno",
+                "apellidosNombre": "Mart\u00edn Llaguno, Marta",
                 "codParlamentario": 155,
                 "fchAlta": "25/11/2019",
                 "fchBaja": "",
@@ -21,9 +21,53 @@
         ],
         "order": 102,
         "path": "../data/diaries-txts/DSCD-14-PL-066.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "MARTÍN LLAGUNO"
+        "speacker": "MART\u00cdN LLAGUNO"
     },
-    "text": "Muchas gracias. (Aplausos)."
+    "text": "Muchas gracias. (Aplausos).",
+    "freeling": [
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplausos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

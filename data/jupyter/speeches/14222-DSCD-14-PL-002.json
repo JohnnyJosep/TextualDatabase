@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-04T00:00:00.000Z",
-        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES: -- REAL DECRET O-LEY 1/2021, DE 19 DE ENERO, DE PROTECCIÓN DE LOS CONSUMIDORES Y USUARIOS FRENTE A SITUACIONES DE VULNERABILIDAD SOCIAL Y ECONÓMICA. ",
+        "debate": "CONVALIDACI\u00d3N O DEROGACI\u00d3N DE REALES DECRETOS-LEYES: -- REAL DECRET O-LEY 1/2021, DE 19 DE ENERO, DE PROTECCI\u00d3N DE LOS CONSUMIDORES Y USUARIOS FRENTE A SITUACIONES DE VULNERABILIDAD SOCIAL Y ECON\u00d3MICA. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,95 @@
         ],
         "order": 93,
         "path": "../data/diaries-txts/DSCD-14-PL-077.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Espinosa de los Monteros, no tiene usted la palabra, la tiene el señor Santiago Romero."
+    "text": "Se\u00f1or Espinosa de los Monteros, no tiene usted la palabra, la tiene el se\u00f1or Santiago Romero.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Espinosa_de_los_Monteros",
+            "lema": "se\u00f1or_espinosa_de_los_monteros",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "tiene",
+            "lema": "tener",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "palabra",
+            "lema": "palabra",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "lo",
+            "pos": "PP3FSA0",
+            "prob": "0.010734"
+        },
+        {
+            "word": "tiene",
+            "lema": "tener",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "Santiago_Romero",
+            "lema": "santiago_romero",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-11-17T00:00:00.000Z",
-        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, ORGÁNICA DE PROTECCIÓN DE LA SALUD Y DE LOS DERECHOS Y LIBERTADES FUNDAMENTALES. ",
+        "debate": "TOMA EN CONSIDERACI\u00d3N DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, ORG\u00c1NICA DE PROTECCI\u00d3N DE LA SALUD Y DE LOS DERECHOS Y LIBERTADES FUNDAMENTALES. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,65 @@
         ],
         "order": 125,
         "path": "../data/diaries-txts/DSCD-14-PL-062.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señora Velasco, se le ha terminado el tiempo."
+    "text": "Se\u00f1ora Velasco, se le ha terminado el tiempo.",
+    "freeling": [
+        {
+            "word": "Se\u00f1ora_Velasco",
+            "lema": "se\u00f1ora_velasco",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "terminado",
+            "lema": "terminar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "tiempo",
+            "lema": "tiempo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-12-16T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON ÍÑIGO ERREJÓN GALVÁN, DEL GRUPO PARLAMENTARIO PLURAL, QUE FORMULA AL SEÑOR MINISTRO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES: ¿COMO MINISTRO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES, CREE QUE LOS ESPAÑOLES TIENEN UNA BUENA VIDA? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON \u00cd\u00d1IGO ERREJ\u00d3N GALV\u00c1N, DEL GRUPO PARLAMENTARIO PLURAL, QUE FORMULA AL SE\u00d1OR MINISTRO DE INCLUSI\u00d3N, SEGURIDAD SOCIAL Y MIGRACIONES: \u00bfCOMO MINISTRO DE INCLUSI\u00d3N, SEGURIDAD SOCIAL Y MIGRACIONES, CREE QUE LOS ESPA\u00d1OLES TIENEN UNA BUENA VIDA? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,77 @@
         ],
         "order": 0,
         "path": "../data/diaries-txts/DSCD-14-PL-070.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Pregunta del diputado don Íñigo Errejón Galván, del Grupo Parlamentario Plural."
+    "text": "Pregunta del diputado don \u00cd\u00f1igo Errej\u00f3n Galv\u00e1n, del Grupo Parlamentario Plural.",
+    "freeling": [
+        {
+            "word": "Pregunta",
+            "lema": "preguntar",
+            "pos": "VMIP3S0",
+            "prob": "0.300493"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "diputado",
+            "lema": "diputado",
+            "pos": "NCMS000",
+            "prob": "0.997382"
+        },
+        {
+            "word": "don",
+            "lema": "don",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "\u00cd\u00f1igo_Errej\u00f3n_Galv\u00e1n",
+            "lema": "\u00ed\u00f1igo_errej\u00f3n_galv\u00e1n",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Grupo_Parlamentario_Plural",
+            "lema": "grupo_parlamentario_plural",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-03T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES (CONTINUACIÓN): -- DEL GRUPO PARLAMENTARIO VOX, SOBRE LAS MEDIDAS QUE VA A ADOPTAR EL GOBIERNO PARA FRENAR LA INVASIÓN MIGRATORIA EN ESPAÑA. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES (CONTINUACI\u00d3N): -- DEL GRUPO PARLAMENTARIO VOX, SOBRE LAS MEDIDAS QUE VA A ADOPTAR EL GOBIERNO PARA FRENAR LA INVASI\u00d3N MIGRATORIA EN ESPA\u00d1A. ",
         "diputado": [
             {
-                "apellidos": "Rodríguez Gómez de Celis",
-                "apellidosNombre": "Rodríguez Gómez de Celis, Alfonso",
+                "apellidos": "Rodr\u00edguez G\u00f3mez de Celis",
+                "apellidosNombre": "Rodr\u00edguez G\u00f3mez de Celis, Alfonso",
                 "codParlamentario": 168,
                 "fchAlta": "25/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,413 @@
         ],
         "order": 26,
         "path": "../data/diaries-txts/DSCD-14-PL-076.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "VICEPRESIDENTE (Rodríguez Gómez de Celis)"
+        "speacker": "VICEPRESIDENTE (Rodr\u00edguez G\u00f3mez de Celis)"
     },
-    "text": "Señoría, no se puede entrar en el debate de nuevo. (La señora De Meer Méndez continúa hablando desde su escaño). No, señora De Meer, no tiene la palabra. No podemos entrar en debate, usted se ha sentido aludida, ha respondido a la alusión y nada más. ¿De acuerdo? Tiene la palabra la señora portavoz de Unidas Podemos."
+    "text": "Se\u00f1or\u00eda, no se puede entrar en el debate de nuevo. (La se\u00f1ora De Meer M\u00e9ndez contin\u00faa hablando desde su esca\u00f1o). No, se\u00f1ora De Meer, no tiene la palabra. No podemos entrar en debate, usted se ha sentido aludida, ha respondido a la alusi\u00f3n y nada m\u00e1s. \u00bfDe acuerdo? Tiene la palabra la se\u00f1ora portavoz de Unidas Podemos.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or\u00eda",
+            "lema": "se\u00f1or\u00eda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "puede",
+            "lema": "poder",
+            "pos": "VMIP3S0",
+            "prob": "0.999693"
+        },
+        {
+            "word": "entrar",
+            "lema": "entrar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "debate",
+            "lema": "debate",
+            "pos": "NCMS000",
+            "prob": "0.976534"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "nuevo",
+            "lema": "nuevo",
+            "pos": "AQ0MS00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "La",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "De_Meer_M\u00e9ndez",
+            "lema": "de_meer_m\u00e9ndez",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": "contin\u00faa",
+            "lema": "continuar",
+            "pos": "VMIP3S0",
+            "prob": "0.99569"
+        },
+        {
+            "word": "hablando",
+            "lema": "hablar",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": "desde",
+            "lema": "desde",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "esca\u00f1o",
+            "lema": "esca\u00f1o",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "No",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "De_Meer",
+            "lema": "de_meer",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "tiene",
+            "lema": "tener",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "palabra",
+            "lema": "palabra",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "No",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "podemos",
+            "lema": "poder",
+            "pos": "VMIP1P0",
+            "prob": "0.994638"
+        },
+        {
+            "word": "entrar",
+            "lema": "entrar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "debate",
+            "lema": "debate",
+            "pos": "NCMS000",
+            "prob": "0.976534"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "sentido",
+            "lema": "sentir",
+            "pos": "VMP00SM",
+            "prob": "0.0591647"
+        },
+        {
+            "word": "aludida",
+            "lema": "aludir",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "respondido",
+            "lema": "responder",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "alusi\u00f3n",
+            "lema": "alusi\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "nada",
+            "lema": "nada",
+            "pos": "PI0CS00",
+            "prob": "0.893578"
+        },
+        {
+            "word": "m\u00e1s",
+            "lema": "m\u00e1s",
+            "pos": "RG",
+            "prob": "0.99993"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "De",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "acuerdo",
+            "lema": "acuerdo",
+            "pos": "NCMS000",
+            "prob": "0.999311"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        },
+        {
+            "word": "Tiene",
+            "lema": "tener",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "palabra",
+            "lema": "palabra",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "portavoz",
+            "lema": "portavoz",
+            "pos": "NCCS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Unidas_Podemos",
+            "lema": "unidas_podemos",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-24T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON TEODORO GARCÍA EGEA, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR VICEPRESIDENTE SEGUNDO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030: ¿PIENSA EL VICEPRESIDENTE SEGUNDO DEJAR SU ACTA DE DIPUTADO CUANDO DIMITA? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON TEODORO GARC\u00cdA EGEA, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR VICEPRESIDENTE SEGUNDO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030: \u00bfPIENSA EL VICEPRESIDENTE SEGUNDO DEJAR SU ACTA DE DIPUTADO CUANDO DIMITA? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,719 @@
         ],
         "order": 5,
         "path": "../data/diaries-txts/DSCD-14-PL-091.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor vicepresidente segundo del Gobierno. El señor VICEPRESIDENTE SEGUNDO DEL GOBIERNO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030 (Iglesias Turrión): Gracias, señora presidenta. Don Teodoro, le agradezco su inmensa y exquisita cortesía parlamentaria. Hay algo que me llama enormemente la atención. Ustedes dicen que van a ganar las elecciones en Madrid, pero ustedes no hablan de otra cosa: ¿qué sentido tiene que en una sesión de control del Gobierno usted en su intervención solamente hable de Madrid, me dé consejos sobre la campaña electoral en Madrid, me diga usted que la Puerta del Sol, que el Partido Popular…? (Rumores)."
+    "text": "Se\u00f1or vicepresidente segundo del Gobierno. El se\u00f1or VICEPRESIDENTE SEGUNDO DEL GOBIERNO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030 (Iglesias Turri\u00f3n): Gracias, se\u00f1ora presidenta. Don Teodoro, le agradezco su inmensa y exquisita cortes\u00eda parlamentaria. Hay algo que me llama enormemente la atenci\u00f3n. Ustedes dicen que van a ganar las elecciones en Madrid, pero ustedes no hablan de otra cosa: \u00bfqu\u00e9 sentido tiene que en una sesi\u00f3n de control del Gobierno usted en su intervenci\u00f3n solamente hable de Madrid, me d\u00e9 consejos sobre la campa\u00f1a electoral en Madrid, me diga usted que la Puerta del Sol, que el Partido Popular\u2026? (Rumores).",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "vicepresidente",
+            "lema": "vicepresidente",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "segundo",
+            "lema": "2",
+            "pos": "AO0MS00",
+            "prob": "0.901147"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "El",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "VICEPRESIDENTE",
+            "lema": "vicepresidente",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": "SEGUNDO",
+            "lema": "segundo",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "GOBIERNO",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "Y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "MINISTRO",
+            "lema": "ministro",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "DERECHOS",
+            "lema": "derecho",
+            "pos": "NCMP000",
+            "prob": "0.996795"
+        },
+        {
+            "word": "SOCIALES",
+            "lema": "social",
+            "pos": "AQ0CP00",
+            "prob": "0.997835"
+        },
+        {
+            "word": "Y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "AGENDA",
+            "lema": "agenda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "2030",
+            "lema": "2030",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Iglesias_Turri\u00f3n",
+            "lema": "iglesias_turri\u00f3n",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ":",
+            "lema": ":",
+            "pos": "Fd",
+            "prob": "1"
+        },
+        {
+            "word": "Gracias",
+            "lema": "gracias",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Don_Teodoro",
+            "lema": "don_teodoro",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "agradezco",
+            "lema": "agradecer",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "inmensa",
+            "lema": "inmenso",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "exquisita",
+            "lema": "exquisito",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": "cortes\u00eda",
+            "lema": "cortes\u00eda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "parlamentaria",
+            "lema": "parlamentario",
+            "pos": "AQ0FS00",
+            "prob": "0.995495"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Hay",
+            "lema": "haber",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "algo",
+            "lema": "algo",
+            "pos": "PI0CS00",
+            "prob": "0.854421"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "me",
+            "lema": "me",
+            "pos": "PP1CS00",
+            "prob": "0.755196"
+        },
+        {
+            "word": "llama",
+            "lema": "llamar",
+            "pos": "VMIP3S0",
+            "prob": "0.921569"
+        },
+        {
+            "word": "enormemente",
+            "lema": "enormemente",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "atenci\u00f3n",
+            "lema": "atenci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "0.997312"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Ustedes",
+            "lema": "usted",
+            "pos": "PP2CP0P",
+            "prob": "1"
+        },
+        {
+            "word": "dicen",
+            "lema": "decir",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "van",
+            "lema": "ir",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "ganar",
+            "lema": "ganar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "elecciones",
+            "lema": "elecci\u00f3n",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "Madrid",
+            "lema": "madrid",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "pero",
+            "lema": "pero",
+            "pos": "CC",
+            "prob": "0.999902"
+        },
+        {
+            "word": "ustedes",
+            "lema": "usted",
+            "pos": "PP2CP0P",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "hablan",
+            "lema": "hablar",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "otra",
+            "lema": "otro",
+            "pos": "DI0FS0",
+            "prob": "0.740893"
+        },
+        {
+            "word": "cosa",
+            "lema": "cosa",
+            "pos": "NCFS000",
+            "prob": "0.992574"
+        },
+        {
+            "word": ":",
+            "lema": ":",
+            "pos": "Fd",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "qu\u00e9",
+            "lema": "qu\u00e9",
+            "pos": "DT0CN0",
+            "prob": "0.216289"
+        },
+        {
+            "word": "sentido",
+            "lema": "sentido",
+            "pos": "NCMS000",
+            "prob": "0.940835"
+        },
+        {
+            "word": "tiene",
+            "lema": "tener",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "sesi\u00f3n",
+            "lema": "sesi\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "control",
+            "lema": "control",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "intervenci\u00f3n",
+            "lema": "intervenci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "solamente",
+            "lema": "solamente",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "hable",
+            "lema": "hablar",
+            "pos": "VMSP3S0",
+            "prob": "0.373494"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Madrid",
+            "lema": "madrid",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "me",
+            "lema": "me",
+            "pos": "PP1CS00",
+            "prob": "0.755196"
+        },
+        {
+            "word": "d\u00e9",
+            "lema": "dar",
+            "pos": "VMSP3S0",
+            "prob": "0.498099"
+        },
+        {
+            "word": "consejos",
+            "lema": "consejo",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "sobre",
+            "lema": "sobre",
+            "pos": "SP",
+            "prob": "0.997804"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "campa\u00f1a",
+            "lema": "campa\u00f1a",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "electoral",
+            "lema": "electoral",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "Madrid",
+            "lema": "madrid",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "me",
+            "lema": "me",
+            "pos": "PP1CS00",
+            "prob": "0.755196"
+        },
+        {
+            "word": "diga",
+            "lema": "decir",
+            "pos": "VMSP3S0",
+            "prob": "0.458647"
+        },
+        {
+            "word": "usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "Puerta_de_el_Sol",
+            "lema": "puerta_de_el_sol",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Partido_Popular",
+            "lema": "partido_popular",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Rumores",
+            "lema": "rumores",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

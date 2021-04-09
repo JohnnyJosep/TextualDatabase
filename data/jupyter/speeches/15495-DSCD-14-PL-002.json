@@ -1,7 +1,7 @@
 {
     "metadata": {
         "celebrated": "2021-05-09T00:00:00.000Z",
-        "debate": "PROPOSICIONES NO DE LEY: -- DEL GRUPO PARLAMENTARIO CIUDADANOS, SOBRE LA MEJORA DE LA ATENCIÓN Y PROMOCIÓN DE LA SALUD Y BIENESTAR EMOCIONAL DE LOS JÓVENES. ",
+        "debate": "PROPOSICIONES NO DE LEY: -- DEL GRUPO PARLAMENTARIO CIUDADANOS, SOBRE LA MEJORA DE LA ATENCI\u00d3N Y PROMOCI\u00d3N DE LA SALUD Y BIENESTAR EMOCIONAL DE LOS J\u00d3VENES. ",
         "diputado": [
             {
                 "apellidos": "Rosique i Saltor",
@@ -24,9 +24,353 @@
         ],
         "order": 33,
         "path": "../data/diaries-txts/DSCD-14-PL-084.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "ROSIQUE I SALTOR"
     },
-    "text": "Ya acabo. … y nos movilizamos para defender nuestros derechos se nos criminalizará e incluso se nos reprimirá. Esquerra Republicana y Jovent Republicà van a luchar por un presente y un futuro digno para los jóvenes y por una república de los països catalans que sea feminista, ecologista y económicamente justa. (Aplausos)."
+    "text": "Ya acabo. \u2026 y nos movilizamos para defender nuestros derechos se nos criminalizar\u00e1 e incluso se nos reprimir\u00e1. Esquerra Republicana y Jovent Republic\u00e0 van a luchar por un presente y un futuro digno para los j\u00f3venes y por una rep\u00fablica de los pa\u00efsos catalans que sea feminista, ecologista y econ\u00f3micamente justa. (Aplausos).",
+    "freeling": [
+        {
+            "word": "Ya",
+            "lema": "ya",
+            "pos": "RG",
+            "prob": "0.999785"
+        },
+        {
+            "word": "acabo",
+            "lema": "acabar",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "nos",
+            "lema": "nos",
+            "pos": "PP1CP00",
+            "prob": "0.810258"
+        },
+        {
+            "word": "movilizamos",
+            "lema": "movilizar",
+            "pos": "VMIP1P0",
+            "prob": "0.65"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "defender",
+            "lema": "defender",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "nuestros",
+            "lema": "nuestro",
+            "pos": "DP1MPP",
+            "prob": "0.920918"
+        },
+        {
+            "word": "derechos",
+            "lema": "derecho",
+            "pos": "NCMP000",
+            "prob": "0.996795"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "nos",
+            "lema": "nos",
+            "pos": "PP1CP00",
+            "prob": "0.810258"
+        },
+        {
+            "word": "criminalizar\u00e1",
+            "lema": "criminalizar",
+            "pos": "VMIF3S0",
+            "prob": "1"
+        },
+        {
+            "word": "e",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.987994"
+        },
+        {
+            "word": "incluso",
+            "lema": "incluso",
+            "pos": "RG",
+            "prob": "0.998488"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "nos",
+            "lema": "nos",
+            "pos": "PP1CP00",
+            "prob": "0.810258"
+        },
+        {
+            "word": "reprimir\u00e1",
+            "lema": "reprimir",
+            "pos": "VMIF3S0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Esquerra_Republicana",
+            "lema": "esquerra_republicana",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "Jovent_Republic\u00e0",
+            "lema": "jovent_republic\u00e0",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": "van",
+            "lema": "ir",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "luchar",
+            "lema": "luchar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "presente",
+            "lema": "presente",
+            "pos": "NCMS000",
+            "prob": "0.244403"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "futuro",
+            "lema": "futuro",
+            "pos": "NCMS000",
+            "prob": "0.853084"
+        },
+        {
+            "word": "digno",
+            "lema": "digno",
+            "pos": "AQ0MS00",
+            "prob": "0.97619"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "j\u00f3venes",
+            "lema": "joven",
+            "pos": "NCCP000",
+            "prob": "0.802115"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "rep\u00fablica",
+            "lema": "rep\u00fablica",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "pa\u00efsos",
+            "lema": "pa\u00efsos",
+            "pos": "AQ0MP00",
+            "prob": "0.265314"
+        },
+        {
+            "word": "catalans",
+            "lema": "catar_lan",
+            "pos": "NCCN000",
+            "prob": "0.64999"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "sea",
+            "lema": "ser",
+            "pos": "VSSP1S0",
+            "prob": "0.49434"
+        },
+        {
+            "word": "feminista",
+            "lema": "feminista",
+            "pos": "AQ0CS00",
+            "prob": "0.421345"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "ecologista",
+            "lema": "ecologista",
+            "pos": "AQ0CS00",
+            "prob": "0.97619"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "econ\u00f3micamente",
+            "lema": "econ\u00f3micamente",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "justa",
+            "lema": "justo",
+            "pos": "AQ0FS00",
+            "prob": "0.952941"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplausos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

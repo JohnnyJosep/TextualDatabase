@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-12-15T00:00:00.000Z",
-        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY DE INICIATIVA POPULAR. (VOTACIÓN): -- PROPOSICIÓN DE LEY SOBRE RATIOS DE ENFERMERAS PARA GARANTIZAR LA SEGURIDAD DEL PACIENTE EN CENTROS SANITARIOS Y OTROS ÁMBITOS (CORRESPONDE A LOS NÚMEROS DE EXPEDIENTE 120/000018 DE LA XII LEGISLATURA Y 120/000005 DE LA XIII LEGISLATURA). ",
+        "debate": "TOMA EN CONSIDERACI\u00d3N DE PROPOSICIONES DE LEY DE INICIATIVA POPULAR. (VOTACI\u00d3N): -- PROPOSICI\u00d3N DE LEY SOBRE RATIOS DE ENFERMERAS PARA GARANTIZAR LA SEGURIDAD DEL PACIENTE EN CENTROS SANITARIOS Y OTROS \u00c1MBITOS (CORRESPONDE A LOS N\u00daMEROS DE EXPEDIENTE 120/000018 DE LA XII LEGISLATURA Y 120/000005 DE LA XIII LEGISLATURA). ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,77 @@
         ],
         "order": 173,
         "path": "../data/diaries-txts/DSCD-14-PL-069.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "En consecuencia, se toma en consideración la proposición de ley."
+    "text": "En consecuencia, se toma en consideraci\u00f3n la proposici\u00f3n de ley.",
+    "freeling": [
+        {
+            "word": "En_consecuencia",
+            "lema": "en_consecuencia",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "toma",
+            "lema": "tomar",
+            "pos": "VMIP3S0",
+            "prob": "0.442623"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "consideraci\u00f3n",
+            "lema": "consideraci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "proposici\u00f3n",
+            "lema": "proposici\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "ley",
+            "lema": "ley",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

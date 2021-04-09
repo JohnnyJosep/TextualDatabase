@@ -1,7 +1,7 @@
 {
     "metadata": {
         "celebrated": "2021-05-09T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO MIXTO (SEÑOR MARTÍNEZ OBLANCA), SOBRE EL PROYECTO DE ORDEN DEL MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO PARA INCLUIR A TODAS LAS POBLACIONES DE LOBO IBÉRICO EN EL LISTADO DE ESPECIES EN RÉGIMEN DE ESPECIAL PROTECCIÓN TRAS LA RECIENTE DECISIÓN ADOPTADA POR LA COMISIÓN ESTATAL PARA EL PATRIMONIO NATURAL Y DE LA BIODIVERSIDAD CON EL RECHAZO DE LAS COMUNIDADES AUTÓNOMAS AFECTADAS, ASÍ COMO SUS GRAVES REPERCUSIONES PARA UNA PARTE MUY IMPORTANTE DEL SECTOR GANADERO DE LOS TERRITORIOS AL NORTE DEL DUERO. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO MIXTO (SE\u00d1OR MART\u00cdNEZ OBLANCA), SOBRE EL PROYECTO DE ORDEN DEL MINISTERIO PARA LA TRANSICI\u00d3N ECOL\u00d3GICA Y EL RETO DEMOGR\u00c1FICO PARA INCLUIR A TODAS LAS POBLACIONES DE LOBO IB\u00c9RICO EN EL LISTADO DE ESPECIES EN R\u00c9GIMEN DE ESPECIAL PROTECCI\u00d3N TRAS LA RECIENTE DECISI\u00d3N ADOPTADA POR LA COMISI\u00d3N ESTATAL PARA EL PATRIMONIO NATURAL Y DE LA BIODIVERSIDAD CON EL RECHAZO DE LAS COMUNIDADES AUT\u00d3NOMAS AFECTADAS, AS\u00cd COMO SUS GRAVES REPERCUSIONES PARA UNA PARTE MUY IMPORTANTE DEL SECTOR GANADERO DE LOS TERRITORIOS AL NORTE DEL DUERO. ",
         "diputado": [
             {
                 "apellidos": "Bueno Campanario",
@@ -24,9 +24,53 @@
         ],
         "order": 19,
         "path": "../data/diaries-txts/DSCD-14-PL-084.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "BUENO CAMPANARIO"
     },
-    "text": "Sí, no les gusta…"
+    "text": "S\u00ed, no les gusta\u2026",
+    "freeling": [
+        {
+            "word": "S\u00ed",
+            "lema": "s\u00ed",
+            "pos": "RG",
+            "prob": "0.654652"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "les",
+            "lema": "le",
+            "pos": "PP3CPD0",
+            "prob": "1"
+        },
+        {
+            "word": "gusta",
+            "lema": "gustar",
+            "pos": "VMIP3S0",
+            "prob": "0.99569"
+        },
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

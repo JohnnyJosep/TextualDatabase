@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-24T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA MONTSERRAT BASSA COLL, DEL GRUPO PARLAMENTARIO REPUBLICANO, QUE FORMULA AL GOBIERNO: ¿CREE EL GOBIERNO ESPAÑOL QUE ESTÁ GARANTIZADA LA LIBERTAD DE EXPRESIÓN EN EL ESTADO ESPAÑOL? ",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DO\u00d1A MONTSERRAT BASSA COLL, DEL GRUPO PARLAMENTARIO REPUBLICANO, QUE FORMULA AL GOBIERNO: \u00bfCREE EL GOBIERNO ESPA\u00d1OL QUE EST\u00c1 GARANTIZADA LA LIBERTAD DE EXPRESI\u00d3N EN EL ESTADO ESPA\u00d1OL? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,41 @@
         ],
         "order": 6,
         "path": "../data/diaries-txts/DSCD-14-PL-082.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor ministro de Justicia."
+    "text": "Se\u00f1or ministro de Justicia.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "ministro",
+            "lema": "ministro",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Justicia",
+            "lema": "justicia",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

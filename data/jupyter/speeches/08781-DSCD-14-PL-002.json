@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-29T00:00:00.000Z",
-        "debate": "PROPOSICIONES NO DE LEY: -- DEL GRUPO PARLAMENTARIO EUSKAL HERRIA BILDU, SOBRE SALARIO MÍNIMO INTERPROFESIONAL Y DEROGACIÓN DE REFORMAS LABORALES. ",
+        "debate": "PROPOSICIONES NO DE LEY: -- DEL GRUPO PARLAMENTARIO EUSKAL HERRIA BILDU, SOBRE SALARIO M\u00cdNIMO INTERPROFESIONAL Y DEROGACI\u00d3N DE REFORMAS LABORALES. ",
         "diputado": [
             {
-                "apellidos": "Matute García de Jalón",
-                "apellidosNombre": "Matute García de Jalón, Oskar",
+                "apellidos": "Matute Garc\u00eda de Jal\u00f3n",
+                "apellidosNombre": "Matute Garc\u00eda de Jal\u00f3n, Oskar",
                 "codParlamentario": 63,
                 "fchAlta": "20/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,41 @@
         ],
         "order": 31,
         "path": "../data/diaries-txts/DSCD-14-PL-048.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "MATUTE GARCÍA DE JALÓN"
+        "speacker": "MATUTE GARC\u00cdA DE JAL\u00d3N"
     },
-    "text": "Únicamente la autoenmienda presentada."
+    "text": "\u00danicamente la autoenmienda presentada.",
+    "freeling": [
+        {
+            "word": "\u00danicamente",
+            "lema": "\u00fanicamente",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "autoenmienda",
+            "lema": "autoenmienda",
+            "pos": "NCFS000",
+            "prob": "0.874645"
+        },
+        {
+            "word": "presentada",
+            "lema": "presentar",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

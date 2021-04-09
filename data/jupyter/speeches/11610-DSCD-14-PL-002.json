@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-11-19T00:00:00.000Z",
-        "debate": "DECLARACIÓN SOBRE LA CUENTA GENERAL DEL ESTADO. (VOTACIÓN): -- DICTAMEN DE LA COMISIÓN MIXTA PARA LAS RELACIONES CON EL TRIBUNAL DE CUENTAS EN RELACIÓN CON LA DECLARACIÓN SOBRE LA CUENTA GENERAL DEL ESTADO DEL EJERCICIO 2018, ASÍ COMO LA RESOLUCIÓN ADOPTADA POR DICHA COMISIÓN. ",
+        "debate": "DECLARACI\u00d3N SOBRE LA CUENTA GENERAL DEL ESTADO. (VOTACI\u00d3N): -- DICTAMEN DE LA COMISI\u00d3N MIXTA PARA LAS RELACIONES CON EL TRIBUNAL DE CUENTAS EN RELACI\u00d3N CON LA DECLARACI\u00d3N SOBRE LA CUENTA GENERAL DEL ESTADO DEL EJERCICIO 2018, AS\u00cd COMO LA RESOLUCI\u00d3N ADOPTADA POR DICHA COMISI\u00d3N. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,149 @@
         ],
         "order": 42,
         "path": "../data/diaries-txts/DSCD-14-PL-064.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Quedan aprobados el dictamen y la propuesta de resolución de la Comisión mixta. Muy buenas tardes. Se levanta la sesión."
+    "text": "Quedan aprobados el dictamen y la propuesta de resoluci\u00f3n de la Comisi\u00f3n mixta. Muy buenas tardes. Se levanta la sesi\u00f3n.",
+    "freeling": [
+        {
+            "word": "Quedan",
+            "lema": "quedar",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "aprobados",
+            "lema": "aprobar",
+            "pos": "VMP00PM",
+            "prob": "0.623747"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "dictamen",
+            "lema": "dictamen",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "propuesta",
+            "lema": "propuesta",
+            "pos": "NCFS000",
+            "prob": "0.983384"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "resoluci\u00f3n",
+            "lema": "resoluci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "Comisi\u00f3n",
+            "lema": "comisi\u00f3n",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "mixta",
+            "lema": "mixto",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Muy",
+            "lema": "muy",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "buenas",
+            "lema": "bueno",
+            "pos": "AQ0FP00",
+            "prob": "1"
+        },
+        {
+            "word": "tardes",
+            "lema": "tarde",
+            "pos": "NCFP000",
+            "prob": "0.980769"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "levanta",
+            "lema": "levantar",
+            "pos": "VMIP3S0",
+            "prob": "0.983871"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "sesi\u00f3n",
+            "lema": "sesi\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,7 +1,7 @@
 {
     "metadata": {
         "celebrated": "2020-11-18T00:00:00.000Z",
-        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO VOX, SOBRE LAS MEDIDAS QUE VA A ADOPTAR EL GOBIERNO EN EL ÁMBITO DE LA LIBERTAD DE EXPRESIÓN EN ESPAÑA. ",
+        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO VOX, SOBRE LAS MEDIDAS QUE VA A ADOPTAR EL GOBIERNO EN EL \u00c1MBITO DE LA LIBERTAD DE EXPRESI\u00d3N EN ESPA\u00d1A. ",
         "diputado": [
             {
                 "apellidos": "Mariscal Zabala",
@@ -24,9 +24,29 @@
         ],
         "order": 7,
         "path": "../data/diaries-txts/DSCD-14-PL-063.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "MARISCAL ZABALA"
     },
-    "text": "De acuerdo."
+    "text": "De acuerdo.",
+    "freeling": [
+        {
+            "word": "De",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "acuerdo",
+            "lema": "acuerdo",
+            "pos": "NCMS000",
+            "prob": "0.999311"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

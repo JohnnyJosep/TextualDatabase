@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-11-19T00:00:00.000Z",
-        "debate": "DECLARACIÓN SOBRE LA CUENTA GENERAL DEL ESTADO: -- DICTAMEN DE LA COMISIÓN MIXTA PARA LAS RELACIONES CON EL TRIBUNAL DE CUENTAS EN RELACIÓN CON LA DECLARACIÓN SOBRE LA CUENTA GENERAL DEL ESTADO DEL EJERCICIO 2018, ASÍ COMO LA RESOLUCIÓN ADOPTADA POR DICHA COMISIÓN. ",
+        "debate": "DECLARACI\u00d3N SOBRE LA CUENTA GENERAL DEL ESTADO: -- DICTAMEN DE LA COMISI\u00d3N MIXTA PARA LAS RELACIONES CON EL TRIBUNAL DE CUENTAS EN RELACI\u00d3N CON LA DECLARACI\u00d3N SOBRE LA CUENTA GENERAL DEL ESTADO DEL EJERCICIO 2018, AS\u00cd COMO LA RESOLUCI\u00d3N ADOPTADA POR DICHA COMISI\u00d3N. ",
         "diputado": [
             {
-                "apellidos": "Rodríguez Gómez de Celis",
-                "apellidosNombre": "Rodríguez Gómez de Celis, Alfonso",
+                "apellidos": "Rodr\u00edguez G\u00f3mez de Celis",
+                "apellidosNombre": "Rodr\u00edguez G\u00f3mez de Celis, Alfonso",
                 "codParlamentario": 168,
                 "fchAlta": "25/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,65 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-064.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "VICEPRESIDENTE (Rodrí guez Gómez de Celis)"
+        "speacker": "VICEPRESIDENTE (Rodr\u00ed guez G\u00f3mez de Celis)"
     },
-    "text": "Señoría, se le ha acabado el tiempo."
+    "text": "Se\u00f1or\u00eda, se le ha acabado el tiempo.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or\u00eda",
+            "lema": "se\u00f1or\u00eda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "acabado",
+            "lema": "acabar",
+            "pos": "VMP00SM",
+            "prob": "0.865854"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "tiempo",
+            "lema": "tiempo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-30T00:00:00.000Z",
-        "debate": "PREGUNTA DEL DIPUTADO DON PABLO CASADO BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿ESTÁ PROTEGIENDO EL FUTURO DE LOS ESPAÑOLES? -- DE LA DIPUTADA DOÑA LAURA BORRÀS CASTANYER, DEL GRUPO PARLAMENTARIO PLURAL, QUE FORMULA AL SEÑOR MINISTRO DE JUSTICIA: ¿ES LA TRAMITACIÓN DEL INDULTO LA RESPUESTA POLÍTICA QUE OFRECE EL GOBIERNO PARA LA RESOLUCIÓN DEL CONFLICTO POLÍTICO EN CATALUÑA? ",
+        "debate": "PREGUNTA DEL DIPUTADO DON PABLO CASADO BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR PRESIDENTE DEL GOBIERNO: \u00bfEST\u00c1 PROTEGIENDO EL FUTURO DE LOS ESPA\u00d1OLES? -- DE LA DIPUTADA DO\u00d1A LAURA BORR\u00c0S CASTANYER, DEL GRUPO PARLAMENTARIO PLURAL, QUE FORMULA AL SE\u00d1OR MINISTRO DE JUSTICIA: \u00bfES LA TRAMITACI\u00d3N DEL INDULTO LA RESPUESTA POL\u00cdTICA QUE OFRECE EL GOBIERNO PARA LA RESOLUCI\u00d3N DEL CONFLICTO POL\u00cdTICO EN CATALU\u00d1A? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,41 @@
         ],
         "order": 2,
         "path": "../data/diaries-txts/DSCD-14-PL-049.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor ministro de Justicia."
+    "text": "Se\u00f1or ministro de Justicia.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "ministro",
+            "lema": "ministro",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Justicia",
+            "lema": "justicia",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

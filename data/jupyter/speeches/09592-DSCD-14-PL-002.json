@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-10-14T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON TEODORO GARCÍA EGEA, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR VICEPRESIDENTE SEGUNDO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030: ¿SE VE USTED PREPARADO PARA ATENDER SUS OBLIGACIONES COMO VICEPRESIDENTE TRAS EL A V ANCE DE SUS ÚL TIMAS INFORMACIONES JUDICIALES? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON TEODORO GARC\u00cdA EGEA, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR VICEPRESIDENTE SEGUNDO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030: \u00bfSE VE USTED PREPARADO PARA ATENDER SUS OBLIGACIONES COMO VICEPRESIDENTE TRAS EL A V ANCE DE SUS \u00daL TIMAS INFORMACIONES JUDICIALES? ",
         "diputado": [
             {
-                "apellidos": "García Egea",
-                "apellidosNombre": "García Egea, Teodoro",
+                "apellidos": "Garc\u00eda Egea",
+                "apellidosNombre": "Garc\u00eda Egea, Teodoro",
                 "codParlamentario": 310,
                 "fchAlta": "28/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,371 @@
         ],
         "order": 7,
         "path": "../data/diaries-txts/DSCD-14-PL-052.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "GARCÍA EGEA"
+        "speacker": "GARC\u00cdA EGEA"
     },
-    "text": "Señor aforado Iglesias, viene todos los miércoles envalentonado a esta Cámara con el aforamiento debajo del brazo. ¿Por qué no comparece usted voluntariamente? (Rumores). Manda usted las hordas en Twitter, en la calle, a acosar al juez y a acosar incendiando las calles, pero… (Rumores)."
+    "text": "Se\u00f1or aforado Iglesias, viene todos los mi\u00e9rcoles envalentonado a esta C\u00e1mara con el aforamiento debajo del brazo. \u00bfPor qu\u00e9 no comparece usted voluntariamente? (Rumores). Manda usted las hordas en Twitter, en la calle, a acosar al juez y a acosar incendiando las calles, pero\u2026 (Rumores).",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "aforado",
+            "lema": "aforar",
+            "pos": "VMP00SM",
+            "prob": "0.623747"
+        },
+        {
+            "word": "Iglesias",
+            "lema": "iglesias",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "viene",
+            "lema": "venir",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "todos",
+            "lema": "todo",
+            "pos": "DI0MP0",
+            "prob": "0.70665"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "mi\u00e9rcoles",
+            "lema": "[X:??/??/??:??.??:??]",
+            "pos": "W",
+            "prob": "1"
+        },
+        {
+            "word": "envalentonado",
+            "lema": "envalentonar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "esta",
+            "lema": "este",
+            "pos": "DD0FS0",
+            "prob": "0.978817"
+        },
+        {
+            "word": "C\u00e1mara",
+            "lema": "c\u00e1mara",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "aforamiento",
+            "lema": "aforamiento",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "debajo_de",
+            "lema": "debajo_de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "brazo",
+            "lema": "brazo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "Por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "qu\u00e9",
+            "lema": "qu\u00e9",
+            "pos": "PT00000",
+            "prob": "0.712513"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "comparece",
+            "lema": "comparecer",
+            "pos": "VMIP3S0",
+            "prob": "0.989239"
+        },
+        {
+            "word": "usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": "voluntariamente",
+            "lema": "voluntariamente",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Rumores",
+            "lema": "rumores",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Manda",
+            "lema": "manda",
+            "pos": "NCFS000",
+            "prob": "0.856819"
+        },
+        {
+            "word": "usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "hordas",
+            "lema": "horda",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "Twitter",
+            "lema": "twitter",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "calle",
+            "lema": "calle",
+            "pos": "NCFS000",
+            "prob": "0.995677"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "acosar",
+            "lema": "acosar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "juez",
+            "lema": "juez",
+            "pos": "NCCS000",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "acosar",
+            "lema": "acosar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "incendiando",
+            "lema": "incendiar",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "calles",
+            "lema": "calle",
+            "pos": "NCFP000",
+            "prob": "0.997512"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "pero",
+            "lema": "pero",
+            "pos": "CC",
+            "prob": "0.999902"
+        },
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Rumores",
+            "lema": "rumores",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

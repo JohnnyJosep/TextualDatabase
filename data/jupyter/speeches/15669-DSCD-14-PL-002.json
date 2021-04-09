@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-09T00:00:00.000Z",
-        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY DE COMUNIDADES Y CIUDADES AUTÓNOMAS. (VOTACIÓN): -- DEL P ARLAMENT O DE LAS ILLES BALEARS, SOBRE LA PROTECCIÓN DEL MAR MEDITERRÁNEO BAJO LA JURISDICCIÓN ESPAÑOLA DE LOS DAÑOS QUE PUEDA PRODUCIR LA EXPLORACIÓN, LA INVESTIGACIÓN Y LA EXPLOTACIÓN DE HIDROCARBUROS Y OTRAS ",
+        "debate": "TOMA EN CONSIDERACI\u00d3N DE PROPOSICIONES DE LEY DE COMUNIDADES Y CIUDADES AUT\u00d3NOMAS. (VOTACI\u00d3N): -- DEL P ARLAMENT O DE LAS ILLES BALEARS, SOBRE LA PROTECCI\u00d3N DEL MAR MEDITERR\u00c1NEO BAJO LA JURISDICCI\u00d3N ESPA\u00d1OLA DE LOS DA\u00d1OS QUE PUEDA PRODUCIR LA EXPLORACI\u00d3N, LA INVESTIGACI\u00d3N Y LA EXPLOTACI\u00d3N DE HIDROCARBUROS Y OTRAS ",
         "diputado": [
             {
-                "apellidos": "Díaz Gómez",
-                "apellidosNombre": "Díaz Gómez, Guillermo",
+                "apellidos": "D\u00edaz G\u00f3mez",
+                "apellidosNombre": "D\u00edaz G\u00f3mez, Guillermo",
                 "codParlamentario": 122,
                 "fchAlta": "21/11/2019",
                 "fchBaja": "",
@@ -15,7 +15,7 @@
                 "idCircunscripcion": 29,
                 "idLegislatura": 14,
                 "nombre": "Guillermo",
-                "nombreCircunscripcion": "Málaga",
+                "nombreCircunscripcion": "M\u00e1laga",
                 "twitter": "https://twitter.com/guillermodiazcs",
                 "twitterUserId": "208216783",
                 "twitterUserName": "guillermodiazcs"
@@ -24,9 +24,107 @@
         ],
         "order": 94,
         "path": "../data/diaries-txts/DSCD-14-PL-084.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "DÍAZ GÓMEZ"
+        "speacker": "D\u00cdAZ G\u00d3MEZ"
     },
-    "text": "Estamos trabajando en una transaccional que llevaremos en breve a la Mesa. Muchas gracias."
+    "text": "Estamos trabajando en una transaccional que llevaremos en breve a la Mesa. Muchas gracias.",
+    "freeling": [
+        {
+            "word": "Estamos",
+            "lema": "estar",
+            "pos": "VAIP1P0",
+            "prob": "0.00171821"
+        },
+        {
+            "word": "trabajando",
+            "lema": "trabajar",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "transaccional",
+            "lema": "transaccional",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "llevaremos",
+            "lema": "llevar",
+            "pos": "VMIF1P0",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "breve",
+            "lema": "breve",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "Mesa",
+            "lema": "mesa",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-17T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON IÑAKI RUIZ DE PINEDO UNDIANO, DEL GRUPO PARLAMENTARIO EUSKAL HERRIA BILDU, QUE FORMULA AL SEÑOR MINISTRO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES: ¿INCLUYEN RECORTES LAS REFORMAS REMITIDAS A EUROPA EN MATERIA DE PENSIONES? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON I\u00d1AKI RUIZ DE PINEDO UNDIANO, DEL GRUPO PARLAMENTARIO EUSKAL HERRIA BILDU, QUE FORMULA AL SE\u00d1OR MINISTRO DE INCLUSI\u00d3N, SEGURIDAD SOCIAL Y MIGRACIONES: \u00bfINCLUYEN RECORTES LAS REFORMAS REMITIDAS A EUROPA EN MATERIA DE PENSIONES? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,23 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-088.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Ruiz de Pinedo."
+    "text": "Se\u00f1or Ruiz de Pinedo.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Ruiz_de_Pinedo",
+            "lema": "se\u00f1or_ruiz_de_pinedo",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

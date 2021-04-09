@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-04T00:00:00.000Z",
-        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES: -- REAL DECRET O-LEY 1/2021, DE 19 DE ENERO, DE PROTECCIÓN DE LOS CONSUMIDORES Y USUARIOS FRENTE A SITUACIONES DE VULNERABILIDAD SOCIAL Y ECONÓMICA. ",
+        "debate": "CONVALIDACI\u00d3N O DEROGACI\u00d3N DE REALES DECRETOS-LEYES: -- REAL DECRET O-LEY 1/2021, DE 19 DE ENERO, DE PROTECCI\u00d3N DE LOS CONSUMIDORES Y USUARIOS FRENTE A SITUACIONES DE VULNERABILIDAD SOCIAL Y ECON\u00d3MICA. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,437 @@
         ],
         "order": 146,
         "path": "../data/diaries-txts/DSCD-14-PL-077.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Por lo tanto, se tramita como proyecto de ley por el procedimiento de urgencia. DICTÁMENES DE LA COMISIÓN DE ASUNTOS EXTERIORES SOBRE CONVENIOS INTERNACIONALES. (VOTACIÓN): -- CARTA SOCIAL EUROPEA REVISADA, HECHA EN ESTRASBURGO EL 3 DE MAYO DE 1996, Y DECLARACIÓN QUE ESPAÑA DESEA FORMULAR. -- TRATADO RELATIVO A LA TRANSMISIÓN ELECTRÓNICA DE SOLICITUDES DE COOPERACIÓN JURÍDICA INTERNACIONAL ENTRE AUTORIDADES CENTRALES, HECHO EN MEDELLÍN EL 25 DE JULIO DE 2019."
+    "text": "Por lo tanto, se tramita como proyecto de ley por el procedimiento de urgencia. DICT\u00c1MENES DE LA COMISI\u00d3N DE ASUNTOS EXTERIORES SOBRE CONVENIOS INTERNACIONALES. (VOTACI\u00d3N): -- CARTA SOCIAL EUROPEA REVISADA, HECHA EN ESTRASBURGO EL 3 DE MAYO DE 1996, Y DECLARACI\u00d3N QUE ESPA\u00d1A DESEA FORMULAR. -- TRATADO RELATIVO A LA TRANSMISI\u00d3N ELECTR\u00d3NICA DE SOLICITUDES DE COOPERACI\u00d3N JUR\u00cdDICA INTERNACIONAL ENTRE AUTORIDADES CENTRALES, HECHO EN MEDELL\u00cdN EL 25 DE JULIO DE 2019.",
+    "freeling": [
+        {
+            "word": "Por_lo_tanto",
+            "lema": "por_lo_tanto",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "tramita",
+            "lema": "tramitar",
+            "pos": "VMIP3S0",
+            "prob": "0.989241"
+        },
+        {
+            "word": "como",
+            "lema": "como",
+            "pos": "CS",
+            "prob": "0.967153"
+        },
+        {
+            "word": "proyecto",
+            "lema": "proyecto",
+            "pos": "NCMS000",
+            "prob": "0.999084"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "ley",
+            "lema": "ley",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "procedimiento",
+            "lema": "procedimiento",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "urgencia",
+            "lema": "urgencia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "DICT\u00c1MENES",
+            "lema": "dictamen",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "LA",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "COMISI\u00d3N",
+            "lema": "comisi\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "ASUNTOS",
+            "lema": "asunto",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "EXTERIORES",
+            "lema": "exterior",
+            "pos": "AQ0CP00",
+            "prob": "0.97619"
+        },
+        {
+            "word": "SOBRE",
+            "lema": "sobre",
+            "pos": "SP",
+            "prob": "0.997804"
+        },
+        {
+            "word": "CONVENIOS",
+            "lema": "convenio",
+            "pos": "NCMP000",
+            "prob": "0.991071"
+        },
+        {
+            "word": "INTERNACIONALES",
+            "lema": "internacional",
+            "pos": "AQ0CP00",
+            "prob": "0.948505"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "VOTACI\u00d3N",
+            "lema": "votaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ":",
+            "lema": ":",
+            "pos": "Fd",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": "CARTA",
+            "lema": "carta",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "SOCIAL",
+            "lema": "social",
+            "pos": "AQ0CS00",
+            "prob": "0.998783"
+        },
+        {
+            "word": "EUROPEA",
+            "lema": "europeo",
+            "pos": "AQ0FS00",
+            "prob": "0.997449"
+        },
+        {
+            "word": "REVISADA",
+            "lema": "revisar",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "HECHA",
+            "lema": "hacer",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": "EN",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "ESTRASBURGO",
+            "lema": "estrasburgo",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "3_DE_MAYO_DE_1996",
+            "lema": "[??:3/5/1996:??.??:??]",
+            "pos": "W",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "DECLARACI\u00d3N",
+            "lema": "declaraci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "QUE",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "ESPA\u00d1A",
+            "lema": "espa\u00f1a",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "DESEA",
+            "lema": "desear",
+            "pos": "VMIP3S0",
+            "prob": "0.987805"
+        },
+        {
+            "word": "FORMULAR",
+            "lema": "formular",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": "TRATADO",
+            "lema": "tratado",
+            "pos": "NCMS000",
+            "prob": "0.378049"
+        },
+        {
+            "word": "RELATIVO",
+            "lema": "relativo",
+            "pos": "AQ0MS00",
+            "prob": "0.980769"
+        },
+        {
+            "word": "A",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "LA",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "TRANSMISI\u00d3N",
+            "lema": "transmisi\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "ELECTR\u00d3NICA",
+            "lema": "electr\u00f3nico",
+            "pos": "AQ0FS00",
+            "prob": "0.922535"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "SOLICITUDES",
+            "lema": "solicitud",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "COOPERACI\u00d3N",
+            "lema": "cooperaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "JUR\u00cdDICA",
+            "lema": "jur\u00eddico",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": "INTERNACIONAL",
+            "lema": "internacional",
+            "pos": "AQ0CS00",
+            "prob": "0.970532"
+        },
+        {
+            "word": "ENTRE",
+            "lema": "entre",
+            "pos": "SP",
+            "prob": "0.980341"
+        },
+        {
+            "word": "AUTORIDADES",
+            "lema": "autoridades",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "CENTRALES",
+            "lema": "central",
+            "pos": "AQ0CP00",
+            "prob": "0.333333"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "HECHO",
+            "lema": "hacer",
+            "pos": "VMP00SM",
+            "prob": "0.638262"
+        },
+        {
+            "word": "EN",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "MEDELL\u00cdN",
+            "lema": "medell\u00edn",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "25_DE_JULIO_DE_2019",
+            "lema": "[??:25/7/2019:??.??:??]",
+            "pos": "W",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

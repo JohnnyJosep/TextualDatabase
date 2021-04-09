@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-03T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON PABLO CASADO BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿CÓMO VALORA LA ACTUAL SITUACIÓN DE ESPAÑA? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON PABLO CASADO BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR PRESIDENTE DEL GOBIERNO: \u00bfC\u00d3MO VALORA LA ACTUAL SITUACI\u00d3N DE ESPA\u00d1A? ",
         "diputado": [
             {
-                "apellidos": "Sánchez Pérez-Castejón",
-                "apellidosNombre": "Sánchez Pérez-Castejón, Pedro",
+                "apellidos": "S\u00e1nchez P\u00e9rez-Castej\u00f3n",
+                "apellidosNombre": "S\u00e1nchez P\u00e9rez-Castej\u00f3n, Pedro",
                 "codParlamentario": 274,
                 "fchAlta": "27/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,95 @@
         ],
         "order": 7,
         "path": "../data/diaries-txts/DSCD-14-PL-076.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "PRESIDENTE DEL GOBIERNO (Sánchez Pérez-Castejón)"
+        "speacker": "PRESIDENTE DEL GOBIERNO (S\u00e1nchez P\u00e9rez-Castej\u00f3n)"
     },
-    "text": "Fíjese, yo solamente le pido… (Continúan las protestas)."
+    "text": "F\u00edjese, yo solamente le pido\u2026 (Contin\u00faan las protestas).",
+    "freeling": [
+        {
+            "word": "Fije",
+            "lema": "fijar",
+            "pos": "VMM03S0",
+            "prob": "1"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "PP3CN00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "yo",
+            "lema": "yo",
+            "pos": "PP1CSN0",
+            "prob": "1"
+        },
+        {
+            "word": "solamente",
+            "lema": "solamente",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "pido",
+            "lema": "pedir",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Contin\u00faan",
+            "lema": "continuar",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "protestas",
+            "lema": "protesta",
+            "pos": "NCFP000",
+            "prob": "0.995868"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

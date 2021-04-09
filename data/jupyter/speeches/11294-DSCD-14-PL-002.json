@@ -1,20 +1,20 @@
 {
     "metadata": {
         "celebrated": "2020-11-19T00:00:00.000Z",
-        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS: -- PROYECTO DE LEY ORGÁNICA POR LA QUE SE MODIFICA LA LEY ORGÁNICA 2/2006, DE 3 DE MAYO, DE EDUCACIÓN. ",
+        "debate": "DICT\u00c1MENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS: -- PROYECTO DE LEY ORG\u00c1NICA POR LA QUE SE MODIFICA LA LEY ORG\u00c1NICA 2/2006, DE 3 DE MAYO, DE EDUCACI\u00d3N. ",
         "diputado": [
             {
-                "apellidos": "Sabanés Nadal",
-                "apellidosNombre": "Sabanés Nadal, Inés",
+                "apellidos": "Saban\u00e9s Nadal",
+                "apellidosNombre": "Saban\u00e9s Nadal, In\u00e9s",
                 "codParlamentario": 234,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
-                "formacion": "MÁS PAÍS-EQUO",
+                "formacion": "M\u00c1S PA\u00cdS-EQUO",
                 "genero": 2,
                 "grupo": "Grupo Parlamentario Plural",
                 "idCircunscripcion": 28,
                 "idLegislatura": 14,
-                "nombre": "Inés",
+                "nombre": "In\u00e9s",
                 "nombreCircunscripcion": "Madrid",
                 "twitter": "https://twitter.com/isabanes",
                 "twitterUserId": "110442665",
@@ -24,9 +24,77 @@
         ],
         "order": 25,
         "path": "../data/diaries-txts/DSCD-14-PL-064.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "SABANÉS NADAL"
+        "speacker": "SABAN\u00c9S NADAL"
     },
-    "text": "Vamos a apoyar la ley. Muchas gracias, presidenta."
+    "text": "Vamos a apoyar la ley. Muchas gracias, presidenta.",
+    "freeling": [
+        {
+            "word": "Vamos",
+            "lema": "ir",
+            "pos": "VMIP1P0",
+            "prob": "0.965015"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "apoyar",
+            "lema": "apoyar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "ley",
+            "lema": "ley",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

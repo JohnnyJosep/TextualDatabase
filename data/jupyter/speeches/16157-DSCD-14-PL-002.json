@@ -1,7 +1,7 @@
 {
     "metadata": {
         "celebrated": "2021-05-16T00:00:00.000Z",
-        "debate": "JURAMENTO O PROMESA DE ACATAMIENTO DE LA CONSTITUCIÓN POR NUEVOS SEÑORES DIPUTADOS.",
+        "debate": "JURAMENTO O PROMESA DE ACATAMIENTO DE LA CONSTITUCI\u00d3N POR NUEVOS SE\u00d1ORES DIPUTADOS.",
         "diputado": [
             {
                 "apellidos": "Segura Just",
@@ -21,9 +21,59 @@
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-087.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "SEGURA JUST"
     },
-    "text": "Sí, juro. (Aplausos)."
+    "text": "S\u00ed, juro. (Aplausos).",
+    "freeling": [
+        {
+            "word": "S\u00ed",
+            "lema": "s\u00ed",
+            "pos": "RG",
+            "prob": "0.654652"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "juro",
+            "lema": "jurar",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplausos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

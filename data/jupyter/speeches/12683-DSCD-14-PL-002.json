@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-12-15T00:00:00.000Z",
-        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY DE INICIATIVA POPULAR. (VOTACIÓN): -- PROPOSICIÓN DE LEY SOBRE RATIOS DE ENFERMERAS PARA GARANTIZAR LA SEGURIDAD DEL PACIENTE EN CENTROS SANITARIOS Y OTROS ÁMBITOS (CORRESPONDE A LOS NÚMEROS DE EXPEDIENTE 120/000018 DE LA XII LEGISLATURA Y 120/000005 DE LA XIII LEGISLATURA). ",
+        "debate": "TOMA EN CONSIDERACI\u00d3N DE PROPOSICIONES DE LEY DE INICIATIVA POPULAR. (VOTACI\u00d3N): -- PROPOSICI\u00d3N DE LEY SOBRE RATIOS DE ENFERMERAS PARA GARANTIZAR LA SEGURIDAD DEL PACIENTE EN CENTROS SANITARIOS Y OTROS \u00c1MBITOS (CORRESPONDE A LOS N\u00daMEROS DE EXPEDIENTE 120/000018 DE LA XII LEGISLATURA Y 120/000005 DE LA XIII LEGISLATURA). ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,53 @@
         ],
         "order": 111,
         "path": "../data/diaries-txts/DSCD-14-PL-069.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Agirretxea, ha terminado su tiempo."
+    "text": "Se\u00f1or Agirretxea, ha terminado su tiempo.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Agirretxea",
+            "lema": "se\u00f1or_agirretxea",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "terminado",
+            "lema": "terminar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "tiempo",
+            "lema": "tiempo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

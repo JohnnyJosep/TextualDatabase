@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-12-03T00:00:00.000Z",
-        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (CONTINUACIÓN): -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL AÑO 2021. (CONTINUACIÓN). ",
+        "debate": "DICT\u00c1MENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (CONTINUACI\u00d3N): -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL A\u00d1O 2021. (CONTINUACI\u00d3N). ",
         "diputado": [
             {
-                "apellidos": "Meijón Couselo",
-                "apellidosNombre": "Meijón Couselo, Guillermo Antonio",
+                "apellidos": "Meij\u00f3n Couselo",
+                "apellidosNombre": "Meij\u00f3n Couselo, Guillermo Antonio",
                 "codParlamentario": 1,
                 "fchAlta": "18/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,527 @@
         ],
         "order": 21,
         "path": "../data/diaries-txts/DSCD-14-PL-068.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "MEIJÓN COUSELO"
+        "speacker": "MEIJ\u00d3N COUSELO"
     },
-    "text": "Grazas, presidenta. Señorías, como aquí ya se ha dicho, los presupuestos de las secciones a las que se dedica este apartado van destinados a asegurar el buen funcionamiento de aquellas instituciones que componen nuestro actual entramado constitucional. Las escasas enmiendas --algunas retiradas-- presentadas a estas secciones, concretamente al Tribunal de Cuentas, al Constitucional, al Consejo General del Poder Judicial o a la Casa Real, responden más a un gesto o a un discurso político… (Rumores)."
+    "text": "Grazas, presidenta. Se\u00f1or\u00edas, como aqu\u00ed ya se ha dicho, los presupuestos de las secciones a las que se dedica este apartado van destinados a asegurar el buen funcionamiento de aquellas instituciones que componen nuestro actual entramado constitucional. Las escasas enmiendas --algunas retiradas-- presentadas a estas secciones, concretamente al Tribunal de Cuentas, al Constitucional, al Consejo General del Poder Judicial o a la Casa Real, responden m\u00e1s a un gesto o a un discurso pol\u00edtico\u2026 (Rumores).",
+    "freeling": [
+        {
+            "word": "Grazas",
+            "lema": "grazas",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Se\u00f1or\u00edas",
+            "lema": "se\u00f1or\u00eda",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "como",
+            "lema": "como",
+            "pos": "CS",
+            "prob": "0.967153"
+        },
+        {
+            "word": "aqu\u00ed",
+            "lema": "aqu\u00ed",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "ya",
+            "lema": "ya",
+            "pos": "RG",
+            "prob": "0.999785"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "dicho",
+            "lema": "decir",
+            "pos": "VMP00SM",
+            "prob": "0.997159"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "presupuestos",
+            "lema": "presupuesto",
+            "pos": "NCMP000",
+            "prob": "0.987805"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "secciones",
+            "lema": "secci\u00f3n",
+            "pos": "NCFP000",
+            "prob": "0.998103"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "dedica",
+            "lema": "dedicar",
+            "pos": "VMIP3S0",
+            "prob": "0.983871"
+        },
+        {
+            "word": "este",
+            "lema": "este",
+            "pos": "DD0MS0",
+            "prob": "0.949201"
+        },
+        {
+            "word": "apartado",
+            "lema": "apartado",
+            "pos": "NCMS000",
+            "prob": "0.663043"
+        },
+        {
+            "word": "van",
+            "lema": "ir",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "destinados",
+            "lema": "destinar",
+            "pos": "VMP00PM",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "asegurar",
+            "lema": "asegurar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "buen",
+            "lema": "bueno",
+            "pos": "AQ0MS00",
+            "prob": "1"
+        },
+        {
+            "word": "funcionamiento",
+            "lema": "funcionamiento",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "aquellas",
+            "lema": "aquel",
+            "pos": "DD0FP0",
+            "prob": "0.819767"
+        },
+        {
+            "word": "instituciones",
+            "lema": "instituci\u00f3n",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "componen",
+            "lema": "componer",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "nuestro",
+            "lema": "nuestro",
+            "pos": "DP1MSP",
+            "prob": "0.957064"
+        },
+        {
+            "word": "actual",
+            "lema": "actual",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "entramado",
+            "lema": "entramado",
+            "pos": "NCMS000",
+            "prob": "0.980769"
+        },
+        {
+            "word": "constitucional",
+            "lema": "constitucional",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "escasas",
+            "lema": "escaso",
+            "pos": "AQ0FP00",
+            "prob": "0.738095"
+        },
+        {
+            "word": "enmiendas",
+            "lema": "enmienda",
+            "pos": "NCFP000",
+            "prob": "0.980769"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": "algunas",
+            "lema": "alguno",
+            "pos": "DI0FP0",
+            "prob": "0.640135"
+        },
+        {
+            "word": "retiradas",
+            "lema": "retirada",
+            "pos": "NCFP000",
+            "prob": "0.576183"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": "presentadas",
+            "lema": "presentar",
+            "pos": "VMP00PF",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "estas",
+            "lema": "este",
+            "pos": "DD0FP0",
+            "prob": "0.969897"
+        },
+        {
+            "word": "secciones",
+            "lema": "secci\u00f3n",
+            "pos": "NCFP000",
+            "prob": "0.998103"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "concretamente",
+            "lema": "concretamente",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Tribunal_de_Cuentas",
+            "lema": "tribunal_de_cuentas",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Constitucional",
+            "lema": "constitucional",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Consejo_General_de_el_Poder_Judicial",
+            "lema": "consejo_general_de_el_poder_judicial",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "o",
+            "lema": "o",
+            "pos": "CC",
+            "prob": "0.999864"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "Casa_Real",
+            "lema": "casa_real",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "responden",
+            "lema": "responder",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "m\u00e1s",
+            "lema": "m\u00e1s",
+            "pos": "RG",
+            "prob": "0.99993"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "gesto",
+            "lema": "gesto",
+            "pos": "NCMS000",
+            "prob": "0.991071"
+        },
+        {
+            "word": "o",
+            "lema": "o",
+            "pos": "CC",
+            "prob": "0.999864"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "discurso",
+            "lema": "discurso",
+            "pos": "NCMS000",
+            "prob": "0.997512"
+        },
+        {
+            "word": "pol\u00edtico",
+            "lema": "pol\u00edtico",
+            "pos": "AQ0MS00",
+            "prob": "0.792842"
+        },
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Rumores",
+            "lema": "rumores",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

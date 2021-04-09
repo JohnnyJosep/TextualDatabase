@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-09T00:00:00.000Z",
-        "debate": "PROPOSICIONES NO DE LEY: -- DEL GRUPO P ARLAMENT ARIO EUSKAL HERRIA BILDU, SOBRE LA REALIDAD PLURILINGÜE E IGUALDAD LINGÜÍSTICA. ",
+        "debate": "PROPOSICIONES NO DE LEY: -- DEL GRUPO P ARLAMENT ARIO EUSKAL HERRIA BILDU, SOBRE LA REALIDAD PLURILING\u00dcE E IGUALDAD LING\u00dc\u00cdSTICA. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,47 @@
         ],
         "order": 38,
         "path": "../data/diaries-txts/DSCD-14-PL-084.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Muy bien, muchísimas gracias."
+    "text": "Muy bien, much\u00edsimas gracias.",
+    "freeling": [
+        {
+            "word": "Muy",
+            "lema": "muy",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "bien",
+            "lema": "bien",
+            "pos": "RG",
+            "prob": "0.876088"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "much\u00edsimas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.763114"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-23T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON EDMUNDO BAL FRANCÉS, DEL GRUPO PARLAMENTARIO CIUDADANOS, QUE FORMULA AL SEÑOR MINISTRO DE SANIDAD: ¿CÓMO VALORA EL GOBIERNO SU GESTIÓN DE LA SEGUNDA OLA DE LA PANDEMIA DE LA COVID-19? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON EDMUNDO BAL FRANC\u00c9S, DEL GRUPO PARLAMENTARIO CIUDADANOS, QUE FORMULA AL SE\u00d1OR MINISTRO DE SANIDAD: \u00bfC\u00d3MO VALORA EL GOBIERNO SU GESTI\u00d3N DE LA SEGUNDA OLA DE LA PANDEMIA DE LA COVID-19? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,41 @@
         ],
         "order": 2,
         "path": "../data/diaries-txts/DSCD-14-PL-047.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor ministro de Sanidad."
+    "text": "Se\u00f1or ministro de Sanidad.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "ministro",
+            "lema": "ministro",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Sanidad",
+            "lema": "sanidad",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

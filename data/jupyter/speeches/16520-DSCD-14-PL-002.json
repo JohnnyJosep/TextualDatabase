@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-17T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (CONTINUACIÓN): -- DEL GRUPO PARLAMENTARIO VOX, SOBRE QUÉ MEDIDAS VA A ADOPTAR EL GOBIERNO PARA DEJAR DE HUMILLAR A LAS VÍCTIMAS DEL TERRORISMO DE ETA. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (CONTINUACI\u00d3N): -- DEL GRUPO PARLAMENTARIO VOX, SOBRE QU\u00c9 MEDIDAS VA A ADOPTAR EL GOBIERNO PARA DEJAR DE HUMILLAR A LAS V\u00cdCTIMAS DEL TERRORISMO DE ETA. ",
         "diputado": [
             {
-                "apellidos": "Rodríguez Gómez de Celis",
-                "apellidosNombre": "Rodríguez Gómez de Celis, Alfonso",
+                "apellidos": "Rodr\u00edguez G\u00f3mez de Celis",
+                "apellidosNombre": "Rodr\u00edguez G\u00f3mez de Celis, Alfonso",
                 "codParlamentario": 168,
                 "fchAlta": "25/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,575 @@
         ],
         "order": 2,
         "path": "../data/diaries-txts/DSCD-14-PL-088.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "VICEPRESIDENTE (Rodrí guez Gómez de Celis)"
+        "speacker": "VICEPRESIDENTE (Rodr\u00ed guez G\u00f3mez de Celis)"
     },
-    "text": "Señoría, un segundo, por favor. Creo que todos los que estamos aquí asistiendo a esta sesión somos representantes del pueblo, cada uno con su ideología, y le pediría que a ninguno de los que estamos aquí presentes le imputara ningún delito, como está haciendo en este caso llamándoles algo tan grave como terroristas. No se lo voy a permitir. Continúe como iba, con todo lo que usted quiera expresar, pero hágalo, por favor, de manera correcta. (Protestas)."
+    "text": "Se\u00f1or\u00eda, un segundo, por favor. Creo que todos los que estamos aqu\u00ed asistiendo a esta sesi\u00f3n somos representantes del pueblo, cada uno con su ideolog\u00eda, y le pedir\u00eda que a ninguno de los que estamos aqu\u00ed presentes le imputara ning\u00fan delito, como est\u00e1 haciendo en este caso llam\u00e1ndoles algo tan grave como terroristas. No se lo voy a permitir. Contin\u00fae como iba, con todo lo que usted quiera expresar, pero h\u00e1galo, por favor, de manera correcta. (Protestas).",
+    "freeling": [
+        {
+            "word": "Se\u00f1or\u00eda",
+            "lema": "se\u00f1or\u00eda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "segundo",
+            "lema": "2",
+            "pos": "AO0MS00",
+            "prob": "0.901147"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por_favor",
+            "lema": "por_favor",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Creo",
+            "lema": "creer",
+            "pos": "VMIP1S0",
+            "prob": "0.5"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "todos",
+            "lema": "todo",
+            "pos": "DI0MP0",
+            "prob": "0.70665"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "estamos",
+            "lema": "estar",
+            "pos": "VMIP1P0",
+            "prob": "0.998282"
+        },
+        {
+            "word": "aqu\u00ed",
+            "lema": "aqu\u00ed",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "asistiendo",
+            "lema": "asistir",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "esta",
+            "lema": "este",
+            "pos": "DD0FS0",
+            "prob": "0.978817"
+        },
+        {
+            "word": "sesi\u00f3n",
+            "lema": "sesi\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "somos",
+            "lema": "ser",
+            "pos": "VSIP1P0",
+            "prob": "1"
+        },
+        {
+            "word": "representantes",
+            "lema": "representante",
+            "pos": "NCCP000",
+            "prob": "0.998221"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "pueblo",
+            "lema": "pueblo",
+            "pos": "NCMS000",
+            "prob": "0.998392"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "cada",
+            "lema": "cada",
+            "pos": "DI0CS0",
+            "prob": "1"
+        },
+        {
+            "word": "uno",
+            "lema": "uno",
+            "pos": "PI0MS00",
+            "prob": "0.981709"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "ideolog\u00eda",
+            "lema": "ideolog\u00eda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "pedir\u00eda",
+            "lema": "pedir",
+            "pos": "VMIC3S0",
+            "prob": "0.65"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "ninguno",
+            "lema": "ninguno",
+            "pos": "PI0MS00",
+            "prob": "0.996575"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "estamos",
+            "lema": "estar",
+            "pos": "VMIP1P0",
+            "prob": "0.998282"
+        },
+        {
+            "word": "aqu\u00ed",
+            "lema": "aqu\u00ed",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "presentes",
+            "lema": "presente",
+            "pos": "AQ0CP00",
+            "prob": "0.856209"
+        },
+        {
+            "word": "le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "imputara",
+            "lema": "imputar",
+            "pos": "VMSI3S0",
+            "prob": "0.649999"
+        },
+        {
+            "word": "ning\u00fan",
+            "lema": "ninguno",
+            "pos": "DI0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "delito",
+            "lema": "delito",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "como",
+            "lema": "como",
+            "pos": "CS",
+            "prob": "0.967153"
+        },
+        {
+            "word": "est\u00e1",
+            "lema": "estar",
+            "pos": "VMIP3S0",
+            "prob": "0.999398"
+        },
+        {
+            "word": "haciendo",
+            "lema": "hacendar",
+            "pos": "VMIP1S0",
+            "prob": "0.00268817"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "este",
+            "lema": "este",
+            "pos": "DD0MS0",
+            "prob": "0.949201"
+        },
+        {
+            "word": "caso",
+            "lema": "caso",
+            "pos": "NCMS000",
+            "prob": "0.999445"
+        },
+        {
+            "word": "llamando",
+            "lema": "llamar",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": "les",
+            "lema": "le",
+            "pos": "PP3CPD0",
+            "prob": "1"
+        },
+        {
+            "word": "algo",
+            "lema": "algo",
+            "pos": "PI0CS00",
+            "prob": "0.854421"
+        },
+        {
+            "word": "tan",
+            "lema": "tan",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "grave",
+            "lema": "grave",
+            "pos": "AQ0CS00",
+            "prob": "0.993802"
+        },
+        {
+            "word": "como",
+            "lema": "como",
+            "pos": "CS",
+            "prob": "0.967153"
+        },
+        {
+            "word": "terroristas",
+            "lema": "terrorista",
+            "pos": "AQ0CP00",
+            "prob": "0.408088"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "No",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "lo",
+            "lema": "lo",
+            "pos": "PP3MSA0",
+            "prob": "0.334764"
+        },
+        {
+            "word": "voy",
+            "lema": "ir",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "permitir",
+            "lema": "permitir",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Contin\u00fae",
+            "lema": "continuar",
+            "pos": "VMSP3S0",
+            "prob": "0.634863"
+        },
+        {
+            "word": "como",
+            "lema": "como",
+            "pos": "CS",
+            "prob": "0.967153"
+        },
+        {
+            "word": "iba",
+            "lema": "ir",
+            "pos": "VMII3S0",
+            "prob": "0.64348"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "todo",
+            "lema": "todo",
+            "pos": "DI0MS0",
+            "prob": "0.6662"
+        },
+        {
+            "word": "lo",
+            "lema": "el",
+            "pos": "DA00S0",
+            "prob": "0.665165"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": "quiera",
+            "lema": "querer",
+            "pos": "VMSP3S0",
+            "prob": "0.493976"
+        },
+        {
+            "word": "expresar",
+            "lema": "expresar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "pero",
+            "lema": "pero",
+            "pos": "CC",
+            "prob": "0.999902"
+        },
+        {
+            "word": "haga",
+            "lema": "hacer",
+            "pos": "VMM03S0",
+            "prob": "1"
+        },
+        {
+            "word": "lo",
+            "lema": "lo",
+            "pos": "PP3MSA0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por_favor",
+            "lema": "por_favor",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "manera",
+            "lema": "manera",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "correcta",
+            "lema": "correcto",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Protestas",
+            "lema": "protestas",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

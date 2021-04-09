@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-17T00:00:00.000Z",
-        "debate": "EAJ-JPNV. -- DE LA DIPUTADA DOÑA CAROLINA ESPAÑA REINA, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA MINISTRA DE HACIENDA: ¿DIMITIRÁ LA MINISTRA SI ES INVESTIGADA POR EL CASO ISOFOTÓN? ",
+        "debate": "EAJ-JPNV. -- DE LA DIPUTADA DO\u00d1A CAROLINA ESPA\u00d1A REINA, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SE\u00d1ORA MINISTRA DE HACIENDA: \u00bfDIMITIR\u00c1 LA MINISTRA SI ES INVESTIGADA POR EL CASO ISOFOT\u00d3N? ",
         "diputado": [
             {
-                "apellidos": "España Reina",
-                "apellidosNombre": "España Reina, Carolina",
+                "apellidos": "Espa\u00f1a Reina",
+                "apellidosNombre": "Espa\u00f1a Reina, Carolina",
                 "codParlamentario": 316,
                 "fchAlta": "28/11/2019",
                 "fchBaja": "",
@@ -15,7 +15,7 @@
                 "idCircunscripcion": 29,
                 "idLegislatura": 14,
                 "nombre": "Carolina",
-                "nombreCircunscripcion": "Málaga",
+                "nombreCircunscripcion": "M\u00e1laga",
                 "twitter": "https://twitter.com/CarolinaEspanaR",
                 "twitterUserId": "700630213462401024",
                 "twitterUserName": "CarolinaEspanaR"
@@ -24,9 +24,125 @@
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-079.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "ESPAÑA REINA"
+        "speacker": "ESPA\u00d1A REINA"
     },
-    "text": "Gracias, presidenta. Señora ministra, ¿va a dimitir si es investigada por el caso Isofotón?"
+    "text": "Gracias, presidenta. Se\u00f1ora ministra, \u00bfva a dimitir si es investigada por el caso Isofot\u00f3n?",
+    "freeling": [
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "ministra",
+            "lema": "ministro",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "va",
+            "lema": "ir",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "dimitir",
+            "lema": "dimitir",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "si",
+            "lema": "si",
+            "pos": "CS",
+            "prob": "0.999827"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "investigada",
+            "lema": "investigar",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "caso",
+            "lema": "caso",
+            "pos": "NCMS000",
+            "prob": "0.999445"
+        },
+        {
+            "word": "Isofot\u00f3n",
+            "lema": "isofot\u00f3n",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        }
+    ]
 }

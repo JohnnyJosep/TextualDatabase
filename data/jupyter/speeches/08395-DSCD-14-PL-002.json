@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-22T00:00:00.000Z",
-        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY. (VOTACIÓN): -- DEL GRUPO PARLAMENTARIO CIUDADANOS, ORGÁNICA DE MODIFICACIÓN DE LA LEY ORGÁNICA 6/1985, DE 1 DE JULIO, DEL PODER JUDICIAL, PARA EL REFUERZO DE LA INDEPENDENCIA JUDICIAL. ",
+        "debate": "TOMA EN CONSIDERACI\u00d3N DE PROPOSICIONES DE LEY. (VOTACI\u00d3N): -- DEL GRUPO PARLAMENTARIO CIUDADANOS, ORG\u00c1NICA DE MODIFICACI\u00d3N DE LA LEY ORG\u00c1NICA 6/1985, DE 1 DE JULIO, DEL PODER JUDICIAL, PARA EL REFUERZO DE LA INDEPENDENCIA JUDICIAL. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,125 @@
         ],
         "order": 133,
         "path": "../data/diaries-txts/DSCD-14-PL-046.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Gracias, señora Cantera. Señor Gutiérrez, ¿he entendido de su intervención que acepta la enmienda presentada?"
+    "text": "Gracias, se\u00f1ora Cantera. Se\u00f1or Guti\u00e9rrez, \u00bfhe entendido de su intervenci\u00f3n que acepta la enmienda presentada?",
+    "freeling": [
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "Cantera",
+            "lema": "cantera",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Se\u00f1or_Guti\u00e9rrez",
+            "lema": "se\u00f1or_guti\u00e9rrez",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "he",
+            "lema": "haber",
+            "pos": "VAIP1S0",
+            "prob": "0.962485"
+        },
+        {
+            "word": "entendido",
+            "lema": "entender",
+            "pos": "VMP00SM",
+            "prob": "0.97619"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "intervenci\u00f3n",
+            "lema": "intervenci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "acepta",
+            "lema": "aceptar",
+            "pos": "VMIP3S0",
+            "prob": "0.968254"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "enmienda",
+            "lema": "enmienda",
+            "pos": "NCFS000",
+            "prob": "0.953488"
+        },
+        {
+            "word": "presentada",
+            "lema": "presentar",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        }
+    ]
 }

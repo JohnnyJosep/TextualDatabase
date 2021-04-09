@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-17T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON EDMUNDO BAL FRANCÉS, DEL GRUPO PARLAMENTARIO CIUDADANOS, QUE FORMULA AL SEÑOR VICEPRESIDENTE SEGUNDO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030: ¿ESTÁ SATISFECHO EL VICEPRESIDENTE SEGUNDO DEL GOBIERNO CON SU LABOR AL FRENTE DEL MINISTERIO? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON EDMUNDO BAL FRANC\u00c9S, DEL GRUPO PARLAMENTARIO CIUDADANOS, QUE FORMULA AL SE\u00d1OR VICEPRESIDENTE SEGUNDO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030: \u00bfEST\u00c1 SATISFECHO EL VICEPRESIDENTE SEGUNDO DEL GOBIERNO CON SU LABOR AL FRENTE DEL MINISTERIO? ",
         "diputado": [
             {
-                "apellidos": "Bal Francés",
-                "apellidosNombre": "Bal Francés, Edmundo",
+                "apellidos": "Bal Franc\u00e9s",
+                "apellidosNombre": "Bal Franc\u00e9s, Edmundo",
                 "codParlamentario": 211,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,119 @@
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-088.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "BAL FRANCÉS"
+        "speacker": "BAL FRANC\u00c9S"
     },
-    "text": "Señor Iglesias, ¿qué valoración hace usted del desempeño en este Gobierno del que huye?"
+    "text": "Se\u00f1or Iglesias, \u00bfqu\u00e9 valoraci\u00f3n hace usted del desempe\u00f1o en este Gobierno del que huye?",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Iglesias",
+            "lema": "se\u00f1or_iglesias",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "qu\u00e9",
+            "lema": "qu\u00e9",
+            "pos": "DT0CN0",
+            "prob": "0.216289"
+        },
+        {
+            "word": "valoraci\u00f3n",
+            "lema": "valoraci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "hace",
+            "lema": "hacer",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "desempe\u00f1o",
+            "lema": "desempe\u00f1o",
+            "pos": "NCMS000",
+            "prob": "0.989726"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "este",
+            "lema": "este",
+            "pos": "DD0MS0",
+            "prob": "0.949201"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "huye",
+            "lema": "huir",
+            "pos": "VMIP3S0",
+            "prob": "0.989234"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        }
+    ]
 }

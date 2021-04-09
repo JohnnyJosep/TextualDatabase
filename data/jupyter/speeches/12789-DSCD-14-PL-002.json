@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-12-16T00:00:00.000Z",
-        "debate": "COMPARECENCIA DEL GOBIERNO ANTE EL PLENO DE LA CÁMARA, DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO 203 DEL REGLAMENTO: -- SOLICITUD DE COMPARECENCIA, A PETICIÓN PROPIA, DEL PRESIDENTE DEL GOBIERNO ANTE EL PLENO DEL CONGRESO DE LOS DIPUTADOS, PARA INFORMAR DEL CONSEJO EUROPEO EXTRAORDINARIO CELEBRADO LOS DÍAS 1 Y 2 DE OCTUBRE Y DE LOS CONSEJOS EUROPEOS ORDINARIOS CELEBRADOS LOS DÍAS 15 Y 16 DE OCTUBRE Y EL CELEBRADO LOS DÍAS 10 Y 11 DE DICIEMBRE, ASÍ COMO EN CUMPLIMIENTO DEL ARTÍCULO 14 DEL REAL DECRETO 926/2020, DE 25 DE OCTUBRE, POR EL QUE SE DECLARA EL ESTADO DE ALARMA ",
+        "debate": "COMPARECENCIA DEL GOBIERNO ANTE EL PLENO DE LA C\u00c1MARA, DE CONFORMIDAD CON LO DISPUESTO POR EL ART\u00cdCULO 203 DEL REGLAMENTO: -- SOLICITUD DE COMPARECENCIA, A PETICI\u00d3N PROPIA, DEL PRESIDENTE DEL GOBIERNO ANTE EL PLENO DEL CONGRESO DE LOS DIPUTADOS, PARA INFORMAR DEL CONSEJO EUROPEO EXTRAORDINARIO CELEBRADO LOS D\u00cdAS 1 Y 2 DE OCTUBRE Y DE LOS CONSEJOS EUROPEOS ORDINARIOS CELEBRADOS LOS D\u00cdAS 15 Y 16 DE OCTUBRE Y EL CELEBRADO LOS D\u00cdAS 10 Y 11 DE DICIEMBRE, AS\u00cd COMO EN CUMPLIMIENTO DEL ART\u00cdCULO 14 DEL REAL DECRETO 926/2020, DE 25 DE OCTUBRE, POR EL QUE SE DECLARA EL ESTADO DE ALARMA ",
         "diputado": [
             {
-                "apellidos": "Rodríguez Gómez de Celis",
-                "apellidosNombre": "Rodríguez Gómez de Celis, Alfonso",
+                "apellidos": "Rodr\u00edguez G\u00f3mez de Celis",
+                "apellidosNombre": "Rodr\u00edguez G\u00f3mez de Celis, Alfonso",
                 "codParlamentario": 168,
                 "fchAlta": "25/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,53 @@
         ],
         "order": 41,
         "path": "../data/diaries-txts/DSCD-14-PL-070.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "VICEPRESIDENTE (Rodrí guez Gómez de Celis)"
+        "speacker": "VICEPRESIDENTE (Rodr\u00ed guez G\u00f3mez de Celis)"
     },
-    "text": "Señor Errejón, ha terminado su tiempo."
+    "text": "Se\u00f1or Errej\u00f3n, ha terminado su tiempo.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Errej\u00f3n",
+            "lema": "se\u00f1or_errej\u00f3n",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "terminado",
+            "lema": "terminar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "tiempo",
+            "lema": "tiempo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

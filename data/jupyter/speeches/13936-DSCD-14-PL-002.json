@@ -1,7 +1,7 @@
 {
     "metadata": {
         "celebrated": "2021-02-03T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON PABLO CASADO BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿CÓMO VALORA LA ACTUAL SITUACIÓN DE ESPAÑA? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON PABLO CASADO BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR PRESIDENTE DEL GOBIERNO: \u00bfC\u00d3MO VALORA LA ACTUAL SITUACI\u00d3N DE ESPA\u00d1A? ",
         "diputado": [
             {
                 "apellidos": "Casado Blanco",
@@ -24,9 +24,251 @@
         ],
         "order": 11,
         "path": "../data/diaries-txts/DSCD-14-PL-076.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "CASADO BLANCO"
     },
-    "text": "Conteste a la pregunta. ¿Por qué ha mutilado un informe del Consejo de Estado? Dígalo ya o quien calla, otorga, señor Sánchez. (Varios señores diputados: ¡Bien!--Aplausos)."
+    "text": "Conteste a la pregunta. \u00bfPor qu\u00e9 ha mutilado un informe del Consejo de Estado? D\u00edgalo ya o quien calla, otorga, se\u00f1or S\u00e1nchez. (Varios se\u00f1ores diputados: \u00a1Bien!--Aplausos).",
+    "freeling": [
+        {
+            "word": "Conteste",
+            "lema": "conteste",
+            "pos": "AQ0CS00",
+            "prob": "0.78231"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "pregunta",
+            "lema": "pregunta",
+            "pos": "NCFS000",
+            "prob": "0.694581"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "Por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "qu\u00e9",
+            "lema": "qu\u00e9",
+            "pos": "PT00000",
+            "prob": "0.712513"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "mutilado",
+            "lema": "mutilar",
+            "pos": "VMP00SM",
+            "prob": "0.590382"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "informe",
+            "lema": "informe",
+            "pos": "NCMS000",
+            "prob": "0.954286"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Consejo_de_Estado",
+            "lema": "consejo_de_estado",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        },
+        {
+            "word": "Diga",
+            "lema": "decir",
+            "pos": "VMM03S0",
+            "prob": "1"
+        },
+        {
+            "word": "lo",
+            "lema": "lo",
+            "pos": "PP3MSA0",
+            "prob": "1"
+        },
+        {
+            "word": "ya",
+            "lema": "ya",
+            "pos": "RG",
+            "prob": "0.999785"
+        },
+        {
+            "word": "o",
+            "lema": "o",
+            "pos": "CC",
+            "prob": "0.999864"
+        },
+        {
+            "word": "quien",
+            "lema": "quien",
+            "pos": "PR0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "calla",
+            "lema": "callar",
+            "pos": "VMIP3S0",
+            "prob": "0.421838"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "otorga",
+            "lema": "otorgar",
+            "pos": "VMIP3S0",
+            "prob": "0.983871"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "S\u00e1nchez",
+            "lema": "s\u00e1nchez",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Varios",
+            "lema": "varios",
+            "pos": "DI0MP0",
+            "prob": "0.9139"
+        },
+        {
+            "word": "se\u00f1ores",
+            "lema": "se\u00f1or",
+            "pos": "AQ0MP00",
+            "prob": "0.361294"
+        },
+        {
+            "word": "diputados",
+            "lema": "diputado",
+            "pos": "NCMP000",
+            "prob": "0.99569"
+        },
+        {
+            "word": ":",
+            "lema": ":",
+            "pos": "Fd",
+            "prob": "1"
+        },
+        {
+            "word": "\u00a1",
+            "lema": "\u00a1",
+            "pos": "Faa",
+            "prob": "1"
+        },
+        {
+            "word": "Bien",
+            "lema": "bien",
+            "pos": "RG",
+            "prob": "0.876088"
+        },
+        {
+            "word": "!",
+            "lema": "!",
+            "pos": "Fat",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplauso",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

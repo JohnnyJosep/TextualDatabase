@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-10-28T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (CONTINUACIÓN): -- DEL GRUPO P ARLAMENT ARIO CIUDADANOS, SOBRE LAS MEDIDAS QUE PIENSA ADOPT AR EL GOBIERNO PARA GARANTIZAR EL CUMPLIMIENTO DE LOS PRINCIPIOS DE NEUTRALIDAD E IMPARCIALIDAD INSTITUCIONAL DE LAS UNIVERSIDADES EN CATALUÑA. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (CONTINUACI\u00d3N): -- DEL GRUPO P ARLAMENT ARIO CIUDADANOS, SOBRE LAS MEDIDAS QUE PIENSA ADOPT AR EL GOBIERNO PARA GARANTIZAR EL CUMPLIMIENTO DE LOS PRINCIPIOS DE NEUTRALIDAD E IMPARCIALIDAD INSTITUCIONAL DE LAS UNIVERSIDADES EN CATALU\u00d1A. ",
         "diputado": [
             {
-                "apellidos": "Martín Llaguno",
-                "apellidosNombre": "Martín Llaguno, Marta",
+                "apellidos": "Mart\u00edn Llaguno",
+                "apellidosNombre": "Mart\u00edn Llaguno, Marta",
                 "codParlamentario": 155,
                 "fchAlta": "25/11/2019",
                 "fchBaja": "",
@@ -21,9 +21,89 @@
         ],
         "order": 3,
         "path": "../data/diaries-txts/DSCD-14-PL-058.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "MARTÍN LLAGUNO"
+        "speacker": "MART\u00cdN LLAGUNO"
     },
-    "text": "… y si no garantizamos la neutralidad democrática… (Aplausos)."
+    "text": "\u2026 y si no garantizamos la neutralidad democr\u00e1tica\u2026 (Aplausos).",
+    "freeling": [
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "si",
+            "lema": "si",
+            "pos": "CS",
+            "prob": "0.999827"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "garantizamos",
+            "lema": "garantizar",
+            "pos": "VMIP1P0",
+            "prob": "0.65"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "neutralidad",
+            "lema": "neutralidad",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "democr\u00e1tica",
+            "lema": "democr\u00e1tico",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplausos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

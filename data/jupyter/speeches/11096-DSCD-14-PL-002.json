@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-11-18T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON IVÁN ESPINOSA DE LOS MONTEROS DE SIMÓN, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA A LA SEÑORA VICEPRESIDENTA PRIMERA Y MINISTRA DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCRÁTICA: ¿POR QUÉ EL GOBIERNO SE DESENTIENDE DE LOS PROBLEMAS REALES DE LOS ESPAÑOLES? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON IV\u00c1N ESPINOSA DE LOS MONTEROS DE SIM\u00d3N, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA A LA SE\u00d1ORA VICEPRESIDENTA PRIMERA Y MINISTRA DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCR\u00c1TICA: \u00bfPOR QU\u00c9 EL GOBIERNO SE DESENTIENDE DE LOS PROBLEMAS REALES DE LOS ESPA\u00d1OLES? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,53 @@
         ],
         "order": 6,
         "path": "../data/diaries-txts/DSCD-14-PL-063.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señora vicepresidenta primera del Gobierno."
+    "text": "Se\u00f1ora vicepresidenta primera del Gobierno.",
+    "freeling": [
+        {
+            "word": "Se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "vicepresidenta",
+            "lema": "vicepresidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "primera",
+            "lema": "1",
+            "pos": "AO0FS00",
+            "prob": "0.995242"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

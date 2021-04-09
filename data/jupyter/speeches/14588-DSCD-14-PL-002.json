@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-17T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA MÍRIAM NOGUERAS I CAMERO, DEL GRUPO PARLAMENTARIO PLURAL, EN SUSTITUCIÓN DE LA DIPUTADA DOÑA LAURA BORRÀS CASTANYER, DEL GRUPO PARLAMENTARIO PLURAL, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿A RAÍZ DE LOS ÚLTIMOS HECHOS, EL GOBIERNO SIGUE PENSANDO QUE LAS RELACIONES ENTRE CATALUÑA Y ESPAÑA SOLO SON UN CONFLICTO INTERNO? ",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DO\u00d1A M\u00cdRIAM NOGUERAS I CAMERO, DEL GRUPO PARLAMENTARIO PLURAL, EN SUSTITUCI\u00d3N DE LA DIPUTADA DO\u00d1A LAURA BORR\u00c0S CASTANYER, DEL GRUPO PARLAMENTARIO PLURAL, QUE FORMULA AL SE\u00d1OR PRESIDENTE DEL GOBIERNO: \u00bfA RA\u00cdZ DE LOS \u00daLTIMOS HECHOS, EL GOBIERNO SIGUE PENSANDO QUE LAS RELACIONES ENTRE CATALU\u00d1A Y ESPA\u00d1A SOLO SON UN CONFLICTO INTERNO? ",
         "diputado": [
             {
                 "apellidos": "Nogueras i Camero",
-                "apellidosNombre": "Nogueras i Camero, Míriam",
+                "apellidosNombre": "Nogueras i Camero, M\u00edriam",
                 "codParlamentario": 27,
                 "fchAlta": "19/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario Plural",
                 "idCircunscripcion": 8,
                 "idLegislatura": 14,
-                "nombre": "Míriam",
+                "nombre": "M\u00edriam",
                 "nombreCircunscripcion": "Barcelona",
                 "twitter": "https://twitter.com/miriamnoguerasM",
                 "twitterUserId": "343507680",
@@ -24,9 +24,227 @@
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-079.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "NOGUERAS I CAMERO"
     },
-    "text": "Gracias, presidenta. A raíz de los últimos acontecimientos, ¿el Gobierno en general y el presidente en particular siguen pensando que las relaciones entre Cataluña y España son solo un conflicto interno? Gracias."
+    "text": "Gracias, presidenta. A ra\u00edz de los \u00faltimos acontecimientos, \u00bfel Gobierno en general y el presidente en particular siguen pensando que las relaciones entre Catalu\u00f1a y Espa\u00f1a son solo un conflicto interno? Gracias.",
+    "freeling": [
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "A_ra\u00edz_de",
+            "lema": "a_ra\u00edz_de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "\u00faltimos",
+            "lema": "\u00faltimo",
+            "pos": "AO0MP00",
+            "prob": "1"
+        },
+        {
+            "word": "acontecimientos",
+            "lema": "acontecimiento",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "general",
+            "lema": "general",
+            "pos": "AQ0CS00",
+            "prob": "0.826212"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "presidente",
+            "lema": "presidente",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "particular",
+            "lema": "particular",
+            "pos": "NCCS000",
+            "prob": "0.172131"
+        },
+        {
+            "word": "siguen",
+            "lema": "seguir",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "pensando",
+            "lema": "pensar",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "relaciones",
+            "lema": "relaci\u00f3n",
+            "pos": "NCFP000",
+            "prob": "0.998155"
+        },
+        {
+            "word": "entre",
+            "lema": "entre",
+            "pos": "SP",
+            "prob": "0.980341"
+        },
+        {
+            "word": "Catalu\u00f1a",
+            "lema": "catalu\u00f1a",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "Espa\u00f1a",
+            "lema": "espa\u00f1a",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": "son",
+            "lema": "ser",
+            "pos": "VSIP3P0",
+            "prob": "0.995197"
+        },
+        {
+            "word": "solo",
+            "lema": "solo",
+            "pos": "RG",
+            "prob": "0.210162"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "conflicto",
+            "lema": "conflicto",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "interno",
+            "lema": "interno",
+            "pos": "AQ0MS00",
+            "prob": "0.986014"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        },
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

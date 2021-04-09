@@ -1,7 +1,7 @@
 {
     "metadata": {
         "celebrated": "2020-12-17T00:00:00.000Z",
-        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES. (VOTACIÓN): -- REAL DECRETO-LEY 34/2020, DE 17 DE NOVIEMBRE, DE MEDIDAS URGENTES DE APOYO A LA SOLVENCIA EMPRESARIAL Y AL SECTOR ENERGÉTICO, Y EN MATERIA TRIBUTARIA. ",
+        "debate": "CONVALIDACI\u00d3N O DEROGACI\u00d3N DE REALES DECRETOS-LEYES. (VOTACI\u00d3N): -- REAL DECRETO-LEY 34/2020, DE 17 DE NOVIEMBRE, DE MEDIDAS URGENTES DE APOYO A LA SOLVENCIA EMPRESARIAL Y AL SECTOR ENERGE\u0301TICO, Y EN MATERIA TRIBUTARIA. ",
         "diputado": [
             {
                 "apellidos": "Fuentes Curbelo",
@@ -24,9 +24,125 @@
         ],
         "order": 54,
         "path": "../data/diaries-txts/DSCD-14-PL-071.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "FUENTES CURBELO"
     },
-    "text": "Quiero desearles mucha felicidad en estas fiestas y mucha salud. Muchas gracias. (Aplausos)."
+    "text": "Quiero desearles mucha felicidad en estas fiestas y mucha salud. Muchas gracias. (Aplausos).",
+    "freeling": [
+        {
+            "word": "Quiero",
+            "lema": "querer",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "desear",
+            "lema": "desear",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "les",
+            "lema": "le",
+            "pos": "PP3CPD0",
+            "prob": "1"
+        },
+        {
+            "word": "mucha",
+            "lema": "mucho",
+            "pos": "DI0FS0",
+            "prob": "0.99763"
+        },
+        {
+            "word": "felicidad",
+            "lema": "felicidad",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "estas",
+            "lema": "este",
+            "pos": "DD0FP0",
+            "prob": "0.969897"
+        },
+        {
+            "word": "fiestas",
+            "lema": "fiesta",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "mucha",
+            "lema": "mucho",
+            "pos": "DI0FS0",
+            "prob": "0.99763"
+        },
+        {
+            "word": "salud",
+            "lema": "salud",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplausos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

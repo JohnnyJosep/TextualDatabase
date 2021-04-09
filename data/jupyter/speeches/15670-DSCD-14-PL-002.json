@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-09T00:00:00.000Z",
-        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY DE COMUNIDADES Y CIUDADES AUTÓNOMAS. (VOTACIÓN): -- DEL P ARLAMENT O DE LAS ILLES BALEARS, SOBRE LA PROTECCIÓN DEL MAR MEDITERRÁNEO BAJO LA JURISDICCIÓN ESPAÑOLA DE LOS DAÑOS QUE PUEDA PRODUCIR LA EXPLORACIÓN, LA INVESTIGACIÓN Y LA EXPLOTACIÓN DE HIDROCARBUROS Y OTRAS ",
+        "debate": "TOMA EN CONSIDERACI\u00d3N DE PROPOSICIONES DE LEY DE COMUNIDADES Y CIUDADES AUT\u00d3NOMAS. (VOTACI\u00d3N): -- DEL P ARLAMENT O DE LAS ILLES BALEARS, SOBRE LA PROTECCI\u00d3N DEL MAR MEDITERR\u00c1NEO BAJO LA JURISDICCI\u00d3N ESPA\u00d1OLA DE LOS DA\u00d1OS QUE PUEDA PRODUCIR LA EXPLORACI\u00d3N, LA INVESTIGACI\u00d3N Y LA EXPLOTACI\u00d3N DE HIDROCARBUROS Y OTRAS ",
         "diputado": [
             {
-                "apellidos": "Rodríguez Gómez de Celis",
-                "apellidosNombre": "Rodríguez Gómez de Celis, Alfonso",
+                "apellidos": "Rodr\u00edguez G\u00f3mez de Celis",
+                "apellidosNombre": "Rodr\u00edguez G\u00f3mez de Celis, Alfonso",
                 "codParlamentario": 168,
                 "fchAlta": "25/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,113 @@
         ],
         "order": 95,
         "path": "../data/diaries-txts/DSCD-14-PL-084.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "VICEPRESIDENTE (Rodrí guez Gómez de Celis)"
+        "speacker": "VICEPRESIDENTE (Rodr\u00ed guez G\u00f3mez de Celis)"
     },
-    "text": "Gracias. -- DEL GRUPO P ARLAMENT ARIO EUSKAL HERRIA BILDU, SOBRE LA REALIDAD PLURILINGÜE E IGUALDAD LINGÜÍSTICA."
+    "text": "Gracias. -- DEL GRUPO P ARLAMENT ARIO EUSKAL HERRIA BILDU, SOBRE LA REALIDAD PLURILING\u00dcE E IGUALDAD LING\u00dc\u00cdSTICA.",
+    "freeling": [
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "GRUPO_P_ARLAMENT",
+            "lema": "grupo_p_arlament",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "ARIO",
+            "lema": "ario",
+            "pos": "AQ0MS00",
+            "prob": "0.516134"
+        },
+        {
+            "word": "EUSKAL_HERRIA_BILDU",
+            "lema": "euskal_herria_bildu",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "SOBRE",
+            "lema": "sobre",
+            "pos": "SP",
+            "prob": "0.997804"
+        },
+        {
+            "word": "LA",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "REALIDAD",
+            "lema": "realidad",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "PLURILING\u00dcE",
+            "lema": "pluriling\u00fce",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "E",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.987994"
+        },
+        {
+            "word": "IGUALDAD",
+            "lema": "igualdad",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "LING\u00dc\u00cdSTICA",
+            "lema": "ling\u00fc\u00edstico",
+            "pos": "AQ0FS00",
+            "prob": "0.516134"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

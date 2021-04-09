@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-24T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA MACARENA OLONA CHOCLÁN, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SEÑOR MINISTRO DE POLÍTICA TERRITORIAL Y FUNCIÓN PÚBLICA: ¿CUÁL ES SU FUNCIÓN EN EL GOBIERNO DE ESPAÑA? ",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DO\u00d1A MACARENA OLONA CHOCL\u00c1N, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SE\u00d1OR MINISTRO DE POL\u00cdTICA TERRITORIAL Y FUNCI\u00d3N P\u00daBLICA: \u00bfCU\u00c1L ES SU FUNCI\u00d3N EN EL GOBIERNO DE ESPA\u00d1A? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,23 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-091.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señora Olona."
+    "text": "Se\u00f1ora Olona.",
+    "freeling": [
+        {
+            "word": "Se\u00f1ora_Olona",
+            "lema": "se\u00f1ora_olona",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

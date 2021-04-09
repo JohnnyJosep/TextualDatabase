@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-12-15T00:00:00.000Z",
-        "debate": "PROPOSICIONES NO DE LEY: -- DEL GRUPO PARLAMENTARIO SOCIALISTA, SOBRE EL ABORDAJE DEL IMPACTO SOCIAL Y SANITARIO FRENTE A LA CRECIENTE PROLIFERACIÓN DE LAS CASAS DE APUESTAS Y SALONES DE JUEGO. ",
+        "debate": "PROPOSICIONES NO DE LEY: -- DEL GRUPO PARLAMENTARIO SOCIALISTA, SOBRE EL ABORDAJE DEL IMPACTO SOCIAL Y SANITARIO FRENTE A LA CRECIENTE PROLIFERACI\u00d3N DE LAS CASAS DE APUESTAS Y SALONES DE JUEGO. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,53 @@
         ],
         "order": 20,
         "path": "../data/diaries-txts/DSCD-14-PL-069.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Agirretxea, ha terminado su tiempo."
+    "text": "Se\u00f1or Agirretxea, ha terminado su tiempo.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Agirretxea",
+            "lema": "se\u00f1or_agirretxea",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "terminado",
+            "lema": "terminar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "tiempo",
+            "lema": "tiempo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-24T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA MACARENA OLONA CHOCLÁN, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SEÑOR MINISTRO DE POLÍTICA TERRITORIAL Y FUNCIÓN PÚBLICA: ¿CUÁL ES SU FUNCIÓN EN EL GOBIERNO DE ESPAÑA? ",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DO\u00d1A MACARENA OLONA CHOCL\u00c1N, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SE\u00d1OR MINISTRO DE POL\u00cdTICA TERRITORIAL Y FUNCI\u00d3N P\u00daBLICA: \u00bfCU\u00c1L ES SU FUNCI\u00d3N EN EL GOBIERNO DE ESPA\u00d1A? ",
         "diputado": [
             {
-                "apellidos": "Álvarez de Toledo Peralta-Ramos",
-                "apellidosNombre": "Álvarez de Toledo Peralta-Ramos, Cayetana",
+                "apellidos": "\u00c1lvarez de Toledo Peralta-Ramos",
+                "apellidosNombre": "\u00c1lvarez de Toledo Peralta-Ramos, Cayetana",
                 "codParlamentario": 308,
                 "fchAlta": "28/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,347 @@
         ],
         "order": 3,
         "path": "../data/diaries-txts/DSCD-14-PL-091.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "MINISTRO DE POLÍTICA TERRITORIAL Y FUNCIÓN PÚBLICA (Iceta i Llorens)"
+        "speacker": "MINISTRO DE POL\u00cdTICA TERRITORIAL Y FUNCI\u00d3N P\u00daBLICA (Iceta i Llorens)"
     },
-    "text": "Gracias, presidenta. Me corresponde proponer y ejecutar la acción del Gobierno en materia de política territorial, organización territorial del Estado, relaciones con las comunidades autónomas, las ciudades autónomas de Ceuta y Melilla y las entidades locales, y también en materia de Función pública, administración y gobernanza. (Aplausos)."
+    "text": "Gracias, presidenta. Me corresponde proponer y ejecutar la acci\u00f3n del Gobierno en materia de pol\u00edtica territorial, organizaci\u00f3n territorial del Estado, relaciones con las comunidades aut\u00f3nomas, las ciudades aut\u00f3nomas de Ceuta y Melilla y las entidades locales, y tambi\u00e9n en materia de Funci\u00f3n p\u00fablica, administraci\u00f3n y gobernanza. (Aplausos).",
+    "freeling": [
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Me",
+            "lema": "me",
+            "pos": "PP1CS00",
+            "prob": "0.755196"
+        },
+        {
+            "word": "corresponde",
+            "lema": "corresponder",
+            "pos": "VMIP3S0",
+            "prob": "0.996183"
+        },
+        {
+            "word": "proponer",
+            "lema": "proponer",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "ejecutar",
+            "lema": "ejecutar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "acci\u00f3n",
+            "lema": "acci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "en_materia_de",
+            "lema": "en_materia_de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "pol\u00edtica",
+            "lema": "pol\u00edtica",
+            "pos": "NCFS000",
+            "prob": "0.369481"
+        },
+        {
+            "word": "territorial",
+            "lema": "territorial",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "organizaci\u00f3n",
+            "lema": "organizaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "territorial",
+            "lema": "territorial",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Estado",
+            "lema": "estado",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "relaciones",
+            "lema": "relaci\u00f3n",
+            "pos": "NCFP000",
+            "prob": "0.998155"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "comunidades",
+            "lema": "comunidad",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "aut\u00f3nomas",
+            "lema": "aut\u00f3nomo",
+            "pos": "AQ0FP00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "ciudades",
+            "lema": "ciudad",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "aut\u00f3nomas",
+            "lema": "aut\u00f3nomo",
+            "pos": "AQ0FP00",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Ceuta",
+            "lema": "ceuta",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "Melilla",
+            "lema": "melilla",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "entidades",
+            "lema": "entidad",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "locales",
+            "lema": "local",
+            "pos": "AQ0CP00",
+            "prob": "0.618483"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "tambi\u00e9n",
+            "lema": "tambi\u00e9n",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "en_materia_de",
+            "lema": "en_materia_de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "Funci\u00f3n",
+            "lema": "funci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "p\u00fablica",
+            "lema": "p\u00fablico",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "administraci\u00f3n",
+            "lema": "administraci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "gobernanza",
+            "lema": "gobernanza",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplausos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

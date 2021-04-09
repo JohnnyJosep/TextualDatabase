@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-17T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA MACARENA OLONA CHOCLÁN, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA SEÑOR VICEPRESIDENTE SEGUNDO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030: ¿QUÉ ESTÁ APORTANDO A ESPAÑA SU PRESENCIA EN EL GOBIERNO? ",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DO\u00d1A MACARENA OLONA CHOCL\u00c1N, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA SE\u00d1OR VICEPRESIDENTE SEGUNDO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030: \u00bfQU\u00c9 EST\u00c1 APORTANDO A ESPA\u00d1A SU PRESENCIA EN EL GOBIERNO? ",
         "diputado": [
             {
-                "apellidos": "Olona Choclán",
-                "apellidosNombre": "Olona Choclán, Macarena",
+                "apellidos": "Olona Chocl\u00e1n",
+                "apellidosNombre": "Olona Chocl\u00e1n, Macarena",
                 "codParlamentario": 84,
                 "fchAlta": "20/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,65 @@
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-079.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "OLONA CHOCLÁN"
+        "speacker": "OLONA CHOCL\u00c1N"
     },
-    "text": "Gracias, presidenta. La doy por reproducida."
+    "text": "Gracias, presidenta. La doy por reproducida.",
+    "freeling": [
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "La",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "doy",
+            "lema": "dar",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "reproducida",
+            "lema": "reproducir",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

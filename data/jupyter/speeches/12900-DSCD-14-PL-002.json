@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-12-16T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON OSKAR MATUTE GARCÍA DE JALÓN, DEL GRUPO PARLAMENTARIO EUSKAL HERRIA BILDU, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿DECIDE LA CEOE LA POLÍTICA LABORAL DE ESTE GOBIERNO? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON OSKAR MATUTE GARC\u00cdA DE JAL\u00d3N, DEL GRUPO PARLAMENTARIO EUSKAL HERRIA BILDU, QUE FORMULA AL SE\u00d1OR PRESIDENTE DEL GOBIERNO: \u00bfDECIDE LA CEOE LA POL\u00cdTICA LABORAL DE ESTE GOBIERNO? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,47 @@
         ],
         "order": 2,
         "path": "../data/diaries-txts/DSCD-14-PL-070.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor presidente del Gobierno."
+    "text": "Se\u00f1or presidente del Gobierno.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "presidente",
+            "lema": "presidente",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

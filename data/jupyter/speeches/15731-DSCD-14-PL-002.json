@@ -1,7 +1,7 @@
 {
     "metadata": {
         "celebrated": "2021-05-09T00:00:00.000Z",
-        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY DE COMUNIDADES Y CIUDADES AUTÓNOMAS. (VOTACIÓN): -- DEL P ARLAMENT O DE LAS ILLES BALEARS, SOBRE LA PROTECCIÓN DEL MAR MEDITERRÁNEO BAJO LA JURISDICCIÓN ESPAÑOLA DE LOS DAÑOS QUE PUEDA PRODUCIR LA EXPLORACIÓN, LA INVESTIGACIÓN Y LA EXPLOTACIÓN DE HIDROCARBUROS Y OTRAS ",
+        "debate": "TOMA EN CONSIDERACI\u00d3N DE PROPOSICIONES DE LEY DE COMUNIDADES Y CIUDADES AUT\u00d3NOMAS. (VOTACI\u00d3N): -- DEL P ARLAMENT O DE LAS ILLES BALEARS, SOBRE LA PROTECCI\u00d3N DEL MAR MEDITERR\u00c1NEO BAJO LA JURISDICCI\u00d3N ESPA\u00d1OLA DE LOS DA\u00d1OS QUE PUEDA PRODUCIR LA EXPLORACI\u00d3N, LA INVESTIGACI\u00d3N Y LA EXPLOTACI\u00d3N DE HIDROCARBUROS Y OTRAS ",
         "diputado": [
             {
                 "apellidos": "Bueno Campanario",
@@ -24,9 +24,65 @@
         ],
         "order": 156,
         "path": "../data/diaries-txts/DSCD-14-PL-084.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "BUENO CAMPANARIO"
     },
-    "text": "Están ustedes muy educados. (Rumores)."
+    "text": "Est\u00e1n ustedes muy educados. (Rumores).",
+    "freeling": [
+        {
+            "word": "Est\u00e1n",
+            "lema": "estar",
+            "pos": "VMIP3P0",
+            "prob": "0.99949"
+        },
+        {
+            "word": "ustedes",
+            "lema": "usted",
+            "pos": "PP2CP0P",
+            "prob": "1"
+        },
+        {
+            "word": "muy",
+            "lema": "muy",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "educados",
+            "lema": "educar",
+            "pos": "VMP00PM",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Rumores",
+            "lema": "rumores",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

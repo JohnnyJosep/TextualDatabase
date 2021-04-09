@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-10T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA MARÍA TERESA JIMÉNEZ-BECERRIL BARRIO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿CÓMO ENCAJA EL ACTO PROPAGANDÍSTICO DE DESTRUCCIÓN DE ARMAS DE ETA CON EL ACUERDO CON BILDU DE ACERCAMIENTO DE CINCO ETARRAS A LA SEMANA? ",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DO\u00d1A MAR\u00cdA TERESA JIM\u00c9NEZ-BECERRIL BARRIO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR MINISTRO DEL INTERIOR: \u00bfC\u00d3MO ENCAJA EL ACTO PROPAGAND\u00cdSTICO DE DESTRUCCI\u00d3N DE ARMAS DE ETA CON EL ACUERDO CON BILDU DE ACERCAMIENTO DE CINCO ETARRAS A LA SEMANA? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,47 @@
         ],
         "order": 2,
         "path": "../data/diaries-txts/DSCD-14-PL-085.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor ministro del Interior."
+    "text": "Se\u00f1or ministro del Interior.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "ministro",
+            "lema": "ministro",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Interior",
+            "lema": "interior",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

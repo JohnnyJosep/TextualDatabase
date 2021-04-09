@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-10-29T00:00:00.000Z",
-        "debate": "ENMIENDAS DEL SENADO: -- PROYECTO DE LEY REGULADORA DE DETERMINADOS ASPECTOS DE LOS SERVICIOS ELECTRÓNICOS DE CONFIANZA. ",
+        "debate": "ENMIENDAS DEL SENADO: -- PROYECTO DE LEY REGULADORA DE DETERMINADOS ASPECTOS DE LOS SERVICIOS ELECTR\u00d3NICOS DE CONFIANZA. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,467 @@
         ],
         "order": 53,
         "path": "../data/diaries-txts/DSCD-14-PL-059.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Dictámenes de Comisiones sobre iniciativas legislativa. Propuesta de reforma de la Ley Orgánica 4/1982, de 9 de junio, de Estatuto de Autonomía de la Región de Murcia. Votación del dictamen de la Comisión. Comienza la votación. (Pausa). Efectuada la votación, dio el siguiente resultado: votos emitidos, 92 más 250 votos telemáticos, 342; a favor, 92 más 177 votos telemáticos, 269; abstenciones, 73 votos telemáticos."
+    "text": "Dict\u00e1menes de Comisiones sobre iniciativas legislativa. Propuesta de reforma de la Ley Org\u00e1nica 4/1982, de 9 de junio, de Estatuto de Autonom\u00eda de la Regi\u00f3n de Murcia. Votaci\u00f3n del dictamen de la Comisi\u00f3n. Comienza la votaci\u00f3n. (Pausa). Efectuada la votaci\u00f3n, dio el siguiente resultado: votos emitidos, 92 m\u00e1s 250 votos telem\u00e1ticos, 342; a favor, 92 m\u00e1s 177 votos telem\u00e1ticos, 269; abstenciones, 73 votos telem\u00e1ticos.",
+    "freeling": [
+        {
+            "word": "Dict\u00e1menes",
+            "lema": "dictamen",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Comisiones",
+            "lema": "comisi\u00f3n",
+            "pos": "NCFP000",
+            "prob": "0.992424"
+        },
+        {
+            "word": "sobre",
+            "lema": "sobre",
+            "pos": "SP",
+            "prob": "0.997804"
+        },
+        {
+            "word": "iniciativas",
+            "lema": "iniciativa",
+            "pos": "NCFP000",
+            "prob": "0.996032"
+        },
+        {
+            "word": "legislativa",
+            "lema": "legislativo",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Propuesta",
+            "lema": "propuesta",
+            "pos": "NCFS000",
+            "prob": "0.983384"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "reforma",
+            "lema": "reforma",
+            "pos": "NCFS000",
+            "prob": "0.99689"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "Ley_Org\u00e1nica",
+            "lema": "ley_org\u00e1nica",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": "4/1982",
+            "lema": "4/1982",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "9_de_junio",
+            "lema": "[??:9/6/??:??.??:??]",
+            "pos": "W",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Estatuto_de_Autonom\u00eda_de_la_Regi\u00f3n",
+            "lema": "estatuto_de_autonom\u00eda_de_la_regi\u00f3n",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Murcia",
+            "lema": "murcia",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Votaci\u00f3n",
+            "lema": "votaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "dictamen",
+            "lema": "dictamen",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "Comisi\u00f3n",
+            "lema": "comisi\u00f3n",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Comienza",
+            "lema": "comenzar",
+            "pos": "VMIP3S0",
+            "prob": "0.993827"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "votaci\u00f3n",
+            "lema": "votaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Pausa",
+            "lema": "pausa",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Efectuada",
+            "lema": "efectuar",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "votaci\u00f3n",
+            "lema": "votaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "dio",
+            "lema": "dar",
+            "pos": "VMIS3S0",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "siguiente",
+            "lema": "siguiente",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "resultado",
+            "lema": "resultado",
+            "pos": "NCMS000",
+            "prob": "0.924877"
+        },
+        {
+            "word": ":",
+            "lema": ":",
+            "pos": "Fd",
+            "prob": "1"
+        },
+        {
+            "word": "votos",
+            "lema": "voto",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "emitidos",
+            "lema": "emitir",
+            "pos": "VMP00PM",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "92",
+            "lema": "92",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "m\u00e1s",
+            "lema": "m\u00e1s",
+            "pos": "RG",
+            "prob": "0.99993"
+        },
+        {
+            "word": "250",
+            "lema": "250",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "votos",
+            "lema": "voto",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "telem\u00e1ticos",
+            "lema": "telem\u00e1tico",
+            "pos": "AQ0MP00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "342",
+            "lema": "342",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": ";",
+            "lema": ";",
+            "pos": "Fx",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "favor",
+            "lema": "favor",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "92",
+            "lema": "92",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "m\u00e1s",
+            "lema": "m\u00e1s",
+            "pos": "RG",
+            "prob": "0.99993"
+        },
+        {
+            "word": "177",
+            "lema": "177",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "votos",
+            "lema": "voto",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "telem\u00e1ticos",
+            "lema": "telem\u00e1tico",
+            "pos": "AQ0MP00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "269",
+            "lema": "269",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": ";",
+            "lema": ";",
+            "pos": "Fx",
+            "prob": "1"
+        },
+        {
+            "word": "abstenciones",
+            "lema": "abstenci\u00f3n",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "73",
+            "lema": "73",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "votos",
+            "lema": "voto",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "telem\u00e1ticos",
+            "lema": "telem\u00e1tico",
+            "pos": "AQ0MP00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

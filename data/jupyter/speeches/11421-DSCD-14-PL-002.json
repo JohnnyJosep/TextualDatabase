@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-11-19T00:00:00.000Z",
-        "debate": "DECLARACIÓN INSTITUCIONAL: -- DECLARACIÓN INSTITUCIONAL CON MOTIVO DEL X ANIVERSARIO DE LA DECLARACIÓN DEL CONGRESO DE LOS DIPUTADOS DEL «DÍA DE LAS PERSONAS DESAPARECIDAS SIN CAUSA APARENTE». ",
+        "debate": "DECLARACI\u00d3N INSTITUCIONAL: -- DECLARACI\u00d3N INSTITUCIONAL CON MOTIVO DEL X ANIVERSARIO DE LA DECLARACI\u00d3N DEL CONGRESO DE LOS DIPUTADOS DEL \u00abD\u00cdA DE LAS PERSONAS DESAPARECIDAS SIN CAUSA APARENTE\u00bb. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,47 @@
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-064.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Muchas gracias, señor secretario."
+    "text": "Muchas gracias, se\u00f1or secretario.",
+    "freeling": [
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "secretario",
+            "lema": "secretario",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

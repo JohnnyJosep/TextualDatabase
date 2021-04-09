@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-23T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (CONTINUACIÓN): -- DEL GRUPO PARLAMENTARIO VOX, SOBRE LAS MEDIDAS QUE VA A ADOPTAR EL GOBIERNO PARA QUE LAS FUERZAS Y CUERPOS DE SEGURIDAD DEL ESTADO PUEDAN PROTEGER A LOS ESPAÑOLES DE LOS ASALTOS Y OCUPACIONES ILEGALES DE SUS PROPIEDADES. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (CONTINUACI\u00d3N): -- DEL GRUPO PARLAMENTARIO VOX, SOBRE LAS MEDIDAS QUE VA A ADOPTAR EL GOBIERNO PARA QUE LAS FUERZAS Y CUERPOS DE SEGURIDAD DEL ESTADO PUEDAN PROTEGER A LOS ESPA\u00d1OLES DE LOS ASALTOS Y OCUPACIONES ILEGALES DE SUS PROPIEDADES. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,53 @@
         ],
         "order": 20,
         "path": "../data/diaries-txts/DSCD-14-PL-047.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "¿Cuál es la alusión exacta?"
+    "text": "\u00bfCu\u00e1l es la alusi\u00f3n exacta?",
+    "freeling": [
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "Cu\u00e1l",
+            "lema": "cu\u00e1l",
+            "pos": "PT0CS00",
+            "prob": "0.989796"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "alusi\u00f3n",
+            "lema": "alusi\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "exacta",
+            "lema": "exacto",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        }
+    ]
 }

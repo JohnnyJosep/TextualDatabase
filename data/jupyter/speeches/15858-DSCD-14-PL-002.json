@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-10T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA ANA MARÍA ZURITA EXPÓSITO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR MINISTRO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA: ¿QUÉ IMPORTE DEL FONDO DE RECUPERACIÓN Y RESILIENCIA EUROPEO TIENE PREVISTO DESTINAR EL GOBIERNO A LAS EXPROPIACIONES DE VIVIENDAS EN 2021? ",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DO\u00d1A ANA MAR\u00cdA ZURITA EXP\u00d3SITO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR MINISTRO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA: \u00bfQU\u00c9 IMPORTE DEL FONDO DE RECUPERACI\u00d3N Y RESILIENCIA EUROPEO TIENE PREVISTO DESTINAR EL GOBIERNO A LAS EXPROPIACIONES DE VIVIENDAS EN 2021? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,173 @@
         ],
         "order": 0,
         "path": "../data/diaries-txts/DSCD-14-PL-085.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Preguntas dirigidas al señor ministro de Transportes, Movilidad y Agenda Urbana. Pregunta de la diputada doña Ana María Zurita Expósito, del Grupo Parlamentario Popular en el Congreso."
+    "text": "Preguntas dirigidas al se\u00f1or ministro de Transportes, Movilidad y Agenda Urbana. Pregunta de la diputada do\u00f1a Ana Mar\u00eda Zurita Exp\u00f3sito, del Grupo Parlamentario Popular en el Congreso.",
+    "freeling": [
+        {
+            "word": "Preguntas",
+            "lema": "pregunta",
+            "pos": "NCFP000",
+            "prob": "0.995868"
+        },
+        {
+            "word": "dirigidas",
+            "lema": "dirigir",
+            "pos": "VMP00PF",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "ministro",
+            "lema": "ministro",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Transportes",
+            "lema": "transportes",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Movilidad",
+            "lema": "movilidad",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "Agenda_Urbana",
+            "lema": "agenda_urbana",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Pregunta",
+            "lema": "preguntar",
+            "pos": "VMIP3S0",
+            "prob": "0.300493"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "diputada",
+            "lema": "diputado",
+            "pos": "NCFS000",
+            "prob": "0.987805"
+        },
+        {
+            "word": "do\u00f1a",
+            "lema": "don",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "Ana_Mar\u00eda_Zurita_Exp\u00f3sito",
+            "lema": "ana_mar\u00eda_zurita_exp\u00f3sito",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Grupo_Parlamentario_Popular",
+            "lema": "grupo_parlamentario_popular",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Congreso",
+            "lema": "congreso",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

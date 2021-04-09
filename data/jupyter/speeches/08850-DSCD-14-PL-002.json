@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-29T00:00:00.000Z",
-        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY. (VOTACIÓN): -- DEL GRUPO PARLAMENTARIO MIXTO, PARA HABILITAR A LOS AYUNTAMIENTOS PARA QUE, DE MANERA POTESTATIVA, PUEDAN ESTABLECER BONIFICACIONES DEL IBI A EMPRESAS, PYMES, AUTÓNOMOS, COMERCIO, SECTOR PRIMARIO Y EMPRENDEDORES QUE HAYAN VISTO SUSPENDIDAS, RESTRINGIDAS Y AFECTADAS SUS ACTIVIDADES POR LAS CONSECUENCIAS DE LA CRISIS SANITARIA DEL COVID-19. ",
+        "debate": "TOMA EN CONSIDERACI\u00d3N DE PROPOSICIONES DE LEY. (VOTACI\u00d3N): -- DEL GRUPO PARLAMENTARIO MIXTO, PARA HABILITAR A LOS AYUNTAMIENTOS PARA QUE, DE MANERA POTESTATIVA, PUEDAN ESTABLECER BONIFICACIONES DEL IBI A EMPRESAS, PYMES, AUT\u00d3NOMOS, COMERCIO, SECTOR PRIMARIO Y EMPRENDEDORES QUE HAYAN VISTO SUSPENDIDAS, RESTRINGIDAS Y AFECTADAS SUS ACTIVIDADES POR LAS CONSECUENCIAS DE LA CRISIS SANITARIA DEL COVID-19. ",
         "diputado": [
             {
-                "apellidos": "Rodríguez Gómez de Celis",
-                "apellidosNombre": "Rodríguez Gómez de Celis, Alfonso",
+                "apellidos": "Rodr\u00edguez G\u00f3mez de Celis",
+                "apellidosNombre": "Rodr\u00edguez G\u00f3mez de Celis, Alfonso",
                 "codParlamentario": 168,
                 "fchAlta": "25/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,53 @@
         ],
         "order": 29,
         "path": "../data/diaries-txts/DSCD-14-PL-048.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "VICEPRESIDENTE (Rodrí guez Gómez de Celis)"
+        "speacker": "VICEPRESIDENTE (Rodr\u00ed guez G\u00f3mez de Celis)"
     },
-    "text": "Señora Angulo, debe terminar, por favor."
+    "text": "Se\u00f1ora Angulo, debe terminar, por favor.",
+    "freeling": [
+        {
+            "word": "Se\u00f1ora_Angulo",
+            "lema": "se\u00f1ora_angulo",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "debe",
+            "lema": "deber",
+            "pos": "VMIP3S0",
+            "prob": "0.998712"
+        },
+        {
+            "word": "terminar",
+            "lema": "terminar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por_favor",
+            "lema": "por_favor",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

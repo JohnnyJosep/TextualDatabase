@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-12-17T00:00:00.000Z",
-        "debate": "ENMIENDAS DEL SENADO. (VOTACIÓN): -- PROYECTO DE LEY POR LA QUE SE MODIFICA LA LEY 58/2003, DE 17 DE DICIEMBRE, GENERAL TRIBUTARIA, EN TRASPOSICIÓN DE LA DIRECTIVA (UE) 2018/822 DEL CONSEJO, DE 25 DE MAYO DE 2018, QUE MODIFICA LA DIRECTIVA 2011/16/UE POR LO QUE SE REFIERE AL INTERCAMBIO AUTOMÁTICO Y OBLIGATORIO DE INFORMACIÓN EN EL ÁMBITO DE LA FISCALIDAD EN RELACIÓN CON LOS MECANISMOS TRANSFRONTERIZOS SUJETOS A COMUNICACIÓN DE INFORMACIÓN. ",
+        "debate": "ENMIENDAS DEL SENADO. (VOTACI\u00d3N): -- PROYECTO DE LEY POR LA QUE SE MODIFICA LA LEY 58/2003, DE 17 DE DICIEMBRE, GENERAL TRIBUTARIA, EN TRASPOSICI\u00d3N DE LA DIRECTIVA (UE) 2018/822 DEL CONSEJO, DE 25 DE MAYO DE 2018, QUE MODIFICA LA DIRECTIVA 2011/16/UE POR LO QUE SE REFIERE AL INTERCAMBIO AUTOM\u00c1TICO Y OBLIGATORIO DE INFORMACI\u00d3N EN EL \u00c1MBITO DE LA FISCALIDAD EN RELACI\u00d3N CON LOS MECANISMOS TRANSFRONTERIZOS SUJETOS A COMUNICACI\u00d3N DE INFORMACI\u00d3N. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,41 @@
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-071.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Queda aprobada la enmienda."
+    "text": "Queda aprobada la enmienda.",
+    "freeling": [
+        {
+            "word": "Queda",
+            "lema": "quedar",
+            "pos": "VMIP3S0",
+            "prob": "0.945755"
+        },
+        {
+            "word": "aprobada",
+            "lema": "aprobar",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "enmienda",
+            "lema": "enmienda",
+            "pos": "NCFS000",
+            "prob": "0.953488"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

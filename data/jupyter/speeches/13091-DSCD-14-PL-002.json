@@ -1,7 +1,7 @@
 {
     "metadata": {
         "celebrated": "2020-12-17T00:00:00.000Z",
-        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES: -- REAL DECRETO-LEY 34/2020, DE 17 DE NOVIEMBRE, DE MEDIDAS URGENTES DE APOYO A LA SOLVENCIA EMPRESARIAL Y AL SECTOR ENERGÉTICO, Y EN MATERIA TRIBUTARIA. ",
+        "debate": "CONVALIDACI\u00d3N O DEROGACI\u00d3N DE REALES DECRETOS-LEYES: -- REAL DECRETO-LEY 34/2020, DE 17 DE NOVIEMBRE, DE MEDIDAS URGENTES DE APOYO A LA SOLVENCIA EMPRESARIAL Y AL SECTOR ENERGE\u0301TICO, Y EN MATERIA TRIBUTARIA. ",
         "diputado": [
             {
                 "apellidos": "Bel Accensi",
@@ -24,9 +24,149 @@
         ],
         "order": 11,
         "path": "../data/diaries-txts/DSCD-14-PL-071.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "BEL ACCENSI"
     },
-    "text": "Sí, termino. Esperemos que los Reyes, los magos de Oriente --no los otros--, nos traigan esto."
+    "text": "S\u00ed, termino. Esperemos que los Reyes, los magos de Oriente --no los otros--, nos traigan esto.",
+    "freeling": [
+        {
+            "word": "S\u00ed",
+            "lema": "s\u00ed",
+            "pos": "RG",
+            "prob": "0.654652"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "termino",
+            "lema": "terminar",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Esperemos",
+            "lema": "esperar",
+            "pos": "VMM01P0",
+            "prob": "0.358036"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "Reyes",
+            "lema": "reyes",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "magos",
+            "lema": "mago",
+            "pos": "NCMP000",
+            "prob": "0.638662"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Oriente",
+            "lema": "oriente",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "otros",
+            "lema": "otro",
+            "pos": "PI0MP00",
+            "prob": "0.254022"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "nos",
+            "lema": "nos",
+            "pos": "PP1CP00",
+            "prob": "0.810258"
+        },
+        {
+            "word": "traigan",
+            "lema": "traer",
+            "pos": "VMSP3P0",
+            "prob": "0.941964"
+        },
+        {
+            "word": "esto",
+            "lema": "este",
+            "pos": "PD00S00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

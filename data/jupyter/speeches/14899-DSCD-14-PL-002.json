@@ -1,7 +1,7 @@
 {
     "metadata": {
         "celebrated": "2021-02-18T00:00:00.000Z",
-        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES: -- REAL DECRETO-LEY 2/2021, DE 26 DE ENERO, DE REFUERZO Y CONSOLIDACIÓN DE MEDIDAS SOCIALES EN DEFENSA DEL EMPLEO. ",
+        "debate": "CONVALIDACI\u00d3N O DEROGACI\u00d3N DE REALES DECRETOS-LEYES: -- REAL DECRETO-LEY 2/2021, DE 26 DE ENERO, DE REFUERZO Y CONSOLIDACI\u00d3N DE MEDIDAS SOCIALES EN DEFENSA DEL EMPLEO. ",
         "diputado": [
             {
                 "apellidos": "Salvador i Duch",
@@ -24,9 +24,77 @@
         ],
         "order": 62,
         "path": "../data/diaries-txts/DSCD-14-PL-080.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "SALVADOR I DUCH"
     },
-    "text": "Sí, hay gente a la que le interesa poco."
+    "text": "S\u00ed, hay gente a la que le interesa poco.",
+    "freeling": [
+        {
+            "word": "S\u00ed",
+            "lema": "s\u00ed",
+            "pos": "RG",
+            "prob": "0.654652"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "hay",
+            "lema": "haber",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "gente",
+            "lema": "gente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "interesa",
+            "lema": "interesar",
+            "pos": "VMIP3S0",
+            "prob": "0.98913"
+        },
+        {
+            "word": "poco",
+            "lema": "poco",
+            "pos": "RG",
+            "prob": "0.663123"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

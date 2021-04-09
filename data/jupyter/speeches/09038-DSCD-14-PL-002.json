@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-30T00:00:00.000Z",
-        "debate": "PREGUNTA DEL DIPUTADO DON PABLO CASADO BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿ESTÁ PROTEGIENDO EL FUTURO DE LOS ESPAÑOLES? -- DEL DIPUT ADO DON MIGUEL ÁNGEL JEREZ JUAN, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR MINISTRO DE CONSUMO: ¿MANTIENE EL MINISTRO SUS AFIRMACIONES REFERIDAS A LA JEFATURA DEL ESTADO? ",
+        "debate": "PREGUNTA DEL DIPUTADO DON PABLO CASADO BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR PRESIDENTE DEL GOBIERNO: \u00bfEST\u00c1 PROTEGIENDO EL FUTURO DE LOS ESPA\u00d1OLES? -- DEL DIPUT ADO DON MIGUEL \u00c1NGEL JEREZ JUAN, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR MINISTRO DE CONSUMO: \u00bfMANTIENE EL MINISTRO SUS AFIRMACIONES REFERIDAS A LA JEFATURA DEL ESTADO? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,35 @@
         ],
         "order": 8,
         "path": "../data/diaries-txts/DSCD-14-PL-049.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor García Egea, por favor."
+    "text": "Se\u00f1or Garc\u00eda Egea, por favor.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Garc\u00eda_Egea",
+            "lema": "se\u00f1or_garc\u00eda_egea",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por_favor",
+            "lema": "por_favor",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

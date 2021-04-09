@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-22T00:00:00.000Z",
-        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY. (VOTACIÓN): -- DEL GRUPO PARLAMENTARIO CIUDADANOS, ORGÁNICA DE MODIFICACIÓN DE LA LEY ORGÁNICA 6/1985, DE 1 DE JULIO, DEL PODER JUDICIAL, PARA EL REFUERZO DE LA INDEPENDENCIA JUDICIAL. ",
+        "debate": "TOMA EN CONSIDERACI\u00d3N DE PROPOSICIONES DE LEY. (VOTACI\u00d3N): -- DEL GRUPO PARLAMENTARIO CIUDADANOS, ORG\u00c1NICA DE MODIFICACI\u00d3N DE LA LEY ORG\u00c1NICA 6/1985, DE 1 DE JULIO, DEL PODER JUDICIAL, PARA EL REFUERZO DE LA INDEPENDENCIA JUDICIAL. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,305 @@
         ],
         "order": 99,
         "path": "../data/diaries-txts/DSCD-14-PL-046.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Gracias, señor Gutiérrez. (Pausa.--Una trabajadora del servicio de limpieza procede a desinfectar la tribuna de oradores). Muchísimas gracias. Para la defensa de la enmienda formulada por el Grupo Parlamentario VOX tiene la palabra el señor Fernández-Roca Suárez. (Aplausos)."
+    "text": "Gracias, se\u00f1or Guti\u00e9rrez. (Pausa.--Una trabajadora del servicio de limpieza procede a desinfectar la tribuna de oradores). Much\u00edsimas gracias. Para la defensa de la enmienda formulada por el Grupo Parlamentario VOX tiene la palabra el se\u00f1or Fern\u00e1ndez-Roca Su\u00e1rez. (Aplausos).",
+    "freeling": [
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "Guti\u00e9rrez",
+            "lema": "guti\u00e9rrez",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Pausa",
+            "lema": "pausa",
+            "pos": "NCFS000",
+            "prob": "0.848913"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": "Una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "trabajadora",
+            "lema": "trabajador",
+            "pos": "NCFS000",
+            "prob": "0.563706"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "servicio",
+            "lema": "servicio",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "limpieza",
+            "lema": "limpieza",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "procede",
+            "lema": "proceder",
+            "pos": "VMIP3S0",
+            "prob": "0.98913"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "desinfectar",
+            "lema": "desinfectar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "tribuna",
+            "lema": "tribuna",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "oradores",
+            "lema": "orador",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Much\u00edsimas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.763114"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "defensa",
+            "lema": "defensa",
+            "pos": "NCCS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "enmienda",
+            "lema": "enmienda",
+            "pos": "NCFS000",
+            "prob": "0.953488"
+        },
+        {
+            "word": "formulada",
+            "lema": "formular",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Grupo_Parlamentario_VOX",
+            "lema": "grupo_parlamentario_vox",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "tiene",
+            "lema": "tener",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "palabra",
+            "lema": "palabra",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "Fern\u00e1ndez-Roca_Su\u00e1rez",
+            "lema": "fern\u00e1ndez-roca_su\u00e1rez",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplausos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

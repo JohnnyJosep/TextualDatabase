@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-10T00:00:00.000Z",
-        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES. (VOTACIÓN): -- REAL DECRETO-LEY 27/2020, DE 4 DE AGOSTO, DE MEDIDAS FINANCIERAS, DE CARÁCTER EXTRAORDINARIO Y URGENTE, APLICABLES A LAS ENTIDADES LOCALES. ",
+        "debate": "CONVALIDACI\u00d3N O DEROGACI\u00d3N DE REALES DECRETOS-LEYES. (VOTACI\u00d3N): -- REAL DECRETO-LEY 27/2020, DE 4 DE AGOSTO, DE MEDIDAS FINANCIERAS, DE CAR\u00c1CTER EXTRAORDINARIO Y URGENTE, APLICABLES A LAS ENTIDADES LOCALES. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,281 @@
         ],
         "order": 134,
         "path": "../data/diaries-txts/DSCD-14-PL-043.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "En consecuencia, queda rechazada la moción consecuencia de interpelación urgente. CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES. (VOTACIÓN): -- REAL DECRETO-LEY 27/2020, DE 4 DE AGOSTO, DE MEDIDAS FINANCIERAS, DE CARÁCTER EXTRAORDINARIO Y URGENTE, APLICABLES A LAS ENTIDADES LOCALES."
+    "text": "En consecuencia, queda rechazada la moci\u00f3n consecuencia de interpelaci\u00f3n urgente. CONVALIDACI\u00d3N O DEROGACI\u00d3N DE REALES DECRETOS-LEYES. (VOTACI\u00d3N): -- REAL DECRETO-LEY 27/2020, DE 4 DE AGOSTO, DE MEDIDAS FINANCIERAS, DE CAR\u00c1CTER EXTRAORDINARIO Y URGENTE, APLICABLES A LAS ENTIDADES LOCALES.",
+    "freeling": [
+        {
+            "word": "En_consecuencia",
+            "lema": "en_consecuencia",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "queda",
+            "lema": "quedar",
+            "pos": "VMIP3S0",
+            "prob": "0.945755"
+        },
+        {
+            "word": "rechazada",
+            "lema": "rechazar",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "moci\u00f3n",
+            "lema": "moci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "consecuencia",
+            "lema": "consecuencia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "interpelaci\u00f3n",
+            "lema": "interpelaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "urgente",
+            "lema": "urgente",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "CONVALIDACI\u00d3N",
+            "lema": "convalidaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "O",
+            "lema": "o",
+            "pos": "CC",
+            "prob": "0.999864"
+        },
+        {
+            "word": "DEROGACI\u00d3N",
+            "lema": "derogaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "REALES",
+            "lema": "real",
+            "pos": "AQ0CP00",
+            "prob": "0.840909"
+        },
+        {
+            "word": "DECRETOS-LEYES",
+            "lema": "decreto_ley",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "VOTACI\u00d3N",
+            "lema": "votaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ":",
+            "lema": ":",
+            "pos": "Fd",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": "REAL",
+            "lema": "real",
+            "pos": "AQ0CS00",
+            "prob": "0.82839"
+        },
+        {
+            "word": "DECRETO-LEY",
+            "lema": "decreto-ley",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "27/2020",
+            "lema": "27/2020",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "4_DE_AGOSTO",
+            "lema": "[??:4/8/??:??.??:??]",
+            "pos": "W",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "MEDIDAS_FINANCIERAS",
+            "lema": "medidas_financieras",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "CAR\u00c1CTER",
+            "lema": "car\u00e1cter",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "EXTRAORDINARIO",
+            "lema": "extraordinario",
+            "pos": "AQ0MS00",
+            "prob": "0.990196"
+        },
+        {
+            "word": "Y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "URGENTE",
+            "lema": "urgente",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "APLICABLES",
+            "lema": "aplicable",
+            "pos": "AQ0CP00",
+            "prob": "1"
+        },
+        {
+            "word": "A",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "LAS",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "ENTIDADES",
+            "lema": "entidad",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "LOCALES",
+            "lema": "local",
+            "pos": "AQ0CP00",
+            "prob": "0.618483"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

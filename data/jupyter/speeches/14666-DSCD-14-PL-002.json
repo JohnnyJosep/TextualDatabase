@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-17T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JOSEBA ANDONI AGIRRETXEA URRESTI, DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), QUE FORMULA A LA SEÑORA MINISTRA DE DEFENSA: ¿VA A RECTIFICAR SUS DECLARACIONES SOBRE LA ACTUACIÓN DEL GOBIERNO VASCO EN EL DERRUMBE DE ZALDÍVAR? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JOSEBA ANDONI AGIRRETXEA URRESTI, DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), QUE FORMULA A LA SE\u00d1ORA MINISTRA DE DEFENSA: \u00bfVA A RECTIFICAR SUS DECLARACIONES SOBRE LA ACTUACI\u00d3N DEL GOBIERNO VASCO EN EL DERRUMBE DE ZALD\u00cdVAR? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,23 @@
         ],
         "order": 6,
         "path": "../data/diaries-txts/DSCD-14-PL-079.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Agirretxea."
+    "text": "Se\u00f1or Agirretxea.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Agirretxea",
+            "lema": "se\u00f1or_agirretxea",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

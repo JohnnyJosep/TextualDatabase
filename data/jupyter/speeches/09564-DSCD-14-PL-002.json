@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-10-14T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON FRANCISCO JOSÉ CONTRERAS PELÁEZ, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA A LA SEÑORA VICEPRESIDENTA PRIMERA Y MINISTRA DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCRÁTICA: ¿PRETENDE EL GOBIERNO ATIZAR EL RENCOR ENTRE LOS ESPAÑOLES? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON FRANCISCO JOS\u00c9 CONTRERAS PEL\u00c1EZ, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA A LA SE\u00d1ORA VICEPRESIDENTA PRIMERA Y MINISTRA DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCR\u00c1TICA: \u00bfPRETENDE EL GOBIERNO ATIZAR EL RENCOR ENTRE LOS ESPA\u00d1OLES? ",
         "diputado": [
             {
-                "apellidos": "Contreras Peláez",
-                "apellidosNombre": "Contreras Peláez, Francisco José",
+                "apellidos": "Contreras Pel\u00e1ez",
+                "apellidosNombre": "Contreras Pel\u00e1ez, Francisco Jos\u00e9",
                 "codParlamentario": 229,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario VOX",
                 "idCircunscripcion": 41,
                 "idLegislatura": 14,
-                "nombre": "Francisco José",
+                "nombre": "Francisco Jos\u00e9",
                 "nombreCircunscripcion": "Sevilla",
                 "twitter": "https://twitter.com/fjconpe",
                 "twitterUserId": "192834709",
@@ -24,9 +24,227 @@
         ],
         "order": 5,
         "path": "../data/diaries-txts/DSCD-14-PL-052.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "CONTRERAS PELÁEZ"
+        "speacker": "CONTRERAS PEL\u00c1EZ"
     },
-    "text": "Señora Calvo, el presidente del Gobierno aludía hace un momento a los ciento cuarenta años de historia del Partido Socialista. La izquierda ciertamente tenía un proyecto histórico en el siglo XX. (Rumores)."
+    "text": "Se\u00f1ora Calvo, el presidente del Gobierno alud\u00eda hace un momento a los ciento cuarenta a\u00f1os de historia del Partido Socialista. La izquierda ciertamente ten\u00eda un proyecto hist\u00f3rico en el siglo XX. (Rumores).",
+    "freeling": [
+        {
+            "word": "Se\u00f1ora_Calvo",
+            "lema": "se\u00f1ora_calvo",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "presidente",
+            "lema": "presidente",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "alud\u00eda",
+            "lema": "aludir",
+            "pos": "VMII3S0",
+            "prob": "0.649996"
+        },
+        {
+            "word": "hace",
+            "lema": "hacer",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "momento",
+            "lema": "momento",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "ciento_cuarenta",
+            "lema": "140",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "a\u00f1os",
+            "lema": "a\u00f1o",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "historia",
+            "lema": "historia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Partido_Socialista",
+            "lema": "partido_socialista",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "La",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "izquierda",
+            "lema": "izquierda",
+            "pos": "NCFS000",
+            "prob": "0.674129"
+        },
+        {
+            "word": "ciertamente",
+            "lema": "ciertamente",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "ten\u00eda",
+            "lema": "tener",
+            "pos": "VMII3S0",
+            "prob": "0.644494"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "proyecto",
+            "lema": "proyecto",
+            "pos": "NCMS000",
+            "prob": "0.999084"
+        },
+        {
+            "word": "hist\u00f3rico",
+            "lema": "hist\u00f3rico",
+            "pos": "AQ0MS00",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "siglo_XX",
+            "lema": "[s:xx]",
+            "pos": "W",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Rumores",
+            "lema": "rumores",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-03T00:00:00.000Z",
-        "debate": "VOX. -- DEL DIPUTADO DON CARLOS GARCÍA ADANERO, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿TIENE PREVISTO EL GOBIERNO DE ESPAÑA LLEVAR A CABO ALGUNA ACTUACIÓN DIRIGIDA A CUMPLIR LA MOCIÓN APROBADA POR EL PARLAMENTO DE NAVARRA EL PASADO 21 DE ENERO EN QUE LE INSTA A APLICAR UNA POLÍTICA PENITENCIARIA QUE FACILITE EL ACERCAMIENTO DE PRESOS? ",
+        "debate": "VOX. -- DEL DIPUTADO DON CARLOS GARC\u00cdA ADANERO, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA AL SE\u00d1OR MINISTRO DEL INTERIOR: \u00bfTIENE PREVISTO EL GOBIERNO DE ESPA\u00d1A LLEVAR A CABO ALGUNA ACTUACI\u00d3N DIRIGIDA A CUMPLIR LA MOCI\u00d3N APROBADA POR EL PARLAMENTO DE NAVARRA EL PASADO 21 DE ENERO EN QUE LE INSTA A APLICAR UNA POL\u00cdTICA PENITENCIARIA QUE FACILITE EL ACERCAMIENTO DE PRESOS? ",
         "diputado": [
             {
-                "apellidos": "García Adanero",
-                "apellidosNombre": "García Adanero, Carlos",
+                "apellidos": "Garc\u00eda Adanero",
+                "apellidosNombre": "Garc\u00eda Adanero, Carlos",
                 "codParlamentario": 127,
                 "fchAlta": "21/11/2019",
                 "fchBaja": "",
@@ -21,9 +21,377 @@
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-076.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "GARCÍA ADANERO"
+        "speacker": "GARC\u00cdA ADANERO"
     },
-    "text": "Muchas gracias, señora presidenta. En los acuerdos entre el Partido Socialista y Bildu para conseguir la Presidencia del Gobierno de España y la Presidencia del Gobierno de Navarra estaba el acercamiento de presos etarras y el blanqueamiento de la propia banda terrorista y del partido Bildu. En ese sentido, ¿piensa el Gobierno de España seguir acercando presos terroristas? (Aplausos)."
+    "text": "Muchas gracias, se\u00f1ora presidenta. En los acuerdos entre el Partido Socialista y Bildu para conseguir la Presidencia del Gobierno de Espa\u00f1a y la Presidencia del Gobierno de Navarra estaba el acercamiento de presos etarras y el blanqueamiento de la propia banda terrorista y del partido Bildu. En ese sentido, \u00bfpiensa el Gobierno de Espa\u00f1a seguir acercando presos terroristas? (Aplausos).",
+    "freeling": [
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "En",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "acuerdos",
+            "lema": "acuerdo",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "entre",
+            "lema": "entre",
+            "pos": "SP",
+            "prob": "0.980341"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Partido_Socialista",
+            "lema": "partido_socialista",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "Bildu",
+            "lema": "bildu",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "conseguir",
+            "lema": "conseguir",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "Presidencia",
+            "lema": "presidencia",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Gobierno_de_Espa\u00f1a",
+            "lema": "gobierno_de_espa\u00f1a",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "Presidencia_de_el_Gobierno_de_Navarra",
+            "lema": "presidencia_de_el_gobierno_de_navarra",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "estaba",
+            "lema": "estar",
+            "pos": "VMII3S0",
+            "prob": "0.499587"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "acercamiento",
+            "lema": "acercamiento",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "presos",
+            "lema": "preso",
+            "pos": "NCMP000",
+            "prob": "0.993827"
+        },
+        {
+            "word": "etarras",
+            "lema": "etarra",
+            "pos": "AQ0CP00",
+            "prob": "0.265625"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "blanqueamiento",
+            "lema": "blanqueamiento",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "propia",
+            "lema": "propio",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": "banda",
+            "lema": "banda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "terrorista",
+            "lema": "terrorista",
+            "pos": "AQ0CS00",
+            "prob": "0.729008"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "partido",
+            "lema": "partido",
+            "pos": "NCMS000",
+            "prob": "0.99971"
+        },
+        {
+            "word": "Bildu",
+            "lema": "bildu",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "En",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "ese",
+            "lema": "ese",
+            "pos": "DD0MS0",
+            "prob": "0.966694"
+        },
+        {
+            "word": "sentido",
+            "lema": "sentido",
+            "pos": "NCMS000",
+            "prob": "0.940835"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "piensa",
+            "lema": "pensar",
+            "pos": "VMIP3S0",
+            "prob": "0.994186"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Gobierno_de_Espa\u00f1a",
+            "lema": "gobierno_de_espa\u00f1a",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "seguir",
+            "lema": "seguir",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "acercando",
+            "lema": "acercar",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": "presos",
+            "lema": "preso",
+            "pos": "NCMP000",
+            "prob": "0.993827"
+        },
+        {
+            "word": "terroristas",
+            "lema": "terrorista",
+            "pos": "AQ0CP00",
+            "prob": "0.408088"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplauso",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

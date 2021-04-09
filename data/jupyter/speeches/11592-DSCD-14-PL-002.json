@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-11-19T00:00:00.000Z",
-        "debate": "DECLARACIÓN SOBRE LA CUENTA GENERAL DEL ESTADO. (VOTACIÓN): -- DICTAMEN DE LA COMISIÓN MIXTA PARA LAS RELACIONES CON EL TRIBUNAL DE CUENTAS EN RELACIÓN CON LA DECLARACIÓN SOBRE LA CUENTA GENERAL DEL ESTADO DEL EJERCICIO 2018, ASÍ COMO LA RESOLUCIÓN ADOPTADA POR DICHA COMISIÓN. ",
+        "debate": "DECLARACI\u00d3N SOBRE LA CUENTA GENERAL DEL ESTADO. (VOTACI\u00d3N): -- DICTAMEN DE LA COMISI\u00d3N MIXTA PARA LAS RELACIONES CON EL TRIBUNAL DE CUENTAS EN RELACI\u00d3N CON LA DECLARACI\u00d3N SOBRE LA CUENTA GENERAL DEL ESTADO DEL EJERCICIO 2018, AS\u00cd COMO LA RESOLUCI\u00d3N ADOPTADA POR DICHA COMISI\u00d3N. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,251 @@
         ],
         "order": 24,
         "path": "../data/diaries-txts/DSCD-14-PL-064.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Queda rechazada la moción. -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, SOBRE ACTUACIONES DEL MINISTERIO DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN PARA EVITAR EL GRAVE DETERIORO DE LA IMAGEN DEL REINO DE ESPAÑA EN EL EXTERIOR."
+    "text": "Queda rechazada la moci\u00f3n. -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, SOBRE ACTUACIONES DEL MINISTERIO DE ASUNTOS EXTERIORES, UNI\u00d3N EUROPEA Y COOPERACI\u00d3N PARA EVITAR EL GRAVE DETERIORO DE LA IMAGEN DEL REINO DE ESPA\u00d1A EN EL EXTERIOR.",
+    "freeling": [
+        {
+            "word": "Queda",
+            "lema": "quedar",
+            "pos": "VMIP3S0",
+            "prob": "0.945755"
+        },
+        {
+            "word": "rechazada",
+            "lema": "rechazar",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "moci\u00f3n",
+            "lema": "moci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "GRUPO_PARLAMENTARIO",
+            "lema": "grupo_parlamentario",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "POPULAR",
+            "lema": "popular",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "EN",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "CONGRESO",
+            "lema": "congreso",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "SOBRE",
+            "lema": "sobre",
+            "pos": "SP",
+            "prob": "0.997804"
+        },
+        {
+            "word": "ACTUACIONES",
+            "lema": "actuaci\u00f3n",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "MINISTERIO_DE_ASUNTOS_EXTERIORES",
+            "lema": "ministerio_de_asuntos_exteriores",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "UNI\u00d3N_EUROPEA",
+            "lema": "uni\u00f3n_europea",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "Y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "COOPERACI\u00d3N",
+            "lema": "cooperaci\u00f3n",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "PARA",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "EVITAR",
+            "lema": "evitar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "GRAVE",
+            "lema": "grave",
+            "pos": "AQ0CS00",
+            "prob": "0.993802"
+        },
+        {
+            "word": "DETERIORO",
+            "lema": "deterioro",
+            "pos": "NCMS000",
+            "prob": "0.992958"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "LA",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "IMAGEN",
+            "lema": "imagen",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "REINO",
+            "lema": "reino",
+            "pos": "NCMS000",
+            "prob": "0.985324"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "ESPA\u00d1A",
+            "lema": "espa\u00f1a",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "EN",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "EXTERIOR",
+            "lema": "exterior",
+            "pos": "NCMS000",
+            "prob": "0.28355"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

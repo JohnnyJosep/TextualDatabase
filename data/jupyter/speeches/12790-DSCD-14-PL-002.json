@@ -1,20 +1,20 @@
 {
     "metadata": {
         "celebrated": "2020-12-16T00:00:00.000Z",
-        "debate": "COMPARECENCIA DEL GOBIERNO ANTE EL PLENO DE LA CÁMARA, DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO 203 DEL REGLAMENTO: -- SOLICITUD DE COMPARECENCIA, A PETICIÓN PROPIA, DEL PRESIDENTE DEL GOBIERNO ANTE EL PLENO DEL CONGRESO DE LOS DIPUTADOS, PARA INFORMAR DEL CONSEJO EUROPEO EXTRAORDINARIO CELEBRADO LOS DÍAS 1 Y 2 DE OCTUBRE Y DE LOS CONSEJOS EUROPEOS ORDINARIOS CELEBRADOS LOS DÍAS 15 Y 16 DE OCTUBRE Y EL CELEBRADO LOS DÍAS 10 Y 11 DE DICIEMBRE, ASÍ COMO EN CUMPLIMIENTO DEL ARTÍCULO 14 DEL REAL DECRETO 926/2020, DE 25 DE OCTUBRE, POR EL QUE SE DECLARA EL ESTADO DE ALARMA ",
+        "debate": "COMPARECENCIA DEL GOBIERNO ANTE EL PLENO DE LA C\u00c1MARA, DE CONFORMIDAD CON LO DISPUESTO POR EL ART\u00cdCULO 203 DEL REGLAMENTO: -- SOLICITUD DE COMPARECENCIA, A PETICI\u00d3N PROPIA, DEL PRESIDENTE DEL GOBIERNO ANTE EL PLENO DEL CONGRESO DE LOS DIPUTADOS, PARA INFORMAR DEL CONSEJO EUROPEO EXTRAORDINARIO CELEBRADO LOS D\u00cdAS 1 Y 2 DE OCTUBRE Y DE LOS CONSEJOS EUROPEOS ORDINARIOS CELEBRADOS LOS D\u00cdAS 15 Y 16 DE OCTUBRE Y EL CELEBRADO LOS D\u00cdAS 10 Y 11 DE DICIEMBRE, AS\u00cd COMO EN CUMPLIMIENTO DEL ART\u00cdCULO 14 DEL REAL DECRETO 926/2020, DE 25 DE OCTUBRE, POR EL QUE SE DECLARA EL ESTADO DE ALARMA ",
         "diputado": [
             {
-                "apellidos": "Errejón Galván",
-                "apellidosNombre": "Errejón Galván, Íñigo",
+                "apellidos": "Errej\u00f3n Galv\u00e1n",
+                "apellidosNombre": "Errej\u00f3n Galv\u00e1n, \u00cd\u00f1igo",
                 "codParlamentario": 233,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
-                "formacion": "MÁS PAÍS-EQUO",
+                "formacion": "M\u00c1S PA\u00cdS-EQUO",
                 "genero": 1,
                 "grupo": "Grupo Parlamentario Plural",
                 "idCircunscripcion": 28,
                 "idLegislatura": 14,
-                "nombre": "Íñigo",
+                "nombre": "\u00cd\u00f1igo",
                 "nombreCircunscripcion": "Madrid",
                 "twitter": "https://twitter.com/ierrejon",
                 "twitterUserId": "482389606",
@@ -24,9 +24,203 @@
         ],
         "order": 42,
         "path": "../data/diaries-txts/DSCD-14-PL-070.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "ERREJÓN GALVÁN"
+        "speacker": "ERREJ\u00d3N GALV\u00c1N"
     },
-    "text": "... hagan una cosa --cierro ya--, pónganlas su sello, llévenlas al BOE y aplíquenlas, que será bueno para todos. Muchas gracias."
+    "text": "... hagan una cosa --cierro ya--, p\u00f3nganlas su sello, ll\u00e9venlas al BOE y apl\u00edquenlas, que ser\u00e1 bueno para todos. Muchas gracias.",
+    "freeling": [
+        {
+            "word": "...",
+            "lema": "...",
+            "pos": "Fs",
+            "prob": "1"
+        },
+        {
+            "word": "hagan",
+            "lema": "hacer",
+            "pos": "VMSP3P0",
+            "prob": "0.992958"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "cosa",
+            "lema": "cosa",
+            "pos": "NCFS000",
+            "prob": "0.992574"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": "cierro",
+            "lema": "cerrar",
+            "pos": "VMIP1S0",
+            "prob": "0.11024"
+        },
+        {
+            "word": "ya",
+            "lema": "ya",
+            "pos": "RG",
+            "prob": "0.999785"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "pongan",
+            "lema": "poner",
+            "pos": "VMM03P0",
+            "prob": "1"
+        },
+        {
+            "word": "las",
+            "lema": "lo",
+            "pos": "PP3FPA0",
+            "prob": "1"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "sello",
+            "lema": "sello",
+            "pos": "NCMS000",
+            "prob": "0.986111"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "lleven",
+            "lema": "llevar",
+            "pos": "VMM03P0",
+            "prob": "1"
+        },
+        {
+            "word": "las",
+            "lema": "lo",
+            "pos": "PP3FPA0",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "BOE",
+            "lema": "boe",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "apliquen",
+            "lema": "aplicar",
+            "pos": "VMM03P0",
+            "prob": "1"
+        },
+        {
+            "word": "las",
+            "lema": "lo",
+            "pos": "PP3FPA0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "ser\u00e1",
+            "lema": "ser",
+            "pos": "VSIF3S0",
+            "prob": "1"
+        },
+        {
+            "word": "bueno",
+            "lema": "bueno",
+            "pos": "AQ0MS00",
+            "prob": "0.824675"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "todos",
+            "lema": "todo",
+            "pos": "PI0MP00",
+            "prob": "0.293032"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

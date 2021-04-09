@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-11-19T00:00:00.000Z",
-        "debate": "DECLARACIÓN SOBRE LA CUENTA GENERAL DEL ESTADO. (VOTACIÓN): -- DICTAMEN DE LA COMISIÓN MIXTA PARA LAS RELACIONES CON EL TRIBUNAL DE CUENTAS EN RELACIÓN CON LA DECLARACIÓN SOBRE LA CUENTA GENERAL DEL ESTADO DEL EJERCICIO 2018, ASÍ COMO LA RESOLUCIÓN ADOPTADA POR DICHA COMISIÓN. ",
+        "debate": "DECLARACI\u00d3N SOBRE LA CUENTA GENERAL DEL ESTADO. (VOTACI\u00d3N): -- DICTAMEN DE LA COMISI\u00d3N MIXTA PARA LAS RELACIONES CON EL TRIBUNAL DE CUENTAS EN RELACI\u00d3N CON LA DECLARACI\u00d3N SOBRE LA CUENTA GENERAL DEL ESTADO DEL EJERCICIO 2018, AS\u00cd COMO LA RESOLUCI\u00d3N ADOPTADA POR DICHA COMISI\u00d3N. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,287 @@
         ],
         "order": 33,
         "path": "../data/diaries-txts/DSCD-14-PL-064.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "En consecuencia, el real decreto-ley no se tramitará como proyecto de ley por el procedimiento de urgencia. -- REAL DECRETO-LEY 32/2020, DE 3 DE NOVIEMBRE, POR EL QUE SE APRUEBAN MEDIDAS SOCIALES COMPLEMENTARIAS PARA LA PROTECCIÓN POR DESEMPLEO Y DE APOYO AL SECTOR CULTURAL."
+    "text": "En consecuencia, el real decreto-ley no se tramitar\u00e1 como proyecto de ley por el procedimiento de urgencia. -- REAL DECRETO-LEY 32/2020, DE 3 DE NOVIEMBRE, POR EL QUE SE APRUEBAN MEDIDAS SOCIALES COMPLEMENTARIAS PARA LA PROTECCI\u00d3N POR DESEMPLEO Y DE APOYO AL SECTOR CULTURAL.",
+    "freeling": [
+        {
+            "word": "En_consecuencia",
+            "lema": "en_consecuencia",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "real",
+            "lema": "real",
+            "pos": "AQ0CS00",
+            "prob": "0.82839"
+        },
+        {
+            "word": "decreto-ley",
+            "lema": "decreto-ley",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "tramitar\u00e1",
+            "lema": "tramitar",
+            "pos": "VMIF3S0",
+            "prob": "1"
+        },
+        {
+            "word": "como",
+            "lema": "como",
+            "pos": "CS",
+            "prob": "0.967153"
+        },
+        {
+            "word": "proyecto",
+            "lema": "proyecto",
+            "pos": "NCMS000",
+            "prob": "0.999084"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "ley",
+            "lema": "ley",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "procedimiento",
+            "lema": "procedimiento",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "urgencia",
+            "lema": "urgencia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": "REAL_DECRETO-LEY",
+            "lema": "real_decreto-ley",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "32/2020",
+            "lema": "32/2020",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "3_DE_NOVIEMBRE",
+            "lema": "[??:3/11/??:??.??:??]",
+            "pos": "W",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "POR",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "QUE",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "SE",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "APRUEBAN",
+            "lema": "aprobar",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "MEDIDAS",
+            "lema": "medida",
+            "pos": "NCFP000",
+            "prob": "0.999067"
+        },
+        {
+            "word": "SOCIALES",
+            "lema": "social",
+            "pos": "AQ0CP00",
+            "prob": "0.997835"
+        },
+        {
+            "word": "COMPLEMENTARIAS",
+            "lema": "complementario",
+            "pos": "AQ0FP00",
+            "prob": "1"
+        },
+        {
+            "word": "PARA",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "LA",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "PROTECCI\u00d3N",
+            "lema": "protecci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "POR",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "DESEMPLEO",
+            "lema": "desempleo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "Y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "APOYO",
+            "lema": "apoyo",
+            "pos": "NCMS000",
+            "prob": "0.998982"
+        },
+        {
+            "word": "A",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "SECTOR",
+            "lema": "sector",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "CULTURAL",
+            "lema": "cultural",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

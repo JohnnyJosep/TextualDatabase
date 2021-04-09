@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-30T00:00:00.000Z",
-        "debate": "INTERPELACIONES URGENTES: -- INTERPELACIÓN A LA SEÑORA MINISTRA DE INDUSTRIA, COMERCIO Y TURISMO, DEL GRUPO PARLAMENTARIO CIUDADANOS, PARA VALORAR LA AUSENCIA DE MEDIDAS PUESTAS EN MARCHA POR PARTE DEL GOBIERNO PARA ASEGURAR LA SUPERVIVENCIA DE LOS NEGOCIOS Y EMPLEOS EN EL SECTOR DE LA HOSTELERÍA Y OTROS SECTORES RELACIONADOS CON EL TURISMO EN ESPAÑA. ",
+        "debate": "INTERPELACIONES URGENTES: -- INTERPELACI\u00d3N A LA SE\u00d1ORA MINISTRA DE INDUSTRIA, COMERCIO Y TURISMO, DEL GRUPO PARLAMENTARIO CIUDADANOS, PARA VALORAR LA AUSENCIA DE MEDIDAS PUESTAS EN MARCHA POR PARTE DEL GOBIERNO PARA ASEGURAR LA SUPERVIVENCIA DE LOS NEGOCIOS Y EMPLEOS EN EL SECTOR DE LA HOSTELER\u00cdA Y OTROS SECTORES RELACIONADOS CON EL TURISMO EN ESPA\u00d1A. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,125 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-049.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "El artículo 72 hace referencia al cumplimiento del Reglamento. ¿Qué artículo quiere que se cumpla?"
+    "text": "El art\u00edculo 72 hace referencia al cumplimiento del Reglamento. \u00bfQu\u00e9 art\u00edculo quiere que se cumpla?",
+    "freeling": [
+        {
+            "word": "El",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "art\u00edculo",
+            "lema": "art\u00edculo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "72",
+            "lema": "72",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "hace_referencia",
+            "lema": "hacer_referencia",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "cumplimiento",
+            "lema": "cumplimiento",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Reglamento",
+            "lema": "reglamento",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "Qu\u00e9",
+            "lema": "qu\u00e9",
+            "pos": "DT0CN0",
+            "prob": "0.216289"
+        },
+        {
+            "word": "art\u00edculo",
+            "lema": "art\u00edculo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "quiere",
+            "lema": "querer",
+            "pos": "VMIP3S0",
+            "prob": "0.999058"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "cumpla",
+            "lema": "cumplir",
+            "pos": "VMSP3S0",
+            "prob": "0.474178"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        }
+    ]
 }

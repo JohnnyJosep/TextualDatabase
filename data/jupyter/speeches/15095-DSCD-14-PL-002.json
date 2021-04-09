@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-23T00:00:00.000Z",
-        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY: -- DE LOS GRUPOS PARLAMENTARIOS SOCIALISTA Y CONFEDERAL DE UNIDAS PODEMOS-EN COMÚ PODEM-GALICIA EN COMÚN, ORGÁNICA DE REFORMA DE LA LEY ORGÁNICA 5/1985, DE 19 DE JUNIO, DEL RÉGIMEN ELECTORAL GENERAL, PARA LA REGULACIÓN DEL EJERCICIO DEL VOTO POR LOS ESPAÑOLES QUE VIVEN EN EL EXTRANJERO. ",
+        "debate": "TOMA EN CONSIDERACI\u00d3N DE PROPOSICIONES DE LEY: -- DE LOS GRUPOS PARLAMENTARIOS SOCIALISTA Y CONFEDERAL DE UNIDAS PODEMOS-EN COM\u00da PODEM-GALICIA EN COM\u00daN, ORG\u00c1NICA DE REFORMA DE LA LEY ORG\u00c1NICA 5/1985, DE 19 DE JUNIO, DEL R\u00c9GIMEN ELECTORAL GENERAL, PARA LA REGULACI\u00d3N DEL EJERCICIO DEL VOTO POR LOS ESPA\u00d1OLES QUE VIVEN EN EL EXTRANJERO. ",
         "diputado": [
             {
                 "apellidos": "Manso Olivar",
-                "apellidosNombre": "Manso Olivar, Rubén Silvano",
+                "apellidosNombre": "Manso Olivar, Rub\u00e9n Silvano",
                 "codParlamentario": 119,
                 "fchAlta": "21/11/2019",
                 "fchBaja": "",
@@ -14,8 +14,8 @@
                 "grupo": "Grupo Parlamentario VOX",
                 "idCircunscripcion": 29,
                 "idLegislatura": 14,
-                "nombre": "Rubén Silvano",
-                "nombreCircunscripcion": "Málaga",
+                "nombre": "Rub\u00e9n Silvano",
+                "nombreCircunscripcion": "M\u00e1laga",
                 "twitter": "https://twitter.com/rubenmansolivar",
                 "twitterUserId": "386796948",
                 "twitterUserName": "rubenmansolivar"
@@ -24,9 +24,143 @@
         ],
         "order": 110,
         "path": "../data/diaries-txts/DSCD-14-PL-081.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "MANSO OLIVAR"
     },
-    "text": "Muchas gracias. (Prolongados aplausos de las señoras y los señores diputados del Grupo Parlamentario VOX, puestos en pie)."
+    "text": "Muchas gracias. (Prolongados aplausos de las se\u00f1oras y los se\u00f1ores diputados del Grupo Parlamentario VOX, puestos en pie).",
+    "freeling": [
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Prolongados",
+            "lema": "prolongar",
+            "pos": "VMP00PM",
+            "prob": "1"
+        },
+        {
+            "word": "aplausos",
+            "lema": "aplauso",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "se\u00f1oras",
+            "lema": "se\u00f1or",
+            "pos": "NCFP000",
+            "prob": "0.572569"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "se\u00f1ores",
+            "lema": "se\u00f1or",
+            "pos": "AQ0MP00",
+            "prob": "0.361294"
+        },
+        {
+            "word": "diputados",
+            "lema": "diputado",
+            "pos": "NCMP000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Grupo_Parlamentario_VOX",
+            "lema": "grupo_parlamentario_vox",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "puestos",
+            "lema": "puesto",
+            "pos": "NCMP000",
+            "prob": "0.791096"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "pie",
+            "lema": "pie",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

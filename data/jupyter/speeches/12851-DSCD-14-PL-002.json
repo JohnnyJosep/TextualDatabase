@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-12-16T00:00:00.000Z",
-        "debate": "COMPARECENCIA DEL GOBIERNO ANTE EL PLENO DE LA CÁMARA, DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO 203 DEL REGLAMENTO: -- SOLICITUD DE COMPARECENCIA, A PETICIÓN PROPIA, DEL PRESIDENTE DEL GOBIERNO ANTE EL PLENO DEL CONGRESO DE LOS DIPUTADOS, PARA INFORMAR DEL CONSEJO EUROPEO EXTRAORDINARIO CELEBRADO LOS DÍAS 1 Y 2 DE OCTUBRE Y DE LOS CONSEJOS EUROPEOS ORDINARIOS CELEBRADOS LOS DÍAS 15 Y 16 DE OCTUBRE Y EL CELEBRADO LOS DÍAS 10 Y 11 DE DICIEMBRE, ASÍ COMO EN CUMPLIMIENTO DEL ARTÍCULO 14 DEL REAL DECRETO 926/2020, DE 25 DE OCTUBRE, POR EL QUE SE DECLARA EL ESTADO DE ALARMA ",
+        "debate": "COMPARECENCIA DEL GOBIERNO ANTE EL PLENO DE LA C\u00c1MARA, DE CONFORMIDAD CON LO DISPUESTO POR EL ART\u00cdCULO 203 DEL REGLAMENTO: -- SOLICITUD DE COMPARECENCIA, A PETICI\u00d3N PROPIA, DEL PRESIDENTE DEL GOBIERNO ANTE EL PLENO DEL CONGRESO DE LOS DIPUTADOS, PARA INFORMAR DEL CONSEJO EUROPEO EXTRAORDINARIO CELEBRADO LOS D\u00cdAS 1 Y 2 DE OCTUBRE Y DE LOS CONSEJOS EUROPEOS ORDINARIOS CELEBRADOS LOS D\u00cdAS 15 Y 16 DE OCTUBRE Y EL CELEBRADO LOS D\u00cdAS 10 Y 11 DE DICIEMBRE, AS\u00cd COMO EN CUMPLIMIENTO DEL ART\u00cdCULO 14 DEL REAL DECRETO 926/2020, DE 25 DE OCTUBRE, POR EL QUE SE DECLARA EL ESTADO DE ALARMA ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,113 @@
         ],
         "order": 103,
         "path": "../data/diaries-txts/DSCD-14-PL-070.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Tiene usted razón, señor presidente. (Rumores). Pido silencio, de nuevo."
+    "text": "Tiene usted raz\u00f3n, se\u00f1or presidente. (Rumores). Pido silencio, de nuevo.",
+    "freeling": [
+        {
+            "word": "Tiene",
+            "lema": "tener",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": "raz\u00f3n",
+            "lema": "raz\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "presidente",
+            "lema": "presidente",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Rumores",
+            "lema": "rumores",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Pido",
+            "lema": "pedir",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "silencio",
+            "lema": "silencio",
+            "pos": "NCMS000",
+            "prob": "0.997076"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "nuevo",
+            "lema": "nuevo",
+            "pos": "AQ0MS00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

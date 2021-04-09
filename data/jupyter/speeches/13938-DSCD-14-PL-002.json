@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-03T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON PABLO CASADO BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿CÓMO VALORA LA ACTUAL SITUACIÓN DE ESPAÑA? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON PABLO CASADO BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR PRESIDENTE DEL GOBIERNO: \u00bfC\u00d3MO VALORA LA ACTUAL SITUACI\u00d3N DE ESPA\u00d1A? ",
         "diputado": [
             {
-                "apellidos": "Sánchez Pérez-Castejón",
-                "apellidosNombre": "Sánchez Pérez-Castejón, Pedro",
+                "apellidos": "S\u00e1nchez P\u00e9rez-Castej\u00f3n",
+                "apellidosNombre": "S\u00e1nchez P\u00e9rez-Castej\u00f3n, Pedro",
                 "codParlamentario": 274,
                 "fchAlta": "27/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,335 @@
         ],
         "order": 13,
         "path": "../data/diaries-txts/DSCD-14-PL-076.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "PRESIDENTE DEL GOBIERNO (Sánchez Pérez-Castejón)"
+        "speacker": "PRESIDENTE DEL GOBIERNO (S\u00e1nchez P\u00e9rez-Castej\u00f3n)"
     },
-    "text": "Señor Casado, de verdad, haga una oposición útil. (Protestas). ¡Haga una oposición útil, haga una oposición constructiva, señoría! (Continúan las protestas.--El señor Postigo Quintana: El informe). Infórmese, no venga aquí usted simplemente a verter…"
+    "text": "Se\u00f1or Casado, de verdad, haga una oposici\u00f3n \u00fatil. (Protestas). \u00a1Haga una oposici\u00f3n \u00fatil, haga una oposici\u00f3n constructiva, se\u00f1or\u00eda! (Contin\u00faan las protestas.--El se\u00f1or Postigo Quintana: El informe). Inf\u00f3rmese, no venga aqu\u00ed usted simplemente a verter\u2026",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "Casado",
+            "lema": "casar",
+            "pos": "VMP00SM",
+            "prob": "0.97619"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "verdad",
+            "lema": "verdad",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "haga",
+            "lema": "hacer",
+            "pos": "VMSP3S0",
+            "prob": "0.498818"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "oposici\u00f3n",
+            "lema": "oposici\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "\u00fatil",
+            "lema": "\u00fatil",
+            "pos": "AQ0CS00",
+            "prob": "0.987805"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Protestas",
+            "lema": "protestas",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "\u00a1",
+            "lema": "\u00a1",
+            "pos": "Faa",
+            "prob": "1"
+        },
+        {
+            "word": "Haga",
+            "lema": "hacer",
+            "pos": "VMSP3S0",
+            "prob": "0.498818"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "oposici\u00f3n",
+            "lema": "oposici\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "\u00fatil",
+            "lema": "\u00fatil",
+            "pos": "AQ0CS00",
+            "prob": "0.987805"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "haga",
+            "lema": "hacer",
+            "pos": "VMSP3S0",
+            "prob": "0.498818"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "oposici\u00f3n",
+            "lema": "oposici\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "constructiva",
+            "lema": "constructivo",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or\u00eda",
+            "lema": "se\u00f1or\u00eda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "!",
+            "lema": "!",
+            "pos": "Fat",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Contin\u00faan",
+            "lema": "continuar",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "protestas",
+            "lema": "protesta",
+            "pos": "NCFP000",
+            "prob": "0.995868"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": "El",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "Postigo_Quintana",
+            "lema": "postigo_quintana",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ":",
+            "lema": ":",
+            "pos": "Fd",
+            "prob": "1"
+        },
+        {
+            "word": "El",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "informe",
+            "lema": "informe",
+            "pos": "NCMS000",
+            "prob": "0.954286"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Informe",
+            "lema": "informar",
+            "pos": "VMM03S0",
+            "prob": "1"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "PP3CN00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "venga",
+            "lema": "venir",
+            "pos": "VMSP3S0",
+            "prob": "0.386792"
+        },
+        {
+            "word": "aqu\u00ed",
+            "lema": "aqu\u00ed",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": "simplemente",
+            "lema": "simplemente",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "verter",
+            "lema": "verter",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

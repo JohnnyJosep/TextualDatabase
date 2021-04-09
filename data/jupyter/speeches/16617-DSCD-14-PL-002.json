@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-18T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (VOTACIÓN): -- MOCIÓN CONSECUENCIA DE INTERPELACIÓN URGENTE DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, SOBRE LA APROBACIÓN EN EL CONSEJO DE MINISTROS DEL 2 DE MARZO DE 2021 DE LAS DIRECTRICES GENERALES DE LA ESTRATEGIA DE DESARROLLO SOSTENIBLE 2030 Y SUS CONSECUENCIAS EN LA FUTURA LEY DE VIVIENDA. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (VOTACI\u00d3N): -- MOCI\u00d3N CONSECUENCIA DE INTERPELACI\u00d3N URGENTE DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, SOBRE LA APROBACI\u00d3N EN EL CONSEJO DE MINISTROS DEL 2 DE MARZO DE 2021 DE LAS DIRECTRICES GENERALES DE LA ESTRATEGIA DE DESARROLLO SOSTENIBLE 2030 Y SUS CONSECUENCIAS EN LA FUTURA LEY DE VIVIENDA. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,41 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-089.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Queda rechazado. --"
+    "text": "Queda rechazado. --",
+    "freeling": [
+        {
+            "word": "Queda",
+            "lema": "quedar",
+            "pos": "VMIP3S0",
+            "prob": "0.945755"
+        },
+        {
+            "word": "rechazado",
+            "lema": "rechazar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

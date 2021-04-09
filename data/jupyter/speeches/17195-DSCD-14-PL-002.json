@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-25T00:00:00.000Z",
-        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES: -- REAL DECRETO-LEY 4/2021, DE 9 DE MARZO, POR EL QUE SE MODIFICAN LA LEY 27/2014, DE 27 DE NOVIEMBRE, DEL IMPUESTO SOBRE SOCIEDADES, Y EL TEXTO REFUNDIDO DE LA LEY DEL IMPUESTO SOBRE LA RENTA DE NO RESIDENTES, APROBADO MEDIANTE REAL DECRETO LEGISLATIVO 5/2004, DE 5 DE MARZO, EN RELACIÓN CON LAS ASIMETRÍAS HÍBRIDAS. ",
+        "debate": "CONVALIDACI\u00d3N O DEROGACI\u00d3N DE REALES DECRETOS-LEYES: -- REAL DECRETO-LEY 4/2021, DE 9 DE MARZO, POR EL QUE SE MODIFICAN LA LEY 27/2014, DE 27 DE NOVIEMBRE, DEL IMPUESTO SOBRE SOCIEDADES, Y EL TEXTO REFUNDIDO DE LA LEY DEL IMPUESTO SOBRE LA RENTA DE NO RESIDENTES, APROBADO MEDIANTE REAL DECRETO LEGISLATIVO 5/2004, DE 5 DE MARZO, EN RELACI\u00d3N CON LAS ASIMETR\u00cdAS H\u00cdBRIDAS. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,269 @@
         ],
         "order": 102,
         "path": "../data/diaries-txts/DSCD-14-PL-092.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Muchas gracias, señora Raya. PROPUESTAS DE CREACIÓN DE SUBCOMISIONES: -- PROPUESTA DE LA COMISIÓN DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES, DE CREACIÓN DE UNA SUBCOMISIÓN RELATIVA AL DESARROLLO DEL PACTO POR LA CIENCIA Y LA INNOVACIÓN Y EL ESTUDIO Y ANÁLISIS DE LA MODIFICACIÓN DE LA LEY DE LA CIENCIA."
+    "text": "Muchas gracias, se\u00f1ora Raya. PROPUESTAS DE CREACI\u00d3N DE SUBCOMISIONES: -- PROPUESTA DE LA COMISI\u00d3N DE CIENCIA, INNOVACI\u00d3N Y UNIVERSIDADES, DE CREACI\u00d3N DE UNA SUBCOMISI\u00d3N RELATIVA AL DESARROLLO DEL PACTO POR LA CIENCIA Y LA INNOVACI\u00d3N Y EL ESTUDIO Y AN\u00c1LISIS DE LA MODIFICACI\u00d3N DE LA LEY DE LA CIENCIA.",
+    "freeling": [
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "Raya",
+            "lema": "raya",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "PROPUESTAS",
+            "lema": "propuesta",
+            "pos": "NCFP000",
+            "prob": "0.963576"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "CREACI\u00d3N",
+            "lema": "creaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "SUBCOMISIONES",
+            "lema": "subcomisi\u00f3n",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ":",
+            "lema": ":",
+            "pos": "Fd",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": "PROPUESTA",
+            "lema": "propuesta",
+            "pos": "NCFS000",
+            "prob": "0.983384"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "LA",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "COMISI\u00d3N_DE_CIENCIA",
+            "lema": "comisi\u00f3n_de_ciencia",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "INNOVACI\u00d3N",
+            "lema": "innovaci\u00f3n",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "Y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "UNIVERSIDADES",
+            "lema": "universidades",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "CREACI\u00d3N",
+            "lema": "creaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "UNA",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "SUBCOMISI\u00d3N",
+            "lema": "subcomisi\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "RELATIVA",
+            "lema": "relativo",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": "A",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "DESARROLLO_DE_EL_PACTO_POR_LA_CIENCIA_Y_LA_INNOVACI\u00d3N",
+            "lema": "desarrollo_de_el_pacto_por_la_ciencia_y_la_innovaci\u00f3n",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": "Y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "ESTUDIO",
+            "lema": "estudio",
+            "pos": "NCMS000",
+            "prob": "0.97043"
+        },
+        {
+            "word": "Y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "AN\u00c1LISIS",
+            "lema": "an\u00e1lisis",
+            "pos": "NCMN000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "LA",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "MODIFICACI\u00d3N",
+            "lema": "modificaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "LA",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "LEY_DE_LA_CIENCIA",
+            "lema": "ley_de_la_ciencia",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

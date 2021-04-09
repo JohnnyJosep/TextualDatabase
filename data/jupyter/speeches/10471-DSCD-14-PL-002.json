@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-10-28T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON PEDRO NAVARRO LÓPEZ, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA MINISTRA DE EDUCACIÓN Y FORMACIÓN PROFESIONAL: ¿QUÉ ENTIENDE POR DIÁLOGO Y ACUERDO EN UNA REFORMA EDUCATIVA? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON PEDRO NAVARRO L\u00d3PEZ, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SE\u00d1ORA MINISTRA DE EDUCACI\u00d3N Y FORMACI\u00d3N PROFESIONAL: \u00bfQUE\u0301 ENTIENDE POR DI\u00c1LOGO Y ACUERDO EN UNA REFORMA EDUCATIVA? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,29 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-058.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Navarro López."
+    "text": "Se\u00f1or Navarro L\u00f3pez.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "Navarro_L\u00f3pez",
+            "lema": "navarro_l\u00f3pez",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

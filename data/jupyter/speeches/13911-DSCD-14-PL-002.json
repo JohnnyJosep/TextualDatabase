@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-01-28T00:00:00.000Z",
-        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES: -- REAL DECRETO-LEY 36/2020, DE 30 DE DICIEMBRE, POR EL QUE SE APRUEBAN MEDIDAS URGENTES PARA LA MODERNIZACIÓN DE LA ADMINISTRACIÓN PÚBLICA Y PARA LA EJECUCIÓN DEL PLAN DE RECUPERACIÓN, TRANSFORMACIÓN Y RESILIENCIA. ",
+        "debate": "CONVALIDACI\u00d3N O DEROGACI\u00d3N DE REALES DECRETOS-LEYES: -- REAL DECRETO-LEY 36/2020, DE 30 DE DICIEMBRE, POR EL QUE SE APRUEBAN MEDIDAS URGENTES PARA LA MODERNIZACI\u00d3N DE LA ADMINISTRACI\u00d3N PU\u0301BLICA Y PARA LA EJECUCI\u00d3N DEL PLAN DE RECUPERACI\u00d3N, TRANSFORMACI\u00d3N Y RESILIENCIA. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,479 @@
         ],
         "order": 161,
         "path": "../data/diaries-txts/DSCD-14-PL-074.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Real Decreto-ley 35/2020, de 22 de diciembre, de medidas urgentes de apoyo al sector turístico, la hostelería y el comercio y en materia tributaria. Comienza la votación. (Pausa). Efectuada la votación, dio el siguiente resultado: votos emitidos, 105 más 242 votos telemáticos, 347; a favor, 105 más 183 votos telemáticos, 288; en contra, 5 votos telemáticos; abstenciones, 54 votos telemáticos."
+    "text": "Real Decreto-ley 35/2020, de 22 de diciembre, de medidas urgentes de apoyo al sector tur\u00edstico, la hosteler\u00eda y el comercio y en materia tributaria. Comienza la votaci\u00f3n. (Pausa). Efectuada la votaci\u00f3n, dio el siguiente resultado: votos emitidos, 105 m\u00e1s 242 votos telem\u00e1ticos, 347; a favor, 105 m\u00e1s 183 votos telem\u00e1ticos, 288; en contra, 5 votos telem\u00e1ticos; abstenciones, 54 votos telem\u00e1ticos.",
+    "freeling": [
+        {
+            "word": "Real_Decreto-ley",
+            "lema": "real_decreto-ley",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "35/2020",
+            "lema": "35/2020",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "22_de_diciembre",
+            "lema": "[??:22/12/??:??.??:??]",
+            "pos": "W",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "medidas",
+            "lema": "medida",
+            "pos": "NCFP000",
+            "prob": "0.999067"
+        },
+        {
+            "word": "urgentes",
+            "lema": "urgente",
+            "pos": "AQ0CP00",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "apoyo",
+            "lema": "apoyo",
+            "pos": "NCMS000",
+            "prob": "0.998982"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "sector",
+            "lema": "sector",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "tur\u00edstico",
+            "lema": "tur\u00edstico",
+            "pos": "AQ0MS00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "hosteler\u00eda",
+            "lema": "hosteler\u00eda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "comercio",
+            "lema": "comercio",
+            "pos": "NCMS000",
+            "prob": "0.996689"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "materia",
+            "lema": "materia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "tributaria",
+            "lema": "tributario",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Comienza",
+            "lema": "comenzar",
+            "pos": "VMIP3S0",
+            "prob": "0.993827"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "votaci\u00f3n",
+            "lema": "votaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Pausa",
+            "lema": "pausa",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Efectuada",
+            "lema": "efectuar",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "votaci\u00f3n",
+            "lema": "votaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "dio",
+            "lema": "dar",
+            "pos": "VMIS3S0",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "siguiente",
+            "lema": "siguiente",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "resultado",
+            "lema": "resultado",
+            "pos": "NCMS000",
+            "prob": "0.924877"
+        },
+        {
+            "word": ":",
+            "lema": ":",
+            "pos": "Fd",
+            "prob": "1"
+        },
+        {
+            "word": "votos",
+            "lema": "voto",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "emitidos",
+            "lema": "emitir",
+            "pos": "VMP00PM",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "105",
+            "lema": "105",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "m\u00e1s",
+            "lema": "m\u00e1s",
+            "pos": "RG",
+            "prob": "0.99993"
+        },
+        {
+            "word": "242",
+            "lema": "242",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "votos",
+            "lema": "voto",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "telem\u00e1ticos",
+            "lema": "telem\u00e1tico",
+            "pos": "AQ0MP00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "347",
+            "lema": "347",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": ";",
+            "lema": ";",
+            "pos": "Fx",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "favor",
+            "lema": "favor",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "105",
+            "lema": "105",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "m\u00e1s",
+            "lema": "m\u00e1s",
+            "pos": "RG",
+            "prob": "0.99993"
+        },
+        {
+            "word": "183",
+            "lema": "183",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "votos",
+            "lema": "voto",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "telem\u00e1ticos",
+            "lema": "telem\u00e1tico",
+            "pos": "AQ0MP00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "288",
+            "lema": "288",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": ";",
+            "lema": ";",
+            "pos": "Fx",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "contra",
+            "lema": "contra",
+            "pos": "NCCS000",
+            "prob": "0.0121879"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "5",
+            "lema": "5",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "votos",
+            "lema": "voto",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "telem\u00e1ticos",
+            "lema": "telem\u00e1tico",
+            "pos": "AQ0MP00",
+            "prob": "1"
+        },
+        {
+            "word": ";",
+            "lema": ";",
+            "pos": "Fx",
+            "prob": "1"
+        },
+        {
+            "word": "abstenciones",
+            "lema": "abstenci\u00f3n",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "54",
+            "lema": "54",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "votos",
+            "lema": "voto",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "telem\u00e1ticos",
+            "lema": "telem\u00e1tico",
+            "pos": "AQ0MP00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

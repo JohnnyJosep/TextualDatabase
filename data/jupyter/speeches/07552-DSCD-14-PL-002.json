@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-10T00:00:00.000Z",
-        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES. (VOTACIÓN): -- REAL DECRETO-LEY 27/2020, DE 4 DE AGOSTO, DE MEDIDAS FINANCIERAS, DE CARÁCTER EXTRAORDINARIO Y URGENTE, APLICABLES A LAS ENTIDADES LOCALES. ",
+        "debate": "CONVALIDACI\u00d3N O DEROGACI\u00d3N DE REALES DECRETOS-LEYES. (VOTACI\u00d3N): -- REAL DECRETO-LEY 27/2020, DE 4 DE AGOSTO, DE MEDIDAS FINANCIERAS, DE CAR\u00c1CTER EXTRAORDINARIO Y URGENTE, APLICABLES A LAS ENTIDADES LOCALES. ",
         "diputado": [
             {
                 "apellidos": "Montero Cuadrado",
-                "apellidosNombre": "Montero Cuadrado, María Jesús",
+                "apellidosNombre": "Montero Cuadrado, Mar\u00eda Jes\u00fas",
                 "codParlamentario": 225,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario Socialista",
                 "idCircunscripcion": 41,
                 "idLegislatura": 14,
-                "nombre": "María Jesús",
+                "nombre": "Mar\u00eda Jes\u00fas",
                 "nombreCircunscripcion": "Sevilla",
                 "twitter": "https://twitter.com/mjmonteroc",
                 "twitterUserId": "310187114",
@@ -24,9 +24,539 @@
         ],
         "order": 19,
         "path": "../data/diaries-txts/DSCD-14-PL-043.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "MINISTRA DE HACIENDA (Montero Cuadrado)"
     },
-    "text": "Ya nos vamos entendiendo, señor González Terol, ¿no? Ahora sí. El Ministerio de Hacienda, ¿ha hablado con el Partido Popular o no, señor González Terol? Sí, ¿verdad? ¿Esta ministra ha hablado con el alcalde de Zaragoza o no, señor Terol? Sí, ¿verdad? (Rumores.--Aplausos). Bueno pues entonces, señoría, no puede usted sostener lo que ha dicho en esta tribuna (rumores) de que este ministerio…"
+    "text": "Ya nos vamos entendiendo, se\u00f1or Gonz\u00e1lez Terol, \u00bfno? Ahora s\u00ed. El Ministerio de Hacienda, \u00bfha hablado con el Partido Popular o no, se\u00f1or Gonz\u00e1lez Terol? S\u00ed, \u00bfverdad? \u00bfEsta ministra ha hablado con el alcalde de Zaragoza o no, se\u00f1or Terol? S\u00ed, \u00bfverdad? (Rumores.--Aplausos). Bueno pues entonces, se\u00f1or\u00eda, no puede usted sostener lo que ha dicho en esta tribuna (rumores) de que este ministerio\u2026",
+    "freeling": [
+        {
+            "word": "Ya",
+            "lema": "ya",
+            "pos": "RG",
+            "prob": "0.999785"
+        },
+        {
+            "word": "nos",
+            "lema": "nos",
+            "pos": "PP1CP00",
+            "prob": "0.810258"
+        },
+        {
+            "word": "vamos",
+            "lema": "ir",
+            "pos": "VMIP1P0",
+            "prob": "0.965015"
+        },
+        {
+            "word": "entendiendo",
+            "lema": "entender",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "Gonz\u00e1lez_Terol",
+            "lema": "gonz\u00e1lez_terol",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        },
+        {
+            "word": "Ahora",
+            "lema": "ahora",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "s\u00ed",
+            "lema": "s\u00ed",
+            "pos": "RG",
+            "prob": "0.654652"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "El",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Ministerio_de_Hacienda",
+            "lema": "ministerio_de_hacienda",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "hablado",
+            "lema": "hablar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Partido_Popular",
+            "lema": "partido_popular",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "o",
+            "lema": "o",
+            "pos": "CC",
+            "prob": "0.999864"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "Gonz\u00e1lez_Terol",
+            "lema": "gonz\u00e1lez_terol",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        },
+        {
+            "word": "S\u00ed",
+            "lema": "s\u00ed",
+            "pos": "RG",
+            "prob": "0.654652"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "verdad",
+            "lema": "verdad",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "Esta",
+            "lema": "este",
+            "pos": "DD0FS0",
+            "prob": "0.978817"
+        },
+        {
+            "word": "ministra",
+            "lema": "ministro",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "hablado",
+            "lema": "hablar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "alcalde",
+            "lema": "alcalde",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Zaragoza",
+            "lema": "zaragoza",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": "o",
+            "lema": "o",
+            "pos": "CC",
+            "prob": "0.999864"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "Terol",
+            "lema": "terol",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        },
+        {
+            "word": "S\u00ed",
+            "lema": "s\u00ed",
+            "pos": "RG",
+            "prob": "0.654652"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "verdad",
+            "lema": "verdad",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Rumores",
+            "lema": "rumor",
+            "pos": "NCMP000",
+            "prob": "0.992424"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplauso",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Bueno",
+            "lema": "bueno",
+            "pos": "I",
+            "prob": "0.175325"
+        },
+        {
+            "word": "pues",
+            "lema": "pues",
+            "pos": "CS",
+            "prob": "0.999049"
+        },
+        {
+            "word": "entonces",
+            "lema": "entonces",
+            "pos": "RG",
+            "prob": "0.998203"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or\u00eda",
+            "lema": "se\u00f1or\u00eda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "puede",
+            "lema": "poder",
+            "pos": "VMIP3S0",
+            "prob": "0.999693"
+        },
+        {
+            "word": "usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": "sostener",
+            "lema": "sostener",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "lo",
+            "lema": "el",
+            "pos": "DA00S0",
+            "prob": "0.665165"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "dicho",
+            "lema": "decir",
+            "pos": "VMP00SM",
+            "prob": "0.997159"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "esta",
+            "lema": "este",
+            "pos": "DD0FS0",
+            "prob": "0.978817"
+        },
+        {
+            "word": "tribuna",
+            "lema": "tribuna",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "rumores",
+            "lema": "rumor",
+            "pos": "NCMP000",
+            "prob": "0.992424"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "este",
+            "lema": "este",
+            "pos": "DD0MS0",
+            "prob": "0.949201"
+        },
+        {
+            "word": "ministerio",
+            "lema": "ministerio",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

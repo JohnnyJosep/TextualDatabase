@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-15T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, EN RELACIÓN A LA DESIDIA Y LA INCAPACIDAD DEL GOBIERNO PARA GARANTIZAR UNA VUELTA SEGURA A LAS AULAS EN CONDICIONES DE IGUALDAD, A LO LARGO Y ANCHO DE TODO EL TERRITORIO ESPAÑOL. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, EN RELACI\u00d3N A LA DESIDIA Y LA INCAPACIDAD DEL GOBIERNO PARA GARANTIZAR UNA VUELTA SEGURA A LAS AULAS EN CONDICIONES DE IGUALDAD, A LO LARGO Y ANCHO DE TODO EL TERRITORIO ESPA\u00d1OL. ",
         "diputado": [
             {
-                "apellidos": "Jiménez Linuesa",
-                "apellidosNombre": "Jiménez Linuesa, Beatriz",
+                "apellidos": "Jim\u00e9nez Linuesa",
+                "apellidosNombre": "Jim\u00e9nez Linuesa, Beatriz",
                 "codParlamentario": 206,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,95 @@
         ],
         "order": 31,
         "path": "../data/diaries-txts/DSCD-14-PL-044.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "JIMÉNEZ LINUESA"
+        "speacker": "JIM\u00c9NEZ LINUESA"
     },
-    "text": "Sí, presidenta, aceptamos las enmiendas presentadas por el Grupo Parlamentario VOX y Ciudadanos."
+    "text": "S\u00ed, presidenta, aceptamos las enmiendas presentadas por el Grupo Parlamentario VOX y Ciudadanos.",
+    "freeling": [
+        {
+            "word": "S\u00ed",
+            "lema": "s\u00ed",
+            "pos": "RG",
+            "prob": "0.654652"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "aceptamos",
+            "lema": "aceptar",
+            "pos": "VMIP1P0",
+            "prob": "0.65"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "enmiendas",
+            "lema": "enmienda",
+            "pos": "NCFP000",
+            "prob": "0.980769"
+        },
+        {
+            "word": "presentadas",
+            "lema": "presentar",
+            "pos": "VMP00PF",
+            "prob": "1"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Grupo_Parlamentario_VOX",
+            "lema": "grupo_parlamentario_vox",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "Ciudadanos",
+            "lema": "ciudadanos",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

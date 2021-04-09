@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-12-02T00:00:00.000Z",
-        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (CONTINUACIÓN): -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL AÑO 2021. (CONTINUACIÓN). ",
+        "debate": "DICTA\u0301MENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (CONTINUACI\u00d3N): -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL A\u00d1O 2021. (CONTINUACI\u00d3N). ",
         "diputado": [
             {
-                "apellidos": "Mazón Ramos",
-                "apellidosNombre": "Mazón Ramos, José María",
+                "apellidos": "Maz\u00f3n Ramos",
+                "apellidosNombre": "Maz\u00f3n Ramos, Jos\u00e9 Mar\u00eda",
                 "codParlamentario": 349,
                 "fchAlta": "02/12/2019",
                 "fchBaja": "",
@@ -14,16 +14,156 @@
                 "grupo": "Grupo Parlamentario Mixto",
                 "idCircunscripcion": 39,
                 "idLegislatura": 14,
-                "nombre": "José María",
+                "nombre": "Jos\u00e9 Mar\u00eda",
                 "nombreCircunscripcion": "Cantabria"
             },
             0
         ],
         "order": 133,
         "path": "../data/diaries-txts/DSCD-14-PL-067.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "MAZÓN RAMOS"
+        "speacker": "MAZ\u00d3N RAMOS"
     },
-    "text": "Muchas gracias. En nombre del Partido Teruel Existe y de Coalición Canaria, incluidos en el Grupo Mixto, doy por defendidas sus enmiendas."
+    "text": "Muchas gracias. En nombre del Partido Teruel Existe y de Coalici\u00f3n Canaria, incluidos en el Grupo Mixto, doy por defendidas sus enmiendas.",
+    "freeling": [
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "En",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "nombre",
+            "lema": "nombre",
+            "pos": "NCMS000",
+            "prob": "0.995342"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Partido_Teruel_Existe",
+            "lema": "partido_teruel_existe",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Coalici\u00f3n_Canaria",
+            "lema": "coalici\u00f3n_canaria",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "incluidos",
+            "lema": "incluir",
+            "pos": "VMP00PM",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Grupo_Mixto",
+            "lema": "grupo_mixto",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "doy",
+            "lema": "dar",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "defendidas",
+            "lema": "defender",
+            "pos": "VMP00PF",
+            "prob": "0.623747"
+        },
+        {
+            "word": "sus",
+            "lema": "su",
+            "pos": "DP3CPN",
+            "prob": "0.999903"
+        },
+        {
+            "word": "enmiendas",
+            "lema": "enmienda",
+            "pos": "NCFP000",
+            "prob": "0.980769"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

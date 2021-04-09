@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-17T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO REPUBLICANO, SOBRE SI TIENE PREVISTO EL GOBIERNO UN GIRO EN SU POLÍTICA TERRITORIAL, Y EN PARTICULAR RESPECTO AL CONFLICTO CON CATALUÑA. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO REPUBLICANO, SOBRE SI TIENE PREVISTO EL GOBIERNO UN GIRO EN SU POL\u00cdTICA TERRITORIAL, Y EN PARTICULAR RESPECTO AL CONFLICTO CON CATALU\u00d1A. ",
         "diputado": [
             {
-                "apellidos": "Rufián Romero",
-                "apellidosNombre": "Rufián Romero, Gabriel",
+                "apellidos": "Rufi\u00e1n Romero",
+                "apellidosNombre": "Rufi\u00e1n Romero, Gabriel",
                 "codParlamentario": 187,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,65 @@
         ],
         "order": 31,
         "path": "../data/diaries-txts/DSCD-14-PL-079.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "RUFIÁN ROMERO"
+        "speacker": "RUFI\u00c1N ROMERO"
     },
-    "text": "¡Hum! No. (Risas)."
+    "text": "\u00a1Hum! No. (Risas).",
+    "freeling": [
+        {
+            "word": "\u00a1",
+            "lema": "\u00a1",
+            "pos": "Faa",
+            "prob": "1"
+        },
+        {
+            "word": "Hum",
+            "lema": "hum",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "!",
+            "lema": "!",
+            "pos": "Fat",
+            "prob": "1"
+        },
+        {
+            "word": "No",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Risas",
+            "lema": "risas",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

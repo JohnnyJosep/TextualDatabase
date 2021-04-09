@@ -1,21 +1,21 @@
 {
     "metadata": {
         "celebrated": "2020-12-16T00:00:00.000Z",
-        "debate": "MOCIÓN CONSECUENCIA DE INTERPELACIÓN URGENTE. (CONTINUACIÓN): -- DEL GRUPO PARLAMENTARIO VOX, SOBRE LAS MEDIDAS QUE VA A ADOPTAR EL GOBIERNO EN EL ÁMBITO DE LA LIBERTAD DE EXPRESIÓN EN ESPAÑA. ",
+        "debate": "MOCI\u00d3N CONSECUENCIA DE INTERPELACI\u00d3N URGENTE. (CONTINUACI\u00d3N): -- DEL GRUPO PARLAMENTARIO VOX, SOBRE LAS MEDIDAS QUE VA A ADOPTAR EL GOBIERNO EN EL \u00c1MBITO DE LA LIBERTAD DE EXPRESI\u00d3N EN ESPA\u00d1A. ",
         "diputado": [
             {
-                "apellidos": "Baldoví Roda",
-                "apellidosNombre": "Baldoví Roda, Joan",
+                "apellidos": "Baldov\u00ed Roda",
+                "apellidosNombre": "Baldov\u00ed Roda, Joan",
                 "codParlamentario": 247,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
-                "formacion": "MÉS COMPROMÍS",
+                "formacion": "M\u00c9S COMPROM\u00cdS",
                 "genero": 1,
                 "grupo": "Grupo Parlamentario Plural",
                 "idCircunscripcion": 46,
                 "idLegislatura": 14,
                 "nombre": "Joan",
-                "nombreCircunscripcion": "Valencia/València",
+                "nombreCircunscripcion": "Valencia/Val\u00e8ncia",
                 "twitter": "https://twitter.com/joanbaldovi",
                 "twitterUserId": "378944786",
                 "twitterUserName": "joanbaldovi"
@@ -24,9 +24,107 @@
         ],
         "order": 29,
         "path": "../data/diaries-txts/DSCD-14-PL-070.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "BALDOVÍ RODA"
+        "speacker": "BALDOV\u00cd RODA"
     },
-    "text": "Haga usted lo que quiera. Es lo que siento de verdad dentro de mi corazón."
+    "text": "Haga usted lo que quiera. Es lo que siento de verdad dentro de mi coraz\u00f3n.",
+    "freeling": [
+        {
+            "word": "Haga",
+            "lema": "hacer",
+            "pos": "VMSP3S0",
+            "prob": "0.498818"
+        },
+        {
+            "word": "usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": "lo",
+            "lema": "el",
+            "pos": "DA00S0",
+            "prob": "0.665165"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "quiera",
+            "lema": "querer",
+            "pos": "VMSP3S0",
+            "prob": "0.493976"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "lo",
+            "lema": "el",
+            "pos": "DA00S0",
+            "prob": "0.665165"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "siento",
+            "lema": "sentar",
+            "pos": "VMIP1S0",
+            "prob": "0.5"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "verdad",
+            "lema": "verdad",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "dentro_de",
+            "lema": "dentro_de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "mi",
+            "lema": "mi",
+            "pos": "DP1CSS",
+            "prob": "0.999325"
+        },
+        {
+            "word": "coraz\u00f3n",
+            "lema": "coraz\u00f3n",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

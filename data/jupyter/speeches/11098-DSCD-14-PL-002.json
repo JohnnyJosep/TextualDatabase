@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-11-18T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- PREGUNTA DEL DIPUTADO DON TEODORO GARCÍA EGEA, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR VICEPRESIDENTE SEGUNDO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030: ¿CONSIDERA EL VICEPRESIDENTE SEGUNDO QUE LOS PRESUPUESTOS GENERAN CONFIANZA? ",
+        "debate": "PREGUNTAS: -- PREGUNTA DEL DIPUTADO DON TEODORO GARC\u00cdA EGEA, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR VICEPRESIDENTE SEGUNDO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030: \u00bfCONSIDERA EL VICEPRESIDENTE SEGUNDO QUE LOS PRESUPUESTOS GENERAN CONFIANZA? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,203 @@
         ],
         "order": 0,
         "path": "../data/diaries-txts/DSCD-14-PL-063.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Preguntas dirigidas al señor vicepresidente segundo del Gobierno y ministro de Derechos Sociales y Agenda 2030. Pregunta del diputado don Teodoro García Egea, del Grupo Parlamentario Popular en el Congreso."
+    "text": "Preguntas dirigidas al se\u00f1or vicepresidente segundo del Gobierno y ministro de Derechos Sociales y Agenda 2030. Pregunta del diputado don Teodoro Garc\u00eda Egea, del Grupo Parlamentario Popular en el Congreso.",
+    "freeling": [
+        {
+            "word": "Preguntas",
+            "lema": "pregunta",
+            "pos": "NCFP000",
+            "prob": "0.995868"
+        },
+        {
+            "word": "dirigidas",
+            "lema": "dirigir",
+            "pos": "VMP00PF",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "vicepresidente",
+            "lema": "vicepresidente",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "segundo",
+            "lema": "2",
+            "pos": "AO0MS00",
+            "prob": "0.901147"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "ministro",
+            "lema": "ministro",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Derechos_Sociales",
+            "lema": "derechos_sociales",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "Agenda",
+            "lema": "agenda",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": "2030",
+            "lema": "2030",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Pregunta",
+            "lema": "preguntar",
+            "pos": "VMIP3S0",
+            "prob": "0.300493"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "diputado",
+            "lema": "diputado",
+            "pos": "NCMS000",
+            "prob": "0.997382"
+        },
+        {
+            "word": "don",
+            "lema": "don",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "Teodoro_Garc\u00eda_Egea",
+            "lema": "teodoro_garc\u00eda_egea",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Grupo_Parlamentario_Popular",
+            "lema": "grupo_parlamentario_popular",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Congreso",
+            "lema": "congreso",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

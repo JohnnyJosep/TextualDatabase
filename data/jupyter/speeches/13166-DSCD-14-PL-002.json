@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-12-17T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (VOTACIÓN): -- DEL GRUPO PARLAMENTARIO CIUDADANOS, SOBRE LAS MEDIDAS QUE PIENSA ADOPTAR EL GOBIERNO PARA GARANTIZAR EL DERECHO A LA CONCILIACIÓN DEL TRABAJO Y LA FAMILIA, ESPECIALMENTE ANTE LAS DIFICULTADES EXCEPCIONALES GENERADAS POR LA EMERGENCIA SANITARIA DE LA COVID-19. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (VOTACI\u00d3N): -- DEL GRUPO PARLAMENTARIO CIUDADANOS, SOBRE LAS MEDIDAS QUE PIENSA ADOPTAR EL GOBIERNO PARA GARANTIZAR EL DERECHO A LA CONCILIACI\u00d3N DEL TRABAJO Y LA FAMILIA, ESPECIALMENTE ANTE LAS DIFICULTADES EXCEPCIONALES GENERADAS POR LA EMERGENCIA SANITARIA DE LA COVID-19. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,41 @@
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-071.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Queda aprobada. --"
+    "text": "Queda aprobada. --",
+    "freeling": [
+        {
+            "word": "Queda",
+            "lema": "quedar",
+            "pos": "VMIP3S0",
+            "prob": "0.945755"
+        },
+        {
+            "word": "aprobada",
+            "lema": "aprobar",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

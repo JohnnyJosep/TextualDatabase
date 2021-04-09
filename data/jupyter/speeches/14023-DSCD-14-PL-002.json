@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-03T00:00:00.000Z",
-        "debate": "VOX. -- DEL DIPUTADO DON ÍÑIGO BARANDIARAN BENITO, DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), QUE FORMULA AL SEÑOR MINISTRO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA: ¿CÓMO PIENSA EL GOBIERNO CUMPLIR CON LA RESOLUCIÓN DEL PARLAMENTO EUROPEO SOBRE LA REVISIÓN DE LAS DIRECTRICES RELATIVAS A LA RED TRANSEUROPEA DE TRANSPORTE (RTE-T) APROBADA EL PASADO MES DE DICIEMBRE? ",
+        "debate": "VOX. -- DEL DIPUTADO DON \u00cd\u00d1IGO BARANDIARAN BENITO, DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), QUE FORMULA AL SE\u00d1OR MINISTRO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA: \u00bfC\u00d3MO PIENSA EL GOBIERNO CUMPLIR CON LA RESOLUCI\u00d3N DEL PARLAMENTO EUROPEO SOBRE LA REVISI\u00d3N DE LAS DIRECTRICES RELATIVAS A LA RED TRANSEUROPEA DE TRANSPORTE (RTE-T) APROBADA EL PASADO MES DE DICIEMBRE? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,65 @@
         ],
         "order": 6,
         "path": "../data/diaries-txts/DSCD-14-PL-076.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor ministro de Transportes, Movilidad y Agenda Urbana."
+    "text": "Se\u00f1or ministro de Transportes, Movilidad y Agenda Urbana.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "ministro",
+            "lema": "ministro",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Transportes",
+            "lema": "transportes",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Movilidad",
+            "lema": "movilidad",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "Agenda_Urbana",
+            "lema": "agenda_urbana",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

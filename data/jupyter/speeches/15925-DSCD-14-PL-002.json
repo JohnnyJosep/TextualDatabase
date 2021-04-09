@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-10T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIÓN URGENTE (CONTINUACIÓN): -- DEL GRUPO PARLAMENTARIO CIUDADANOS, SOBRE LAS MEDIDAS ADOPTADAS POR EL GOBIERNO PARA LA REDUCCIÓN DEL COSTE DE LA FACTURA ELÉCTRICA DE LOS SECTORES ECONÓMICOS MÁS AFECTADOS POR LA CRISIS DE LA COVID-19 Y AQUELLOS CON ALTA ESTACIONALIDAD COMO LA AGRICULTURA Y EL TURISMO. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACI\u00d3N URGENTE (CONTINUACI\u00d3N): -- DEL GRUPO PARLAMENTARIO CIUDADANOS, SOBRE LAS MEDIDAS ADOPTADAS POR EL GOBIERNO PARA LA REDUCCI\u00d3N DEL COSTE DE LA FACTURA EL\u00c9CTRICA DE LOS SECTORES ECON\u00d3MICOS M\u00c1S AFECTADOS POR LA CRISIS DE LA COVID-19 Y AQUELLOS CON ALTA ESTACIONALIDAD COMO LA AGRICULTURA Y EL TURISMO. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,77 @@
         ],
         "order": 20,
         "path": "../data/diaries-txts/DSCD-14-PL-085.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Requena, lo siento pero ha finalizado su tiempo."
+    "text": "Se\u00f1or Requena, lo siento pero ha finalizado su tiempo.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "Requena",
+            "lema": "requena",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "lo",
+            "lema": "lo",
+            "pos": "PP3MSA0",
+            "prob": "0.334764"
+        },
+        {
+            "word": "siento",
+            "lema": "sentar",
+            "pos": "VMIP1S0",
+            "prob": "0.5"
+        },
+        {
+            "word": "pero",
+            "lema": "pero",
+            "pos": "CC",
+            "prob": "0.999902"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "finalizado",
+            "lema": "finalizar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "tiempo",
+            "lema": "tiempo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

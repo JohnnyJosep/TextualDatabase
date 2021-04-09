@@ -1,7 +1,7 @@
 {
     "metadata": {
         "celebrated": "2021-05-11T00:00:00.000Z",
-        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS: -- PROPOSICIÓN DE LEY ORGÁNICA DE DEROGACIÓN DEL ARTÍCULO 315, APARTADO 3, DEL CÓDIGO PENAL. ",
+        "debate": "DICT\u00c1MENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS: -- PROPOSICI\u00d3N DE LEY ORG\u00c1NICA DE DEROGACI\u00d3N DEL ART\u00cdCULO 315, APARTADO 3, DEL C\u00d3DIGO PENAL. ",
         "diputado": [
             {
                 "apellidos": "Santiago Romero",
@@ -11,7 +11,7 @@
                 "fchBaja": "",
                 "formacion": "UP",
                 "genero": 1,
-                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común",
+                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Com\u00fa Podem-Galicia en Com\u00fan",
                 "idCircunscripcion": 28,
                 "idLegislatura": 14,
                 "nombre": "Enrique Fernando",
@@ -24,9 +24,83 @@
         ],
         "order": 62,
         "path": "../data/diaries-txts/DSCD-14-PL-086.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "SANTIAGO ROMERO"
     },
-    "text": "… que acepte esta propuesta. Gracias. (Aplausos)."
+    "text": "\u2026 que acepte esta propuesta. Gracias. (Aplausos).",
+    "freeling": [
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "acepte",
+            "lema": "aceptar",
+            "pos": "VMSP3S0",
+            "prob": "0.634863"
+        },
+        {
+            "word": "esta",
+            "lema": "este",
+            "pos": "DD0FS0",
+            "prob": "0.978817"
+        },
+        {
+            "word": "propuesta",
+            "lema": "propuesta",
+            "pos": "NCFS000",
+            "prob": "0.983384"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplausos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

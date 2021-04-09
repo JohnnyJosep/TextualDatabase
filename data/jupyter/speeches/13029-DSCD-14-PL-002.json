@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-12-16T00:00:00.000Z",
-        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO VOX, SOBRE LAS MEDIDAS QUE VA A ADOPTAR EL GOBIERNO PARA FRENAR LA INVASIÓN MIGRATORIA EN ESPAÑA. ",
+        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO VOX, SOBRE LAS MEDIDAS QUE VA A ADOPTAR EL GOBIERNO PARA FRENAR LA INVASI\u00d3N MIGRATORIA EN ESPA\u00d1A. ",
         "diputado": [
             {
-                "apellidos": "De Meer Méndez",
-                "apellidosNombre": "De Meer Méndez, Rocío",
+                "apellidos": "De Meer M\u00e9ndez",
+                "apellidosNombre": "De Meer M\u00e9ndez, Roc\u00edo",
                 "codParlamentario": 340,
                 "fchAlta": "29/11/2019",
                 "fchBaja": "",
@@ -14,8 +14,8 @@
                 "grupo": "Grupo Parlamentario VOX",
                 "idCircunscripcion": 4,
                 "idLegislatura": 14,
-                "nombre": "Rocío",
-                "nombreCircunscripcion": "Almería",
+                "nombre": "Roc\u00edo",
+                "nombreCircunscripcion": "Almer\u00eda",
                 "twitter": "https://twitter.com/MeerRocio",
                 "twitterUserId": "4525423215",
                 "twitterUserName": "MeerRocio"
@@ -24,9 +24,95 @@
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-070.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "DE MEER MÉNDEZ"
+        "speacker": "DE MEER M\u00c9NDEZ"
     },
-    "text": "Gracias, señor presidente. Buenas tardes, señorías. (Rumores)."
+    "text": "Gracias, se\u00f1or presidente. Buenas tardes, se\u00f1or\u00edas. (Rumores).",
+    "freeling": [
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "presidente",
+            "lema": "presidente",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Buenas",
+            "lema": "bueno",
+            "pos": "AQ0FP00",
+            "prob": "1"
+        },
+        {
+            "word": "tardes",
+            "lema": "tarde",
+            "pos": "NCFP000",
+            "prob": "0.980769"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or\u00edas",
+            "lema": "se\u00f1or\u00eda",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Rumores",
+            "lema": "rumores",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

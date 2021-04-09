@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-12-01T00:00:00.000Z",
-        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (CONTINUACIÓN): -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL AÑO 2021. ",
+        "debate": "DICT\u00c1MENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (CONTINUACI\u00d3N): -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL A\u00d1O 2021. ",
         "diputado": [
             {
                 "apellidos": "Nogueras i Camero",
-                "apellidosNombre": "Nogueras i Camero, Míriam",
+                "apellidosNombre": "Nogueras i Camero, M\u00edriam",
                 "codParlamentario": 27,
                 "fchAlta": "19/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario Plural",
                 "idCircunscripcion": 8,
                 "idLegislatura": 14,
-                "nombre": "Míriam",
+                "nombre": "M\u00edriam",
                 "nombreCircunscripcion": "Barcelona",
                 "twitter": "https://twitter.com/miriamnoguerasM",
                 "twitterUserId": "343507680",
@@ -24,9 +24,101 @@
         ],
         "order": 40,
         "path": "../data/diaries-txts/DSCD-14-PL-066.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "NOGUERAS I CAMERO"
     },
-    "text": "Gracias, president. Nosotros damos por defendidas todas nuestras enmiendas. Muchas gracias."
+    "text": "Gracias, president. Nosotros damos por defendidas todas nuestras enmiendas. Muchas gracias.",
+    "freeling": [
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "president",
+            "lema": "president",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Nosotros",
+            "lema": "nosotros",
+            "pos": "PP1MP00",
+            "prob": "1"
+        },
+        {
+            "word": "damos",
+            "lema": "dar",
+            "pos": "VMIP1P0",
+            "prob": "1"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "defendidas",
+            "lema": "defender",
+            "pos": "VMP00PF",
+            "prob": "0.623747"
+        },
+        {
+            "word": "todas",
+            "lema": "todo",
+            "pos": "DI0FP0",
+            "prob": "0.934073"
+        },
+        {
+            "word": "nuestras",
+            "lema": "nuestro",
+            "pos": "DP1FPP",
+            "prob": "0.925532"
+        },
+        {
+            "word": "enmiendas",
+            "lema": "enmienda",
+            "pos": "NCFP000",
+            "prob": "0.980769"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

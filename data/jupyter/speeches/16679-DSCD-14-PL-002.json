@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-18T00:00:00.000Z",
-        "debate": "SOLICITUD DE PRÓRROGA DE COMISIONES DE INVESTIGACIÓN (VOTACIÓN): -- SOLICITUD DE PRÓRROGA HASTA EL DÍA 30/06/2021 DEL PLAZO PARA LA REALIZACIÓN DEL DICTAMEN DE LA COMISIÓN DE INVESTIGACIÓN RELATIVA A LA UTILIZACIÓN ILEGAL DE EFECTIVOS, MEDIOS Y RECURSOS DEL MINISTERIO DEL INTERIOR, CON LA FINALIDAD DE FAVORECER INTERESES POLÍTICOS DEL PP Y DE ANULAR PRUEBAS INCULPATORIAS PARA ESTE PARTIDO EN CASOS DE CORRUPCIÓN, DURANTE LOS MANDATOS DE GOBIERNO DEL PARTIDO POPULAR. ",
+        "debate": "SOLICITUD DE PR\u00d3RROGA DE COMISIONES DE INVESTIGACI\u00d3N (VOTACI\u00d3N): -- SOLICITUD DE PR\u00d3RROGA HASTA EL D\u00cdA 30/06/2021 DEL PLAZO PARA LA REALIZACI\u00d3N DEL DICTAMEN DE LA COMISI\u00d3N DE INVESTIGACI\u00d3N RELATIVA A LA UTILIZACI\u00d3N ILEGAL DE EFECTIVOS, MEDIOS Y RECURSOS DEL MINISTERIO DEL INTERIOR, CON LA FINALIDAD DE FAVORECER INTERESES POL\u00cdTICOS DEL PP Y DE ANULAR PRUEBAS INCULPATORIAS PARA ESTE PARTIDO EN CASOS DE CORRUPCI\u00d3N, DURANTE LOS MANDATOS DE GOBIERNO DEL PARTIDO POPULAR. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,257 @@
         ],
         "order": 3,
         "path": "../data/diaries-txts/DSCD-14-PL-089.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Queda aprobada. -- PROPOSICIÓN NO DE LEY DEL GRUPO PARLAMENTARIO SOCIALISTA, SOBRE EL CUMPLIMIENTO DEL ARTÍCULO 27.1 Y 27.2 DE LA CONSTITUCIÓN ESP AÑOLA Y LA PROMOCIÓN DE LA LIBERTAD DE PENSAMIENTO Y EL DESARROLLO DE LA CAPACIDAD CRÍTICA DEL ALUMNADO."
+    "text": "Queda aprobada. -- PROPOSICI\u00d3N NO DE LEY DEL GRUPO PARLAMENTARIO SOCIALISTA, SOBRE EL CUMPLIMIENTO DEL ART\u00cdCULO 27.1 Y 27.2 DE LA CONSTITUCI\u00d3N ESP A\u00d1OLA Y LA PROMOCI\u00d3N DE LA LIBERTAD DE PENSAMIENTO Y EL DESARROLLO DE LA CAPACIDAD CR\u00cdTICA DEL ALUMNADO.",
+    "freeling": [
+        {
+            "word": "Queda",
+            "lema": "quedar",
+            "pos": "VMIP3S0",
+            "prob": "0.945755"
+        },
+        {
+            "word": "aprobada",
+            "lema": "aprobar",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": "PROPOSICI\u00d3N",
+            "lema": "proposici\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "NO",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "LEY",
+            "lema": "ley",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "GRUPO_PARLAMENTARIO_SOCIALISTA",
+            "lema": "grupo_parlamentario_socialista",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "SOBRE",
+            "lema": "sobre",
+            "pos": "SP",
+            "prob": "0.997804"
+        },
+        {
+            "word": "EL_CUMPLIMIENTO_DE_EL_ART\u00cdCULO",
+            "lema": "el_cumplimiento_de_el_art\u00edculo",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "27.1",
+            "lema": "27.1",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "Y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "27.2",
+            "lema": "27.2",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "LA",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "CONSTITUCI\u00d3N",
+            "lema": "constituci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "ESP",
+            "lema": "esp",
+            "pos": "AQ0CN00",
+            "prob": "0.199208"
+        },
+        {
+            "word": "A\u00d1OLA",
+            "lema": "a\u00f1o_la",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "Y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "LA",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "PROMOCI\u00d3N",
+            "lema": "promoci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "LA",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "LIBERTAD",
+            "lema": "libertad",
+            "pos": "NCFS000",
+            "prob": "0.998188"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "PENSAMIENTO",
+            "lema": "pensamiento",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "Y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "DESARROLLO",
+            "lema": "desarrollo",
+            "pos": "NCMS000",
+            "prob": "0.99884"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "LA",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "CAPACIDAD",
+            "lema": "capacidad",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "CR\u00cdTICA",
+            "lema": "cr\u00edtico",
+            "pos": "AQ0FS00",
+            "prob": "0.12253"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "ALUMNADO",
+            "lema": "alumnado",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

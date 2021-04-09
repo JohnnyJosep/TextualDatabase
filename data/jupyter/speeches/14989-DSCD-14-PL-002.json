@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-23T00:00:00.000Z",
-        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY: -- DE LOS GRUPOS PARLAMENTARIOS SOCIALISTA Y CONFEDERAL DE UNIDAS PODEMOS-EN COMÚ PODEM-GALICIA EN COMÚN, ORGÁNICA DE REFORMA DE LA LEY ORGÁNICA 5/1985, DE 19 DE JUNIO, DEL RÉGIMEN ELECTORAL GENERAL, PARA LA REGULACIÓN DEL EJERCICIO DEL VOTO POR LOS ESPAÑOLES QUE VIVEN EN EL EXTRANJERO. ",
+        "debate": "TOMA EN CONSIDERACI\u00d3N DE PROPOSICIONES DE LEY: -- DE LOS GRUPOS PARLAMENTARIOS SOCIALISTA Y CONFEDERAL DE UNIDAS PODEMOS-EN COM\u00da PODEM-GALICIA EN COM\u00daN, ORG\u00c1NICA DE REFORMA DE LA LEY ORG\u00c1NICA 5/1985, DE 19 DE JUNIO, DEL R\u00c9GIMEN ELECTORAL GENERAL, PARA LA REGULACI\u00d3N DEL EJERCICIO DEL VOTO POR LOS ESPA\u00d1OLES QUE VIVEN EN EL EXTRANJERO. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,65 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-081.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señora Cancela, tiene usted que terminar, por favor."
+    "text": "Se\u00f1ora Cancela, tiene usted que terminar, por favor.",
+    "freeling": [
+        {
+            "word": "Se\u00f1ora_Cancela",
+            "lema": "se\u00f1ora_cancela",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "tiene",
+            "lema": "tener",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "terminar",
+            "lema": "terminar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por_favor",
+            "lema": "por_favor",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

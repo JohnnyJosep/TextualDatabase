@@ -1,20 +1,20 @@
 {
     "metadata": {
         "celebrated": "2020-12-02T00:00:00.000Z",
-        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (CONTINUACIÓN): -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL AÑO 2021. (CONTINUACIÓN). ",
+        "debate": "DICTA\u0301MENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (CONTINUACI\u00d3N): -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL A\u00d1O 2021. (CONTINUACI\u00d3N). ",
         "diputado": [
             {
                 "apellidos": "Elizo Serrano",
-                "apellidosNombre": "Elizo Serrano, María Gloria",
+                "apellidosNombre": "Elizo Serrano, Mar\u00eda Gloria",
                 "codParlamentario": 300,
                 "fchAlta": "28/11/2019",
                 "fchBaja": "",
                 "formacion": "UP",
                 "genero": 2,
-                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común",
+                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Com\u00fa Podem-Galicia en Com\u00fan",
                 "idCircunscripcion": 28,
                 "idLegislatura": 14,
-                "nombre": "María Gloria",
+                "nombre": "Mar\u00eda Gloria",
                 "nombreCircunscripcion": "Madrid",
                 "twitter": "https://twitter.com/gloriaelizo",
                 "twitterUserId": "301403189",
@@ -24,9 +24,95 @@
         ],
         "order": 97,
         "path": "../data/diaries-txts/DSCD-14-PL-067.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "VICEPRESIDENTA (Elizo Serrano)"
     },
-    "text": "Muchísimas gracias. Por el Grupo Parlamentario Ciudadanos, tiene la palabra la señora Muñoz Vidal."
+    "text": "Much\u00edsimas gracias. Por el Grupo Parlamentario Ciudadanos, tiene la palabra la se\u00f1ora Mu\u00f1oz Vidal.",
+    "freeling": [
+        {
+            "word": "Much\u00edsimas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.763114"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Grupo_Parlamentario_Ciudadanos",
+            "lema": "grupo_parlamentario_ciudadanos",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "tiene",
+            "lema": "tener",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "palabra",
+            "lema": "palabra",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "Mu\u00f1oz_Vidal",
+            "lema": "mu\u00f1oz_vidal",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

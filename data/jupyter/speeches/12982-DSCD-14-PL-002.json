@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-12-16T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA MARÍA CARVALHO DANTAS, DEL GRUPO PARLAMENTARIO REPUBLICANO, QUE FORMULA AL GOBIERNO: ¿CÓMO SE ESTÁ GESTIONANDO LA ACOGIDA DE PERSONAS REFUGIADAS EN CANARIAS? ",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DO\u00d1A MAR\u00cdA CARVALHO DANTAS, DEL GRUPO PARLAMENTARIO REPUBLICANO, QUE FORMULA AL GOBIERNO: \u00bfC\u00d3MO SE EST\u00c1 GESTIONANDO LA ACOGIDA DE PERSONAS REFUGIADAS EN CANARIAS? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,65 @@
         ],
         "order": 2,
         "path": "../data/diaries-txts/DSCD-14-PL-070.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor ministro de Inclusión, Seguridad Social y Migraciones."
+    "text": "Se\u00f1or ministro de Inclusi\u00f3n, Seguridad Social y Migraciones.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "ministro",
+            "lema": "ministro",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Inclusi\u00f3n",
+            "lema": "inclusi\u00f3n",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Seguridad_Social",
+            "lema": "seguridad_social",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "Migraciones",
+            "lema": "migraciones",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

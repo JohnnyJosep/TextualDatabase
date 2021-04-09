@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-12-15T00:00:00.000Z",
-        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY DE INICIATIVA POPULAR. (VOTACIÓN): -- PROPOSICIÓN DE LEY SOBRE RATIOS DE ENFERMERAS PARA GARANTIZAR LA SEGURIDAD DEL PACIENTE EN CENTROS SANITARIOS Y OTROS ÁMBITOS (CORRESPONDE A LOS NÚMEROS DE EXPEDIENTE 120/000018 DE LA XII LEGISLATURA Y 120/000005 DE LA XIII LEGISLATURA). ",
+        "debate": "TOMA EN CONSIDERACI\u00d3N DE PROPOSICIONES DE LEY DE INICIATIVA POPULAR. (VOTACI\u00d3N): -- PROPOSICI\u00d3N DE LEY SOBRE RATIOS DE ENFERMERAS PARA GARANTIZAR LA SEGURIDAD DEL PACIENTE EN CENTROS SANITARIOS Y OTROS \u00c1MBITOS (CORRESPONDE A LOS N\u00daMEROS DE EXPEDIENTE 120/000018 DE LA XII LEGISLATURA Y 120/000005 DE LA XIII LEGISLATURA). ",
         "diputado": [
             {
-                "apellidos": "Matute García de Jalón",
-                "apellidosNombre": "Matute García de Jalón, Oskar",
+                "apellidos": "Matute Garc\u00eda de Jal\u00f3n",
+                "apellidosNombre": "Matute Garc\u00eda de Jal\u00f3n, Oskar",
                 "codParlamentario": 63,
                 "fchAlta": "20/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,89 @@
         ],
         "order": 108,
         "path": "../data/diaries-txts/DSCD-14-PL-069.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "MATUTE GARCÍA DE JALÓN"
+        "speacker": "MATUTE GARC\u00cdA DE JAL\u00d3N"
     },
-    "text": "… a la ludopatía. Apustu etxeak campora. (Aplausos)."
+    "text": "\u2026 a la ludopat\u00eda. Apustu etxeak campora. (Aplausos).",
+    "freeling": [
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "ludopat\u00eda",
+            "lema": "ludopat\u00eda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Apustu",
+            "lema": "apustu",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": "etxeak",
+            "lema": "etxeak",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "campora",
+            "lema": "campora",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplausos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

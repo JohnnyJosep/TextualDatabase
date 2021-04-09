@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-24T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON VÍCTOR GONZÁLEZ COELLO DE PORTUGAL, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA A LA SEÑORA VICEPRESIDENTA CUARTA Y MINISTRA PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO: ¿VA A PERMITIR EL GOBIERNO QUE SE PIERDA EL CONTROL ESPAÑOL SOBRE UNA EMPRESA ENERGÉTICA ESENCIAL COMO ES NATURGY? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON V\u00cdCTOR GONZ\u00c1LEZ COELLO DE PORTUGAL, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA A LA SE\u00d1ORA VICEPRESIDENTA CUARTA Y MINISTRA PARA LA TRANSICI\u00d3N ECOL\u00d3GICA Y EL RETO DEMOGR\u00c1FICO: \u00bfVA A PERMITIR EL GOBIERNO QUE SE PIERDA EL CONTROL ESPA\u00d1OL SOBRE UNA EMPRESA ENERG\u00c9TICA ESENCIAL COMO ES NATURGY? ",
         "diputado": [
             {
-                "apellidos": "Espinosa de los Monteros de Simón",
-                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "apellidos": "Espinosa de los Monteros de Sim\u00f3n",
+                "apellidosNombre": "Espinosa de los Monteros de Sim\u00f3n, Iv\u00e1n",
                 "codParlamentario": 83,
                 "fchAlta": "20/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario VOX",
                 "idCircunscripcion": 28,
                 "idLegislatura": 14,
-                "nombre": "Iván",
+                "nombre": "Iv\u00e1n",
                 "nombreCircunscripcion": "Madrid",
                 "twitter": "https://twitter.com/ivanedlm",
                 "twitterUserId": "48976307",
@@ -24,9 +24,119 @@
         ],
         "order": 3,
         "path": "../data/diaries-txts/DSCD-14-PL-091.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "VICEPRESIDENTA CUARTA DEL GOBIERNO Y MINISTRA PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO (Ribera Rodríguez)"
+        "speacker": "VICEPRESIDENTA CUARTA DEL GOBIERNO Y MINISTRA PARA LA TRANSICI\u00d3N ECOL\u00d3GICA Y EL RETO DEMOGR\u00c1FICO (Ribera Rodr\u00edguez)"
     },
-    "text": "Muchas gracias. Entiendo que me está preguntando usted por la OPA sobre una compañía energética española."
+    "text": "Muchas gracias. Entiendo que me est\u00e1 preguntando usted por la OPA sobre una compa\u00f1\u00eda energ\u00e9tica espa\u00f1ola.",
+    "freeling": [
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Entiendo",
+            "lema": "entender",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "me",
+            "lema": "me",
+            "pos": "PP1CS00",
+            "prob": "0.755196"
+        },
+        {
+            "word": "est\u00e1",
+            "lema": "estar",
+            "pos": "VAIP3S0",
+            "prob": "0.000200642"
+        },
+        {
+            "word": "preguntando",
+            "lema": "preguntar",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": "usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "OPA",
+            "lema": "opa",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "sobre",
+            "lema": "sobre",
+            "pos": "SP",
+            "prob": "0.997804"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "compa\u00f1\u00eda",
+            "lema": "compa\u00f1\u00eda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "energ\u00e9tica",
+            "lema": "energ\u00e9tico",
+            "pos": "AQ0FS00",
+            "prob": "0.661294"
+        },
+        {
+            "word": "espa\u00f1ola",
+            "lema": "espa\u00f1ol",
+            "pos": "AQ0FS00",
+            "prob": "0.9614"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

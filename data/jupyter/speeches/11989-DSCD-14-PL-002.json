@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-12-02T00:00:00.000Z",
-        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (CONTINUACIÓN): -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL AÑO 2021. (CONTINUACIÓN). ",
+        "debate": "DICTA\u0301MENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (CONTINUACI\u00d3N): -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL A\u00d1O 2021. (CONTINUACI\u00d3N). ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,197 @@
         ],
         "order": 42,
         "path": "../data/diaries-txts/DSCD-14-PL-067.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Contreras, ha terminado su tiempo. El señor CONTRERAS PELÁEZ: Y es la principal diferencia entre nosotros. Nosotros asumimos los crímenes de ambos bandos porque…"
+    "text": "Se\u00f1or Contreras, ha terminado su tiempo. El se\u00f1or CONTRERAS PELA\u0301EZ: Y es la principal diferencia entre nosotros. Nosotros asumimos los cr\u00edmenes de ambos bandos porque\u2026",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Contreras",
+            "lema": "se\u00f1or_contreras",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "terminado",
+            "lema": "terminar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "tiempo",
+            "lema": "tiempo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "El",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "CONTRERAS_PELA",
+            "lema": "contreras_pela",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": "\u0301",
+            "lema": "\u0301",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": "EZ",
+            "lema": "ez",
+            "pos": "NCFS000",
+            "prob": "0.655124"
+        },
+        {
+            "word": ":",
+            "lema": ":",
+            "pos": "Fd",
+            "prob": "1"
+        },
+        {
+            "word": "Y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "principal",
+            "lema": "principal",
+            "pos": "AQ0CS00",
+            "prob": "0.984551"
+        },
+        {
+            "word": "diferencia",
+            "lema": "diferencia",
+            "pos": "NCFS000",
+            "prob": "0.879908"
+        },
+        {
+            "word": "entre",
+            "lema": "entre",
+            "pos": "SP",
+            "prob": "0.980341"
+        },
+        {
+            "word": "nosotros",
+            "lema": "nosotros",
+            "pos": "PP1MP00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Nosotros",
+            "lema": "nosotros",
+            "pos": "PP1MP00",
+            "prob": "1"
+        },
+        {
+            "word": "asumimos",
+            "lema": "asumir",
+            "pos": "VMIS1P0",
+            "prob": "0.500001"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "cr\u00edmenes",
+            "lema": "crimen",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "ambos",
+            "lema": "ambos",
+            "pos": "DI0MP0",
+            "prob": "0.526261"
+        },
+        {
+            "word": "bandos",
+            "lema": "bando",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "porque",
+            "lema": "porque",
+            "pos": "CS",
+            "prob": "1"
+        },
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

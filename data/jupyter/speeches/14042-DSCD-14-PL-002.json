@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-03T00:00:00.000Z",
-        "debate": "VOX. -- DE LA DIPUTADA DOÑA INÉS ARRIMADAS GARCÍA, DEL GRUPO PARLAMENTARIO CIUDADANOS, QUE FORMULA AL SEÑOR MINISTRO DE POLÍTICA TERRITORIAL Y FUNCIÓN PÚBLICA. ¿CUÁLES SON LAS PRIORIDADES DEL NUEVO MINISTRO DE POLÍTICA TERRITORIAL Y FUNCIÓN PÚBLICA EN RELACIÓN CON LA SITUACIÓN DE CATALUÑA? ",
+        "debate": "VOX. -- DE LA DIPUTADA DO\u00d1A IN\u00c9S ARRIMADAS GARC\u00cdA, DEL GRUPO PARLAMENTARIO CIUDADANOS, QUE FORMULA AL SE\u00d1OR MINISTRO DE POL\u00cdTICA TERRITORIAL Y FUNCI\u00d3N P\u00daBLICA. \u00bfCUA\u0301LES SON LAS PRIORIDADES DEL NUEVO MINISTRO DE POL\u00cdTICA TERRITORIAL Y FUNCI\u00d3N P\u00daBLICA EN RELACI\u00d3N CON LA SITUACI\u00d3N DE CATALU\u00d1A? ",
         "diputado": [
             {
-                "apellidos": "Arrimadas García",
-                "apellidosNombre": "Arrimadas García, Inés",
+                "apellidos": "Arrimadas Garc\u00eda",
+                "apellidosNombre": "Arrimadas Garc\u00eda, In\u00e9s",
                 "codParlamentario": 331,
                 "fchAlta": "29/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario Ciudadanos",
                 "idCircunscripcion": 8,
                 "idLegislatura": 14,
-                "nombre": "Inés",
+                "nombre": "In\u00e9s",
                 "nombreCircunscripcion": "Barcelona",
                 "twitter": "https://twitter.com/InesArrimadas",
                 "twitterUserId": "552561770",
@@ -24,9 +24,173 @@
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-076.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "ARRIMADAS GARCÍA"
+        "speacker": "ARRIMADAS GARC\u00cdA"
     },
-    "text": "Gracias, señora presidenta. Señor Iceta, ¿cuáles cree usted que deben ser las prioridades de su Gobierno en relación con la situación de Cataluña?"
+    "text": "Gracias, se\u00f1ora presidenta. Se\u00f1or Iceta, \u00bfcu\u00e1les cree usted que deben ser las prioridades de su Gobierno en relaci\u00f3n con la situaci\u00f3n de Catalu\u00f1a?",
+    "freeling": [
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Se\u00f1or_Iceta",
+            "lema": "se\u00f1or_iceta",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "cu\u00e1les",
+            "lema": "cu\u00e1l",
+            "pos": "PT0CP00",
+            "prob": "0.944444"
+        },
+        {
+            "word": "cree",
+            "lema": "creer",
+            "pos": "VMIP3S0",
+            "prob": "0.991398"
+        },
+        {
+            "word": "usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "deben",
+            "lema": "deber",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "ser",
+            "lema": "ser",
+            "pos": "VSN0000",
+            "prob": "0.959637"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "prioridades",
+            "lema": "prioridad",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "relaci\u00f3n",
+            "lema": "relaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "situaci\u00f3n",
+            "lema": "situaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Catalu\u00f1a",
+            "lema": "catalu\u00f1a",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        }
+    ]
 }

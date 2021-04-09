@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-25T00:00:00.000Z",
-        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES: -- REAL DECRETO-LEY 4/2021, DE 9 DE MARZO, POR EL QUE SE MODIFICAN LA LEY 27/2014, DE 27 DE NOVIEMBRE, DEL IMPUESTO SOBRE SOCIEDADES, Y EL TEXTO REFUNDIDO DE LA LEY DEL IMPUESTO SOBRE LA RENTA DE NO RESIDENTES, APROBADO MEDIANTE REAL DECRETO LEGISLATIVO 5/2004, DE 5 DE MARZO, EN RELACIÓN CON LAS ASIMETRÍAS HÍBRIDAS. ",
+        "debate": "CONVALIDACI\u00d3N O DEROGACI\u00d3N DE REALES DECRETOS-LEYES: -- REAL DECRETO-LEY 4/2021, DE 9 DE MARZO, POR EL QUE SE MODIFICAN LA LEY 27/2014, DE 27 DE NOVIEMBRE, DEL IMPUESTO SOBRE SOCIEDADES, Y EL TEXTO REFUNDIDO DE LA LEY DEL IMPUESTO SOBRE LA RENTA DE NO RESIDENTES, APROBADO MEDIANTE REAL DECRETO LEGISLATIVO 5/2004, DE 5 DE MARZO, EN RELACI\u00d3N CON LAS ASIMETR\u00cdAS H\u00cdBRIDAS. ",
         "diputado": [
             {
-                "apellidos": "Rodríguez Gómez de Celis",
-                "apellidosNombre": "Rodríguez Gómez de Celis, Alfonso",
+                "apellidos": "Rodr\u00edguez G\u00f3mez de Celis",
+                "apellidosNombre": "Rodr\u00edguez G\u00f3mez de Celis, Alfonso",
                 "codParlamentario": 168,
                 "fchAlta": "25/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,359 @@
         ],
         "order": 0,
         "path": "../data/diaries-txts/DSCD-14-PL-092.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "VICEPRESIDENTE (Rodríguez Gómez de Celis)"
+        "speacker": "VICEPRESIDENTE (Rodr\u00edguez G\u00f3mez de Celis)"
     },
-    "text": "Buenos días señorías. Por favor, tomen asiento. Reanudamos la sesión. (Rumores). Comenzamos con el punto correspondiente a la convalidación o derogación de reales decretos. En primer lugar, corresponde el debate sobre la convalidación o derogación del Real Decreto-ley 4/2021, de 9 de marzo,… (Continúan los rumores)."
+    "text": "Buenos d\u00edas se\u00f1or\u00edas. Por favor, tomen asiento. Reanudamos la sesi\u00f3n. (Rumores). Comenzamos con el punto correspondiente a la convalidaci\u00f3n o derogaci\u00f3n de reales decretos. En primer lugar, corresponde el debate sobre la convalidaci\u00f3n o derogaci\u00f3n del Real Decreto-ley 4/2021, de 9 de marzo,\u2026 (Contin\u00faan los rumores).",
+    "freeling": [
+        {
+            "word": "Buenos",
+            "lema": "bueno",
+            "pos": "AQ0MP00",
+            "prob": "1"
+        },
+        {
+            "word": "d\u00edas",
+            "lema": "d\u00eda",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or\u00edas",
+            "lema": "se\u00f1or\u00eda",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Por_favor",
+            "lema": "por_favor",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "tomen",
+            "lema": "tomar",
+            "pos": "VMM03P0",
+            "prob": "0.0580364"
+        },
+        {
+            "word": "asiento",
+            "lema": "asiento",
+            "pos": "NCMS000",
+            "prob": "0.953488"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Reanudamos",
+            "lema": "reanudar",
+            "pos": "VMIP1P0",
+            "prob": "0.65"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "sesi\u00f3n",
+            "lema": "sesi\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Rumores",
+            "lema": "rumores",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Comenzamos",
+            "lema": "comenzar",
+            "pos": "VMIP1P0",
+            "prob": "0.65"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "punto",
+            "lema": "punto",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "correspondiente",
+            "lema": "correspondiente",
+            "pos": "AQ0CS00",
+            "prob": "0.993421"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "convalidaci\u00f3n",
+            "lema": "convalidaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "o",
+            "lema": "o",
+            "pos": "CC",
+            "prob": "0.999864"
+        },
+        {
+            "word": "derogaci\u00f3n",
+            "lema": "derogaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "reales",
+            "lema": "real",
+            "pos": "AQ0CP00",
+            "prob": "0.840909"
+        },
+        {
+            "word": "decretos",
+            "lema": "decreto",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "En",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "primer",
+            "lema": "1",
+            "pos": "AO0MS00",
+            "prob": "1"
+        },
+        {
+            "word": "lugar",
+            "lema": "lugar",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "corresponde",
+            "lema": "corresponder",
+            "pos": "VMIP3S0",
+            "prob": "0.996183"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "debate",
+            "lema": "debate",
+            "pos": "NCMS000",
+            "prob": "0.976534"
+        },
+        {
+            "word": "sobre",
+            "lema": "sobre",
+            "pos": "SP",
+            "prob": "0.997804"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "convalidaci\u00f3n",
+            "lema": "convalidaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "o",
+            "lema": "o",
+            "pos": "CC",
+            "prob": "0.999864"
+        },
+        {
+            "word": "derogaci\u00f3n",
+            "lema": "derogaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Real_Decreto-ley",
+            "lema": "real_decreto-ley",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "4/2021",
+            "lema": "4/2021",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "9_de_marzo",
+            "lema": "[??:9/3/??:??.??:??]",
+            "pos": "W",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Contin\u00faan",
+            "lema": "continuar",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "rumores",
+            "lema": "rumor",
+            "pos": "NCMP000",
+            "prob": "0.992424"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-10-13T00:00:00.000Z",
-        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY DE COMUNIDADES Y CIUDADES AUTÓNOMAS: -- DEL PARLAMENTO DE CATALUÑA, DE MODIFICACIÓN DE LA LEY 52/2007, DE 26 DE DICIEMBRE, POR LA QUE SE RECONOCEN Y AMPLÍAN DERECHOS Y SE ESTABLECEN MEDIDAS EN FAVOR DE QUIENES PADECIERON PERSECUCIÓN O VIOLENCIA DURANTE LA GUERRA CIVIL Y LA DICTADURA (CORRESPONDE A LOS NÚMEROS DE EXPEDIENTE 125/000010/0000 DE LA XII LEGISLATURA Y 125/000003/0000 DE LA XIII LEGISLATURA). ",
+        "debate": "TOMA EN CONSIDERACI\u00d3N DE PROPOSICIONES DE LEY DE COMUNIDADES Y CIUDADES AUT\u00d3NOMAS: -- DEL PARLAMENTO DE CATALU\u00d1A, DE MODIFICACI\u00d3N DE LA LEY 52/2007, DE 26 DE DICIEMBRE, POR LA QUE SE RECONOCEN Y AMPL\u00cdAN DERECHOS Y SE ESTABLECEN MEDIDAS EN FAVOR DE QUIENES PADECIERON PERSECUCI\u00d3N O VIOLENCIA DURANTE LA GUERRA CIVIL Y LA DICTADURA (CORRESPONDE A LOS N\u00daMEROS DE EXPEDIENTE 125/000010/0000 DE LA XII LEGISLATURA Y 125/000003/0000 DE LA XIII LEGISLATURA). ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,47 @@
         ],
         "order": 22,
         "path": "../data/diaries-txts/DSCD-14-PL-051.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señora Pozueta, tiene que terminar."
+    "text": "Se\u00f1ora Pozueta, tiene que terminar.",
+    "freeling": [
+        {
+            "word": "Se\u00f1ora_Pozueta",
+            "lema": "se\u00f1ora_pozueta",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "tiene",
+            "lema": "tener",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "terminar",
+            "lema": "terminar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

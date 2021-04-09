@@ -1,7 +1,7 @@
 {
     "metadata": {
         "celebrated": "2020-09-22T00:00:00.000Z",
-        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY. (VOTACIÓN): -- DEL GRUPO PARLAMENTARIO CIUDADANOS, ORGÁNICA DE MODIFICACIÓN DE LA LEY ORGÁNICA 6/1985, DE 1 DE JULIO, DEL PODER JUDICIAL, PARA EL REFUERZO DE LA INDEPENDENCIA JUDICIAL. ",
+        "debate": "TOMA EN CONSIDERACI\u00d3N DE PROPOSICIONES DE LEY. (VOTACI\u00d3N): -- DEL GRUPO PARLAMENTARIO CIUDADANOS, ORG\u00c1NICA DE MODIFICACI\u00d3N DE LA LEY ORG\u00c1NICA 6/1985, DE 1 DE JULIO, DEL PODER JUDICIAL, PARA EL REFUERZO DE LA INDEPENDENCIA JUDICIAL. ",
         "diputado": [
             {
                 "apellidos": "Bas Corugeira",
@@ -24,9 +24,575 @@
         ],
         "order": 91,
         "path": "../data/diaries-txts/DSCD-14-PL-046.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "BAS CORUGEIRA"
     },
-    "text": "Estoy acabando. … dos durísimas crisis que nos había dejado el Partido Socialista y que habían negado reiteradamente. Con la aplicación de estas soluciones conseguiremos reactivar nuestra economía y mejorar el empleo, y esto traerá consigo un incremento de la recaudación que garantizará unos servicios públicos de calidad y la mejora del Estado del bienestar. Señorías, hagan caso al Partido Popular. Le irá bien al conjunto de España y le irá bien al conjunto de los españoles. Muchísimas gracias. (Aplausos)."
+    "text": "Estoy acabando. \u2026 dos dur\u00edsimas crisis que nos hab\u00eda dejado el Partido Socialista y que hab\u00edan negado reiteradamente. Con la aplicaci\u00f3n de estas soluciones conseguiremos reactivar nuestra econom\u00eda y mejorar el empleo, y esto traer\u00e1 consigo un incremento de la recaudaci\u00f3n que garantizar\u00e1 unos servicios p\u00fablicos de calidad y la mejora del Estado del bienestar. Se\u00f1or\u00edas, hagan caso al Partido Popular. Le ir\u00e1 bien al conjunto de Espa\u00f1a y le ir\u00e1 bien al conjunto de los espa\u00f1oles. Much\u00edsimas gracias. (Aplausos).",
+    "freeling": [
+        {
+            "word": "Estoy",
+            "lema": "estar",
+            "pos": "VAIP1S0",
+            "prob": "0.00184502"
+        },
+        {
+            "word": "acabando",
+            "lema": "acabar",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": "dos",
+            "lema": "2",
+            "pos": "Z",
+            "prob": "0.999868"
+        },
+        {
+            "word": "dur\u00edsimas",
+            "lema": "duro",
+            "pos": "AQSFP00",
+            "prob": "1"
+        },
+        {
+            "word": "crisis",
+            "lema": "crisis",
+            "pos": "NCFN000",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "nos",
+            "lema": "nos",
+            "pos": "PP1CP00",
+            "prob": "0.810258"
+        },
+        {
+            "word": "hab\u00eda",
+            "lema": "haber",
+            "pos": "VAII3S0",
+            "prob": "0.499853"
+        },
+        {
+            "word": "dejado",
+            "lema": "dejar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Partido_Socialista",
+            "lema": "partido_socialista",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "hab\u00edan",
+            "lema": "haber",
+            "pos": "VAII3P0",
+            "prob": "0.99884"
+        },
+        {
+            "word": "negado",
+            "lema": "negar",
+            "pos": "VMP00SM",
+            "prob": "0.980769"
+        },
+        {
+            "word": "reiteradamente",
+            "lema": "reiteradamente",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "aplicaci\u00f3n",
+            "lema": "aplicaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "estas",
+            "lema": "este",
+            "pos": "DD0FP0",
+            "prob": "0.969897"
+        },
+        {
+            "word": "soluciones",
+            "lema": "soluci\u00f3n",
+            "pos": "NCFP000",
+            "prob": "0.993421"
+        },
+        {
+            "word": "conseguiremos",
+            "lema": "conseguir",
+            "pos": "VMIF1P0",
+            "prob": "1"
+        },
+        {
+            "word": "reactivar",
+            "lema": "reactivar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "nuestra",
+            "lema": "nuestro",
+            "pos": "DP1FSP",
+            "prob": "0.867454"
+        },
+        {
+            "word": "econom\u00eda",
+            "lema": "econom\u00eda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "mejorar",
+            "lema": "mejorar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "empleo",
+            "lema": "empleo",
+            "pos": "NCMS000",
+            "prob": "0.998575"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "esto",
+            "lema": "este",
+            "pos": "PD00S00",
+            "prob": "1"
+        },
+        {
+            "word": "traer\u00e1",
+            "lema": "traer",
+            "pos": "VMIF3S0",
+            "prob": "1"
+        },
+        {
+            "word": "consigo",
+            "lema": "conseguir",
+            "pos": "VMIP1S0",
+            "prob": "0.658751"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "incremento",
+            "lema": "incremento",
+            "pos": "NCMS000",
+            "prob": "0.998084"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "recaudaci\u00f3n",
+            "lema": "recaudaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "garantizar\u00e1",
+            "lema": "garantizar",
+            "pos": "VMIF3S0",
+            "prob": "1"
+        },
+        {
+            "word": "unos",
+            "lema": "uno",
+            "pos": "DI0MP0",
+            "prob": "0.959952"
+        },
+        {
+            "word": "servicios",
+            "lema": "servicio",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "p\u00fablicos",
+            "lema": "p\u00fablico",
+            "pos": "AQ0MP00",
+            "prob": "0.974537"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "calidad",
+            "lema": "calidad",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "mejora",
+            "lema": "mejora",
+            "pos": "NCFS000",
+            "prob": "0.940887"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Estado",
+            "lema": "estado",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "bienestar",
+            "lema": "bienestar",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Se\u00f1or\u00edas",
+            "lema": "se\u00f1or\u00eda",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "hagan",
+            "lema": "hacer",
+            "pos": "VMSP3P0",
+            "prob": "0.992958"
+        },
+        {
+            "word": "caso",
+            "lema": "caso",
+            "pos": "NCMS000",
+            "prob": "0.999445"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Partido_Popular",
+            "lema": "partido_popular",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "ir\u00e1",
+            "lema": "ir",
+            "pos": "VMIF3S0",
+            "prob": "1"
+        },
+        {
+            "word": "bien",
+            "lema": "bien",
+            "pos": "RG",
+            "prob": "0.876088"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "conjunto",
+            "lema": "conjunto",
+            "pos": "NCMS000",
+            "prob": "0.866375"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Espa\u00f1a",
+            "lema": "espa\u00f1a",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "ir\u00e1",
+            "lema": "ir",
+            "pos": "VMIF3S0",
+            "prob": "1"
+        },
+        {
+            "word": "bien",
+            "lema": "bien",
+            "pos": "RG",
+            "prob": "0.876088"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "conjunto",
+            "lema": "conjunto",
+            "pos": "NCMS000",
+            "prob": "0.866375"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "espa\u00f1oles",
+            "lema": "espa\u00f1ol",
+            "pos": "NCMP000",
+            "prob": "0.413379"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Much\u00edsimas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.763114"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplausos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

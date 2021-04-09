@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-23T00:00:00.000Z",
-        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY: -- DE LOS GRUPOS PARLAMENTARIOS SOCIALISTA Y CONFEDERAL DE UNIDAS PODEMOS-EN COMÚ PODEM-GALICIA EN COMÚN, ORGÁNICA DE REFORMA DE LA LEY ORGÁNICA 5/1985, DE 19 DE JUNIO, DEL RÉGIMEN ELECTORAL GENERAL, PARA LA REGULACIÓN DEL EJERCICIO DEL VOTO POR LOS ESPAÑOLES QUE VIVEN EN EL EXTRANJERO. ",
+        "debate": "TOMA EN CONSIDERACI\u00d3N DE PROPOSICIONES DE LEY: -- DE LOS GRUPOS PARLAMENTARIOS SOCIALISTA Y CONFEDERAL DE UNIDAS PODEMOS-EN COM\u00da PODEM-GALICIA EN COM\u00daN, ORG\u00c1NICA DE REFORMA DE LA LEY ORG\u00c1NICA 5/1985, DE 19 DE JUNIO, DEL R\u00c9GIMEN ELECTORAL GENERAL, PARA LA REGULACI\u00d3N DEL EJERCICIO DEL VOTO POR LOS ESPA\u00d1OLES QUE VIVEN EN EL EXTRANJERO. ",
         "diputado": [
             {
                 "apellidos": "Rego Candamil",
-                "apellidosNombre": "Rego Candamil, Néstor",
+                "apellidosNombre": "Rego Candamil, N\u00e9stor",
                 "codParlamentario": 40,
                 "fchAlta": "19/11/2019",
                 "fchBaja": "",
@@ -14,8 +14,8 @@
                 "grupo": "Grupo Parlamentario Plural",
                 "idCircunscripcion": 15,
                 "idLegislatura": 14,
-                "nombre": "Néstor",
-                "nombreCircunscripcion": "Coruña (A)",
+                "nombre": "N\u00e9stor",
+                "nombreCircunscripcion": "Coru\u00f1a (A)",
                 "twitter": "https://twitter.com/NestorRego",
                 "twitterUserId": "435720619",
                 "twitterUserName": "NestorRego"
@@ -24,9 +24,53 @@
         ],
         "order": 85,
         "path": "../data/diaries-txts/DSCD-14-PL-081.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "REGO CANDAMIL"
     },
-    "text": "Sí, las del Partido Popular."
+    "text": "S\u00ed, las del Partido Popular.",
+    "freeling": [
+        {
+            "word": "S\u00ed",
+            "lema": "s\u00ed",
+            "pos": "RG",
+            "prob": "0.654652"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Partido_Popular",
+            "lema": "partido_popular",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-03T00:00:00.000Z",
-        "debate": "INTERPELACIONES URGENTES: --ACTUAL Y FUTURA-- DE LAS COMUNIDADES AUTÓNOMAS. ",
+        "debate": "INTERPELACIONES URGENTES: --ACTUAL Y FUTURA-- DE LAS COMUNIDADES AUT\u00d3NOMAS. ",
         "diputado": [
             {
-                "apellidos": "Rodríguez Gómez de Celis",
-                "apellidosNombre": "Rodríguez Gómez de Celis, Alfonso",
+                "apellidos": "Rodr\u00edguez G\u00f3mez de Celis",
+                "apellidosNombre": "Rodr\u00edguez G\u00f3mez de Celis, Alfonso",
                 "codParlamentario": 168,
                 "fchAlta": "25/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,47 @@
         ],
         "order": 8,
         "path": "../data/diaries-txts/DSCD-14-PL-076.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "VICEPRESIDENTE (Rodríguez Gómez de Celis)"
+        "speacker": "VICEPRESIDENTE (Rodr\u00edguez G\u00f3mez de Celis)"
     },
-    "text": "Señor Garcés, debe ir finalizando."
+    "text": "Se\u00f1or Garc\u00e9s, debe ir finalizando.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Garc\u00e9s",
+            "lema": "se\u00f1or_garc\u00e9s",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "debe",
+            "lema": "deber",
+            "pos": "VMIP3S0",
+            "prob": "0.998712"
+        },
+        {
+            "word": "ir",
+            "lema": "ir",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "finalizando",
+            "lema": "finalizar",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

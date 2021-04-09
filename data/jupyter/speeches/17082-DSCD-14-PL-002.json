@@ -5,16 +5,16 @@
         "diputado": [
             {
                 "apellidos": "Elizo Serrano",
-                "apellidosNombre": "Elizo Serrano, María Gloria",
+                "apellidosNombre": "Elizo Serrano, Mar\u00eda Gloria",
                 "codParlamentario": 300,
                 "fchAlta": "28/11/2019",
                 "fchBaja": "",
                 "formacion": "UP",
                 "genero": 2,
-                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común",
+                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Com\u00fa Podem-Galicia en Com\u00fan",
                 "idCircunscripcion": 28,
                 "idLegislatura": 14,
-                "nombre": "María Gloria",
+                "nombre": "Mar\u00eda Gloria",
                 "nombreCircunscripcion": "Madrid",
                 "twitter": "https://twitter.com/gloriaelizo",
                 "twitterUserId": "301403189",
@@ -24,9 +24,95 @@
         ],
         "order": 66,
         "path": "../data/diaries-txts/DSCD-14-PL-091.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "VICEPRESIDENTA (Elizo Serrano)"
     },
-    "text": "Señor Bel Accensi, le ruego que se atenga a la cuestión en su intervención."
+    "text": "Se\u00f1or Bel Accensi, le ruego que se atenga a la cuesti\u00f3n en su intervenci\u00f3n.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Bel_Accensi",
+            "lema": "se\u00f1or_bel_accensi",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "ruego",
+            "lema": "rogar",
+            "pos": "VMIP1S0",
+            "prob": "0.0102795"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "atenga",
+            "lema": "atener",
+            "pos": "VMSP3S0",
+            "prob": "0.634863"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "cuesti\u00f3n",
+            "lema": "cuesti\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "intervenci\u00f3n",
+            "lema": "intervenci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

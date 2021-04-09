@@ -1,7 +1,7 @@
 {
     "metadata": {
         "celebrated": "2021-02-17T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA MÍRIAM NOGUERAS I CAMERO, DEL GRUPO PARLAMENTARIO PLURAL, EN SUSTITUCIÓN DE LA DIPUTADA DOÑA LAURA BORRÀS CASTANYER, DEL GRUPO PARLAMENTARIO PLURAL, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿A RAÍZ DE LOS ÚLTIMOS HECHOS, EL GOBIERNO SIGUE PENSANDO QUE LAS RELACIONES ENTRE CATALUÑA Y ESPAÑA SOLO SON UN CONFLICTO INTERNO? ",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DO\u00d1A M\u00cdRIAM NOGUERAS I CAMERO, DEL GRUPO PARLAMENTARIO PLURAL, EN SUSTITUCI\u00d3N DE LA DIPUTADA DO\u00d1A LAURA BORR\u00c0S CASTANYER, DEL GRUPO PARLAMENTARIO PLURAL, QUE FORMULA AL SE\u00d1OR PRESIDENTE DEL GOBIERNO: \u00bfA RA\u00cdZ DE LOS \u00daLTIMOS HECHOS, EL GOBIERNO SIGUE PENSANDO QUE LAS RELACIONES ENTRE CATALU\u00d1A Y ESPA\u00d1A SOLO SON UN CONFLICTO INTERNO? ",
         "diputado": [
             {
                 "apellidos": "Prieto Nieto",
@@ -24,9 +24,677 @@
         ],
         "order": 7,
         "path": "../data/diaries-txts/DSCD-14-PL-079.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTE DEL GOBIERNO"
     },
-    "text": "Gracias, señora presidenta. Señoría, yo creo que la opinión razonable de la sociedad catalana, lo que ha dicho el pasado 14 de febrero es que quiere un reencuentro. Lo que quiere, precisamente, es orillar esas expresiones de extremismo, de xenofobia y de odio que se manifiestan en la ultraderecha de VOX, allí también, en Cataluña (rumores), y también entre destacados miembros de su propia candidatura, señoría, que no se quedan atrás ni en el odio ni en las expresiones de extremismo y xenofobia. Eso también ustedes se lo tienen que hacer ver. (Aplausos). --"
+    "text": "Gracias, se\u00f1ora presidenta. Se\u00f1or\u00eda, yo creo que la opini\u00f3n razonable de la sociedad catalana, lo que ha dicho el pasado 14 de febrero es que quiere un reencuentro. Lo que quiere, precisamente, es orillar esas expresiones de extremismo, de xenofobia y de odio que se manifiestan en la ultraderecha de VOX, all\u00ed tambi\u00e9n, en Catalu\u00f1a (rumores), y tambi\u00e9n entre destacados miembros de su propia candidatura, se\u00f1or\u00eda, que no se quedan atr\u00e1s ni en el odio ni en las expresiones de extremismo y xenofobia. Eso tambi\u00e9n ustedes se lo tienen que hacer ver. (Aplausos). --",
+    "freeling": [
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Se\u00f1or\u00eda",
+            "lema": "se\u00f1or\u00eda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "yo",
+            "lema": "yo",
+            "pos": "PP1CSN0",
+            "prob": "1"
+        },
+        {
+            "word": "creo",
+            "lema": "creer",
+            "pos": "VMIP1S0",
+            "prob": "0.5"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "opini\u00f3n",
+            "lema": "opini\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "razonable",
+            "lema": "razonable",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "sociedad",
+            "lema": "sociedad",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "catalana",
+            "lema": "catal\u00e1n",
+            "pos": "AQ0FS00",
+            "prob": "0.924757"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "lo",
+            "lema": "el",
+            "pos": "DA00S0",
+            "prob": "0.665165"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "dicho",
+            "lema": "decir",
+            "pos": "VMP00SM",
+            "prob": "0.997159"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "pasado_14_de_febrero",
+            "lema": "[??:14/2/??:??.??:??]",
+            "pos": "W",
+            "prob": "1"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "quiere",
+            "lema": "querer",
+            "pos": "VMIP3S0",
+            "prob": "0.999058"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "reencuentro",
+            "lema": "reencuentro",
+            "pos": "NCMS000",
+            "prob": "0.967146"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Lo",
+            "lema": "el",
+            "pos": "DA00S0",
+            "prob": "0.665165"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "quiere",
+            "lema": "querer",
+            "pos": "VMIP3S0",
+            "prob": "0.999058"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "precisamente",
+            "lema": "precisamente",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "orillar",
+            "lema": "orillar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "esas",
+            "lema": "ese",
+            "pos": "DD0FP0",
+            "prob": "0.869004"
+        },
+        {
+            "word": "expresiones",
+            "lema": "expresi\u00f3n",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "extremismo",
+            "lema": "extremismo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "xenofobia",
+            "lema": "xenofobia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "odio",
+            "lema": "odio",
+            "pos": "NCMS000",
+            "prob": "0.980769"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "manifiestan",
+            "lema": "manifestar",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "ultraderecha",
+            "lema": "ultraderecha",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "VOX",
+            "lema": "vox",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "all\u00ed",
+            "lema": "all\u00ed",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "tambi\u00e9n",
+            "lema": "tambi\u00e9n",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "Catalu\u00f1a",
+            "lema": "catalu\u00f1a",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "rumores",
+            "lema": "rumor",
+            "pos": "NCMP000",
+            "prob": "0.992424"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "tambi\u00e9n",
+            "lema": "tambi\u00e9n",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "entre",
+            "lema": "entre",
+            "pos": "SP",
+            "prob": "0.980341"
+        },
+        {
+            "word": "destacados",
+            "lema": "destacar",
+            "pos": "VMP00PM",
+            "prob": "1"
+        },
+        {
+            "word": "miembros",
+            "lema": "miembro",
+            "pos": "NCMP000",
+            "prob": "0.998938"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "propia",
+            "lema": "propio",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": "candidatura",
+            "lema": "candidatura",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or\u00eda",
+            "lema": "se\u00f1or\u00eda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "quedan",
+            "lema": "quedar",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "atr\u00e1s",
+            "lema": "atr\u00e1s",
+            "pos": "RG",
+            "prob": "0.996894"
+        },
+        {
+            "word": "ni",
+            "lema": "ni",
+            "pos": "CC",
+            "prob": "0.834853"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "odio",
+            "lema": "odio",
+            "pos": "NCMS000",
+            "prob": "0.980769"
+        },
+        {
+            "word": "ni",
+            "lema": "ni",
+            "pos": "CC",
+            "prob": "0.834853"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "expresiones",
+            "lema": "expresi\u00f3n",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "extremismo",
+            "lema": "extremismo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "xenofobia",
+            "lema": "xenofobia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Eso",
+            "lema": "ese",
+            "pos": "PD00S00",
+            "prob": "1"
+        },
+        {
+            "word": "tambi\u00e9n",
+            "lema": "tambi\u00e9n",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "ustedes",
+            "lema": "usted",
+            "pos": "PP2CP0P",
+            "prob": "1"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "lo",
+            "lema": "lo",
+            "pos": "PP3MSA0",
+            "prob": "0.334764"
+        },
+        {
+            "word": "tienen",
+            "lema": "tener",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "hacer_ver",
+            "lema": "hacer_ver",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplauso",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

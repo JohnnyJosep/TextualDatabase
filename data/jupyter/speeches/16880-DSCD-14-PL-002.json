@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-24T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON AITOR ESTEBAN BRAVO, DEL GRUPO PARLAMENTARIO VASCO (EAJ- PNV), QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿LE PARECE A USTED QUE EN UNA SITUACIÓN SANITARIA COMO LA QUE NOS ENCONTRAMOS SE JUSTIFICAN LOS VIAJES INTERNACIONALES POR OCIO? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON AITOR ESTEBAN BRAVO, DEL GRUPO PARLAMENTARIO VASCO (EAJ- PNV), QUE FORMULA AL SE\u00d1OR PRESIDENTE DEL GOBIERNO: \u00bfLE PARECE A USTED QUE EN UNA SITUACI\u00d3N SANITARIA COMO LA QUE NOS ENCONTRAMOS SE JUSTIFICAN LOS VIAJES INTERNACIONALES POR OCIO? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,23 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-091.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Esteban."
+    "text": "Se\u00f1or Esteban.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Esteban",
+            "lema": "se\u00f1or_esteban",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

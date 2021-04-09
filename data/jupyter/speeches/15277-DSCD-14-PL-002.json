@@ -1,7 +1,7 @@
 {
     "metadata": {
         "celebrated": "2021-02-24T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA MONTSERRAT BASSA COLL, DEL GRUPO PARLAMENTARIO REPUBLICANO, QUE FORMULA AL GOBIERNO: ¿CREE EL GOBIERNO ESPAÑOL QUE ESTÁ GARANTIZADA LA LIBERTAD DE EXPRESIÓN EN EL ESTADO ESPAÑOL? ",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DO\u00d1A MONTSERRAT BASSA COLL, DEL GRUPO PARLAMENTARIO REPUBLICANO, QUE FORMULA AL GOBIERNO: \u00bfCREE EL GOBIERNO ESPA\u00d1OL QUE EST\u00c1 GARANTIZADA LA LIBERTAD DE EXPRESI\u00d3N EN EL ESTADO ESPA\u00d1OL? ",
         "diputado": [
             {
                 "apellidos": "Bassa Coll",
@@ -24,9 +24,509 @@
         ],
         "order": 5,
         "path": "../data/diaries-txts/DSCD-14-PL-082.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "BASSA COLL"
     },
-    "text": "Señor ministro, si hay gente condenada por el delito de injurias a la Corona es porque el Grupo Parlamentario Socialista ha votado reiteradamente en contra de la proposición de ley de Esquerra Republicana para la derogación de este delito. Es decir, en este caso no son los tribunales, sino ustedes quienes han condenado a Pablo Hasél o Valtònyc, entre otros. No se trata solo de ser republicanos o monárquicos, se trata de ser demócratas. Muchas gracias. (Aplausos)."
+    "text": "Se\u00f1or ministro, si hay gente condenada por el delito de injurias a la Corona es porque el Grupo Parlamentario Socialista ha votado reiteradamente en contra de la proposici\u00f3n de ley de Esquerra Republicana para la derogaci\u00f3n de este delito. Es decir, en este caso no son los tribunales, sino ustedes quienes han condenado a Pablo Has\u00e9l o Valt\u00f2nyc, entre otros. No se trata solo de ser republicanos o mon\u00e1rquicos, se trata de ser dem\u00f3cratas. Muchas gracias. (Aplausos).",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "ministro",
+            "lema": "ministro",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "si",
+            "lema": "si",
+            "pos": "CS",
+            "prob": "0.999827"
+        },
+        {
+            "word": "hay",
+            "lema": "haber",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "gente",
+            "lema": "gente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "condenada",
+            "lema": "condenar",
+            "pos": "VMP00SF",
+            "prob": "0.623747"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "delito",
+            "lema": "delito",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "injurias",
+            "lema": "injuria",
+            "pos": "NCFP000",
+            "prob": "0.989726"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "Corona",
+            "lema": "corona",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "porque",
+            "lema": "porque",
+            "pos": "CS",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Grupo_Parlamentario_Socialista",
+            "lema": "grupo_parlamentario_socialista",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "votado",
+            "lema": "votar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "reiteradamente",
+            "lema": "reiteradamente",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "en_contra_de",
+            "lema": "en_contra_de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "proposici\u00f3n",
+            "lema": "proposici\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "ley",
+            "lema": "ley",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Esquerra_Republicana",
+            "lema": "esquerra_republicana",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "derogaci\u00f3n",
+            "lema": "derogaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "este",
+            "lema": "este",
+            "pos": "DD0MS0",
+            "prob": "0.949201"
+        },
+        {
+            "word": "delito",
+            "lema": "delito",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "decir",
+            "lema": "decir",
+            "pos": "VMN0000",
+            "prob": "0.998575"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "este",
+            "lema": "este",
+            "pos": "DD0MS0",
+            "prob": "0.949201"
+        },
+        {
+            "word": "caso",
+            "lema": "caso",
+            "pos": "NCMS000",
+            "prob": "0.999445"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "son",
+            "lema": "ser",
+            "pos": "VSIP3P0",
+            "prob": "0.995197"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "tribunales",
+            "lema": "tribunal",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "sino",
+            "lema": "sino",
+            "pos": "CC",
+            "prob": "0.999154"
+        },
+        {
+            "word": "ustedes",
+            "lema": "usted",
+            "pos": "PP2CP0P",
+            "prob": "1"
+        },
+        {
+            "word": "quienes",
+            "lema": "quien",
+            "pos": "PR0CP00",
+            "prob": "1"
+        },
+        {
+            "word": "han",
+            "lema": "haber",
+            "pos": "VAIP3P0",
+            "prob": "0.999845"
+        },
+        {
+            "word": "condenado",
+            "lema": "condenar",
+            "pos": "VMP00SM",
+            "prob": "0.994792"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "Pablo_Has\u00e9l",
+            "lema": "pablo_has\u00e9l",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": "o",
+            "lema": "o",
+            "pos": "CC",
+            "prob": "0.999864"
+        },
+        {
+            "word": "Valt\u00f2nyc",
+            "lema": "valt\u00f2nyc",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "entre",
+            "lema": "entre",
+            "pos": "SP",
+            "prob": "0.980341"
+        },
+        {
+            "word": "otros",
+            "lema": "otro",
+            "pos": "PI0MP00",
+            "prob": "0.254022"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "No",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "trata",
+            "lema": "tratar",
+            "pos": "VMIP3S0",
+            "prob": "0.985594"
+        },
+        {
+            "word": "solo",
+            "lema": "solo",
+            "pos": "RG",
+            "prob": "0.210162"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "ser",
+            "lema": "ser",
+            "pos": "VSN0000",
+            "prob": "0.959637"
+        },
+        {
+            "word": "republicanos",
+            "lema": "republicano",
+            "pos": "AQ0MP00",
+            "prob": "0.253086"
+        },
+        {
+            "word": "o",
+            "lema": "o",
+            "pos": "CC",
+            "prob": "0.999864"
+        },
+        {
+            "word": "mon\u00e1rquicos",
+            "lema": "mon\u00e1rquico",
+            "pos": "AQ0MP00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "trata",
+            "lema": "tratar",
+            "pos": "VMIP3S0",
+            "prob": "0.985594"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "ser",
+            "lema": "ser",
+            "pos": "VSN0000",
+            "prob": "0.959637"
+        },
+        {
+            "word": "dem\u00f3cratas",
+            "lema": "dem\u00f3crata",
+            "pos": "AQ0CP00",
+            "prob": "0.28022"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplausos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

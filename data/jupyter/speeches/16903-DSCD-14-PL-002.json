@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-24T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON VÍCTOR GONZÁLEZ COELLO DE PORTUGAL, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA A LA SEÑORA VICEPRESIDENTA CUARTA Y MINISTRA PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO: ¿VA A PERMITIR EL GOBIERNO QUE SE PIERDA EL CONTROL ESPAÑOL SOBRE UNA EMPRESA ENERGÉTICA ESENCIAL COMO ES NATURGY? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON V\u00cdCTOR GONZ\u00c1LEZ COELLO DE PORTUGAL, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA A LA SE\u00d1ORA VICEPRESIDENTA CUARTA Y MINISTRA PARA LA TRANSICI\u00d3N ECOL\u00d3GICA Y EL RETO DEMOGR\u00c1FICO: \u00bfVA A PERMITIR EL GOBIERNO QUE SE PIERDA EL CONTROL ESPA\u00d1OL SOBRE UNA EMPRESA ENERG\u00c9TICA ESENCIAL COMO ES NATURGY? ",
         "diputado": [
             {
-                "apellidos": "González Coello de Portugal",
-                "apellidosNombre": "González Coello de Portugal, Víctor",
+                "apellidos": "Gonz\u00e1lez Coello de Portugal",
+                "apellidosNombre": "Gonz\u00e1lez Coello de Portugal, V\u00edctor",
                 "codParlamentario": 76,
                 "fchAlta": "20/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario VOX",
                 "idCircunscripcion": 37,
                 "idLegislatura": 14,
-                "nombre": "Víctor",
+                "nombre": "V\u00edctor",
                 "nombreCircunscripcion": "Salamanca",
                 "twitter": "https://twitter.com/vicpiedra",
                 "twitterUserId": "49607100",
@@ -24,9 +24,149 @@
         ],
         "order": 5,
         "path": "../data/diaries-txts/DSCD-14-PL-091.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "GONZÁLEZ COELLO DE PORTUGAL"
+        "speacker": "GONZ\u00c1LEZ COELLO DE PORTUGAL"
     },
-    "text": "Señora ministro (protestas), mi grupo espera que su Gobierno actúe con la misma diligencia en vetar la entrada…"
+    "text": "Se\u00f1ora ministro (protestas), mi grupo espera que su Gobierno act\u00fae con la misma diligencia en vetar la entrada\u2026",
+    "freeling": [
+        {
+            "word": "Se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "ministro",
+            "lema": "ministro",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "protestas",
+            "lema": "protesta",
+            "pos": "NCFP000",
+            "prob": "0.995868"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "mi",
+            "lema": "mi",
+            "pos": "DP1CSS",
+            "prob": "0.999325"
+        },
+        {
+            "word": "grupo",
+            "lema": "grupo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "espera",
+            "lema": "esperar",
+            "pos": "VMIP3S0",
+            "prob": "0.748056"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "act\u00fae",
+            "lema": "actuar",
+            "pos": "VMSP3S0",
+            "prob": "0.484902"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "misma",
+            "lema": "mismo",
+            "pos": "AQ0FS00",
+            "prob": "0.81684"
+        },
+        {
+            "word": "diligencia",
+            "lema": "diligencia",
+            "pos": "NCFS000",
+            "prob": "0.874645"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "vetar",
+            "lema": "vetar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "entrada",
+            "lema": "entrada",
+            "pos": "NCFS000",
+            "prob": "0.998008"
+        },
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

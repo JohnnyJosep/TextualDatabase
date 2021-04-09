@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-17T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO REPUBLICANO, SOBRE SI TIENE PREVISTO EL GOBIERNO UN GIRO EN SU POLÍTICA TERRITORIAL, Y EN PARTICULAR RESPECTO AL CONFLICTO CON CATALUÑA. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO REPUBLICANO, SOBRE SI TIENE PREVISTO EL GOBIERNO UN GIRO EN SU POL\u00cdTICA TERRITORIAL, Y EN PARTICULAR RESPECTO AL CONFLICTO CON CATALU\u00d1A. ",
         "diputado": [
             {
                 "apellidos": "Zaragoza Alonso",
-                "apellidosNombre": "Zaragoza Alonso, José",
+                "apellidosNombre": "Zaragoza Alonso, Jos\u00e9",
                 "codParlamentario": 196,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario Socialista",
                 "idCircunscripcion": 8,
                 "idLegislatura": 14,
-                "nombre": "José",
+                "nombre": "Jos\u00e9",
                 "nombreCircunscripcion": "Barcelona",
                 "twitter": "https://twitter.com/j_zaragoza_",
                 "twitterUserId": "715890348569010176",
@@ -24,9 +24,89 @@
         ],
         "order": 29,
         "path": "../data/diaries-txts/DSCD-14-PL-079.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "ZARAGOZA ALONSO"
     },
-    "text": "Rectifiquen, ese error es malo para España. (Aplausos)."
+    "text": "Rectifiquen, ese error es malo para Espa\u00f1a. (Aplausos).",
+    "freeling": [
+        {
+            "word": "Rectifiquen",
+            "lema": "rectificar",
+            "pos": "VMM03P0",
+            "prob": "0.0580364"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "ese",
+            "lema": "ese",
+            "pos": "DD0MS0",
+            "prob": "0.966694"
+        },
+        {
+            "word": "error",
+            "lema": "error",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "malo",
+            "lema": "malo",
+            "pos": "AQ0MS00",
+            "prob": "0.852113"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "Espa\u00f1a",
+            "lema": "espa\u00f1a",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplauso",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

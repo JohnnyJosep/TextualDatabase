@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-23T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON ANDRÉS LORITE LORITE, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR MINISTRO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA: ¿CÓMO VALORA EL ESTADO DE LAS INFRAESTRUCTURAS ANTE LA CRISIS ECONÓMICA Y SOCIAL QUE VIVIMOS EN ESPAÑA? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON ANDR\u00c9S LORITE LORITE, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR MINISTRO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA: \u00bfC\u00d3MO VALORA EL ESTADO DE LAS INFRAESTRUCTURAS ANTE LA CRISIS ECON\u00d3MICA Y SOCIAL QUE VIVIMOS EN ESPA\u00d1A? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,29 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-047.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Lorite Lorite."
+    "text": "Se\u00f1or Lorite Lorite.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "Lorite_Lorite",
+            "lema": "lorite_lorite",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

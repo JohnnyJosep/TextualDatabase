@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-16T00:00:00.000Z",
-        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO SOCIALISTA, INTEGRAL PARA LA IGUALDAD DE TRATO Y LA NO DISCRIMINACIÓN. ",
+        "debate": "TOMA EN CONSIDERACI\u00d3N DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO SOCIALISTA, INTEGRAL PARA LA IGUALDAD DE TRATO Y LA NO DISCRIMINACI\u00d3N. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,29 @@
         ],
         "order": 34,
         "path": "../data/diaries-txts/DSCD-14-PL-078.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Muchísimas gracias."
+    "text": "Much\u00edsimas gracias.",
+    "freeling": [
+        {
+            "word": "Much\u00edsimas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.763114"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

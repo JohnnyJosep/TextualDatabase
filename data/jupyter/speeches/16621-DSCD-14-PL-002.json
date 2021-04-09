@@ -1,7 +1,7 @@
 {
     "metadata": {
         "celebrated": "2021-05-18T00:00:00.000Z",
-        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (VOTACIÓN): -- PROPOSICIÓN DE LEY ORGÁNICA COMPLEMENTARIA DE LA LEY POR LA QUE SE MODIFICA LA LEY 20/2011, DE 21 DE JULIO, DEL REGISTRO CIVIL, DE MODIFICACIÓN DE LA LEY ORGÁNICA 6/1985, DE 1 DE JULIO, DEL PODER JUDICIAL Y DE MODIFICACIÓN DE LA LEY ORGÁNICA 10/1995, DE 23 DE NOVIEMBRE, DEL CÓDIGO PENAL (ANTES DENOMINADA PROPOSICIÓN DE LEY ORGÁNICA COMPLEMENTARIA DE LA LEY POR LA QUE SE MODIFICA LA LEY 20/2011, DE 21 DE JULIO, DEL REGISTRO CIVIL, DE MODIFICACIÓN DE LA LEY ORGÁNICA 6/1985, DE 1 DE JULIO, DEL PODER JUDICIAL). ",
+        "debate": "DICT\u00c1MENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (VOTACI\u00d3N): -- PROPOSICI\u00d3N DE LEY ORG\u00c1NICA COMPLEMENTARIA DE LA LEY POR LA QUE SE MODIFICA LA LEY 20/2011, DE 21 DE JULIO, DEL REGISTRO CIVIL, DE MODIFICACI\u00d3N DE LA LEY ORG\u00c1NICA 6/1985, DE 1 DE JULIO, DEL PODER JUDICIAL Y DE MODIFICACI\u00d3N DE LA LEY ORG\u00c1NICA 10/1995, DE 23 DE NOVIEMBRE, DEL C\u00d3DIGO PENAL (ANTES DENOMINADA PROPOSICI\u00d3N DE LEY ORG\u00c1NICA COMPLEMENTARIA DE LA LEY POR LA QUE SE MODIFICA LA LEY 20/2011, DE 21 DE JULIO, DEL REGISTRO CIVIL, DE MODIFICACI\u00d3N DE LA LEY ORG\u00c1NICA 6/1985, DE 1 DE JULIO, DEL PODER JUDICIAL). ",
         "diputado": [
             {
                 "apellidos": "Legarda Uriarte",
@@ -15,7 +15,7 @@
                 "idCircunscripcion": 1,
                 "idLegislatura": 14,
                 "nombre": "Mikel",
-                "nombreCircunscripcion": "Araba/Álava",
+                "nombreCircunscripcion": "Araba/\u00c1lava",
                 "twitter": "https://twitter.com/MikelLegarda",
                 "twitterUserId": "4178226827",
                 "twitterUserName": "MikelLegarda"
@@ -24,9 +24,167 @@
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-089.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "LEGARDA URIARTE"
     },
-    "text": "Muchas gracias, presidenta. Simplemente deseo manifestar nuestro apoyo a la proposición, después del acuerdo plenamente satisfactorio alcanzado en Comisión. Muchas gracias."
+    "text": "Muchas gracias, presidenta. Simplemente deseo manifestar nuestro apoyo a la proposici\u00f3n, despu\u00e9s del acuerdo plenamente satisfactorio alcanzado en Comisi\u00f3n. Muchas gracias.",
+    "freeling": [
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Simplemente",
+            "lema": "simplemente",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "deseo",
+            "lema": "desear",
+            "pos": "VMIP1S0",
+            "prob": "0.207602"
+        },
+        {
+            "word": "manifestar",
+            "lema": "manifestar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "nuestro",
+            "lema": "nuestro",
+            "pos": "DP1MSP",
+            "prob": "0.957064"
+        },
+        {
+            "word": "apoyo",
+            "lema": "apoyo",
+            "pos": "NCMS000",
+            "prob": "0.998982"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "proposici\u00f3n",
+            "lema": "proposici\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "despu\u00e9s_de",
+            "lema": "despu\u00e9s_de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "acuerdo",
+            "lema": "acuerdo",
+            "pos": "NCMS000",
+            "prob": "0.999311"
+        },
+        {
+            "word": "plenamente",
+            "lema": "plenamente",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "satisfactorio",
+            "lema": "satisfactorio",
+            "pos": "AQ0MS00",
+            "prob": "1"
+        },
+        {
+            "word": "alcanzado",
+            "lema": "alcanzar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "Comisi\u00f3n",
+            "lema": "comisi\u00f3n",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

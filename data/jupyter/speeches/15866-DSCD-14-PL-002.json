@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-10T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON NÉSTOR REGO CANDAMIL, DEL GRUPO PARLAMENTARIO PLURAL, QUE FORMULA AL SEÑOR MINISTRO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA: ¿POR QUÉ, TENIENDO EN CUENTA QUE EXISTEN LAS PARTIDAS NECESARIAS EN LOS PRESUPUESTOS GENERALES DEL ESTADO DE 2021, NO SE HAN EMPEZADO AÚN A APLICAR LAS REBAJAS Y DESCUENTOS EN LA AP-9? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON N\u00c9STOR REGO CANDAMIL, DEL GRUPO PARLAMENTARIO PLURAL, QUE FORMULA AL SE\u00d1OR MINISTRO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA: \u00bfPOR QU\u00c9, TENIENDO EN CUENTA QUE EXISTEN LAS PARTIDAS NECESARIAS EN LOS PRESUPUESTOS GENERALES DEL ESTADO DE 2021, NO SE HAN EMPEZADO A\u00daN A APLICAR LAS REBAJAS Y DESCUENTOS EN LA AP-9? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,77 @@
         ],
         "order": 0,
         "path": "../data/diaries-txts/DSCD-14-PL-085.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Pregunta del diputado don Néstor Rego Candamil, del Grupo Parlamentario Plural."
+    "text": "Pregunta del diputado don N\u00e9stor Rego Candamil, del Grupo Parlamentario Plural.",
+    "freeling": [
+        {
+            "word": "Pregunta",
+            "lema": "preguntar",
+            "pos": "VMIP3S0",
+            "prob": "0.300493"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "diputado",
+            "lema": "diputado",
+            "pos": "NCMS000",
+            "prob": "0.997382"
+        },
+        {
+            "word": "don",
+            "lema": "don",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "N\u00e9stor_Rego_Candamil",
+            "lema": "n\u00e9stor_rego_candamil",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Grupo_Parlamentario_Plural",
+            "lema": "grupo_parlamentario_plural",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

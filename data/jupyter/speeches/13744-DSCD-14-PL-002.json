@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-01-28T00:00:00.000Z",
-        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES: -- REAL DECRETO-LEY 38/2020, DE 29 DE DICIEMBRE, POR EL QUE SE ADOPTAN MEDIDAS DE ADAPTACIÓN A LA SITUACIÓN DE ESTADO TERCERO DEL REINO UNIDO DE GRAN BRETAÑA E IRLANDA DEL NORTE TRAS LA FINALIZACIÓN DEL PERIODO TRANSITORIO PREVISTO EN EL ACUERDO SOBRE LA RETIRADA DEL REINO UNIDO DE GRAN BRETAÑA E IRLANDA DEL NORTE DE LA UNIÓN EUROPEA Y DE LA COMUNIDAD EUROPEA DE LA ENERGÍA ATÓMICA, DE 31 DE ENERO DE 2020. ",
+        "debate": "CONVALIDACI\u00d3N O DEROGACI\u00d3N DE REALES DECRETOS-LEYES: -- REAL DECRETO-LEY 38/2020, DE 29 DE DICIEMBRE, POR EL QUE SE ADOPTAN MEDIDAS DE ADAPTACI\u00d3N A LA SITUACI\u00d3N DE ESTADO TERCERO DEL REINO UNIDO DE GRAN BRETA\u00d1A E IRLANDA DEL NORTE TRAS LA FINALIZACI\u00d3N DEL PERIODO TRANSITORIO PREVISTO EN EL ACUERDO SOBRE LA RETIRADA DEL REINO UNIDO DE GRAN BRETA\u00d1A E IRLANDA DEL NORTE DE LA UNI\u00d3N EUROPEA Y DE LA COMUNIDAD EUROPEA DE LA ENERG\u00cdA AT\u00d3MICA, DE 31 DE ENERO DE 2020. ",
         "diputado": [
             {
-                "apellidos": "Sánchez García",
-                "apellidosNombre": "Sánchez García, José María",
+                "apellidos": "S\u00e1nchez Garc\u00eda",
+                "apellidosNombre": "S\u00e1nchez Garc\u00eda, Jos\u00e9 Mar\u00eda",
                 "codParlamentario": 322,
                 "fchAlta": "28/11/2019",
                 "fchBaja": "",
@@ -14,16 +14,534 @@
                 "grupo": "Grupo Parlamentario VOX",
                 "idCircunscripcion": 3,
                 "idLegislatura": 14,
-                "nombre": "José María",
+                "nombre": "Jos\u00e9 Mar\u00eda",
                 "nombreCircunscripcion": "Alicante/Alacant"
             },
             0
         ],
         "order": 21,
         "path": "../data/diaries-txts/DSCD-14-PL-074.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "SÁNCHEZ GARCÍA"
+        "speacker": "S\u00c1NCHEZ GARC\u00cdA"
     },
-    "text": "Concluyo, si me da un instante. Gracias. … con lo que ello supone de relajación de una política de verja dura, que es la que debería determinar la posición de España y poner fin a esta situación lesiva para los intereses nacionales y la unidad nacional, y a la situación de postración económica de la comarca del Campo de Gibraltar. Muchas gracias. (Aplausos de las señoras y los señores diputados del Grupo Parlamentario VOX, puestos en pie)."
+    "text": "Concluyo, si me da un instante. Gracias. \u2026 con lo que ello supone de relajaci\u00f3n de una pol\u00edtica de verja dura, que es la que deber\u00eda determinar la posici\u00f3n de Espa\u00f1a y poner fin a esta situaci\u00f3n lesiva para los intereses nacionales y la unidad nacional, y a la situaci\u00f3n de postraci\u00f3n econ\u00f3mica de la comarca del Campo de Gibraltar. Muchas gracias. (Aplausos de las se\u00f1oras y los se\u00f1ores diputados del Grupo Parlamentario VOX, puestos en pie).",
+    "freeling": [
+        {
+            "word": "Concluyo",
+            "lema": "concluir",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "si",
+            "lema": "si",
+            "pos": "CS",
+            "prob": "0.999827"
+        },
+        {
+            "word": "me",
+            "lema": "me",
+            "pos": "PP1CS00",
+            "prob": "0.755196"
+        },
+        {
+            "word": "da",
+            "lema": "dar",
+            "pos": "VMIP3S0",
+            "prob": "0.998555"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "instante",
+            "lema": "instante",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "lo",
+            "lema": "el",
+            "pos": "DA00S0",
+            "prob": "0.665165"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "ello",
+            "lema": "ello",
+            "pos": "PD00S00",
+            "prob": "1"
+        },
+        {
+            "word": "supone",
+            "lema": "suponer",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "relajaci\u00f3n",
+            "lema": "relajaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "pol\u00edtica",
+            "lema": "pol\u00edtica",
+            "pos": "NCFS000",
+            "prob": "0.369481"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "verja",
+            "lema": "verja",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "dura",
+            "lema": "duro",
+            "pos": "AQ0FS00",
+            "prob": "0.834586"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "deber\u00eda",
+            "lema": "deber",
+            "pos": "VMIC3S0",
+            "prob": "0.638889"
+        },
+        {
+            "word": "determinar",
+            "lema": "determinar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "posici\u00f3n",
+            "lema": "posici\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Espa\u00f1a",
+            "lema": "espa\u00f1a",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "poner",
+            "lema": "poner",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "fin",
+            "lema": "fin",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "esta",
+            "lema": "este",
+            "pos": "DD0FS0",
+            "prob": "0.978817"
+        },
+        {
+            "word": "situaci\u00f3n",
+            "lema": "situaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "lesiva",
+            "lema": "lesivo",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "intereses",
+            "lema": "inter\u00e9s",
+            "pos": "NCMP000",
+            "prob": "0.99763"
+        },
+        {
+            "word": "nacionales",
+            "lema": "nacional",
+            "pos": "AQ0CP00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "unidad",
+            "lema": "unidad",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "nacional",
+            "lema": "nacional",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "situaci\u00f3n",
+            "lema": "situaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "postraci\u00f3n",
+            "lema": "postraci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "econ\u00f3mica",
+            "lema": "econ\u00f3mico",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "comarca",
+            "lema": "comarca",
+            "pos": "NCFS000",
+            "prob": "0.962264"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Campo_de_Gibraltar",
+            "lema": "campo_de_gibraltar",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplauso",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "se\u00f1oras",
+            "lema": "se\u00f1or",
+            "pos": "NCFP000",
+            "prob": "0.572569"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "se\u00f1ores",
+            "lema": "se\u00f1or",
+            "pos": "AQ0MP00",
+            "prob": "0.361294"
+        },
+        {
+            "word": "diputados",
+            "lema": "diputado",
+            "pos": "NCMP000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Grupo_Parlamentario_VOX",
+            "lema": "grupo_parlamentario_vox",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "puestos",
+            "lema": "puesto",
+            "pos": "NCMP000",
+            "prob": "0.791096"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "pie",
+            "lema": "pie",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

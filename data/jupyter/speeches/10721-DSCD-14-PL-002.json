@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-10-29T00:00:00.000Z",
-        "debate": "ENMIENDAS DEL SENADO: -- PROYECTO DE LEY REGULADORA DE DETERMINADOS ASPECTOS DE LOS SERVICIOS ELECTRÓNICOS DE CONFIANZA. ",
+        "debate": "ENMIENDAS DEL SENADO: -- PROYECTO DE LEY REGULADORA DE DETERMINADOS ASPECTOS DE LOS SERVICIOS ELECTR\u00d3NICOS DE CONFIANZA. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,185 @@
         ],
         "order": 48,
         "path": "../data/diaries-txts/DSCD-14-PL-059.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "En consecuencia, quedan aprobados los dictámenes. -- DECISIÓN RELATIVA A LOS NUEVOS ACUERDOS PARA LA OBTENCIÓN DE PRÉSTAMOS (NAB) DEL FONDO MONETARIO INTERNACIONAL (FMI)."
+    "text": "En consecuencia, quedan aprobados los dict\u00e1menes. -- DECISI\u00d3N RELATIVA A LOS NUEVOS ACUERDOS PARA LA OBTENCI\u00d3N DE PR\u00c9STAMOS (NAB) DEL FONDO MONETARIO INTERNACIONAL (FMI).",
+    "freeling": [
+        {
+            "word": "En_consecuencia",
+            "lema": "en_consecuencia",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "quedan",
+            "lema": "quedar",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "aprobados",
+            "lema": "aprobar",
+            "pos": "VMP00PM",
+            "prob": "0.623747"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "dict\u00e1menes",
+            "lema": "dictamen",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": "DECISI\u00d3N",
+            "lema": "decisi\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "RELATIVA",
+            "lema": "relativo",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": "A",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "LOS",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "NUEVOS",
+            "lema": "nuevo",
+            "pos": "AQ0MP00",
+            "prob": "1"
+        },
+        {
+            "word": "ACUERDOS",
+            "lema": "acuerdo",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "PARA",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "LA",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "OBTENCI\u00d3N",
+            "lema": "obtenci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "PR\u00c9STAMOS",
+            "lema": "pr\u00e9stamo",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "NAB",
+            "lema": "nab",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "FONDO_MONETARIO_INTERNACIONAL",
+            "lema": "fondo_monetario_internacional",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "FMI",
+            "lema": "fmi",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,17 +1,17 @@
 {
     "metadata": {
         "celebrated": "2021-01-25T00:00:00.000Z",
-        "debate": "DEL DÍA: -- COMP ARECENCIA DEL MINISTRO DE JUSTICIA P ARA INFORMAR SOBRE EL POSICIONAMIENTO Y LAS INTENCIONES DEL GOBIERNO ANTE LA POSIBLE CONCESIÓN DEL INDULTO A LOS PRESOS DEL PROCÉS.",
+        "debate": "DEL D\u00cdA: -- COMP ARECENCIA DEL MINISTRO DE JUSTICIA P ARA INFORMAR SOBRE EL POSICIONAMIENTO Y LAS INTENCIONES DEL GOBIERNO ANTE LA POSIBLE CONCESI\u00d3N DEL INDULTO A LOS PRESOS DEL PROC\u00c9S.",
         "diputado": [
             {
-                "apellidos": "Asens Llodrà",
-                "apellidosNombre": "Asens Llodrà, Jaume",
+                "apellidos": "Asens Llodr\u00e0",
+                "apellidosNombre": "Asens Llodr\u00e0, Jaume",
                 "codParlamentario": 291,
                 "fchAlta": "27/11/2019",
                 "fchBaja": "",
                 "formacion": "ECP-GUAYEM EL CANVI",
                 "genero": 1,
-                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común",
+                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Com\u00fa Podem-Galicia en Com\u00fan",
                 "idCircunscripcion": 8,
                 "idLegislatura": 14,
                 "nombre": "Jaume",
@@ -24,9 +24,101 @@
         ],
         "order": 17,
         "path": "../data/diaries-txts/DSCD-14-PL-073.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "ASENS LLODRÀ"
+        "speacker": "ASENS LLODR\u00c0"
     },
-    "text": "Por tanto, no cuenten con nosotros para alimentar está gesticulación. Muchas gracias."
+    "text": "Por tanto, no cuenten con nosotros para alimentar est\u00e1 gesticulaci\u00f3n. Muchas gracias.",
+    "freeling": [
+        {
+            "word": "Por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "tanto",
+            "lema": "tanto",
+            "pos": "RG",
+            "prob": "0.806143"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "cuenten",
+            "lema": "contar",
+            "pos": "VMSP3P0",
+            "prob": "0.941964"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "nosotros",
+            "lema": "nosotros",
+            "pos": "PP1MP00",
+            "prob": "1"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "alimentar",
+            "lema": "alimentar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "est\u00e1",
+            "lema": "estar",
+            "pos": "VMIP3S0",
+            "prob": "0.999398"
+        },
+        {
+            "word": "gesticulaci\u00f3n",
+            "lema": "gesticulaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,20 +1,20 @@
 {
     "metadata": {
         "celebrated": "2020-09-22T00:00:00.000Z",
-        "debate": "PROPOSICIONES NO DE LEY: -- DEL GRUPO PARLAMENTARIO REPUBLICANO, RELATIVA A LA REGULARIZACIÓN EXPRÉS DE PERSONAS INMIGRANTES EN LOS ÁMBITOS SANITARIO, DE LOS CUIDADOS Y AGRARIO. ",
+        "debate": "PROPOSICIONES NO DE LEY: -- DEL GRUPO PARLAMENTARIO REPUBLICANO, RELATIVA A LA REGULARIZACI\u00d3N EXPR\u00c9S DE PERSONAS INMIGRANTES EN LOS \u00c1MBITOS SANITARIO, DE LOS CUIDADOS Y AGRARIO. ",
         "diputado": [
             {
-                "apellidos": "Sabanés Nadal",
-                "apellidosNombre": "Sabanés Nadal, Inés",
+                "apellidos": "Saban\u00e9s Nadal",
+                "apellidosNombre": "Saban\u00e9s Nadal, In\u00e9s",
                 "codParlamentario": 234,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
-                "formacion": "MÁS PAÍS-EQUO",
+                "formacion": "M\u00c1S PA\u00cdS-EQUO",
                 "genero": 2,
                 "grupo": "Grupo Parlamentario Plural",
                 "idCircunscripcion": 28,
                 "idLegislatura": 14,
-                "nombre": "Inés",
+                "nombre": "In\u00e9s",
                 "nombreCircunscripcion": "Madrid",
                 "twitter": "https://twitter.com/isabanes",
                 "twitterUserId": "110442665",
@@ -24,9 +24,41 @@
         ],
         "order": 13,
         "path": "../data/diaries-txts/DSCD-14-PL-046.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "SABANÉS NADAL"
+        "speacker": "SABAN\u00c9S NADAL"
     },
-    "text": "Seamos valientes. Gracias."
+    "text": "Seamos valientes. Gracias.",
+    "freeling": [
+        {
+            "word": "Seamos",
+            "lema": "ser",
+            "pos": "VSSP1P0",
+            "prob": "0.97619"
+        },
+        {
+            "word": "valientes",
+            "lema": "valiente",
+            "pos": "AQ0CP00",
+            "prob": "0.661107"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

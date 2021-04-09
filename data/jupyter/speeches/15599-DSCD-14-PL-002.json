@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-09T00:00:00.000Z",
-        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY DE COMUNIDADES Y CIUDADES AUTÓNOMAS. (VOTACIÓN): -- DEL P ARLAMENT O DE LAS ILLES BALEARS, SOBRE LA PROTECCIÓN DEL MAR MEDITERRÁNEO BAJO LA JURISDICCIÓN ESPAÑOLA DE LOS DAÑOS QUE PUEDA PRODUCIR LA EXPLORACIÓN, LA INVESTIGACIÓN Y LA EXPLOTACIÓN DE HIDROCARBUROS Y OTRAS ",
+        "debate": "TOMA EN CONSIDERACI\u00d3N DE PROPOSICIONES DE LEY DE COMUNIDADES Y CIUDADES AUT\u00d3NOMAS. (VOTACI\u00d3N): -- DEL P ARLAMENT O DE LAS ILLES BALEARS, SOBRE LA PROTECCI\u00d3N DEL MAR MEDITERR\u00c1NEO BAJO LA JURISDICCI\u00d3N ESPA\u00d1OLA DE LOS DA\u00d1OS QUE PUEDA PRODUCIR LA EXPLORACI\u00d3N, LA INVESTIGACI\u00d3N Y LA EXPLOTACI\u00d3N DE HIDROCARBUROS Y OTRAS ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,413 @@
         ],
         "order": 24,
         "path": "../data/diaries-txts/DSCD-14-PL-084.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Muchas gracias, señora Hernanz. (Pausa.--Una trabajadora del servicio de limpieza procede a desinfectar la tribuna de oradores). -- DEL PARLAMENTO DE LAS ILLES BALEARS, DE MODIFICACIÓN DEL ARTÍCULO 25 DE LA LEY 7/1996, DE 15 DE ENERO, DE ORDENACIÓN DEL COMERCIO MINORISTA. (Corresponde a los números de expediente 125/000026 de la XII Legislatura y 125/000013 de la XIII Legislatura)."
+    "text": "Muchas gracias, se\u00f1ora Hernanz. (Pausa.--Una trabajadora del servicio de limpieza procede a desinfectar la tribuna de oradores). -- DEL PARLAMENTO DE LAS ILLES BALEARS, DE MODIFICACI\u00d3N DEL ART\u00cdCULO 25 DE LA LEY 7/1996, DE 15 DE ENERO, DE ORDENACI\u00d3N DEL COMERCIO MINORISTA. (Corresponde a los n\u00fameros de expediente 125/000026 de la XII Legislatura y 125/000013 de la XIII Legislatura).",
+    "freeling": [
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "Hernanz",
+            "lema": "hernanz",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Pausa",
+            "lema": "pausa",
+            "pos": "NCFS000",
+            "prob": "0.848913"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": "Una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "trabajadora",
+            "lema": "trabajador",
+            "pos": "NCFS000",
+            "prob": "0.563706"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "servicio",
+            "lema": "servicio",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "limpieza",
+            "lema": "limpieza",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "procede",
+            "lema": "proceder",
+            "pos": "VMIP3S0",
+            "prob": "0.98913"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "desinfectar",
+            "lema": "desinfectar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "tribuna",
+            "lema": "tribuna",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "oradores",
+            "lema": "orador",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "PARLAMENTO_DE_LAS_ILLES_BALEARS",
+            "lema": "parlamento_de_las_illes_balears",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "MODIFICACI\u00d3N_DE_EL_ART\u00cdCULO",
+            "lema": "modificaci\u00f3n_de_el_art\u00edculo",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": "25",
+            "lema": "25",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "LA",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "LEY",
+            "lema": "ley",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": "7/1996",
+            "lema": "7/1996",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "15_DE_ENERO",
+            "lema": "[??:15/1/??:??.??:??]",
+            "pos": "W",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "ORDENACI\u00d3N",
+            "lema": "ordenaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "COMERCIO",
+            "lema": "comercio",
+            "pos": "NCMS000",
+            "prob": "0.996689"
+        },
+        {
+            "word": "MINORISTA",
+            "lema": "minorista",
+            "pos": "AQ0CS00",
+            "prob": "0.98913"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Corresponde",
+            "lema": "corresponder",
+            "pos": "VMIP3S0",
+            "prob": "0.996183"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "n\u00fameros",
+            "lema": "n\u00famero",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "expediente",
+            "lema": "expediente",
+            "pos": "NCMS000",
+            "prob": "0.982759"
+        },
+        {
+            "word": "125/000026",
+            "lema": "125/000026",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "XII_Legislatura",
+            "lema": "xii_legislatura",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "125/000013",
+            "lema": "125/000013",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "XIII_Legislatura",
+            "lema": "xiii_legislatura",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

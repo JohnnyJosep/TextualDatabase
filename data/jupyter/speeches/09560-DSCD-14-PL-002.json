@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-10-14T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON FRANCISCO JOSÉ CONTRERAS PELÁEZ, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA A LA SEÑORA VICEPRESIDENTA PRIMERA Y MINISTRA DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCRÁTICA: ¿PRETENDE EL GOBIERNO ATIZAR EL RENCOR ENTRE LOS ESPAÑOLES? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON FRANCISCO JOS\u00c9 CONTRERAS PEL\u00c1EZ, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA A LA SE\u00d1ORA VICEPRESIDENTA PRIMERA Y MINISTRA DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCR\u00c1TICA: \u00bfPRETENDE EL GOBIERNO ATIZAR EL RENCOR ENTRE LOS ESPA\u00d1OLES? ",
         "diputado": [
             {
-                "apellidos": "Contreras Peláez",
-                "apellidosNombre": "Contreras Peláez, Francisco José",
+                "apellidos": "Contreras Pel\u00e1ez",
+                "apellidosNombre": "Contreras Pel\u00e1ez, Francisco Jos\u00e9",
                 "codParlamentario": 229,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario VOX",
                 "idCircunscripcion": 41,
                 "idLegislatura": 14,
-                "nombre": "Francisco José",
+                "nombre": "Francisco Jos\u00e9",
                 "nombreCircunscripcion": "Sevilla",
                 "twitter": "https://twitter.com/fjconpe",
                 "twitterUserId": "192834709",
@@ -24,9 +24,119 @@
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-052.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "CONTRERAS PELÁEZ"
+        "speacker": "CONTRERAS PEL\u00c1EZ"
     },
-    "text": "Señora Calvo, ¿pretende el Gobierno atizar el rencor entre los españoles? (Rumores)."
+    "text": "Se\u00f1ora Calvo, \u00bfpretende el Gobierno atizar el rencor entre los espa\u00f1oles? (Rumores).",
+    "freeling": [
+        {
+            "word": "Se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "Calvo",
+            "lema": "calvo",
+            "pos": "AQ0MS00",
+            "prob": "0.361768"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "pretende",
+            "lema": "pretender",
+            "pos": "VMIP3S0",
+            "prob": "0.996894"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "atizar",
+            "lema": "atizar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "rencor",
+            "lema": "rencor",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "entre",
+            "lema": "entre",
+            "pos": "SP",
+            "prob": "0.980341"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "espa\u00f1oles",
+            "lema": "espa\u00f1ol",
+            "pos": "NCMP000",
+            "prob": "0.413379"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Rumores",
+            "lema": "rumores",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

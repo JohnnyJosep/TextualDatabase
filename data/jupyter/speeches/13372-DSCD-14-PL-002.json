@@ -1,7 +1,7 @@
 {
     "metadata": {
         "celebrated": "2020-12-17T00:00:00.000Z",
-        "debate": "DICTÁMENES DE LA COMISIÓN DEL ESTATUTO DE LOS DIPUTADOS. (VOTACIÓN): -- DICTAMEN DE LA COMISIÓN DEL ESTATUTO DE LOS DIPUTADOS ACERCA DEL SUPLICATORIO FORMULADO EN RELACIÓN CON UN SEÑOR DIPUTADO. ",
+        "debate": "DICT\u00c1MENES DE LA COMISI\u00d3N DEL ESTATUTO DE LOS DIPUTADOS. (VOTACI\u00d3N): -- DICTAMEN DE LA COMISI\u00d3N DEL ESTATUTO DE LOS DIPUTADOS ACERCA DEL SUPLICATORIO FORMULADO EN RELACI\u00d3N CON UN SE\u00d1OR DIPUTADO. ",
         "diputado": [
             {
                 "apellidos": "Fuentes Curbelo",
@@ -24,9 +24,125 @@
         ],
         "order": 56,
         "path": "../data/diaries-txts/DSCD-14-PL-071.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "FUENTES CURBELO"
     },
-    "text": "Quiero desearles mucha felicidad en estas fiestas y mucha salud. Muchas gracias. (Aplausos)."
+    "text": "Quiero desearles mucha felicidad en estas fiestas y mucha salud. Muchas gracias. (Aplausos).",
+    "freeling": [
+        {
+            "word": "Quiero",
+            "lema": "querer",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "desear",
+            "lema": "desear",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "les",
+            "lema": "le",
+            "pos": "PP3CPD0",
+            "prob": "1"
+        },
+        {
+            "word": "mucha",
+            "lema": "mucho",
+            "pos": "DI0FS0",
+            "prob": "0.99763"
+        },
+        {
+            "word": "felicidad",
+            "lema": "felicidad",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "estas",
+            "lema": "este",
+            "pos": "DD0FP0",
+            "prob": "0.969897"
+        },
+        {
+            "word": "fiestas",
+            "lema": "fiesta",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "mucha",
+            "lema": "mucho",
+            "pos": "DI0FS0",
+            "prob": "0.99763"
+        },
+        {
+            "word": "salud",
+            "lema": "salud",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplausos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

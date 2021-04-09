@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-10-14T00:00:00.000Z",
-        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO CIUDADANOS, SOBRE LAS MEDIDAS QUE PIENSA ADOPTAR EL GOBIERNO PARA GARANTIZAR EL CUMPLIMIENTO DE LOS PRINCIPIOS DE NEUTRALIDAD E IMPARCIALIDAD INSTITUCIONAL DE LAS UNIVERSIDADES EN CATALUÑA. ",
+        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO CIUDADANOS, SOBRE LAS MEDIDAS QUE PIENSA ADOPTAR EL GOBIERNO PARA GARANTIZAR EL CUMPLIMIENTO DE LOS PRINCIPIOS DE NEUTRALIDAD E IMPARCIALIDAD INSTITUCIONAL DE LAS UNIVERSIDADES EN CATALU\u00d1A. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,35 @@
         ],
         "order": 10,
         "path": "../data/diaries-txts/DSCD-14-PL-052.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Silencio, por favor."
+    "text": "Silencio, por favor.",
+    "freeling": [
+        {
+            "word": "Silencio",
+            "lema": "silencio",
+            "pos": "NCMS000",
+            "prob": "0.997076"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por_favor",
+            "lema": "por_favor",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

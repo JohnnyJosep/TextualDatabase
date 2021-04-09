@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-17T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JOAN CAPDEVILA I ESTEVE, DEL GRUPO PARLAMENTARIO REPUBLICANO, QUE FORMULA A LA SEÑORA VICEPRESIDENTA TERCERA Y MINISTRA DE ASUNTOS ECONÓMICOS Y TRANSFORMACIÓN DIGITAL: ¿CREE EL GOBIERNO QUE LOS FONDOS EUROPEOS DEBEN USARSE PARA FORTALECER LA POSICIÓN DEL IBEX FRENTE A PYMES Y AUTÓNOMOS? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JOAN CAPDEVILA I ESTEVE, DEL GRUPO PARLAMENTARIO REPUBLICANO, QUE FORMULA A LA SE\u00d1ORA VICEPRESIDENTA TERCERA Y MINISTRA DE ASUNTOS ECON\u00d3MICOS Y TRANSFORMACI\u00d3N DIGITAL: \u00bfCREE EL GOBIERNO QUE LOS FONDOS EUROPEOS DEBEN USARSE PARA FORTALECER LA POSICI\u00d3N DEL IBEX FRENTE A PYMES Y AUT\u00d3NOMOS? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,23 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-079.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Capdevila."
+    "text": "Se\u00f1or Capdevila.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Capdevila",
+            "lema": "se\u00f1or_capdevila",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-17T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON MARIO CORTÉS CARBALLO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA MINISTRA DE HACIENDA: ¿CÓMO JUSTIFICA EL GOBIERNO EL RESCATE DE LA AEROLÍNEA PLUS ULTRA? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON MARIO CORT\u00c9S CARBALLO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SE\u00d1ORA MINISTRA DE HACIENDA: \u00bfC\u00d3MO JUSTIFICA EL GOBIERNO EL RESCATE DE LA AEROL\u00cdNEA PLUS ULTRA? ",
         "diputado": [
             {
-                "apellidos": "Cortés Carballo",
-                "apellidosNombre": "Cortés Carballo, Mario",
+                "apellidos": "Cort\u00e9s Carballo",
+                "apellidosNombre": "Cort\u00e9s Carballo, Mario",
                 "codParlamentario": 317,
                 "fchAlta": "28/11/2019",
                 "fchBaja": "",
@@ -15,15 +15,893 @@
                 "idCircunscripcion": 29,
                 "idLegislatura": 14,
                 "nombre": "Mario",
-                "nombreCircunscripcion": "Málaga"
+                "nombreCircunscripcion": "M\u00e1laga"
             },
             0
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-088.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "CORTÉS CARBALLO"
+        "speacker": "CORT\u00c9S CARBALLO"
     },
-    "text": "Gracias, presidenta. Señora ministra, conociendo su trayectoria como consejera de la Junta de Andalucía, sinceramente, no nos sorprende la concesión de ayudas a empresas cuyo único mérito es tener algún conocido en el Gobierno socialista de turno. Creíamos haberlo visto todo cuando en Andalucía desviaron fondos de formación para amiguetes y fiestas, pero no; ahora para sus tejemanejes también cogen el dinero para las empresas en crisis por la pandemia. Señora Montero, ¿me puede explicar cómo es posible que la aerolínea Plus Ultra con solo cuatro aviones, que tiene al año menos usuarios que un hotel de Torremolinos y que está claramente vinculada al régimen de Maduro, sea considerada una empresa estratégica y se le dé una subvención de 53 millones de euros? (Un señor diputado: ¡Muy bien!--Aplausos)."
+    "text": "Gracias, presidenta. Se\u00f1ora ministra, conociendo su trayectoria como consejera de la Junta de Andaluc\u00eda, sinceramente, no nos sorprende la concesi\u00f3n de ayudas a empresas cuyo \u00fanico m\u00e9rito es tener alg\u00fan conocido en el Gobierno socialista de turno. Cre\u00edamos haberlo visto todo cuando en Andaluc\u00eda desviaron fondos de formaci\u00f3n para amiguetes y fiestas, pero no; ahora para sus tejemanejes tambi\u00e9n cogen el dinero para las empresas en crisis por la pandemia. Se\u00f1ora Montero, \u00bfme puede explicar c\u00f3mo es posible que la aerol\u00ednea Plus Ultra con solo cuatro aviones, que tiene al a\u00f1o menos usuarios que un hotel de Torremolinos y que est\u00e1 claramente vinculada al r\u00e9gimen de Maduro, sea considerada una empresa estrat\u00e9gica y se le d\u00e9 una subvenci\u00f3n de 53 millones de euros? (Un se\u00f1or diputado: \u00a1Muy bien!--Aplausos).",
+    "freeling": [
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "ministra",
+            "lema": "ministro",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "conociendo",
+            "lema": "conocer",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "trayectoria",
+            "lema": "trayectoria",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "como",
+            "lema": "como",
+            "pos": "CS",
+            "prob": "0.967153"
+        },
+        {
+            "word": "consejera",
+            "lema": "consejero",
+            "pos": "NCFS000",
+            "prob": "0.368709"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "Junta_de_Andaluc\u00eda",
+            "lema": "junta_de_andaluc\u00eda",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "sinceramente",
+            "lema": "sinceramente",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "nos",
+            "lema": "nos",
+            "pos": "PP1CP00",
+            "prob": "0.810258"
+        },
+        {
+            "word": "sorprende",
+            "lema": "sorprender",
+            "pos": "VMIP3S0",
+            "prob": "0.847222"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "concesi\u00f3n",
+            "lema": "concesi\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "ayudas",
+            "lema": "ayuda",
+            "pos": "NCFP000",
+            "prob": "0.995868"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "empresas",
+            "lema": "empresa",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "cuyo",
+            "lema": "cuyo",
+            "pos": "PR0MS00",
+            "prob": "1"
+        },
+        {
+            "word": "\u00fanico",
+            "lema": "\u00fanico",
+            "pos": "AQ0MS00",
+            "prob": "1"
+        },
+        {
+            "word": "m\u00e9rito",
+            "lema": "m\u00e9rito",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "tener",
+            "lema": "tener",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "alg\u00fan",
+            "lema": "alguno",
+            "pos": "DI0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "conocido",
+            "lema": "conocer",
+            "pos": "VMP00SM",
+            "prob": "0.99569"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "socialista",
+            "lema": "socialista",
+            "pos": "AQ0CS00",
+            "prob": "0.893357"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "turno",
+            "lema": "turno",
+            "pos": "NCMS000",
+            "prob": "0.987805"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Cre\u00edamos",
+            "lema": "creer",
+            "pos": "VMII1P0",
+            "prob": "1"
+        },
+        {
+            "word": "haber",
+            "lema": "haber",
+            "pos": "VAN0000",
+            "prob": "1"
+        },
+        {
+            "word": "lo",
+            "lema": "lo",
+            "pos": "PP3MSA0",
+            "prob": "1"
+        },
+        {
+            "word": "visto",
+            "lema": "ver",
+            "pos": "VMP00SM",
+            "prob": "0.998418"
+        },
+        {
+            "word": "todo",
+            "lema": "todo",
+            "pos": "PI0MS00",
+            "prob": "0.327644"
+        },
+        {
+            "word": "cuando",
+            "lema": "cuando",
+            "pos": "CS",
+            "prob": "0.86298"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "Andaluc\u00eda",
+            "lema": "andaluc\u00eda",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": "desviaron",
+            "lema": "desviar",
+            "pos": "VMIS3P0",
+            "prob": "1"
+        },
+        {
+            "word": "fondos",
+            "lema": "fondo",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "formaci\u00f3n",
+            "lema": "formaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "amiguetes",
+            "lema": "amigo",
+            "pos": "NCMP00V",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "fiestas",
+            "lema": "fiesta",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "pero",
+            "lema": "pero",
+            "pos": "CC",
+            "prob": "0.999902"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": ";",
+            "lema": ";",
+            "pos": "Fx",
+            "prob": "1"
+        },
+        {
+            "word": "ahora",
+            "lema": "ahora",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "sus",
+            "lema": "su",
+            "pos": "DP3CPN",
+            "prob": "0.999903"
+        },
+        {
+            "word": "tejemanejes",
+            "lema": "tejemaneje",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "tambi\u00e9n",
+            "lema": "tambi\u00e9n",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "cogen",
+            "lema": "coger",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "dinero",
+            "lema": "dinero",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "empresas",
+            "lema": "empresa",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "crisis",
+            "lema": "crisis",
+            "pos": "NCFN000",
+            "prob": "1"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "pandemia",
+            "lema": "pandemia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Se\u00f1ora_Montero",
+            "lema": "se\u00f1ora_montero",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "me",
+            "lema": "me",
+            "pos": "PP1CS00",
+            "prob": "0.755196"
+        },
+        {
+            "word": "puede",
+            "lema": "poder",
+            "pos": "VMIP3S0",
+            "prob": "0.999693"
+        },
+        {
+            "word": "explicar",
+            "lema": "explicar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "c\u00f3mo",
+            "lema": "c\u00f3mo",
+            "pos": "PT00000",
+            "prob": "0.997099"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "posible",
+            "lema": "posible",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "aerol\u00ednea",
+            "lema": "aerol\u00ednea",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "Plus_Ultra",
+            "lema": "plus_ultra",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "solo",
+            "lema": "solo",
+            "pos": "RG",
+            "prob": "0.210162"
+        },
+        {
+            "word": "cuatro",
+            "lema": "4",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "aviones",
+            "lema": "avi\u00f3n",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "tiene",
+            "lema": "tener",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "a\u00f1o",
+            "lema": "a\u00f1o",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "menos",
+            "lema": "menos",
+            "pos": "RG",
+            "prob": "0.990694"
+        },
+        {
+            "word": "usuarios",
+            "lema": "usuario",
+            "pos": "AQ0MP00",
+            "prob": "0.21831"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "hotel",
+            "lema": "hotel",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Torremolinos",
+            "lema": "torremolinos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "est\u00e1",
+            "lema": "estar",
+            "pos": "VMIP3S0",
+            "prob": "0.999398"
+        },
+        {
+            "word": "claramente",
+            "lema": "claramente",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "vinculada",
+            "lema": "vincular",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "r\u00e9gimen",
+            "lema": "r\u00e9gimen",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Maduro",
+            "lema": "maduro",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "sea",
+            "lema": "ser",
+            "pos": "VSSP1S0",
+            "prob": "0.49434"
+        },
+        {
+            "word": "considerada",
+            "lema": "considerar",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "empresa",
+            "lema": "empresa",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "estrat\u00e9gica",
+            "lema": "estrat\u00e9gico",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "d\u00e9",
+            "lema": "dar",
+            "pos": "VMSP3S0",
+            "prob": "0.498099"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "subvenci\u00f3n",
+            "lema": "subvenci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "53_millones_de_euros",
+            "lema": "$_ECU:53000000",
+            "pos": "Zm",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "diputado",
+            "lema": "diputado",
+            "pos": "NCMS000",
+            "prob": "0.997382"
+        },
+        {
+            "word": ":",
+            "lema": ":",
+            "pos": "Fd",
+            "prob": "1"
+        },
+        {
+            "word": "\u00a1",
+            "lema": "\u00a1",
+            "pos": "Faa",
+            "prob": "1"
+        },
+        {
+            "word": "Muy",
+            "lema": "muy",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "bien",
+            "lema": "bien",
+            "pos": "RG",
+            "prob": "0.876088"
+        },
+        {
+            "word": "!",
+            "lema": "!",
+            "pos": "Fat",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplauso",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

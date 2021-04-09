@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-10T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIÓN URGENTE (CONTINUACIÓN): -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, PARA QUE EL GOBIERNO EXPLIQUE LA SITUACIÓN DE LAS MUJERES EN ESPAÑA AL CUMPLIRSE UN AÑO DE LA CREACIÓN DEL MINISTERIO DE IGUALDAD. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACI\u00d3N URGENTE (CONTINUACI\u00d3N): -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, PARA QUE EL GOBIERNO EXPLIQUE LA SITUACI\u00d3N DE LAS MUJERES EN ESPA\u00d1A AL CUMPLIRSE UN A\u00d1O DE LA CREACI\u00d3N DEL MINISTERIO DE IGUALDAD. ",
         "diputado": [
             {
-                "apellidos": "Pérez Díaz",
-                "apellidosNombre": "Pérez Díaz, María Auxiliadora",
+                "apellidos": "P\u00e9rez D\u00edaz",
+                "apellidosNombre": "P\u00e9rez D\u00edaz, Mar\u00eda Auxiliadora",
                 "codParlamentario": 160,
                 "fchAlta": "25/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario Popular en el Congreso",
                 "idCircunscripcion": 35,
                 "idLegislatura": 14,
-                "nombre": "María Auxiliadora",
+                "nombre": "Mar\u00eda Auxiliadora",
                 "nombreCircunscripcion": "Palmas (Las)",
                 "twitter": "https://twitter.com/AuxiPD",
                 "twitterUserId": "192883412",
@@ -24,9 +24,101 @@
         ],
         "order": 5,
         "path": "../data/diaries-txts/DSCD-14-PL-085.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "PÉREZ DÍAZ"
+        "speacker": "P\u00c9REZ D\u00cdAZ"
     },
-    "text": "… y que mantiene a las familias españolas en pie. (Aplausos)."
+    "text": "\u2026 y que mantiene a las familias espa\u00f1olas en pie. (Aplausos).",
+    "freeling": [
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "mantiene",
+            "lema": "mantener",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "familias",
+            "lema": "familia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "espa\u00f1olas",
+            "lema": "espa\u00f1ol",
+            "pos": "AQ0FP00",
+            "prob": "0.995157"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "pie",
+            "lema": "pie",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplausos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

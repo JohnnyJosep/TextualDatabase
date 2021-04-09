@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-22T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO CIUDADANOS, SOBRE LA SITUACIÓN DE LOS MILITARES DE TROPA Y MARINERÍA TEMPORALES QUE HAYAN CUMPLIDO O VAYAN A CUMPLIR LA EDAD DE CUARENTA Y CINCO AÑOS DURANTE LA ACTUAL SITUACIÓN DE CRISIS SANITARIA, ECONÓMICA Y SOCIAL. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO CIUDADANOS, SOBRE LA SITUACI\u00d3N DE LOS MILITARES DE TROPA Y MARINER\u00cdA TEMPORALES QUE HAYAN CUMPLIDO O VAYAN A CUMPLIR LA EDAD DE CUARENTA Y CINCO A\u00d1OS DURANTE LA ACTUAL SITUACI\u00d3N DE CRISIS SANITARIA, ECON\u00d3MICA Y SOCIAL. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,59 @@
         ],
         "order": 6,
         "path": "../data/diaries-txts/DSCD-14-PL-046.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Fernández-Roca, tiene que terminar, por favor."
+    "text": "Se\u00f1or Fern\u00e1ndez-Roca, tiene que terminar, por favor.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Fern\u00e1ndez-Roca",
+            "lema": "se\u00f1or_fern\u00e1ndez-roca",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "tiene",
+            "lema": "tener",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "terminar",
+            "lema": "terminar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por_favor",
+            "lema": "por_favor",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

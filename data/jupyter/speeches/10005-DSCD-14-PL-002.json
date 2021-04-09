@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-10-15T00:00:00.000Z",
-        "debate": "ACTOS EN RELACIÓN CON LOS ESTADOS DE ALARMA, EXCEPCIÓN Y SITIO: -- COMUNICACIÓN DEL GOBIERNO QUE ACOMPAÑA AL REAL DECRETO 900/2020, DE 9 DE OCTUBRE, POR EL QUE SE DECLARA EL ESTADO DE ALARMA PARA RESPONDER ANTE SITUACIONES DE ESPECIAL RIESGO POR TRANSMISIÓN NO CONTROLADA DE INFECCIONES CAUSADAS POR EL SARS-COV-2. ",
+        "debate": "ACTOS EN RELACI\u00d3N CON LOS ESTADOS DE ALARMA, EXCEPCI\u00d3N Y SITIO: -- COMUNICACI\u00d3N DEL GOBIERNO QUE ACOMPA\u00d1A AL REAL DECRETO 900/2020, DE 9 DE OCTUBRE, POR EL QUE SE DECLARA EL ESTADO DE ALARMA PARA RESPONDER ANTE SITUACIONES DE ESPECIAL RIESGO POR TRANSMISI\u00d3N NO CONTROLADA DE INFECCIONES CAUSADAS POR EL SARS-COV-2. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,503 @@
         ],
         "order": 201,
         "path": "../data/diaries-txts/DSCD-14-PL-053.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "En consecuencia, queda aprobada. MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (VOTACIÓN): -- DEL GRUPO PARLAMENTARIO CIUDADANOS, SOBRE LA GRAVE CRISIS ABIERTA EN EL SENO DE LA GUARDIA CIVIL POR LAS ÚLTIMAS DESTITUCIONES OCURRIDAS EN EL CITADO CUERPO, POR LA POLÍTICA GENERAL DE DESTITUCIONES Y NOMBRAMIENTOS LLEVADAS A CABO POR EL MINISTRO DEL INTERIOR Y, EN GENERAL, POR LAS ÓRDENES EMANADAS DEL GOBIERNO HACIA LOS ALTOS MANDOS DE LAS FUERZAS Y CUERPOS DE SEGURIDAD DEL ESTADO DURANTE ESTA CRISIS SANITARIA."
+    "text": "En consecuencia, queda aprobada. MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (VOTACI\u00d3N): -- DEL GRUPO PARLAMENTARIO CIUDADANOS, SOBRE LA GRAVE CRISIS ABIERTA EN EL SENO DE LA GUARDIA CIVIL POR LAS \u00daLTIMAS DESTITUCIONES OCURRIDAS EN EL CITADO CUERPO, POR LA POL\u00cdTICA GENERAL DE DESTITUCIONES Y NOMBRAMIENTOS LLEVADAS A CABO POR EL MINISTRO DEL INTERIOR Y, EN GENERAL, POR LAS \u00d3RDENES EMANADAS DEL GOBIERNO HACIA LOS ALTOS MANDOS DE LAS FUERZAS Y CUERPOS DE SEGURIDAD DEL ESTADO DURANTE ESTA CRISIS SANITARIA.",
+    "freeling": [
+        {
+            "word": "En_consecuencia",
+            "lema": "en_consecuencia",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "queda",
+            "lema": "quedar",
+            "pos": "VMIP3S0",
+            "prob": "0.945755"
+        },
+        {
+            "word": "aprobada",
+            "lema": "aprobar",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "MOCIONES",
+            "lema": "moci\u00f3n",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "CONSECUENCIA",
+            "lema": "consecuencia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "INTERPELACIONES",
+            "lema": "interpelaci\u00f3n",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "URGENTES",
+            "lema": "urgente",
+            "pos": "AQ0CP00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "VOTACI\u00d3N",
+            "lema": "votaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ":",
+            "lema": ":",
+            "pos": "Fd",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "GRUPO_PARLAMENTARIO_CIUDADANOS",
+            "lema": "grupo_parlamentario_ciudadanos",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "SOBRE",
+            "lema": "sobre",
+            "pos": "SP",
+            "prob": "0.997804"
+        },
+        {
+            "word": "LA",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "GRAVE",
+            "lema": "grave",
+            "pos": "AQ0CS00",
+            "prob": "0.993802"
+        },
+        {
+            "word": "CRISIS",
+            "lema": "crisis",
+            "pos": "NCFN000",
+            "prob": "1"
+        },
+        {
+            "word": "ABIERTA",
+            "lema": "abrir",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": "EN",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "SENO",
+            "lema": "seno",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "LA",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "GUARDIA",
+            "lema": "guardia",
+            "pos": "NCCS000",
+            "prob": "1"
+        },
+        {
+            "word": "CIVIL",
+            "lema": "civil",
+            "pos": "AQ0CS00",
+            "prob": "0.997788"
+        },
+        {
+            "word": "POR",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "LAS",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "\u00daLTIMAS",
+            "lema": "\u00faltimo",
+            "pos": "AO0FP00",
+            "prob": "1"
+        },
+        {
+            "word": "DESTITUCIONES",
+            "lema": "destituci\u00f3n",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "OCURRIDAS",
+            "lema": "ocurrir",
+            "pos": "VMP00PF",
+            "prob": "1"
+        },
+        {
+            "word": "EN",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "CITADO",
+            "lema": "citar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "CUERPO",
+            "lema": "cuerpo",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "POR",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "LA",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "POL\u00cdTICA",
+            "lema": "pol\u00edtica",
+            "pos": "NCFS000",
+            "prob": "0.369481"
+        },
+        {
+            "word": "GENERAL",
+            "lema": "general",
+            "pos": "AQ0CS00",
+            "prob": "0.826212"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "DESTITUCIONES",
+            "lema": "destituci\u00f3n",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "Y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "NOMBRAMIENTOS",
+            "lema": "nombramiento",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "LLEVADAS_A_CABO",
+            "lema": "llevar_a_cabo",
+            "pos": "VMP00PF",
+            "prob": "1"
+        },
+        {
+            "word": "POR",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "MINISTRO",
+            "lema": "ministro",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "INTERIOR",
+            "lema": "interior",
+            "pos": "NCMS000",
+            "prob": "0.483866"
+        },
+        {
+            "word": "Y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "EN",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "GENERAL",
+            "lema": "general",
+            "pos": "AQ0CS00",
+            "prob": "0.826212"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "POR_LAS_\u00d3RDENES",
+            "lema": "por_las_\u00f3rdenes",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "EMANADAS",
+            "lema": "emanar",
+            "pos": "VMP00PF",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "GOBIERNO",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "HACIA",
+            "lema": "hacia",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "LOS",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "ALTOS",
+            "lema": "alto",
+            "pos": "AQ0MP00",
+            "prob": "0.992424"
+        },
+        {
+            "word": "MANDOS",
+            "lema": "mando",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "LAS",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "FUERZAS_Y_CUERPOS_DE_SEGURIDAD",
+            "lema": "fuerzas_y_cuerpos_de_seguridad",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "ESTADO",
+            "lema": "estado",
+            "pos": "NCMS000",
+            "prob": "0.677686"
+        },
+        {
+            "word": "DURANTE",
+            "lema": "durante",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "ESTA",
+            "lema": "este",
+            "pos": "DD0FS0",
+            "prob": "0.978817"
+        },
+        {
+            "word": "CRISIS",
+            "lema": "crisis",
+            "pos": "NCFN000",
+            "prob": "1"
+        },
+        {
+            "word": "SANITARIA",
+            "lema": "sanitario",
+            "pos": "AQ0FS00",
+            "prob": "0.8125"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,7 +1,7 @@
 {
     "metadata": {
         "celebrated": "2020-10-14T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO CIUDADANOS, SOBRE LA GRAVE CRISIS ABIERTA EN EL SENO DE LA GUARDIA CIVIL POR LAS ÚLTIMAS DESTITUCIONES OCURRIDAS EN EL CITADO CUERPO, POR LA POLÍTICA GENERAL DE DESTITUCIONES Y NOMBRAMIENTOS LLEVADAS A CABO POR EL MINISTRO DEL INTERIOR Y, EN GENERAL, POR LAS ÓRDENES EMANADAS DEL GOBIERNO HACIA LOS ALTOS MANDOS DE LAS FUERZAS Y CUERPOS DE SEGURIDAD DEL ESTADO DURANTE ESTA CRISIS SANITARIA. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO CIUDADANOS, SOBRE LA GRAVE CRISIS ABIERTA EN EL SENO DE LA GUARDIA CIVIL POR LAS \u00daLTIMAS DESTITUCIONES OCURRIDAS EN EL CITADO CUERPO, POR LA POL\u00cdTICA GENERAL DE DESTITUCIONES Y NOMBRAMIENTOS LLEVADAS A CABO POR EL MINISTRO DEL INTERIOR Y, EN GENERAL, POR LAS \u00d3RDENES EMANADAS DEL GOBIERNO HACIA LOS ALTOS MANDOS DE LAS FUERZAS Y CUERPOS DE SEGURIDAD DEL ESTADO DURANTE ESTA CRISIS SANITARIA. ",
         "diputado": [
             {
                 "apellidos": "Cambronero Piqueras",
@@ -24,9 +24,65 @@
         ],
         "order": 31,
         "path": "../data/diaries-txts/DSCD-14-PL-052.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "CAMBRONERO PIQUERAS"
     },
-    "text": "Gracias, presidenta. No aceptamos la enmienda."
+    "text": "Gracias, presidenta. No aceptamos la enmienda.",
+    "freeling": [
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "No",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "aceptamos",
+            "lema": "aceptar",
+            "pos": "VMIP1P0",
+            "prob": "0.65"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "enmienda",
+            "lema": "enmienda",
+            "pos": "NCFS000",
+            "prob": "0.953488"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

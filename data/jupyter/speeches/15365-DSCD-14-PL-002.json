@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-24T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES (CONTINUACIÓN): -- DEL GRUPO PARLAMENTARIO VOX, SOBRE QUÉ MEDIDAS VA A ADOPTAR EL GOBIERNO PARA INDEMNIZAR A TODOS LOS ESPAÑOLES A QUIENES SE LES HA PROHIBIDO TRABAJAR. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES (CONTINUACI\u00d3N): -- DEL GRUPO PARLAMENTARIO VOX, SOBRE QU\u00c9 MEDIDAS VA A ADOPTAR EL GOBIERNO PARA INDEMNIZAR A TODOS LOS ESPA\u00d1OLES A QUIENES SE LES HA PROHIBIDO TRABAJAR. ",
         "diputado": [
             {
-                "apellidos": "Baños Ruiz",
-                "apellidosNombre": "Baños Ruiz, Carmen",
+                "apellidos": "Ba\u00f1os Ruiz",
+                "apellidosNombre": "Ba\u00f1os Ruiz, Carmen",
                 "codParlamentario": 365,
                 "fchAlta": "24/02/2020",
                 "fchBaja": "",
@@ -24,9 +24,41 @@
         ],
         "order": 17,
         "path": "../data/diaries-txts/DSCD-14-PL-082.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "BAÑOS RUIZ"
+        "speacker": "BA\u00d1OS RUIZ"
     },
-    "text": "Voy acabando, presidenta."
+    "text": "Voy acabando, presidenta.",
+    "freeling": [
+        {
+            "word": "Voy",
+            "lema": "ir",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "acabando",
+            "lema": "acabar",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

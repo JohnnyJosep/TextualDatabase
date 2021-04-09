@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-03T00:00:00.000Z",
-        "debate": "VOX. -- DE LA DIPUTADA DOÑA INÉS ARRIMADAS GARCÍA, DEL GRUPO PARLAMENTARIO CIUDADANOS, QUE FORMULA AL SEÑOR MINISTRO DE POLÍTICA TERRITORIAL Y FUNCIÓN PÚBLICA. ¿CUÁLES SON LAS PRIORIDADES DEL NUEVO MINISTRO DE POLÍTICA TERRITORIAL Y FUNCIÓN PÚBLICA EN RELACIÓN CON LA SITUACIÓN DE CATALUÑA? ",
+        "debate": "VOX. -- DE LA DIPUTADA DO\u00d1A IN\u00c9S ARRIMADAS GARC\u00cdA, DEL GRUPO PARLAMENTARIO CIUDADANOS, QUE FORMULA AL SE\u00d1OR MINISTRO DE POL\u00cdTICA TERRITORIAL Y FUNCI\u00d3N P\u00daBLICA. \u00bfCUA\u0301LES SON LAS PRIORIDADES DEL NUEVO MINISTRO DE POL\u00cdTICA TERRITORIAL Y FUNCI\u00d3N P\u00daBLICA EN RELACI\u00d3N CON LA SITUACI\u00d3N DE CATALU\u00d1A? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,77 @@
         ],
         "order": 0,
         "path": "../data/diaries-txts/DSCD-14-PL-076.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Pregunta de la diputada doña Inés Arrimadas García, del Grupo Parlamentario Ciudadanos."
+    "text": "Pregunta de la diputada do\u00f1a In\u00e9s Arrimadas Garc\u00eda, del Grupo Parlamentario Ciudadanos.",
+    "freeling": [
+        {
+            "word": "Pregunta",
+            "lema": "preguntar",
+            "pos": "VMIP3S0",
+            "prob": "0.300493"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "diputada",
+            "lema": "diputado",
+            "pos": "NCFS000",
+            "prob": "0.987805"
+        },
+        {
+            "word": "do\u00f1a",
+            "lema": "don",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "In\u00e9s_Arrimadas_Garc\u00eda",
+            "lema": "in\u00e9s_arrimadas_garc\u00eda",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Grupo_Parlamentario_Ciudadanos",
+            "lema": "grupo_parlamentario_ciudadanos",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

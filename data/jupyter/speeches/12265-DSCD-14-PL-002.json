@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-12-03T00:00:00.000Z",
-        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (CONTINUACIÓN): -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL AÑO 2021. (CONTINUACIÓN). ",
+        "debate": "DICT\u00c1MENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (CONTINUACI\u00d3N): -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL A\u00d1O 2021. (CONTINUACI\u00d3N). ",
         "diputado": [
             {
-                "apellidos": "Sánchez García",
-                "apellidosNombre": "Sánchez García, José María",
+                "apellidos": "S\u00e1nchez Garc\u00eda",
+                "apellidosNombre": "S\u00e1nchez Garc\u00eda, Jos\u00e9 Mar\u00eda",
                 "codParlamentario": 322,
                 "fchAlta": "28/11/2019",
                 "fchBaja": "",
@@ -14,16 +14,60 @@
                 "grupo": "Grupo Parlamentario VOX",
                 "idCircunscripcion": 3,
                 "idLegislatura": 14,
-                "nombre": "José María",
+                "nombre": "Jos\u00e9 Mar\u00eda",
                 "nombreCircunscripcion": "Alicante/Alacant"
             },
             0
         ],
         "order": 15,
         "path": "../data/diaries-txts/DSCD-14-PL-068.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "SÁNCHEZ GARCÍA"
+        "speacker": "S\u00c1NCHEZ GARC\u00cdA"
     },
-    "text": "Ustedes han… (Rumores)."
+    "text": "Ustedes han\u2026 (Rumores).",
+    "freeling": [
+        {
+            "word": "Ustedes",
+            "lema": "usted",
+            "pos": "PP2CP0P",
+            "prob": "1"
+        },
+        {
+            "word": "han",
+            "lema": "haber",
+            "pos": "VAIP3P0",
+            "prob": "0.999845"
+        },
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Rumores",
+            "lema": "rumores",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

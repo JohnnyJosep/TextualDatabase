@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-03T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES (CONTINUACIÓN): -- DEL GRUPO PARLAMENTARIO VOX, SOBRE LAS MEDIDAS QUE VA A ADOPTAR EL GOBIERNO PARA FRENAR LA INVASIÓN MIGRATORIA EN ESPAÑA. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES (CONTINUACI\u00d3N): -- DEL GRUPO PARLAMENTARIO VOX, SOBRE LAS MEDIDAS QUE VA A ADOPTAR EL GOBIERNO PARA FRENAR LA INVASI\u00d3N MIGRATORIA EN ESPA\u00d1A. ",
         "diputado": [
             {
-                "apellidos": "Espinosa de los Monteros de Simón",
-                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "apellidos": "Espinosa de los Monteros de Sim\u00f3n",
+                "apellidosNombre": "Espinosa de los Monteros de Sim\u00f3n, Iv\u00e1n",
                 "codParlamentario": 83,
                 "fchAlta": "20/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario VOX",
                 "idCircunscripcion": 28,
                 "idLegislatura": 14,
-                "nombre": "Iván",
+                "nombre": "Iv\u00e1n",
                 "nombreCircunscripcion": "Madrid",
                 "twitter": "https://twitter.com/ivanedlm",
                 "twitterUserId": "48976307",
@@ -24,9 +24,101 @@
         ],
         "order": 12,
         "path": "../data/diaries-txts/DSCD-14-PL-076.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "ESPINOSA DE LOS MONTEROS DE SIMÓN"
+        "speacker": "ESPINOSA DE LOS MONTEROS DE SIM\u00d3N"
     },
-    "text": "Señor presidente, yo creo que en esta Cámara no se debería tolerar…"
+    "text": "Se\u00f1or presidente, yo creo que en esta C\u00e1mara no se deber\u00eda tolerar\u2026",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "presidente",
+            "lema": "presidente",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "yo",
+            "lema": "yo",
+            "pos": "PP1CSN0",
+            "prob": "1"
+        },
+        {
+            "word": "creo",
+            "lema": "creer",
+            "pos": "VMIP1S0",
+            "prob": "0.5"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "esta",
+            "lema": "este",
+            "pos": "DD0FS0",
+            "prob": "0.978817"
+        },
+        {
+            "word": "C\u00e1mara",
+            "lema": "c\u00e1mara",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "deber\u00eda",
+            "lema": "deber",
+            "pos": "VMIC3S0",
+            "prob": "0.638889"
+        },
+        {
+            "word": "tolerar",
+            "lema": "tolerar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

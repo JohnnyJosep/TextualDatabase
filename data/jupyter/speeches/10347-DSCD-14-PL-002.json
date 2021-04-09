@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-10-27T00:00:00.000Z",
-        "debate": "PROPOSICIONES NO DE LEY: -- DEL GRUPO PARLAMENTARIO SOCIALISTA, RELATIVA A GARANTIZAR LA PROTECCIÓN, INCLUSIÓN Y ATENCIÓN ADECUADA DE LOS Y LAS MENORES MIGRANTES NO ACOMPAÑADOS. ",
+        "debate": "PROPOSICIONES NO DE LEY: -- DEL GRUPO PARLAMENTARIO SOCIALISTA, RELATIVA A GARANTIZAR LA PROTECCI\u00d3N, INCLUSI\u00d3N Y ATENCI\u00d3N ADECUADA DE LOS Y LAS MENORES MIGRANTES NO ACOMPA\u00d1ADOS. ",
         "diputado": [
             {
-                "apellidos": "Martínez Oblanca",
-                "apellidosNombre": "Martínez Oblanca, Isidro Manuel",
+                "apellidos": "Mart\u00ednez Oblanca",
+                "apellidosNombre": "Mart\u00ednez Oblanca, Isidro Manuel",
                 "codParlamentario": 20,
                 "fchAlta": "19/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,191 @@
         ],
         "order": 54,
         "path": "../data/diaries-txts/DSCD-14-PL-057.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "MARTÍNEZ OBLANCA"
+        "speacker": "MART\u00cdNEZ OBLANCA"
     },
-    "text": "Sí, señora presidenta. Acabo de presentar a la Mesa una enmienda transaccional suscrita por los Grupos Parlamentarios Popular, Ciudadanos, VOX y por mí mismo. Muchas gracias."
+    "text": "S\u00ed, se\u00f1ora presidenta. Acabo de presentar a la Mesa una enmienda transaccional suscrita por los Grupos Parlamentarios Popular, Ciudadanos, VOX y por m\u00ed mismo. Muchas gracias.",
+    "freeling": [
+        {
+            "word": "S\u00ed",
+            "lema": "s\u00ed",
+            "pos": "RG",
+            "prob": "0.654652"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Acabo",
+            "lema": "acabar",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "presentar",
+            "lema": "presentar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "Mesa",
+            "lema": "mesa",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "enmienda",
+            "lema": "enmienda",
+            "pos": "NCFS000",
+            "prob": "0.953488"
+        },
+        {
+            "word": "transaccional",
+            "lema": "transaccional",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "suscrita",
+            "lema": "suscribir",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "Grupos_Parlamentarios_Popular",
+            "lema": "grupos_parlamentarios_popular",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Ciudadanos",
+            "lema": "ciudadanos",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "VOX",
+            "lema": "vox",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "m\u00ed",
+            "lema": "m\u00ed",
+            "pos": "PP1CSO0",
+            "prob": "1"
+        },
+        {
+            "word": "mismo",
+            "lema": "mismo",
+            "pos": "AQ0MS00",
+            "prob": "0.802208"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-10T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIÓN URGENTE (CONTINUACIÓN): -- DEL GRUPO PARLAMENTARIO CIUDADANOS, SOBRE LAS MEDIDAS ADOPTADAS POR EL GOBIERNO PARA LA REDUCCIÓN DEL COSTE DE LA FACTURA ELÉCTRICA DE LOS SECTORES ECONÓMICOS MÁS AFECTADOS POR LA CRISIS DE LA COVID-19 Y AQUELLOS CON ALTA ESTACIONALIDAD COMO LA AGRICULTURA Y EL TURISMO. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACI\u00d3N URGENTE (CONTINUACI\u00d3N): -- DEL GRUPO PARLAMENTARIO CIUDADANOS, SOBRE LAS MEDIDAS ADOPTADAS POR EL GOBIERNO PARA LA REDUCCI\u00d3N DEL COSTE DE LA FACTURA EL\u00c9CTRICA DE LOS SECTORES ECON\u00d3MICOS M\u00c1S AFECTADOS POR LA CRISIS DE LA COVID-19 Y AQUELLOS CON ALTA ESTACIONALIDAD COMO LA AGRICULTURA Y EL TURISMO. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,59 @@
         ],
         "order": 28,
         "path": "../data/diaries-txts/DSCD-14-PL-085.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Rego, tiene que terminar, por favor."
+    "text": "Se\u00f1or Rego, tiene que terminar, por favor.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Rego",
+            "lema": "se\u00f1or_rego",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "tiene",
+            "lema": "tener",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "terminar",
+            "lema": "terminar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por_favor",
+            "lema": "por_favor",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

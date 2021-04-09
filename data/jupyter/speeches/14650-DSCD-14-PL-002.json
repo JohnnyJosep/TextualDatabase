@@ -1,7 +1,7 @@
 {
     "metadata": {
         "celebrated": "2021-02-17T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JUAN DIEGO REQUENA RUIZ, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA VICEPRESIDENTA CUARTA Y MINISTRA PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO: ¿POR QUÉ OCULTA LA VICEPRESIDENTA CUARTA EN SU CURRÍCULUM OFICIAL SU VINCULACIÓN PROFESIONAL CON ISOFOTÓN? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JUAN DIEGO REQUENA RUIZ, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SE\u00d1ORA VICEPRESIDENTA CUARTA Y MINISTRA PARA LA TRANSICI\u00d3N ECOL\u00d3GICA Y EL RETO DEMOGR\u00c1FICO: \u00bfPOR QU\u00c9 OCULTA LA VICEPRESIDENTA CUARTA EN SU CURR\u00cdCULUM OFICIAL SU VINCULACI\u00d3N PROFESIONAL CON ISOFOT\u00d3N? ",
         "diputado": [
             {
                 "apellidos": "Requena Ruiz",
@@ -15,7 +15,7 @@
                 "idCircunscripcion": 23,
                 "idLegislatura": 14,
                 "nombre": "Juan Diego",
-                "nombreCircunscripcion": "Jaén",
+                "nombreCircunscripcion": "Ja\u00e9n",
                 "twitter": "https://twitter.com/alcaldeJDR",
                 "twitterUserId": "",
                 "twitterUserName": "alcaldeJDR"
@@ -24,9 +24,173 @@
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-079.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "REQUENA RUIZ"
     },
-    "text": "Muchas gracias, señora presidenta. Señora vicepresidenta, ¿por qué oculta en su currículum oficial su vinculación profesional con Isofotón? (Aplausos)."
+    "text": "Muchas gracias, se\u00f1ora presidenta. Se\u00f1ora vicepresidenta, \u00bfpor qu\u00e9 oculta en su curr\u00edculum oficial su vinculaci\u00f3n profesional con Isofot\u00f3n? (Aplausos).",
+    "freeling": [
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "vicepresidenta",
+            "lema": "vicepresidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "qu\u00e9",
+            "lema": "qu\u00e9",
+            "pos": "PT00000",
+            "prob": "0.712513"
+        },
+        {
+            "word": "oculta",
+            "lema": "ocultar",
+            "pos": "VMIP3S0",
+            "prob": "0.255814"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "curr\u00edculum",
+            "lema": "curr\u00edculum",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "oficial",
+            "lema": "oficial",
+            "pos": "AQ0CS00",
+            "prob": "0.986284"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "vinculaci\u00f3n",
+            "lema": "vinculaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "profesional",
+            "lema": "profesional",
+            "pos": "AQ0CS00",
+            "prob": "0.769886"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "Isofot\u00f3n",
+            "lema": "isofot\u00f3n",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplauso",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-12-15T00:00:00.000Z",
-        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY DE INICIATIVA POPULAR. (VOTACIÓN): -- PROPOSICIÓN DE LEY SOBRE RATIOS DE ENFERMERAS PARA GARANTIZAR LA SEGURIDAD DEL PACIENTE EN CENTROS SANITARIOS Y OTROS ÁMBITOS (CORRESPONDE A LOS NÚMEROS DE EXPEDIENTE 120/000018 DE LA XII LEGISLATURA Y 120/000005 DE LA XIII LEGISLATURA). ",
+        "debate": "TOMA EN CONSIDERACI\u00d3N DE PROPOSICIONES DE LEY DE INICIATIVA POPULAR. (VOTACI\u00d3N): -- PROPOSICI\u00d3N DE LEY SOBRE RATIOS DE ENFERMERAS PARA GARANTIZAR LA SEGURIDAD DEL PACIENTE EN CENTROS SANITARIOS Y OTROS \u00c1MBITOS (CORRESPONDE A LOS N\u00daMEROS DE EXPEDIENTE 120/000018 DE LA XII LEGISLATURA Y 120/000005 DE LA XIII LEGISLATURA). ",
         "diputado": [
             {
-                "apellidos": "Trías Gil",
-                "apellidosNombre": "Trías Gil, Georgina",
+                "apellidos": "Tr\u00edas Gil",
+                "apellidosNombre": "Tr\u00edas Gil, Georgina",
                 "codParlamentario": 277,
                 "fchAlta": "27/11/2019",
                 "fchBaja": "",
@@ -15,7 +15,7 @@
                 "idCircunscripcion": 5,
                 "idLegislatura": 14,
                 "nombre": "Georgina",
-                "nombreCircunscripcion": "Ávila",
+                "nombreCircunscripcion": "\u00c1vila",
                 "twitter": "https://twitter.com/georgina_vox",
                 "twitterUserId": "1118102485053399041",
                 "twitterUserName": "georgina_vox"
@@ -24,9 +24,29 @@
         ],
         "order": 135,
         "path": "../data/diaries-txts/DSCD-14-PL-069.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "TRÍAS GIL"
+        "speacker": "TR\u00cdAS GIL"
     },
-    "text": "Dos segundos."
+    "text": "Dos segundos.",
+    "freeling": [
+        {
+            "word": "Dos",
+            "lema": "2",
+            "pos": "Z",
+            "prob": "0.999868"
+        },
+        {
+            "word": "segundos",
+            "lema": "segundo",
+            "pos": "NCMP000",
+            "prob": "0.909357"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

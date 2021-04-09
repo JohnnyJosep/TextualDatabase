@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-25T00:00:00.000Z",
-        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES: -- REAL DECRETO-LEY 4/2021, DE 9 DE MARZO, POR EL QUE SE MODIFICAN LA LEY 27/2014, DE 27 DE NOVIEMBRE, DEL IMPUESTO SOBRE SOCIEDADES, Y EL TEXTO REFUNDIDO DE LA LEY DEL IMPUESTO SOBRE LA RENTA DE NO RESIDENTES, APROBADO MEDIANTE REAL DECRETO LEGISLATIVO 5/2004, DE 5 DE MARZO, EN RELACIÓN CON LAS ASIMETRÍAS HÍBRIDAS. ",
+        "debate": "CONVALIDACI\u00d3N O DEROGACI\u00d3N DE REALES DECRETOS-LEYES: -- REAL DECRETO-LEY 4/2021, DE 9 DE MARZO, POR EL QUE SE MODIFICAN LA LEY 27/2014, DE 27 DE NOVIEMBRE, DEL IMPUESTO SOBRE SOCIEDADES, Y EL TEXTO REFUNDIDO DE LA LEY DEL IMPUESTO SOBRE LA RENTA DE NO RESIDENTES, APROBADO MEDIANTE REAL DECRETO LEGISLATIVO 5/2004, DE 5 DE MARZO, EN RELACI\u00d3N CON LAS ASIMETR\u00cdAS H\u00cdBRIDAS. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,101 @@
         ],
         "order": 105,
         "path": "../data/diaries-txts/DSCD-14-PL-092.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Queda rechazada. -- DEL GRUPO PARLAMENTARIO SOCIALISTA, SOBRE LA ERRADICACIÓN DEL SINHOGARISMO."
+    "text": "Queda rechazada. -- DEL GRUPO PARLAMENTARIO SOCIALISTA, SOBRE LA ERRADICACI\u00d3N DEL SINHOGARISMO.",
+    "freeling": [
+        {
+            "word": "Queda",
+            "lema": "quedar",
+            "pos": "VMIP3S0",
+            "prob": "0.945755"
+        },
+        {
+            "word": "rechazada",
+            "lema": "rechazar",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "GRUPO_PARLAMENTARIO_SOCIALISTA",
+            "lema": "grupo_parlamentario_socialista",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "SOBRE",
+            "lema": "sobre",
+            "pos": "SP",
+            "prob": "0.997804"
+        },
+        {
+            "word": "LA",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "ERRADICACI\u00d3N",
+            "lema": "erradicaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "SINHOGARISMO",
+            "lema": "sinhogarismo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

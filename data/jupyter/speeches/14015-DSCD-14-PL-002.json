@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-03T00:00:00.000Z",
-        "debate": "VOX. -- DEL DIPUTADO DON CARLOS GARCÍA ADANERO, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿TIENE PREVISTO EL GOBIERNO DE ESPAÑA LLEVAR A CABO ALGUNA ACTUACIÓN DIRIGIDA A CUMPLIR LA MOCIÓN APROBADA POR EL PARLAMENTO DE NAVARRA EL PASADO 21 DE ENERO EN QUE LE INSTA A APLICAR UNA POLÍTICA PENITENCIARIA QUE FACILITE EL ACERCAMIENTO DE PRESOS? ",
+        "debate": "VOX. -- DEL DIPUTADO DON CARLOS GARC\u00cdA ADANERO, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA AL SE\u00d1OR MINISTRO DEL INTERIOR: \u00bfTIENE PREVISTO EL GOBIERNO DE ESPA\u00d1A LLEVAR A CABO ALGUNA ACTUACI\u00d3N DIRIGIDA A CUMPLIR LA MOCI\u00d3N APROBADA POR EL PARLAMENTO DE NAVARRA EL PASADO 21 DE ENERO EN QUE LE INSTA A APLICAR UNA POL\u00cdTICA PENITENCIARIA QUE FACILITE EL ACERCAMIENTO DE PRESOS? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,47 @@
         ],
         "order": 6,
         "path": "../data/diaries-txts/DSCD-14-PL-076.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor ministro del Interior."
+    "text": "Se\u00f1or ministro del Interior.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "ministro",
+            "lema": "ministro",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Interior",
+            "lema": "interior",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

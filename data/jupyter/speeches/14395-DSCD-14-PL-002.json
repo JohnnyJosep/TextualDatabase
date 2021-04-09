@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-16T00:00:00.000Z",
-        "debate": "PROPOSICIONES NO DE LEY: -- DEL GRUPO PARLAMENTARIO VOX, RELATIVA AL ESTABLECIMIENTO DE PLAZOS MÁXIMOS DE RESOLUCIÓN EN LOS PROCESOS CONSTITUCIONALES. ",
+        "debate": "PROPOSICIONES NO DE LEY: -- DEL GRUPO PARLAMENTARIO VOX, RELATIVA AL ESTABLECIMIENTO DE PLAZOS M\u00c1XIMOS DE RESOLUCI\u00d3N EN LOS PROCESOS CONSTITUCIONALES. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,47 @@
         ],
         "order": 20,
         "path": "../data/diaries-txts/DSCD-14-PL-078.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Elorza, tiene que terminar."
+    "text": "Se\u00f1or Elorza, tiene que terminar.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Elorza",
+            "lema": "se\u00f1or_elorza",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "tiene",
+            "lema": "tener",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "terminar",
+            "lema": "terminar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

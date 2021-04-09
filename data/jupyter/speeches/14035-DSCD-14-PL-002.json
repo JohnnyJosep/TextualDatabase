@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-03T00:00:00.000Z",
-        "debate": "VOX. -- DE LA DIPUTADA DOÑA LAURA BORRÀS CASTANYER, DEL GRUPO PARLAMENTARIO PLURAL, QUE FORMULA AL SEÑOR MINISTRO DE POLÍTICA TERRITORIAL Y FUNCIÓN PÚBLICA: ¿CÓMO PIENSA RESOLVER TODOS LOS INCUMPLIMIENTOS QUE ACUMULA EL ESTADO CON CATALUÑA? ",
+        "debate": "VOX. -- DE LA DIPUTADA DO\u00d1A LAURA BORR\u00c0S CASTANYER, DEL GRUPO PARLAMENTARIO PLURAL, QUE FORMULA AL SE\u00d1OR MINISTRO DE POL\u00cdTICA TERRITORIAL Y FUNCI\u00d3N P\u00daBLICA: \u00bfC\u00d3MO PIENSA RESOLVER TODOS LOS INCUMPLIMIENTOS QUE ACUMULA EL ESTADO CON CATALU\u00d1A? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,53 @@
         ],
         "order": 2,
         "path": "../data/diaries-txts/DSCD-14-PL-076.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor ministro de Política Territorial y Función Pública."
+    "text": "Se\u00f1or ministro de Pol\u00edtica Territorial y Funci\u00f3n P\u00fablica.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "ministro",
+            "lema": "ministro",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Pol\u00edtica_Territorial",
+            "lema": "pol\u00edtica_territorial",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "Funci\u00f3n_P\u00fablica",
+            "lema": "funci\u00f3n_p\u00fablica",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

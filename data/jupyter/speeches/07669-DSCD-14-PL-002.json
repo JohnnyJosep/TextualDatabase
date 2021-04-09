@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-10T00:00:00.000Z",
-        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES. (VOTACIÓN): -- REAL DECRETO-LEY 27/2020, DE 4 DE AGOSTO, DE MEDIDAS FINANCIERAS, DE CARÁCTER EXTRAORDINARIO Y URGENTE, APLICABLES A LAS ENTIDADES LOCALES. ",
+        "debate": "CONVALIDACI\u00d3N O DEROGACI\u00d3N DE REALES DECRETOS-LEYES. (VOTACI\u00d3N): -- REAL DECRETO-LEY 27/2020, DE 4 DE AGOSTO, DE MEDIDAS FINANCIERAS, DE CAR\u00c1CTER EXTRAORDINARIO Y URGENTE, APLICABLES A LAS ENTIDADES LOCALES. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,71 @@
         ],
         "order": 136,
         "path": "../data/diaries-txts/DSCD-14-PL-043.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Queda derogado el real decreto-ley. (Aplausos)."
+    "text": "Queda derogado el real decreto-ley. (Aplausos).",
+    "freeling": [
+        {
+            "word": "Queda",
+            "lema": "quedar",
+            "pos": "VMIP3S0",
+            "prob": "0.945755"
+        },
+        {
+            "word": "derogado",
+            "lema": "derogar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "real",
+            "lema": "real",
+            "pos": "AQ0CS00",
+            "prob": "0.82839"
+        },
+        {
+            "word": "decreto-ley",
+            "lema": "decreto-ley",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplauso",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

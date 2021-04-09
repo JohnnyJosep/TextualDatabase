@@ -1,20 +1,20 @@
 {
     "metadata": {
         "celebrated": "2021-02-17T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO MIXTO, SEÑOR MARTÍNEZ OBLANCA, SOBRE EL DESARROLLO DE LA CAMPAÑA DE VACUNACIÓN DEL CORONAVIRUS COVID-19 PARA TRATAR DE INMUNIZAR A LA POBLACIÓN ESPAÑOLA EN EL MENOR TIEMPO POSIBLE Y FRENAR LAS TRÁGICAS SECUELAS DEL CONTAGIO. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO MIXTO, SE\u00d1OR MART\u00cdNEZ OBLANCA, SOBRE EL DESARROLLO DE LA CAMPA\u00d1A DE VACUNACI\u00d3N DEL CORONAVIRUS COVID-19 PARA TRATAR DE INMUNIZAR A LA POBLACI\u00d3N ESPA\u00d1OLA EN EL MENOR TIEMPO POSIBLE Y FRENAR LAS TR\u00c1GICAS SECUELAS DEL CONTAGIO. ",
         "diputado": [
             {
                 "apellidos": "Elizo Serrano",
-                "apellidosNombre": "Elizo Serrano, María Gloria",
+                "apellidosNombre": "Elizo Serrano, Mar\u00eda Gloria",
                 "codParlamentario": 300,
                 "fchAlta": "28/11/2019",
                 "fchBaja": "",
                 "formacion": "UP",
                 "genero": 2,
-                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común",
+                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Com\u00fa Podem-Galicia en Com\u00fan",
                 "idCircunscripcion": 28,
                 "idLegislatura": 14,
-                "nombre": "María Gloria",
+                "nombre": "Mar\u00eda Gloria",
                 "nombreCircunscripcion": "Madrid",
                 "twitter": "https://twitter.com/gloriaelizo",
                 "twitterUserId": "301403189",
@@ -24,9 +24,77 @@
         ],
         "order": 32,
         "path": "../data/diaries-txts/DSCD-14-PL-079.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "VICEPRESIDENTA (Elizo Serrano)"
     },
-    "text": "Señor Martínez Oblanca, ¿acepta alguna de las enmiendas presentadas?"
+    "text": "Se\u00f1or Mart\u00ednez Oblanca, \u00bfacepta alguna de las enmiendas presentadas?",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "Mart\u00ednez_Oblanca",
+            "lema": "mart\u00ednez_oblanca",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "acepta",
+            "lema": "aceptar",
+            "pos": "VMIP3S0",
+            "prob": "0.968254"
+        },
+        {
+            "word": "alguna",
+            "lema": "alguno",
+            "pos": "PI0FS00",
+            "prob": "0.179715"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "enmiendas",
+            "lema": "enmienda",
+            "pos": "NCFP000",
+            "prob": "0.980769"
+        },
+        {
+            "word": "presentadas",
+            "lema": "presentar",
+            "pos": "VMP00PF",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        }
+    ]
 }

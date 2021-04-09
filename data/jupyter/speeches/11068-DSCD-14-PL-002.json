@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-11-18T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON AITOR ESTEBAN BRAVO, DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿CON QUÉ ESPÍRITU AFRONTA USTED LOS COMPROMISOS PRESUPUESTARIOS CON EL GRUPO VASCO? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON AITOR ESTEBAN BRAVO, DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), QUE FORMULA AL SE\u00d1OR PRESIDENTE DEL GOBIERNO: \u00bfCON QU\u00c9 ESP\u00cdRITU AFRONTA USTED LOS COMPROMISOS PRESUPUESTARIOS CON EL GRUPO VASCO? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,95 @@
         ],
         "order": 0,
         "path": "../data/diaries-txts/DSCD-14-PL-063.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Pregunta del diputado don Aitor Esteban Bravo, del Grupo Parlamentario Vasco (EAJ-PNV)."
+    "text": "Pregunta del diputado don Aitor Esteban Bravo, del Grupo Parlamentario Vasco (EAJ-PNV).",
+    "freeling": [
+        {
+            "word": "Pregunta",
+            "lema": "preguntar",
+            "pos": "VMIP3S0",
+            "prob": "0.300493"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "diputado",
+            "lema": "diputado",
+            "pos": "NCMS000",
+            "prob": "0.997382"
+        },
+        {
+            "word": "don",
+            "lema": "don",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "Aitor_Esteban_Bravo",
+            "lema": "aitor_esteban_bravo",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Grupo_Parlamentario_Vasco",
+            "lema": "grupo_parlamentario_vasco",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "EAJ-PNV",
+            "lema": "eaj-pnv",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

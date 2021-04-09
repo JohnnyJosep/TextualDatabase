@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-10-15T00:00:00.000Z",
-        "debate": "ACTOS EN RELACIÓN CON LOS ESTADOS DE ALARMA, EXCEPCIÓN Y SITIO: -- COMUNICACIÓN DEL GOBIERNO QUE ACOMPAÑA AL REAL DECRETO 900/2020, DE 9 DE OCTUBRE, POR EL QUE SE DECLARA EL ESTADO DE ALARMA PARA RESPONDER ANTE SITUACIONES DE ESPECIAL RIESGO POR TRANSMISIÓN NO CONTROLADA DE INFECCIONES CAUSADAS POR EL SARS-COV-2. ",
+        "debate": "ACTOS EN RELACI\u00d3N CON LOS ESTADOS DE ALARMA, EXCEPCI\u00d3N Y SITIO: -- COMUNICACI\u00d3N DEL GOBIERNO QUE ACOMPA\u00d1A AL REAL DECRETO 900/2020, DE 9 DE OCTUBRE, POR EL QUE SE DECLARA EL ESTADO DE ALARMA PARA RESPONDER ANTE SITUACIONES DE ESPECIAL RIESGO POR TRANSMISI\u00d3N NO CONTROLADA DE INFECCIONES CAUSADAS POR EL SARS-COV-2. ",
         "diputado": [
             {
-                "apellidos": "Rodríguez Gómez de Celis",
-                "apellidosNombre": "Rodríguez Gómez de Celis, Alfonso",
+                "apellidos": "Rodr\u00edguez G\u00f3mez de Celis",
+                "apellidosNombre": "Rodr\u00edguez G\u00f3mez de Celis, Alfonso",
                 "codParlamentario": 168,
                 "fchAlta": "25/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,263 @@
         ],
         "order": 32,
         "path": "../data/diaries-txts/DSCD-14-PL-053.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "VICEPRESIDENTE (Rodrí guez Gómez de Celis)"
+        "speacker": "VICEPRESIDENTE (Rodr\u00ed guez G\u00f3mez de Celis)"
     },
-    "text": "Señor Gutiérrez, le llamo al orden. Señorías, guarden silencio, como todos los demás portavoces han sido respetados en su intervención, así que, por favor, sigamos como íbamos en la sesión y respeten al interviniente."
+    "text": "Se\u00f1or Guti\u00e9rrez, le llamo al orden. Se\u00f1or\u00edas, guarden silencio, como todos los dem\u00e1s portavoces han sido respetados en su intervenci\u00f3n, as\u00ed que, por favor, sigamos como \u00edbamos en la sesi\u00f3n y respeten al interviniente.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Guti\u00e9rrez",
+            "lema": "se\u00f1or_guti\u00e9rrez",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "llamo",
+            "lema": "llamar",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "orden",
+            "lema": "orden",
+            "pos": "NCCS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Se\u00f1or\u00edas",
+            "lema": "se\u00f1or\u00eda",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "guarden",
+            "lema": "guardar",
+            "pos": "VMSP3P0",
+            "prob": "0.941964"
+        },
+        {
+            "word": "silencio",
+            "lema": "silencio",
+            "pos": "NCMS000",
+            "prob": "0.997076"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "como",
+            "lema": "como",
+            "pos": "CS",
+            "prob": "0.967153"
+        },
+        {
+            "word": "todos",
+            "lema": "todo",
+            "pos": "PI0MP00",
+            "prob": "0.293032"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "dem\u00e1s",
+            "lema": "dem\u00e1s",
+            "pos": "DI0CP0",
+            "prob": "0.280093"
+        },
+        {
+            "word": "portavoces",
+            "lema": "portavoz",
+            "pos": "NCCP000",
+            "prob": "1"
+        },
+        {
+            "word": "han",
+            "lema": "haber",
+            "pos": "VAIP3P0",
+            "prob": "0.999845"
+        },
+        {
+            "word": "sido",
+            "lema": "ser",
+            "pos": "VSP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "respetados",
+            "lema": "respetar",
+            "pos": "VMP00PM",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "intervenci\u00f3n",
+            "lema": "intervenci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "as\u00ed",
+            "lema": "as\u00ed",
+            "pos": "RG",
+            "prob": "0.999409"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por_favor",
+            "lema": "por_favor",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "sigamos",
+            "lema": "seguir",
+            "pos": "VMM01P0",
+            "prob": "0.133014"
+        },
+        {
+            "word": "como",
+            "lema": "como",
+            "pos": "CS",
+            "prob": "0.967153"
+        },
+        {
+            "word": "\u00edbamos",
+            "lema": "ir",
+            "pos": "VMII1P0",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "sesi\u00f3n",
+            "lema": "sesi\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "respeten",
+            "lema": "respetar",
+            "pos": "VMSP3P0",
+            "prob": "0.941964"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "interviniente",
+            "lema": "interviniente",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

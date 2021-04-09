@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-10-15T00:00:00.000Z",
-        "debate": "ACTOS EN RELACIÓN CON LOS ESTADOS DE ALARMA, EXCEPCIÓN Y SITIO: -- COMUNICACIÓN DEL GOBIERNO QUE ACOMPAÑA AL REAL DECRETO 900/2020, DE 9 DE OCTUBRE, POR EL QUE SE DECLARA EL ESTADO DE ALARMA PARA RESPONDER ANTE SITUACIONES DE ESPECIAL RIESGO POR TRANSMISIÓN NO CONTROLADA DE INFECCIONES CAUSADAS POR EL SARS-COV-2. ",
+        "debate": "ACTOS EN RELACI\u00d3N CON LOS ESTADOS DE ALARMA, EXCEPCI\u00d3N Y SITIO: -- COMUNICACI\u00d3N DEL GOBIERNO QUE ACOMPA\u00d1A AL REAL DECRETO 900/2020, DE 9 DE OCTUBRE, POR EL QUE SE DECLARA EL ESTADO DE ALARMA PARA RESPONDER ANTE SITUACIONES DE ESPECIAL RIESGO POR TRANSMISI\u00d3N NO CONTROLADA DE INFECCIONES CAUSADAS POR EL SARS-COV-2. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,329 @@
         ],
         "order": 210,
         "path": "../data/diaries-txts/DSCD-14-PL-053.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Se tramita como proyecto de ley por el procedimiento de urgencia. (Aplausos). -- REAL DECRETO-LEY 29/2020, DE 29 DE SEPTIEMBRE, DE MEDIDAS URGENTES EN MATERIA DE TELETRABAJO EN LAS ADMINISTRACIONES PÚBLICAS Y DE RECURSOS HUMANOS EN EL SISTEMA NACIONAL DE SALUD P ARA HACER FRENTE A LA CRISIS SANIT ARIA OCASIONADA POR LA COVID-19."
+    "text": "Se tramita como proyecto de ley por el procedimiento de urgencia. (Aplausos). -- REAL DECRETO-LEY 29/2020, DE 29 DE SEPTIEMBRE, DE MEDIDAS URGENTES EN MATERIA DE TELETRABAJO EN LAS ADMINISTRACIONES P\u00daBLICAS Y DE RECURSOS HUMANOS EN EL SISTEMA NACIONAL DE SALUD P ARA HACER FRENTE A LA CRISIS SANIT ARIA OCASIONADA POR LA COVID-19.",
+    "freeling": [
+        {
+            "word": "Se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "tramita",
+            "lema": "tramitar",
+            "pos": "VMIP3S0",
+            "prob": "0.989241"
+        },
+        {
+            "word": "como",
+            "lema": "como",
+            "pos": "CS",
+            "prob": "0.967153"
+        },
+        {
+            "word": "proyecto",
+            "lema": "proyecto",
+            "pos": "NCMS000",
+            "prob": "0.999084"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "ley",
+            "lema": "ley",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "procedimiento",
+            "lema": "procedimiento",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "urgencia",
+            "lema": "urgencia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplausos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": "REAL_DECRETO-LEY",
+            "lema": "real_decreto-ley",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "29/2020",
+            "lema": "29/2020",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "29_DE_SEPTIEMBRE",
+            "lema": "[??:29/9/??:??.??:??]",
+            "pos": "W",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "MEDIDAS",
+            "lema": "medida",
+            "pos": "NCFP000",
+            "prob": "0.999067"
+        },
+        {
+            "word": "URGENTES",
+            "lema": "urgente",
+            "pos": "AQ0CP00",
+            "prob": "1"
+        },
+        {
+            "word": "EN_MATERIA_DE",
+            "lema": "en_materia_de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "TELETRABAJO",
+            "lema": "tele_trabajo",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "EN",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "LAS",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "ADMINISTRACIONES",
+            "lema": "administraci\u00f3n",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "P\u00daBLICAS",
+            "lema": "p\u00fablico",
+            "pos": "AQ0FP00",
+            "prob": "1"
+        },
+        {
+            "word": "Y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "RECURSOS",
+            "lema": "recurso",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "HUMANOS",
+            "lema": "humano",
+            "pos": "AQ0MP00",
+            "prob": "0.808642"
+        },
+        {
+            "word": "EN",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "SISTEMA",
+            "lema": "sistema",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "NACIONAL",
+            "lema": "nacional",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "SALUD_P_ARA",
+            "lema": "salud_p_ara",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": "HACER_FRENTE",
+            "lema": "hacer_frente",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "A",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "LA",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "CRISIS",
+            "lema": "crisis",
+            "pos": "NCFN000",
+            "prob": "1"
+        },
+        {
+            "word": "SANIT",
+            "lema": "sanit",
+            "pos": "NCMS000",
+            "prob": "0.975003"
+        },
+        {
+            "word": "ARIA",
+            "lema": "ario",
+            "pos": "AQ0FS00",
+            "prob": "0.347831"
+        },
+        {
+            "word": "OCASIONADA",
+            "lema": "ocasionar",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": "POR",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "LA",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "COVID-19",
+            "lema": "COVID-19",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

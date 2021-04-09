@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-10T00:00:00.000Z",
-        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES. (VOTACIÓN): -- REAL DECRETO-LEY 27/2020, DE 4 DE AGOSTO, DE MEDIDAS FINANCIERAS, DE CARÁCTER EXTRAORDINARIO Y URGENTE, APLICABLES A LAS ENTIDADES LOCALES. ",
+        "debate": "CONVALIDACI\u00d3N O DEROGACI\u00d3N DE REALES DECRETOS-LEYES. (VOTACI\u00d3N): -- REAL DECRETO-LEY 27/2020, DE 4 DE AGOSTO, DE MEDIDAS FINANCIERAS, DE CAR\u00c1CTER EXTRAORDINARIO Y URGENTE, APLICABLES A LAS ENTIDADES LOCALES. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,251 @@
         ],
         "order": 132,
         "path": "../data/diaries-txts/DSCD-14-PL-043.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "En consecuencia, queda rechazado. -- DEL GRUPO PARLAMENTARIO VOX, SOBRE LAS MEDIDAS QUE EL GOBIERNO VA A ADOPTAR PARA GARANTIZAR UNAS ELECCIONES LIBRES, PACÍFICAS Y SIN ACTOS DE VIOLENCIA E INTIMIDACIÓN EN EL PAÍS VASCO Y GALICIA."
+    "text": "En consecuencia, queda rechazado. -- DEL GRUPO PARLAMENTARIO VOX, SOBRE LAS MEDIDAS QUE EL GOBIERNO VA A ADOPTAR PARA GARANTIZAR UNAS ELECCIONES LIBRES, PAC\u00cdFICAS Y SIN ACTOS DE VIOLENCIA E INTIMIDACI\u00d3N EN EL PA\u00cdS VASCO Y GALICIA.",
+    "freeling": [
+        {
+            "word": "En_consecuencia",
+            "lema": "en_consecuencia",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "queda",
+            "lema": "quedar",
+            "pos": "VMIP3S0",
+            "prob": "0.945755"
+        },
+        {
+            "word": "rechazado",
+            "lema": "rechazar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "GRUPO_PARLAMENTARIO_VOX",
+            "lema": "grupo_parlamentario_vox",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "SOBRE",
+            "lema": "sobre",
+            "pos": "SP",
+            "prob": "0.997804"
+        },
+        {
+            "word": "LAS",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "MEDIDAS",
+            "lema": "medida",
+            "pos": "NCFP000",
+            "prob": "0.999067"
+        },
+        {
+            "word": "QUE",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "GOBIERNO",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "VA",
+            "lema": "ir",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "A",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "ADOPTAR",
+            "lema": "adoptar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "PARA",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "GARANTIZAR",
+            "lema": "garantizar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "UNAS",
+            "lema": "uno",
+            "pos": "DI0FP0",
+            "prob": "0.991065"
+        },
+        {
+            "word": "ELECCIONES",
+            "lema": "elecci\u00f3n",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "LIBRES",
+            "lema": "libre",
+            "pos": "AQ0CP00",
+            "prob": "0.982301"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "PAC\u00cdFICAS",
+            "lema": "pac\u00edficas",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": "Y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "SIN",
+            "lema": "sin",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "ACTOS",
+            "lema": "acto",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "VIOLENCIA",
+            "lema": "violencia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "E",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.987994"
+        },
+        {
+            "word": "INTIMIDACI\u00d3N",
+            "lema": "intimidaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "EN",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "PA\u00cdS",
+            "lema": "pa\u00eds",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "VASCO",
+            "lema": "vasco",
+            "pos": "AQ0MS00",
+            "prob": "0.896341"
+        },
+        {
+            "word": "Y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "GALICIA",
+            "lema": "galicia",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

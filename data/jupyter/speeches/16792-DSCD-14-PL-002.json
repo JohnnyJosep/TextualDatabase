@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-23T00:00:00.000Z",
-        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), ORGÁNICA DE REFORMA DE LA LEY ORGÁNICA 2/1979, DE 3 DE OCTUBRE, DEL TRIBUNAL CONSTITUCIONAL. ",
+        "debate": "TOMA EN CONSIDERACI\u00d3N DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), ORG\u00c1NICA DE REFORMA DE LA LEY ORG\u00c1NICA 2/1979, DE 3 DE OCTUBRE, DEL TRIBUNAL CONSTITUCIONAL. ",
         "diputado": [
             {
-                "apellidos": "Rodríguez Gómez de Celis",
-                "apellidosNombre": "Rodríguez Gómez de Celis, Alfonso",
+                "apellidos": "Rodr\u00edguez G\u00f3mez de Celis",
+                "apellidosNombre": "Rodr\u00edguez G\u00f3mez de Celis, Alfonso",
                 "codParlamentario": 168,
                 "fchAlta": "25/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,107 @@
         ],
         "order": 86,
         "path": "../data/diaries-txts/DSCD-14-PL-090.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "VICEPRESIDENTE (Rodríguez Gómez de Celis)"
+        "speacker": "VICEPRESIDENTE (Rodr\u00edguez G\u00f3mez de Celis)"
     },
-    "text": "Dígame exactamente la alusión a la que se refiere antes de darle la palabra."
+    "text": "D\u00edgame exactamente la alusi\u00f3n a la que se refiere antes de darle la palabra.",
+    "freeling": [
+        {
+            "word": "Diga",
+            "lema": "decir",
+            "pos": "VMM03S0",
+            "prob": "1"
+        },
+        {
+            "word": "me",
+            "lema": "me",
+            "pos": "PP1CS00",
+            "prob": "1"
+        },
+        {
+            "word": "exactamente",
+            "lema": "exactamente",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "alusi\u00f3n",
+            "lema": "alusi\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "refiere",
+            "lema": "referir",
+            "pos": "VMIP3S0",
+            "prob": "0.994186"
+        },
+        {
+            "word": "antes_de",
+            "lema": "antes_de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "dar",
+            "lema": "dar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "palabra",
+            "lema": "palabra",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

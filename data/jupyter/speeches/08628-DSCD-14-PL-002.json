@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-23T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (VOTACIÓN): -- DEL GRUPO PARLAMENTARIO VOX, SOBRE LAS MEDIDAS QUE VA A ADOPTAR EL GOBIERNO PARA QUE LAS FUERZAS Y CUERPOS DE SEGURIDAD DEL ESTADO PUEDAN PROTEGER A LOS ESPAÑOLES DE LOS ASALTOS Y OCUPACIONES ILEGALES DE SUS PROPIEDADES. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (VOTACI\u00d3N): -- DEL GRUPO PARLAMENTARIO VOX, SOBRE LAS MEDIDAS QUE VA A ADOPTAR EL GOBIERNO PARA QUE LAS FUERZAS Y CUERPOS DE SEGURIDAD DEL ESTADO PUEDAN PROTEGER A LOS ESPA\u00d1OLES DE LOS ASALTOS Y OCUPACIONES ILEGALES DE SUS PROPIEDADES. ",
         "diputado": [
             {
-                "apellidos": "Sánchez del Real",
-                "apellidosNombre": "Sánchez del Real, Víctor Manuel",
+                "apellidos": "S\u00e1nchez del Real",
+                "apellidosNombre": "S\u00e1nchez del Real, V\u00edctor Manuel",
                 "codParlamentario": 195,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario VOX",
                 "idCircunscripcion": 6,
                 "idLegislatura": 14,
-                "nombre": "Víctor Manuel",
+                "nombre": "V\u00edctor Manuel",
                 "nombreCircunscripcion": "Badajoz",
                 "twitter": "https://twitter.com/sanchezdelreal",
                 "twitterUserId": "53517943",
@@ -24,9 +24,125 @@
         ],
         "order": 25,
         "path": "../data/diaries-txts/DSCD-14-PL-047.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "SÁNCHEZ DEL REAL"
+        "speacker": "S\u00c1NCHEZ DEL REAL"
     },
-    "text": "Por tiempo no superior a tres minutos, entiendo, señoría, según el artículo 71. Máximo tres minutos."
+    "text": "Por tiempo no superior a tres minutos, entiendo, se\u00f1or\u00eda, seg\u00fan el art\u00edculo 71. M\u00e1ximo tres minutos.",
+    "freeling": [
+        {
+            "word": "Por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "tiempo",
+            "lema": "tiempo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "superior",
+            "lema": "superior",
+            "pos": "AQ0CS00",
+            "prob": "0.971939"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "tres_minutos",
+            "lema": "TM_min:3",
+            "pos": "Zu",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "entiendo",
+            "lema": "entender",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or\u00eda",
+            "lema": "se\u00f1or\u00eda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "seg\u00fan",
+            "lema": "seg\u00fan",
+            "pos": "SP",
+            "prob": "0.768678"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "art\u00edculo",
+            "lema": "art\u00edculo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "71",
+            "lema": "71",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "M\u00e1ximo",
+            "lema": "m\u00e1ximo",
+            "pos": "AQ0MS00",
+            "prob": "0.863176"
+        },
+        {
+            "word": "tres_minutos",
+            "lema": "TM_min:3",
+            "pos": "Zu",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

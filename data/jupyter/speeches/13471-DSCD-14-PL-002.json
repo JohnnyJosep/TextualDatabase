@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-12-17T00:00:00.000Z",
-        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS: -- PROPOSICIÓN DE LEY ORGÁNICA DE REGULACIÓN DE LA EUTANASIA. ",
+        "debate": "DICT\u00c1MENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS: -- PROPOSICI\u00d3N DE LEY ORG\u00c1NICA DE REGULACI\u00d3N DE LA EUTANASIA. ",
         "diputado": [
             {
                 "apellidos": "Carcedo Roces",
-                "apellidosNombre": "Carcedo Roces, María Luisa",
+                "apellidosNombre": "Carcedo Roces, Mar\u00eda Luisa",
                 "codParlamentario": 270,
                 "fchAlta": "27/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario Socialista",
                 "idCircunscripcion": 33,
                 "idLegislatura": 14,
-                "nombre": "María Luisa",
+                "nombre": "Mar\u00eda Luisa",
                 "nombreCircunscripcion": "Asturias",
                 "twitter": "https://twitter.com/luisacarcedo",
                 "twitterUserId": "925676922838929408",
@@ -24,9 +24,89 @@
         ],
         "order": 47,
         "path": "../data/diaries-txts/DSCD-14-PL-072.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "CARCEDO ROCES"
     },
-    "text": "Hoy es un día muy importante. (Continúan los rumores)."
+    "text": "Hoy es un d\u00eda muy importante. (Contin\u00faan los rumores).",
+    "freeling": [
+        {
+            "word": "Hoy",
+            "lema": "hoy",
+            "pos": "RG",
+            "prob": "0.993864"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "d\u00eda",
+            "lema": "d\u00eda",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "muy",
+            "lema": "muy",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "importante",
+            "lema": "importante",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Contin\u00faan",
+            "lema": "continuar",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "rumores",
+            "lema": "rumor",
+            "pos": "NCMP000",
+            "prob": "0.992424"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

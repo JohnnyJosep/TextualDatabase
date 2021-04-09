@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-10T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON NÉSTOR REGO CANDAMIL, DEL GRUPO PARLAMENTARIO PLURAL, QUE FORMULA AL SEÑOR MINISTRO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA: ¿POR QUÉ, TENIENDO EN CUENTA QUE EXISTEN LAS PARTIDAS NECESARIAS EN LOS PRESUPUESTOS GENERALES DEL ESTADO DE 2021, NO SE HAN EMPEZADO AÚN A APLICAR LAS REBAJAS Y DESCUENTOS EN LA AP-9? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON N\u00c9STOR REGO CANDAMIL, DEL GRUPO PARLAMENTARIO PLURAL, QUE FORMULA AL SE\u00d1OR MINISTRO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA: \u00bfPOR QU\u00c9, TENIENDO EN CUENTA QUE EXISTEN LAS PARTIDAS NECESARIAS EN LOS PRESUPUESTOS GENERALES DEL ESTADO DE 2021, NO SE HAN EMPEZADO A\u00daN A APLICAR LAS REBAJAS Y DESCUENTOS EN LA AP-9? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,23 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-085.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Rego."
+    "text": "Se\u00f1or Rego.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Rego",
+            "lema": "se\u00f1or_rego",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

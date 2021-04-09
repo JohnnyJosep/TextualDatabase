@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-10T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA MARÍA TERESA JIMÉNEZ-BECERRIL BARRIO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿CÓMO ENCAJA EL ACTO PROPAGANDÍSTICO DE DESTRUCCIÓN DE ARMAS DE ETA CON EL ACUERDO CON BILDU DE ACERCAMIENTO DE CINCO ETARRAS A LA SEMANA? ",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DO\u00d1A MAR\u00cdA TERESA JIM\u00c9NEZ-BECERRIL BARRIO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR MINISTRO DEL INTERIOR: \u00bfC\u00d3MO ENCAJA EL ACTO PROPAGAND\u00cdSTICO DE DESTRUCCI\u00d3N DE ARMAS DE ETA CON EL ACUERDO CON BILDU DE ACERCAMIENTO DE CINCO ETARRAS A LA SEMANA? ",
         "diputado": [
             {
-                "apellidos": "Jiménez-Becerril Barrio",
-                "apellidosNombre": "Jiménez-Becerril Barrio, María Teresa",
+                "apellidos": "Jim\u00e9nez-Becerril Barrio",
+                "apellidosNombre": "Jim\u00e9nez-Becerril Barrio, Mar\u00eda Teresa",
                 "codParlamentario": 179,
                 "fchAlta": "25/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario Popular en el Congreso",
                 "idCircunscripcion": 41,
                 "idLegislatura": 14,
-                "nombre": "María Teresa",
+                "nombre": "Mar\u00eda Teresa",
                 "nombreCircunscripcion": "Sevilla",
                 "twitter": "https://twitter.com/teresajbecerril",
                 "twitterUserId": "1106640378193678339",
@@ -24,9 +24,515 @@
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-085.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "JIMÉNEZ-BECERRIL BARRIO"
+        "speacker": "JIM\u00c9NEZ-BECERRIL BARRIO"
     },
-    "text": "Señor Marlaska, ¿cómo explica el acto de propaganda de destrucción de armas de ETA mientras ustedes acercan a sus casas cada semana a cinco etarras de los que las disparaban? Entre esas armas estarían las que utilizó Otegi para disparar a Gabriel Cisneros y para secuestrar a sus víctimas. ¿De qué nos sirve, señor Marlaska, que destruyan las armas de ETA si el presidente de España pacta con el terrorista Otegi que las empuñaba? (Aplausos)."
+    "text": "Se\u00f1or Marlaska, \u00bfc\u00f3mo explica el acto de propaganda de destrucci\u00f3n de armas de ETA mientras ustedes acercan a sus casas cada semana a cinco etarras de los que las disparaban? Entre esas armas estar\u00edan las que utiliz\u00f3 Otegi para disparar a Gabriel Cisneros y para secuestrar a sus v\u00edctimas. \u00bfDe qu\u00e9 nos sirve, se\u00f1or Marlaska, que destruyan las armas de ETA si el presidente de Espa\u00f1a pacta con el terrorista Otegi que las empu\u00f1aba? (Aplausos).",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Marlaska",
+            "lema": "se\u00f1or_marlaska",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "c\u00f3mo",
+            "lema": "c\u00f3mo",
+            "pos": "PT00000",
+            "prob": "0.997099"
+        },
+        {
+            "word": "explica",
+            "lema": "explicar",
+            "pos": "VMIP3S0",
+            "prob": "0.934783"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "acto",
+            "lema": "acto",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "propaganda",
+            "lema": "propaganda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "destrucci\u00f3n",
+            "lema": "destrucci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "armas",
+            "lema": "arma",
+            "pos": "NCFP000",
+            "prob": "0.998047"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "ETA",
+            "lema": "eta",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "mientras",
+            "lema": "mientras",
+            "pos": "CS",
+            "prob": "0.88835"
+        },
+        {
+            "word": "ustedes",
+            "lema": "usted",
+            "pos": "PP2CP0P",
+            "prob": "1"
+        },
+        {
+            "word": "acercan",
+            "lema": "acercar",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "sus",
+            "lema": "su",
+            "pos": "DP3CPN",
+            "prob": "0.999903"
+        },
+        {
+            "word": "casas",
+            "lema": "casa",
+            "pos": "NCFP000",
+            "prob": "0.995495"
+        },
+        {
+            "word": "cada",
+            "lema": "cada",
+            "pos": "DI0CS0",
+            "prob": "1"
+        },
+        {
+            "word": "semana",
+            "lema": "semana",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "cinco",
+            "lema": "5",
+            "pos": "Z",
+            "prob": "0.999454"
+        },
+        {
+            "word": "etarras",
+            "lema": "etarra",
+            "pos": "NCCP000",
+            "prob": "0.734375"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "las",
+            "lema": "lo",
+            "pos": "PP3FPA0",
+            "prob": "0.011793"
+        },
+        {
+            "word": "disparaban",
+            "lema": "disparar",
+            "pos": "VMII3P0",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        },
+        {
+            "word": "Entre",
+            "lema": "entre",
+            "pos": "SP",
+            "prob": "0.980341"
+        },
+        {
+            "word": "esas",
+            "lema": "ese",
+            "pos": "DD0FP0",
+            "prob": "0.869004"
+        },
+        {
+            "word": "armas",
+            "lema": "arma",
+            "pos": "NCFP000",
+            "prob": "0.998047"
+        },
+        {
+            "word": "estar\u00edan",
+            "lema": "estar",
+            "pos": "VMIC3P0",
+            "prob": "0.97619"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "utiliz\u00f3",
+            "lema": "utilizar",
+            "pos": "VMIS3S0",
+            "prob": "1"
+        },
+        {
+            "word": "Otegi",
+            "lema": "otegi",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "disparar",
+            "lema": "disparar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "Gabriel_Cisneros",
+            "lema": "gabriel_cisneros",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "secuestrar",
+            "lema": "secuestrar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "sus",
+            "lema": "su",
+            "pos": "DP3CPN",
+            "prob": "0.999903"
+        },
+        {
+            "word": "v\u00edctimas",
+            "lema": "v\u00edctima",
+            "pos": "NCFP000",
+            "prob": "0.997881"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "De",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "qu\u00e9",
+            "lema": "qu\u00e9",
+            "pos": "PT00000",
+            "prob": "0.712513"
+        },
+        {
+            "word": "nos",
+            "lema": "nos",
+            "pos": "PP1CP00",
+            "prob": "0.810258"
+        },
+        {
+            "word": "sirve",
+            "lema": "servir",
+            "pos": "VMIP3S0",
+            "prob": "0.994792"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "Marlaska",
+            "lema": "marlaska",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "destruyan",
+            "lema": "destruir",
+            "pos": "VMSP3P0",
+            "prob": "0.941964"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "armas",
+            "lema": "arma",
+            "pos": "NCFP000",
+            "prob": "0.998047"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "ETA",
+            "lema": "eta",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "si",
+            "lema": "si",
+            "pos": "CS",
+            "prob": "0.999827"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "presidente",
+            "lema": "presidente",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Espa\u00f1a",
+            "lema": "espa\u00f1a",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "pacta",
+            "lema": "pactar",
+            "pos": "VMIP3S0",
+            "prob": "0.989241"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "terrorista",
+            "lema": "terrorista",
+            "pos": "AQ0CS00",
+            "prob": "0.729008"
+        },
+        {
+            "word": "Otegi",
+            "lema": "otegi",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "las",
+            "lema": "lo",
+            "pos": "PP3FPA0",
+            "prob": "0.011793"
+        },
+        {
+            "word": "empu\u00f1aba",
+            "lema": "empu\u00f1ar",
+            "pos": "VMII3S0",
+            "prob": "0.649996"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplauso",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

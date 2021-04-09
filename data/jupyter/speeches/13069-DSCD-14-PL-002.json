@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-12-16T00:00:00.000Z",
-        "debate": "MOCIÓN CONSECUENCIA DE INTERPELACIÓN URGENTE. (CONTINUACIÓN): -- DEL GRUPO PARLAMENTARIO VOX, SOBRE LAS MEDIDAS QUE VA A ADOPTAR EL GOBIERNO EN EL ÁMBITO DE LA LIBERTAD DE EXPRESIÓN EN ESPAÑA. ",
+        "debate": "MOCI\u00d3N CONSECUENCIA DE INTERPELACI\u00d3N URGENTE. (CONTINUACI\u00d3N): -- DEL GRUPO PARLAMENTARIO VOX, SOBRE LAS MEDIDAS QUE VA A ADOPTAR EL GOBIERNO EN EL \u00c1MBITO DE LA LIBERTAD DE EXPRESI\u00d3N EN ESPA\u00d1A. ",
         "diputado": [
             {
-                "apellidos": "Rodríguez Gómez de Celis",
-                "apellidosNombre": "Rodríguez Gómez de Celis, Alfonso",
+                "apellidos": "Rodr\u00edguez G\u00f3mez de Celis",
+                "apellidosNombre": "Rodr\u00edguez G\u00f3mez de Celis, Alfonso",
                 "codParlamentario": 168,
                 "fchAlta": "25/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,101 @@
         ],
         "order": 28,
         "path": "../data/diaries-txts/DSCD-14-PL-070.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "VICEPRESIDENTE (Rodrí guez Gómez de Celis)"
+        "speacker": "VICEPRESIDENTE (Rodr\u00ed guez G\u00f3mez de Celis)"
     },
-    "text": "Señor Baldoví, ciertamente son palabras gruesas y le pediría que las retirara, por favor."
+    "text": "Se\u00f1or Baldov\u00ed, ciertamente son palabras gruesas y le pedir\u00eda que las retirara, por favor.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Baldov\u00ed",
+            "lema": "se\u00f1or_baldov\u00ed",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "ciertamente",
+            "lema": "ciertamente",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "son",
+            "lema": "ser",
+            "pos": "VSIP3P0",
+            "prob": "0.995197"
+        },
+        {
+            "word": "palabras",
+            "lema": "palabra",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "gruesas",
+            "lema": "grueso",
+            "pos": "AQ0FP00",
+            "prob": "0.461255"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "pedir\u00eda",
+            "lema": "pedir",
+            "pos": "VMIC3S0",
+            "prob": "0.65"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "las",
+            "lema": "lo",
+            "pos": "PP3FPA0",
+            "prob": "0.011793"
+        },
+        {
+            "word": "retirara",
+            "lema": "retirar",
+            "pos": "VMSI3S0",
+            "prob": "0.65"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por_favor",
+            "lema": "por_favor",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

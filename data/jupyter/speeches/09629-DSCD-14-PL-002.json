@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-10-14T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA IDOIA SAGASTIZABAL UNZETABARRENETXEA, DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), QUE FORMULA A LA SEÑORA VICEPRESIDENTA CUARTA Y MINISTRA PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO: ¿CONTEMPLA SU MINISTERIO DETENER EL LLENADO DE LA NUEVA PRESA DE TIERRAS SUELTAS YA CONSTRUIDA EN EL EMBALSE DE YESA PARA GARANTIZAR LA SEGURIDAD DE LOS MUNICIPIOS COLINDANTES? ",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DO\u00d1A IDOIA SAGASTIZABAL UNZETABARRENETXEA, DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), QUE FORMULA A LA SE\u00d1ORA VICEPRESIDENTA CUARTA Y MINISTRA PARA LA TRANSICI\u00d3N ECOL\u00d3GICA Y EL RETO DEMOGR\u00c1FICO: \u00bfCONTEMPLA SU MINISTERIO DETENER EL LLENADO DE LA NUEVA PRESA DE TIERRAS SUELTAS YA CONSTRUIDA EN EL EMBALSE DE YESA PARA GARANTIZAR LA SEGURIDAD DE LOS MUNICIPIOS COLINDANTES? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,95 @@
         ],
         "order": 0,
         "path": "../data/diaries-txts/DSCD-14-PL-052.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Pregunta de la diputada doña Idoia Sagastizabal Unzetabarrenetxea, del Grupo Parlamentario Vasco (EAJ-PNV)."
+    "text": "Pregunta de la diputada do\u00f1a Idoia Sagastizabal Unzetabarrenetxea, del Grupo Parlamentario Vasco (EAJ-PNV).",
+    "freeling": [
+        {
+            "word": "Pregunta",
+            "lema": "preguntar",
+            "pos": "VMIP3S0",
+            "prob": "0.300493"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "diputada",
+            "lema": "diputado",
+            "pos": "NCFS000",
+            "prob": "0.987805"
+        },
+        {
+            "word": "do\u00f1a",
+            "lema": "don",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "Idoia_Sagastizabal_Unzetabarrenetxea",
+            "lema": "idoia_sagastizabal_unzetabarrenetxea",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Grupo_Parlamentario_Vasco",
+            "lema": "grupo_parlamentario_vasco",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "EAJ-PNV",
+            "lema": "eaj-pnv",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

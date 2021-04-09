@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-17T00:00:00.000Z",
-        "debate": "EAJ-JPNV. -- DEL DIPUTADO DON JOSÉ MARÍA MAZÓN RAMOS, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA A LA SEÑORA MINISTRA DE HACIENDA: ¿CÓMO HA NEGOCIADO EL GOBIERNO LOS PARÁMETROS APLICADOS PARA VALORAR LOS CRITERIOS DE REPARTO DEL FONDO REACT-EU ENTRE LAS COMUNIDADES AUTÓNOMAS? ",
+        "debate": "EAJ-JPNV. -- DEL DIPUTADO DON JOS\u00c9 MAR\u00cdA MAZ\u00d3N RAMOS, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA A LA SE\u00d1ORA MINISTRA DE HACIENDA: \u00bfC\u00d3MO HA NEGOCIADO EL GOBIERNO LOS PAR\u00c1METROS APLICADOS PARA VALORAR LOS CRITERIOS DE REPARTO DEL FONDO REACT-EU ENTRE LAS COMUNIDADES AUT\u00d3NOMAS? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,29 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-079.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Mazón."
+    "text": "Se\u00f1or Maz\u00f3n.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "Maz\u00f3n",
+            "lema": "maza",
+            "pos": "NCMS00V",
+            "prob": "0.5"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

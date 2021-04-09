@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-03T00:00:00.000Z",
-        "debate": "VOX. -- DEL DIPUTADO DON FRANCISCO JAVIER ORTEGA SMITH-MOLINA, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿VA A GARANTIZAR QUE LA CAMPAÑA ELECTORAL CATALANA SE DESARROLLE SIN VIOLENCIA SOBRE NINGUNA DE LAS CANDIDATURAS CONCURRENTES? ",
+        "debate": "VOX. -- DEL DIPUTADO DON FRANCISCO JAVIER ORTEGA SMITH-MOLINA, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SE\u00d1OR MINISTRO DEL INTERIOR: \u00bfVA A GARANTIZAR QUE LA CAMPA\u00d1A ELECTORAL CATALANA SE DESARROLLE SIN VIOLENCIA SOBRE NINGUNA DE LAS CANDIDATURAS CONCURRENTES? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,77 @@
         ],
         "order": 0,
         "path": "../data/diaries-txts/DSCD-14-PL-076.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Pregunta del diputado don Francisco Javier Ortega Smith-Molina, del Grupo Parlamentario VOX."
+    "text": "Pregunta del diputado don Francisco Javier Ortega Smith-Molina, del Grupo Parlamentario VOX.",
+    "freeling": [
+        {
+            "word": "Pregunta",
+            "lema": "preguntar",
+            "pos": "VMIP3S0",
+            "prob": "0.300493"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "diputado",
+            "lema": "diputado",
+            "pos": "NCMS000",
+            "prob": "0.997382"
+        },
+        {
+            "word": "don",
+            "lema": "don",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "Francisco_Javier_Ortega_Smith-Molina",
+            "lema": "francisco_javier_ortega_smith-molina",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Grupo_Parlamentario_VOX",
+            "lema": "grupo_parlamentario_vox",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

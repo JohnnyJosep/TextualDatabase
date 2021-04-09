@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-29T00:00:00.000Z",
-        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY. (VOTACIÓN): -- DEL GRUPO PARLAMENTARIO MIXTO, PARA HABILITAR A LOS AYUNTAMIENTOS PARA QUE, DE MANERA POTESTATIVA, PUEDAN ESTABLECER BONIFICACIONES DEL IBI A EMPRESAS, PYMES, AUTÓNOMOS, COMERCIO, SECTOR PRIMARIO Y EMPRENDEDORES QUE HAYAN VISTO SUSPENDIDAS, RESTRINGIDAS Y AFECTADAS SUS ACTIVIDADES POR LAS CONSECUENCIAS DE LA CRISIS SANITARIA DEL COVID-19. ",
+        "debate": "TOMA EN CONSIDERACI\u00d3N DE PROPOSICIONES DE LEY. (VOTACI\u00d3N): -- DEL GRUPO PARLAMENTARIO MIXTO, PARA HABILITAR A LOS AYUNTAMIENTOS PARA QUE, DE MANERA POTESTATIVA, PUEDAN ESTABLECER BONIFICACIONES DEL IBI A EMPRESAS, PYMES, AUT\u00d3NOMOS, COMERCIO, SECTOR PRIMARIO Y EMPRENDEDORES QUE HAYAN VISTO SUSPENDIDAS, RESTRINGIDAS Y AFECTADAS SUS ACTIVIDADES POR LAS CONSECUENCIAS DE LA CRISIS SANITARIA DEL COVID-19. ",
         "diputado": [
             {
-                "apellidos": "Matute García de Jalón",
-                "apellidosNombre": "Matute García de Jalón, Oskar",
+                "apellidos": "Matute Garc\u00eda de Jal\u00f3n",
+                "apellidosNombre": "Matute Garc\u00eda de Jal\u00f3n, Oskar",
                 "codParlamentario": 63,
                 "fchAlta": "20/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,41 @@
         ],
         "order": 87,
         "path": "../data/diaries-txts/DSCD-14-PL-048.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "MATUTE GARCÍA DE JALÓN"
+        "speacker": "MATUTE GARC\u00cdA DE JAL\u00d3N"
     },
-    "text": "Únicamente la autoenmienda presentada."
+    "text": "\u00danicamente la autoenmienda presentada.",
+    "freeling": [
+        {
+            "word": "\u00danicamente",
+            "lema": "\u00fanicamente",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "autoenmienda",
+            "lema": "autoenmienda",
+            "pos": "NCFS000",
+            "prob": "0.874645"
+        },
+        {
+            "word": "presentada",
+            "lema": "presentar",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

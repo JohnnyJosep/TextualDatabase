@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-11-17T00:00:00.000Z",
-        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, ORGÁNICA DE PROTECCIÓN DE LA SALUD Y DE LOS DERECHOS Y LIBERTADES FUNDAMENTALES. ",
+        "debate": "TOMA EN CONSIDERACI\u00d3N DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, ORG\u00c1NICA DE PROTECCI\u00d3N DE LA SALUD Y DE LOS DERECHOS Y LIBERTADES FUNDAMENTALES. ",
         "diputado": [
             {
-                "apellidos": "Sánchez García",
-                "apellidosNombre": "Sánchez García, José María",
+                "apellidos": "S\u00e1nchez Garc\u00eda",
+                "apellidosNombre": "S\u00e1nchez Garc\u00eda, Jos\u00e9 Mar\u00eda",
                 "codParlamentario": 322,
                 "fchAlta": "28/11/2019",
                 "fchBaja": "",
@@ -14,16 +14,246 @@
                 "grupo": "Grupo Parlamentario VOX",
                 "idCircunscripcion": 3,
                 "idLegislatura": 14,
-                "nombre": "José María",
+                "nombre": "Jos\u00e9 Mar\u00eda",
                 "nombreCircunscripcion": "Alicante/Alacant"
             },
             0
         ],
         "order": 11,
         "path": "../data/diaries-txts/DSCD-14-PL-062.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "SÁNCHEZ GARCÍA"
+        "speacker": "S\u00c1NCHEZ GARC\u00cdA"
     },
-    "text": "Lo que tienen que hacer muchos de ustedes es volver a la facultad, probablemente todos; doña Cuca, desde luego. (Rumores.--Protestas). Ustedes sufrieron reveses judiciales… (Rumores)."
+    "text": "Lo que tienen que hacer muchos de ustedes es volver a la facultad, probablemente todos; do\u00f1a Cuca, desde luego. (Rumores.--Protestas). Ustedes sufrieron reveses judiciales\u2026 (Rumores).",
+    "freeling": [
+        {
+            "word": "Lo",
+            "lema": "el",
+            "pos": "DA00S0",
+            "prob": "0.665165"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "tienen",
+            "lema": "tener",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "hacer",
+            "lema": "hacer",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "muchos",
+            "lema": "mucho",
+            "pos": "PI0MP00",
+            "prob": "0.336006"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "ustedes",
+            "lema": "usted",
+            "pos": "PP2CP0P",
+            "prob": "1"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "volver",
+            "lema": "volver",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "facultad",
+            "lema": "facultad",
+            "pos": "NCFS000",
+            "prob": "0.988202"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "probablemente",
+            "lema": "probablemente",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "todos",
+            "lema": "todo",
+            "pos": "PI0MP00",
+            "prob": "0.293032"
+        },
+        {
+            "word": ";",
+            "lema": ";",
+            "pos": "Fx",
+            "prob": "1"
+        },
+        {
+            "word": "do\u00f1a",
+            "lema": "don",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "Cuca",
+            "lema": "cuca",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "desde_luego",
+            "lema": "desde_luego",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Rumores",
+            "lema": "rumor",
+            "pos": "NCMP000",
+            "prob": "0.992424"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": "Protestas",
+            "lema": "protesta",
+            "pos": "NCFP000",
+            "prob": "0.995868"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Ustedes",
+            "lema": "usted",
+            "pos": "PP2CP0P",
+            "prob": "1"
+        },
+        {
+            "word": "sufrieron",
+            "lema": "sufrir",
+            "pos": "VMIS3P0",
+            "prob": "1"
+        },
+        {
+            "word": "reveses",
+            "lema": "rev\u00e9s",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "judiciales",
+            "lema": "judicial",
+            "pos": "AQ0CP00",
+            "prob": "1"
+        },
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Rumores",
+            "lema": "rumores",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

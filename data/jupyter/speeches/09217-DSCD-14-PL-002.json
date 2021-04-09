@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-10-01T00:00:00.000Z",
-        "debate": "SOLICITUDES DE CREACIÓN DE COMISIONES DE INVESTIGACIÓN: -- SOLICITUD DE LOS GRUPOS PARLAMENTARIOS SOCIALISTA Y CONFEDERAL DE UNIDAS PODEMOS-EN COMÚ PODEM-GALICIA EN COMÚN, DE CREACIÓN DE UNA COMISIÓN DE INVESTIGACIÓN RELATIVA A LA UTILIZACIÓN ILEGAL DE EFECTIVOS, MEDIOS Y RECURSOS DEL MINISTERIO DEL INTERIOR, CON LA FINALIDAD DE FAVORECER INTERESES POLÍTICOS DEL PP Y DE ANULAR PRUEBAS INCULPATORIAS PARA ESTE PARTIDO EN CASOS DE CORRUPCIÓN, DURANTE LOS MANDATOS DE GOBIERNO DEL PARTIDO POPULAR. ",
+        "debate": "SOLICITUDES DE CREACI\u00d3N DE COMISIONES DE INVESTIGACI\u00d3N: -- SOLICITUD DE LOS GRUPOS PARLAMENTARIOS SOCIALISTA Y CONFEDERAL DE UNIDAS PODEMOS-EN COM\u00da PODEM-GALICIA EN COM\u00daN, DE CREACI\u00d3N DE UNA COMISI\u00d3N DE INVESTIGACI\u00d3N RELATIVA A LA UTILIZACI\u00d3N ILEGAL DE EFECTIVOS, MEDIOS Y RECURSOS DEL MINISTERIO DEL INTERIOR, CON LA FINALIDAD DE FAVORECER INTERESES POL\u00cdTICOS DEL PP Y DE ANULAR PRUEBAS INCULPATORIAS PARA ESTE PARTIDO EN CASOS DE CORRUPCI\u00d3N, DURANTE LOS MANDATOS DE GOBIERNO DEL PARTIDO POPULAR. ",
         "diputado": [
             {
-                "apellidos": "Bal Francés",
-                "apellidosNombre": "Bal Francés, Edmundo",
+                "apellidos": "Bal Franc\u00e9s",
+                "apellidosNombre": "Bal Franc\u00e9s, Edmundo",
                 "codParlamentario": 211,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,563 @@
         ],
         "order": 45,
         "path": "../data/diaries-txts/DSCD-14-PL-050.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "BAL FRANCÉS"
+        "speacker": "BAL FRANC\u00c9S"
     },
-    "text": "Sí, si me dejan, señora presidenta; si me dejan. Termino. Me queda nada, de verdad. Tengan paciencia. (Protestas). Sean responsables ustedes (dirigiéndose al Grupo Parlamentario Popular en el Congreso) y ustedes (dirigiéndose al Grupo Parlamentario Socialista). Ofrezcan soluciones. Sí. Nos pagan para eso, no para dar voces, no para abuchear. (Protestas.--Aplausos de las señoras y los señores diputados del Grupo Parlamentario Ciudadanos, puestos en pie)."
+    "text": "S\u00ed, si me dejan, se\u00f1ora presidenta; si me dejan. Termino. Me queda nada, de verdad. Tengan paciencia. (Protestas). Sean responsables ustedes (dirigi\u00e9ndose al Grupo Parlamentario Popular en el Congreso) y ustedes (dirigi\u00e9ndose al Grupo Parlamentario Socialista). Ofrezcan soluciones. S\u00ed. Nos pagan para eso, no para dar voces, no para abuchear. (Protestas.--Aplausos de las se\u00f1oras y los se\u00f1ores diputados del Grupo Parlamentario Ciudadanos, puestos en pie).",
+    "freeling": [
+        {
+            "word": "S\u00ed",
+            "lema": "s\u00ed",
+            "pos": "RG",
+            "prob": "0.654652"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "si",
+            "lema": "si",
+            "pos": "CS",
+            "prob": "0.999827"
+        },
+        {
+            "word": "me",
+            "lema": "me",
+            "pos": "PP1CS00",
+            "prob": "0.755196"
+        },
+        {
+            "word": "dejan",
+            "lema": "dejar",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ";",
+            "lema": ";",
+            "pos": "Fx",
+            "prob": "1"
+        },
+        {
+            "word": "si",
+            "lema": "si",
+            "pos": "CS",
+            "prob": "0.999827"
+        },
+        {
+            "word": "me",
+            "lema": "me",
+            "pos": "PP1CS00",
+            "prob": "0.755196"
+        },
+        {
+            "word": "dejan",
+            "lema": "dejar",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Termino",
+            "lema": "terminar",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Me",
+            "lema": "me",
+            "pos": "PP1CS00",
+            "prob": "0.755196"
+        },
+        {
+            "word": "queda",
+            "lema": "quedar",
+            "pos": "VMIP3S0",
+            "prob": "0.945755"
+        },
+        {
+            "word": "nada",
+            "lema": "nada",
+            "pos": "PI0CS00",
+            "prob": "0.893578"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "verdad",
+            "lema": "verdad",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Tengan",
+            "lema": "tener",
+            "pos": "VMM03P0",
+            "prob": "0.21831"
+        },
+        {
+            "word": "paciencia",
+            "lema": "paciencia",
+            "pos": "NCFS000",
+            "prob": "0.983871"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Protestas",
+            "lema": "protestas",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Sean",
+            "lema": "ser",
+            "pos": "VSSP3P0",
+            "prob": "0.996689"
+        },
+        {
+            "word": "responsables",
+            "lema": "responsable",
+            "pos": "NCCP000",
+            "prob": "0.881944"
+        },
+        {
+            "word": "ustedes",
+            "lema": "usted",
+            "pos": "PP2CP0P",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "dirigiendo",
+            "lema": "dirigir",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "PP3CN00",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Grupo_Parlamentario_Popular",
+            "lema": "grupo_parlamentario_popular",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Congreso",
+            "lema": "congreso",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "ustedes",
+            "lema": "usted",
+            "pos": "PP2CP0P",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "dirigiendo",
+            "lema": "dirigir",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "PP3CN00",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Grupo_Parlamentario_Socialista",
+            "lema": "grupo_parlamentario_socialista",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Ofrezcan",
+            "lema": "ofrecer",
+            "pos": "VMM03P0",
+            "prob": "0.0580364"
+        },
+        {
+            "word": "soluciones",
+            "lema": "soluci\u00f3n",
+            "pos": "NCFP000",
+            "prob": "0.993421"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "S\u00ed",
+            "lema": "s\u00ed",
+            "pos": "RG",
+            "prob": "0.654652"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Nos",
+            "lema": "nos",
+            "pos": "PP1CP00",
+            "prob": "0.810258"
+        },
+        {
+            "word": "pagan",
+            "lema": "pagar",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "eso",
+            "lema": "ese",
+            "pos": "PD00S00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "dar",
+            "lema": "dar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "voces",
+            "lema": "voz",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "abuchear",
+            "lema": "abuchear",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Protestas",
+            "lema": "protesta",
+            "pos": "NCFP000",
+            "prob": "0.995868"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplauso",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "se\u00f1oras",
+            "lema": "se\u00f1or",
+            "pos": "NCFP000",
+            "prob": "0.572569"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "se\u00f1ores",
+            "lema": "se\u00f1or",
+            "pos": "AQ0MP00",
+            "prob": "0.361294"
+        },
+        {
+            "word": "diputados",
+            "lema": "diputado",
+            "pos": "NCMP000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Grupo_Parlamentario_Ciudadanos",
+            "lema": "grupo_parlamentario_ciudadanos",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "puestos",
+            "lema": "puesto",
+            "pos": "NCMP000",
+            "prob": "0.791096"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "pie",
+            "lema": "pie",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

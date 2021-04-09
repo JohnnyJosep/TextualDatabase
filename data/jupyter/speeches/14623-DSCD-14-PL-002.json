@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-17T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JON IÑARRITU GARCÍA, DEL GRUPO PARLAMENTARIO EUSKAL HERRIA BILDU, QUE FORMULA A LA SEÑORA VICEPRESIDENTA PRIMERA Y MINISTRA DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCRÁTICA: ¿CONSIDERA EL GOBIERNO QUE HAY DEMOCRACIA SIN LIBERTAD DE EXPRESIÓN? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JON I\u00d1ARRITU GARC\u00cdA, DEL GRUPO PARLAMENTARIO EUSKAL HERRIA BILDU, QUE FORMULA A LA SE\u00d1ORA VICEPRESIDENTA PRIMERA Y MINISTRA DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCR\u00c1TICA: \u00bfCONSIDERA EL GOBIERNO QUE HAY DEMOCRACIA SIN LIBERTAD DE EXPRESI\u00d3N? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,23 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-079.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Iñarritu."
+    "text": "Se\u00f1or I\u00f1arritu.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_I\u00f1arritu",
+            "lema": "se\u00f1or_i\u00f1arritu",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

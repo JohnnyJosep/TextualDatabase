@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-24T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA INÉS GRANOLLERS CUNILLERA, DEL GRUPO PARLAMENTARIO REPUBLICANO, QUE FORMULA AL GOBIERNO: ¿CÓMO PIENSAN SOLUCIONAR EL COLAPSO EN LAS JEFATURAS DE TRÁFICO CATALANAS? ",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DO\u00d1A IN\u00c9S GRANOLLERS CUNILLERA, DEL GRUPO PARLAMENTARIO REPUBLICANO, QUE FORMULA AL GOBIERNO: \u00bfC\u00d3MO PIENSAN SOLUCIONAR EL COLAPSO EN LAS JEFATURAS DE TR\u00c1FICO CATALANAS? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,23 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-091.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señora Granollers."
+    "text": "Se\u00f1ora Granollers.",
+    "freeling": [
+        {
+            "word": "Se\u00f1ora_Granollers",
+            "lema": "se\u00f1ora_granollers",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

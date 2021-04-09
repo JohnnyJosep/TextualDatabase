@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-12-03T00:00:00.000Z",
-        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (CONTINUACIÓN): -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL AÑO 2021. (CONTINUACIÓN). ",
+        "debate": "DICT\u00c1MENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (CONTINUACI\u00d3N): -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL A\u00d1O 2021. (CONTINUACI\u00d3N). ",
         "diputado": [
             {
-                "apellidos": "Vázquez Blanco",
-                "apellidosNombre": "Vázquez Blanco, Ana Belén",
+                "apellidos": "V\u00e1zquez Blanco",
+                "apellidosNombre": "V\u00e1zquez Blanco, Ana Bel\u00e9n",
                 "codParlamentario": 115,
                 "fchAlta": "21/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario Popular en el Congreso",
                 "idCircunscripcion": 32,
                 "idLegislatura": 14,
-                "nombre": "Ana Belén",
+                "nombre": "Ana Bel\u00e9n",
                 "nombreCircunscripcion": "Ourense",
                 "twitter": "https://twitter.com/anadebande",
                 "twitterUserId": "397867366",
@@ -24,9 +24,71 @@
         ],
         "order": 29,
         "path": "../data/diaries-txts/DSCD-14-PL-068.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "VÁZQUEZ BLANCO"
+        "speacker": "V\u00c1ZQUEZ BLANCO"
     },
-    "text": "Nada más. Muchas gracias. (Aplausos)."
+    "text": "Nada m\u00e1s. Muchas gracias. (Aplausos).",
+    "freeling": [
+        {
+            "word": "Nada",
+            "lema": "nada",
+            "pos": "PI0CS00",
+            "prob": "0.893578"
+        },
+        {
+            "word": "m\u00e1s",
+            "lema": "m\u00e1s",
+            "pos": "RG",
+            "prob": "0.99993"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplausos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-03T00:00:00.000Z",
-        "debate": "INTERPELACIONES URGENTES: --ACTUAL Y FUTURA-- DE LAS COMUNIDADES AUTÓNOMAS. ",
+        "debate": "INTERPELACIONES URGENTES: --ACTUAL Y FUTURA-- DE LAS COMUNIDADES AUT\u00d3NOMAS. ",
         "diputado": [
             {
-                "apellidos": "Garcés Sanagustín",
-                "apellidosNombre": "Garcés Sanagustín, Mario",
+                "apellidos": "Garc\u00e9s Sanagust\u00edn",
+                "apellidosNombre": "Garc\u00e9s Sanagust\u00edn, Mario",
                 "codParlamentario": 219,
                 "fchAlta": "26/11/2016",
                 "fchBaja": "",
@@ -24,9 +24,389 @@
         ],
         "order": 9,
         "path": "../data/diaries-txts/DSCD-14-PL-076.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "GARCÉS SANAGUSTÍN"
+        "speacker": "GARC\u00c9S SANAGUST\u00cdN"
     },
-    "text": "La última frase. … para negociar ese modelo y que las guerras entre territorios solamente las abren ustedes, la han abierto ustedes, la ha abierto el peor presidente de la historia de este país, porque en su necedad y en su miserable comportamiento lo único que puede hacer es enfrentar territorios. Muchas gracias. (Aplausos)."
+    "text": "La \u00faltima frase. \u2026 para negociar ese modelo y que las guerras entre territorios solamente las abren ustedes, la han abierto ustedes, la ha abierto el peor presidente de la historia de este pa\u00eds, porque en su necedad y en su miserable comportamiento lo \u00fanico que puede hacer es enfrentar territorios. Muchas gracias. (Aplausos).",
+    "freeling": [
+        {
+            "word": "La",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "\u00faltima",
+            "lema": "\u00faltimo",
+            "pos": "AO0FS00",
+            "prob": "1"
+        },
+        {
+            "word": "frase",
+            "lema": "frase",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "negociar",
+            "lema": "negociar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "ese",
+            "lema": "ese",
+            "pos": "DD0MS0",
+            "prob": "0.966694"
+        },
+        {
+            "word": "modelo",
+            "lema": "modelo",
+            "pos": "NCCS000",
+            "prob": "0.99763"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "guerras",
+            "lema": "guerra",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "entre",
+            "lema": "entre",
+            "pos": "SP",
+            "prob": "0.980341"
+        },
+        {
+            "word": "territorios",
+            "lema": "territorio",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "solamente",
+            "lema": "solamente",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "las",
+            "lema": "lo",
+            "pos": "PP3FPA0",
+            "prob": "0.011793"
+        },
+        {
+            "word": "abren",
+            "lema": "abrir",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "ustedes",
+            "lema": "usted",
+            "pos": "PP2CP0P",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "lo",
+            "pos": "PP3FSA0",
+            "prob": "0.010734"
+        },
+        {
+            "word": "han",
+            "lema": "haber",
+            "pos": "VAIP3P0",
+            "prob": "0.999845"
+        },
+        {
+            "word": "abierto",
+            "lema": "abrir",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "ustedes",
+            "lema": "usted",
+            "pos": "PP2CP0P",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "lo",
+            "pos": "PP3FSA0",
+            "prob": "0.010734"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "abierto",
+            "lema": "abrir",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "peor",
+            "lema": "peor",
+            "pos": "AQ0CS00",
+            "prob": "0.880117"
+        },
+        {
+            "word": "presidente",
+            "lema": "presidente",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "historia",
+            "lema": "historia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "este",
+            "lema": "este",
+            "pos": "DD0MS0",
+            "prob": "0.949201"
+        },
+        {
+            "word": "pa\u00eds",
+            "lema": "pa\u00eds",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "porque",
+            "lema": "porque",
+            "pos": "CS",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "necedad",
+            "lema": "necedad",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "miserable",
+            "lema": "miserable",
+            "pos": "AQ0CS00",
+            "prob": "0.661294"
+        },
+        {
+            "word": "comportamiento",
+            "lema": "comportamiento",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "lo",
+            "lema": "el",
+            "pos": "DA00S0",
+            "prob": "0.665165"
+        },
+        {
+            "word": "\u00fanico",
+            "lema": "\u00fanico",
+            "pos": "AQ0MS00",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "puede",
+            "lema": "poder",
+            "pos": "VMIP3S0",
+            "prob": "0.999693"
+        },
+        {
+            "word": "hacer",
+            "lema": "hacer",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "enfrentar",
+            "lema": "enfrentar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "territorios",
+            "lema": "territorio",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplausos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

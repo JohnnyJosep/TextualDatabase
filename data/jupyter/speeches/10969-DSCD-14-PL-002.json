@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-11-17T00:00:00.000Z",
-        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, ORGÁNICA DE PROTECCIÓN DE LA SALUD Y DE LOS DERECHOS Y LIBERTADES FUNDAMENTALES. ",
+        "debate": "TOMA EN CONSIDERACI\u00d3N DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, ORG\u00c1NICA DE PROTECCI\u00d3N DE LA SALUD Y DE LOS DERECHOS Y LIBERTADES FUNDAMENTALES. ",
         "diputado": [
             {
                 "apellidos": "Rego Candamil",
-                "apellidosNombre": "Rego Candamil, Néstor",
+                "apellidosNombre": "Rego Candamil, N\u00e9stor",
                 "codParlamentario": 40,
                 "fchAlta": "19/11/2019",
                 "fchBaja": "",
@@ -14,8 +14,8 @@
                 "grupo": "Grupo Parlamentario Plural",
                 "idCircunscripcion": 15,
                 "idLegislatura": 14,
-                "nombre": "Néstor",
-                "nombreCircunscripcion": "Coruña (A)",
+                "nombre": "N\u00e9stor",
+                "nombreCircunscripcion": "Coru\u00f1a (A)",
                 "twitter": "https://twitter.com/NestorRego",
                 "twitterUserId": "435720619",
                 "twitterUserName": "NestorRego"
@@ -24,9 +24,59 @@
         ],
         "order": 68,
         "path": "../data/diaries-txts/DSCD-14-PL-062.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "REGO CANDAMIL"
     },
-    "text": "(Continúa su intervención en gallego)."
+    "text": "(Contin\u00faa su intervenci\u00f3n en gallego).",
+    "freeling": [
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Contin\u00faa",
+            "lema": "continuar",
+            "pos": "VMIP3S0",
+            "prob": "0.99569"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "intervenci\u00f3n",
+            "lema": "intervenci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "gallego",
+            "lema": "gallego",
+            "pos": "NCMS000",
+            "prob": "0.193396"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

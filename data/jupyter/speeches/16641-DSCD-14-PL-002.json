@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-18T00:00:00.000Z",
-        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (VOTACIÓN): -- PROPOSICIÓN DE LEY ORGÁNICA COMPLEMENTARIA DE LA LEY POR LA QUE SE MODIFICA LA LEY 20/2011, DE 21 DE JULIO, DEL REGISTRO CIVIL, DE MODIFICACIÓN DE LA LEY ORGÁNICA 6/1985, DE 1 DE JULIO, DEL PODER JUDICIAL Y DE MODIFICACIÓN DE LA LEY ORGÁNICA 10/1995, DE 23 DE NOVIEMBRE, DEL CÓDIGO PENAL (ANTES DENOMINADA PROPOSICIÓN DE LEY ORGÁNICA COMPLEMENTARIA DE LA LEY POR LA QUE SE MODIFICA LA LEY 20/2011, DE 21 DE JULIO, DEL REGISTRO CIVIL, DE MODIFICACIÓN DE LA LEY ORGÁNICA 6/1985, DE 1 DE JULIO, DEL PODER JUDICIAL). ",
+        "debate": "DICT\u00c1MENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (VOTACI\u00d3N): -- PROPOSICI\u00d3N DE LEY ORG\u00c1NICA COMPLEMENTARIA DE LA LEY POR LA QUE SE MODIFICA LA LEY 20/2011, DE 21 DE JULIO, DEL REGISTRO CIVIL, DE MODIFICACI\u00d3N DE LA LEY ORG\u00c1NICA 6/1985, DE 1 DE JULIO, DEL PODER JUDICIAL Y DE MODIFICACI\u00d3N DE LA LEY ORG\u00c1NICA 10/1995, DE 23 DE NOVIEMBRE, DEL C\u00d3DIGO PENAL (ANTES DENOMINADA PROPOSICI\u00d3N DE LEY ORG\u00c1NICA COMPLEMENTARIA DE LA LEY POR LA QUE SE MODIFICA LA LEY 20/2011, DE 21 DE JULIO, DEL REGISTRO CIVIL, DE MODIFICACI\u00d3N DE LA LEY ORG\u00c1NICA 6/1985, DE 1 DE JULIO, DEL PODER JUDICIAL). ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,35 @@
         ],
         "order": 21,
         "path": "../data/diaries-txts/DSCD-14-PL-089.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Silencio, por favor."
+    "text": "Silencio, por favor.",
+    "freeling": [
+        {
+            "word": "Silencio",
+            "lema": "silencio",
+            "pos": "NCMS000",
+            "prob": "0.997076"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por_favor",
+            "lema": "por_favor",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

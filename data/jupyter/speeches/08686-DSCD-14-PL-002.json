@@ -1,20 +1,20 @@
 {
     "metadata": {
         "celebrated": "2020-09-29T00:00:00.000Z",
-        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), DE REFORMA DE LA LEY ORGÁNICA 4/2015, DE 30 DE MARZO, DE PROTECCIÓN DE LA SEGURIDAD CIUDADANA (ORGÁNICA). ",
+        "debate": "TOMA EN CONSIDERACI\u00d3N DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), DE REFORMA DE LA LEY ORG\u00c1NICA 4/2015, DE 30 DE MARZO, DE PROTECCI\u00d3N DE LA SEGURIDAD CIUDADANA (ORG\u00c1NICA). ",
         "diputado": [
             {
-                "apellidos": "Fernández Castañón",
-                "apellidosNombre": "Fernández Castañón, Sofía",
+                "apellidos": "Fern\u00e1ndez Casta\u00f1\u00f3n",
+                "apellidosNombre": "Fern\u00e1ndez Casta\u00f1\u00f3n, Sof\u00eda",
                 "codParlamentario": 272,
                 "fchAlta": "27/11/2019",
                 "fchBaja": "",
                 "formacion": "UP",
                 "genero": 2,
-                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común",
+                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Com\u00fa Podem-Galicia en Com\u00fan",
                 "idCircunscripcion": 33,
                 "idLegislatura": 14,
-                "nombre": "Sofía",
+                "nombre": "Sof\u00eda",
                 "nombreCircunscripcion": "Asturias",
                 "twitter": "https://twitter.com/SofCastanon",
                 "twitterUserId": "3495603017",
@@ -24,9 +24,263 @@
         ],
         "order": 30,
         "path": "../data/diaries-txts/DSCD-14-PL-048.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "FERNÁNDEZ CASTAÑÓN"
+        "speacker": "FERN\u00c1NDEZ CASTA\u00d1\u00d3N"
     },
-    "text": "Perdone, presidenta. Desde nuestro grupo parlamentario queríamos formularle dos preguntas. Una de las preguntas es si se puede interrumpir a la persona que está en uso de la palabra en la tribuna, y la otra…"
+    "text": "Perdone, presidenta. Desde nuestro grupo parlamentario quer\u00edamos formularle dos preguntas. Una de las preguntas es si se puede interrumpir a la persona que est\u00e1 en uso de la palabra en la tribuna, y la otra\u2026",
+    "freeling": [
+        {
+            "word": "Perdone",
+            "lema": "perdonar",
+            "pos": "VMM03S0",
+            "prob": "0.0302731"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Desde",
+            "lema": "desde",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "nuestro",
+            "lema": "nuestro",
+            "pos": "DP1MSP",
+            "prob": "0.957064"
+        },
+        {
+            "word": "grupo",
+            "lema": "grupo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "parlamentario",
+            "lema": "parlamentario",
+            "pos": "AQ0MS00",
+            "prob": "0.685185"
+        },
+        {
+            "word": "quer\u00edamos",
+            "lema": "querer",
+            "pos": "VMII1P0",
+            "prob": "1"
+        },
+        {
+            "word": "formular",
+            "lema": "formular",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "dos",
+            "lema": "2",
+            "pos": "Z",
+            "prob": "0.999868"
+        },
+        {
+            "word": "preguntas",
+            "lema": "pregunta",
+            "pos": "NCFP000",
+            "prob": "0.995868"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Una",
+            "lema": "uno",
+            "pos": "PI0FS00",
+            "prob": "0.0420733"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "preguntas",
+            "lema": "pregunta",
+            "pos": "NCFP000",
+            "prob": "0.995868"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "si",
+            "lema": "si",
+            "pos": "CS",
+            "prob": "0.999827"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "puede",
+            "lema": "poder",
+            "pos": "VMIP3S0",
+            "prob": "0.999693"
+        },
+        {
+            "word": "interrumpir",
+            "lema": "interrumpir",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "persona",
+            "lema": "persona",
+            "pos": "NCFS000",
+            "prob": "0.996683"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "est\u00e1",
+            "lema": "estar",
+            "pos": "VMIP3S0",
+            "prob": "0.999398"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "uso",
+            "lema": "uso",
+            "pos": "NCMS000",
+            "prob": "0.998047"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "palabra",
+            "lema": "palabra",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "tribuna",
+            "lema": "tribuna",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "otra",
+            "lema": "otro",
+            "pos": "PI0FS00",
+            "prob": "0.259107"
+        },
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

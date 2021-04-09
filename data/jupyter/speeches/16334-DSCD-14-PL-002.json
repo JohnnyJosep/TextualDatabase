@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-17T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON GABRIEL RUFIÁN ROMERO, DEL GRUPO PARLAMENTARIO REPUBLICANO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿QUÉ CARENCIAS DEMOCRÁTICAS IDENTIFICA EN UN ESTADO ESPAÑOL QUE USTEDES CALIFICAN DE DEMOCRACIA PLENA? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON GABRIEL RUFI\u00c1N ROMERO, DEL GRUPO PARLAMENTARIO REPUBLICANO, QUE FORMULA AL SE\u00d1OR PRESIDENTE DEL GOBIERNO: \u00bfQU\u00c9 CARENCIAS DEMOCR\u00c1TICAS IDENTIFICA EN UN ESTADO ESPA\u00d1OL QUE USTEDES CALIFICAN DE DEMOCRACIA PLENA? ",
         "diputado": [
             {
-                "apellidos": "Rufián Romero",
-                "apellidosNombre": "Rufián Romero, Gabriel",
+                "apellidos": "Rufi\u00e1n Romero",
+                "apellidosNombre": "Rufi\u00e1n Romero, Gabriel",
                 "codParlamentario": 187,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,161 @@
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-088.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "RUFIÁN ROMERO"
+        "speacker": "RUFI\u00c1N ROMERO"
     },
-    "text": "Buenos días. Señor presidente, ¿qué carencias identifica, si es que identifica alguna, en la democracia española? Muchas gracias."
+    "text": "Buenos d\u00edas. Se\u00f1or presidente, \u00bfqu\u00e9 carencias identifica, si es que identifica alguna, en la democracia espa\u00f1ola? Muchas gracias.",
+    "freeling": [
+        {
+            "word": "Buenos",
+            "lema": "bueno",
+            "pos": "AQ0MP00",
+            "prob": "1"
+        },
+        {
+            "word": "d\u00edas",
+            "lema": "d\u00eda",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "presidente",
+            "lema": "presidente",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "qu\u00e9",
+            "lema": "qu\u00e9",
+            "pos": "DT0CN0",
+            "prob": "0.216289"
+        },
+        {
+            "word": "carencias",
+            "lema": "carencia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "identifica",
+            "lema": "identificar",
+            "pos": "VMIP3S0",
+            "prob": "0.989241"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "si",
+            "lema": "si",
+            "pos": "CS",
+            "prob": "0.999827"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "identifica",
+            "lema": "identificar",
+            "pos": "VMIP3S0",
+            "prob": "0.989241"
+        },
+        {
+            "word": "alguna",
+            "lema": "alguno",
+            "pos": "PI0FS00",
+            "prob": "0.179715"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "democracia",
+            "lema": "democracia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "espa\u00f1ola",
+            "lema": "espa\u00f1ol",
+            "pos": "AQ0FS00",
+            "prob": "0.9614"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        },
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

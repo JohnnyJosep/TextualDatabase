@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-10-28T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JOSEBA ANDONI AGIRRETXEA URRESTI, DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), QUE FORMULA AL SEÑOR MINISTRO DE AGRICULTURA, PESCA Y ALIMENTACIÓN: ¿POR QUÉ NO HA DEFENDIDO EL GOBIERNO EN LA NEGOCIACIÓN EUROPEA DE LA PAC UN POSICIONAMIENTO A FAVOR DE QUE EXISTAN DIFERENTES PLANES ESTRATÉGICOS AGRARIOS EN CADA ESTADO MIEMBRO? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JOSEBA ANDONI AGIRRETXEA URRESTI, DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), QUE FORMULA AL SE\u00d1OR MINISTRO DE AGRICULTURA, PESCA Y ALIMENTACI\u00d3N: \u00bfPOR QUE\u0301 NO HA DEFENDIDO EL GOBIERNO EN LA NEGOCIACI\u00d3N EUROPEA DE LA PAC UN POSICIONAMIENTO A FAVOR DE QUE EXISTAN DIFERENTES PLANES ESTRATE\u0301GICOS AGRARIOS EN CADA ESTADO MIEMBRO? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,29 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-058.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Agirretxea Urresti."
+    "text": "Se\u00f1or Agirretxea Urresti.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "Agirretxea_Urresti",
+            "lema": "agirretxea_urresti",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

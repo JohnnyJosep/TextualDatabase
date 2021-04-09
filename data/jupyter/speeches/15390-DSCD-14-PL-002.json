@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-24T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES (CONTINUACIÓN): -- DEL GRUPO P ARLAMENT ARIO CIUDADANOS, P ARA GARANTIZAR EL EJERCICIO DEL PERIODISMO EN LIBERTAD Y SIN INJERENCIAS POLÍTICAS. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES (CONTINUACI\u00d3N): -- DEL GRUPO P ARLAMENT ARIO CIUDADANOS, P ARA GARANTIZAR EL EJERCICIO DEL PERIODISMO EN LIBERTAD Y SIN INJERENCIAS POL\u00cdTICAS. ",
         "diputado": [
             {
                 "apellidos": "Carvalho Dantas",
-                "apellidosNombre": "Carvalho Dantas, María",
+                "apellidosNombre": "Carvalho Dantas, Mar\u00eda",
                 "codParlamentario": 190,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario Republicano",
                 "idCircunscripcion": 8,
                 "idLegislatura": 14,
-                "nombre": "María",
+                "nombre": "Mar\u00eda",
                 "nombreCircunscripcion": "Barcelona",
                 "twitter": "https://twitter.com/_Maria_Dantas_",
                 "twitterUserId": "87042194",
@@ -24,9 +24,257 @@
         ],
         "order": 19,
         "path": "../data/diaries-txts/DSCD-14-PL-082.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "CARVALHO DANTAS"
     },
-    "text": "Periodistas como Omaira Beltrán, Aladdin Azzouzi, Paloma Chen, Youssef Ouled, Taíza Brito, Moha Garehou, Beatrice Duodu, João França, Sara Cuentas y muchos más. (Un señor diputado: ¡Venga ya!). Muchas gracias. (Aplausos)."
+    "text": "Periodistas como Omaira Beltr\u00e1n, Aladdin Azzouzi, Paloma Chen, Youssef Ouled, Ta\u00edza Brito, Moha Garehou, Beatrice Duodu, Jo\u00e3o Fran\u00e7a, Sara Cuentas y muchos m\u00e1s. (Un se\u00f1or diputado: \u00a1Venga ya!). Muchas gracias. (Aplausos).",
+    "freeling": [
+        {
+            "word": "Periodistas",
+            "lema": "periodista",
+            "pos": "NCCP000",
+            "prob": "1"
+        },
+        {
+            "word": "como",
+            "lema": "como",
+            "pos": "CS",
+            "prob": "0.967153"
+        },
+        {
+            "word": "Omaira_Beltr\u00e1n",
+            "lema": "omaira_beltr\u00e1n",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Aladdin_Azzouzi",
+            "lema": "aladdin_azzouzi",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Paloma_Chen",
+            "lema": "paloma_chen",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Youssef_Ouled",
+            "lema": "youssef_ouled",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Ta\u00edza_Brito",
+            "lema": "ta\u00edza_brito",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Moha_Garehou",
+            "lema": "moha_garehou",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Beatrice_Duodu",
+            "lema": "beatrice_duodu",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Jo\u00e3o_Fran\u00e7a",
+            "lema": "jo\u00e3o_fran\u00e7a",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Sara_Cuentas",
+            "lema": "sara_cuentas",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "muchos",
+            "lema": "mucho",
+            "pos": "PI0MP00",
+            "prob": "0.336006"
+        },
+        {
+            "word": "m\u00e1s",
+            "lema": "m\u00e1s",
+            "pos": "RG",
+            "prob": "0.99993"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "diputado",
+            "lema": "diputado",
+            "pos": "NCMS000",
+            "prob": "0.997382"
+        },
+        {
+            "word": ":",
+            "lema": ":",
+            "pos": "Fd",
+            "prob": "1"
+        },
+        {
+            "word": "\u00a1",
+            "lema": "\u00a1",
+            "pos": "Faa",
+            "prob": "1"
+        },
+        {
+            "word": "Venga",
+            "lema": "venga",
+            "pos": "I",
+            "prob": "0.00943396"
+        },
+        {
+            "word": "ya",
+            "lema": "ya",
+            "pos": "RG",
+            "prob": "0.999785"
+        },
+        {
+            "word": "!",
+            "lema": "!",
+            "pos": "Fat",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplausos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

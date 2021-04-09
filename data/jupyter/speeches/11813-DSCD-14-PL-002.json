@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-12-01T00:00:00.000Z",
-        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (CONTINUACIÓN): -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL AÑO 2021. ",
+        "debate": "DICT\u00c1MENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (CONTINUACI\u00d3N): -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL A\u00d1O 2021. ",
         "diputado": [
             {
                 "apellidos": "Lorite Lorite",
-                "apellidosNombre": "Lorite Lorite, Andrés",
+                "apellidosNombre": "Lorite Lorite, Andr\u00e9s",
                 "codParlamentario": 105,
                 "fchAlta": "21/11/2019",
                 "fchBaja": "",
@@ -14,8 +14,8 @@
                 "grupo": "Grupo Parlamentario Popular en el Congreso",
                 "idCircunscripcion": 14,
                 "idLegislatura": 14,
-                "nombre": "Andrés",
-                "nombreCircunscripcion": "Córdoba",
+                "nombre": "Andr\u00e9s",
+                "nombreCircunscripcion": "C\u00f3rdoba",
                 "twitter": "https://twitter.com/AndresLorite",
                 "twitterUserId": "222267978",
                 "twitterUserName": "AndresLorite"
@@ -24,9 +24,113 @@
         ],
         "order": 84,
         "path": "../data/diaries-txts/DSCD-14-PL-066.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "LORITE LORITE"
     },
-    "text": "... que usted protagoniza permanentemente en ese departamento ministerial. Muchas gracias. (Aplausos)."
+    "text": "... que usted protagoniza permanentemente en ese departamento ministerial. Muchas gracias. (Aplausos).",
+    "freeling": [
+        {
+            "word": "...",
+            "lema": "...",
+            "pos": "Fs",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": "protagoniza",
+            "lema": "protagonizar",
+            "pos": "VMIP3S0",
+            "prob": "0.97619"
+        },
+        {
+            "word": "permanentemente",
+            "lema": "permanentemente",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "ese",
+            "lema": "ese",
+            "pos": "DD0MS0",
+            "prob": "0.966694"
+        },
+        {
+            "word": "departamento",
+            "lema": "departamento",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "ministerial",
+            "lema": "ministerial",
+            "pos": "AQ0CS00",
+            "prob": "0.983871"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplausos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

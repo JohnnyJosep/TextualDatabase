@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-16T00:00:00.000Z",
-        "debate": "PROPOSICIONES NO DE LEY: -- DEL GRUPO PARLAMENTARIO MIXTO (SEÑOR GUITARTE), SOBRE LA CREACIÓN DE UN MECANISMO DE GARANTÍA, PARA EL MEDIO Y LAS SOCIEDADES RURALES, EN EL DISEÑO Y APLICACIÓN DE LEYES Y DESARROLLO NORMATIVO, ASÍ COMO EN EL CONJUNTO DE LAS POLÍTICAS DEL GOBIERNO Y DE LAS COMUNIDADES AUTÓNOMAS. ",
+        "debate": "PROPOSICIONES NO DE LEY: -- DEL GRUPO PARLAMENTARIO MIXTO (SE\u00d1OR GUITARTE), SOBRE LA CREACI\u00d3N DE UN MECANISMO DE GARANT\u00cdA, PARA EL MEDIO Y LAS SOCIEDADES RURALES, EN EL DISE\u00d1O Y APLICACI\u00d3N DE LEYES Y DESARROLLO NORMATIVO, AS\u00cd COMO EN EL CONJUNTO DE LAS POL\u00cdTICAS DEL GOBIERNO Y DE LAS COMUNIDADES AUT\u00d3NOMAS. ",
         "diputado": [
             {
-                "apellidos": "Iñarritu García",
-                "apellidosNombre": "Iñarritu García, Jon",
+                "apellidos": "I\u00f1arritu Garc\u00eda",
+                "apellidosNombre": "I\u00f1arritu Garc\u00eda, Jon",
                 "codParlamentario": 62,
                 "fchAlta": "20/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,257 @@
         ],
         "order": 77,
         "path": "../data/diaries-txts/DSCD-14-PL-087.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "IÑARRITU GARCÍA"
+        "speacker": "I\u00d1ARRITU GARC\u00cdA"
     },
-    "text": "Acabo, señor presidente, pidiéndoles valentía y, más allá de los reproches de sectores ultras y reaccionarios, que escuchen a la sociedad vasca, a la legalidad y al sentido común. Muchas gracias, señor presidente."
+    "text": "Acabo, se\u00f1or presidente, pidi\u00e9ndoles valent\u00eda y, m\u00e1s all\u00e1 de los reproches de sectores ultras y reaccionarios, que escuchen a la sociedad vasca, a la legalidad y al sentido com\u00fan. Muchas gracias, se\u00f1or presidente.",
+    "freeling": [
+        {
+            "word": "Acabo",
+            "lema": "acabar",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "presidente",
+            "lema": "presidente",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "pidiendo",
+            "lema": "pedir",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": "les",
+            "lema": "le",
+            "pos": "PP3CPD0",
+            "prob": "1"
+        },
+        {
+            "word": "valent\u00eda",
+            "lema": "valent\u00eda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "m\u00e1s_all\u00e1_de",
+            "lema": "m\u00e1s_all\u00e1_de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "reproches",
+            "lema": "reproche",
+            "pos": "NCMP000",
+            "prob": "0.998103"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "sectores",
+            "lema": "sector",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "ultras",
+            "lema": "ultra",
+            "pos": "AQ0CP00",
+            "prob": "0.361294"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "reaccionarios",
+            "lema": "reaccionario",
+            "pos": "AQ0MP00",
+            "prob": "0.37202"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "escuchen",
+            "lema": "escuchar",
+            "pos": "VMSP3P0",
+            "prob": "0.941964"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "sociedad",
+            "lema": "sociedad",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "vasca",
+            "lema": "vasco",
+            "pos": "AQ0FS00",
+            "prob": "0.994186"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "legalidad",
+            "lema": "legalidad",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "sentido",
+            "lema": "sentido",
+            "pos": "NCMS000",
+            "prob": "0.940835"
+        },
+        {
+            "word": "com\u00fan",
+            "lema": "com\u00fan",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "presidente",
+            "lema": "presidente",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

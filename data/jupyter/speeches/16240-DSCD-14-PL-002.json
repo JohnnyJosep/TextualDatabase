@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-16T00:00:00.000Z",
-        "debate": "PROPOSICIONES NO DE LEY: -- DEL GRUPO PARLAMENTARIO MIXTO (SEÑOR GUITARTE), SOBRE LA CREACIÓN DE UN MECANISMO DE GARANTÍA, PARA EL MEDIO Y LAS SOCIEDADES RURALES, EN EL DISEÑO Y APLICACIÓN DE LEYES Y DESARROLLO NORMATIVO, ASÍ COMO EN EL CONJUNTO DE LAS POLÍTICAS DEL GOBIERNO Y DE LAS COMUNIDADES AUTÓNOMAS. ",
+        "debate": "PROPOSICIONES NO DE LEY: -- DEL GRUPO PARLAMENTARIO MIXTO (SE\u00d1OR GUITARTE), SOBRE LA CREACI\u00d3N DE UN MECANISMO DE GARANT\u00cdA, PARA EL MEDIO Y LAS SOCIEDADES RURALES, EN EL DISE\u00d1O Y APLICACI\u00d3N DE LEYES Y DESARROLLO NORMATIVO, AS\u00cd COMO EN EL CONJUNTO DE LAS POL\u00cdTICAS DEL GOBIERNO Y DE LAS COMUNIDADES AUT\u00d3NOMAS. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,59 @@
         ],
         "order": 26,
         "path": "../data/diaries-txts/DSCD-14-PL-087.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Rego, tiene usted que terminar ya."
+    "text": "Se\u00f1or Rego, tiene usted que terminar ya.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Rego",
+            "lema": "se\u00f1or_rego",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "tiene",
+            "lema": "tener",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "terminar",
+            "lema": "terminar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "ya",
+            "lema": "ya",
+            "pos": "RG",
+            "prob": "0.999785"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

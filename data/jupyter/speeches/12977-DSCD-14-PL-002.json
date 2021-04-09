@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-12-16T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON ÓSCAR CLA VELL LÓPEZ, DEL GRUPO P ARLAMENT ARIO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA MINISTRA DE EDUCACIÓN Y FORMACIÓN PROFESIONAL: ¿QUÉ COSTE SE HA PAGADO EN LA LEY DE EDUCACIÓN PARA SACAR ADELANTE LOS PRESUPUESTOS? ",
+        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON \u00d3SCAR CLA VELL L\u00d3PEZ, DEL GRUPO P ARLAMENT ARIO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SE\u00d1ORA MINISTRA DE EDUCACI\u00d3N Y FORMACI\u00d3N PROFESIONAL: \u00bfQU\u00c9 COSTE SE HA PAGADO EN LA LEY DE EDUCACI\u00d3N PARA SACAR ADELANTE LOS PRESUPUESTOS? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,53 @@
         ],
         "order": 6,
         "path": "../data/diaries-txts/DSCD-14-PL-070.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señora ministra de Educación y Formación Profesional."
+    "text": "Se\u00f1ora ministra de Educaci\u00f3n y Formaci\u00f3n Profesional.",
+    "freeling": [
+        {
+            "word": "Se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "ministra",
+            "lema": "ministro",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Educaci\u00f3n",
+            "lema": "educaci\u00f3n",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "Formaci\u00f3n_Profesional",
+            "lema": "formaci\u00f3n_profesional",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

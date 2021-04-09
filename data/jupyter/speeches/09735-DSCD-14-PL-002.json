@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-10-14T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO CIUDADANOS, SOBRE LA GRAVE CRISIS ABIERTA EN EL SENO DE LA GUARDIA CIVIL POR LAS ÚLTIMAS DESTITUCIONES OCURRIDAS EN EL CITADO CUERPO, POR LA POLÍTICA GENERAL DE DESTITUCIONES Y NOMBRAMIENTOS LLEVADAS A CABO POR EL MINISTRO DEL INTERIOR Y, EN GENERAL, POR LAS ÓRDENES EMANADAS DEL GOBIERNO HACIA LOS ALTOS MANDOS DE LAS FUERZAS Y CUERPOS DE SEGURIDAD DEL ESTADO DURANTE ESTA CRISIS SANITARIA. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO CIUDADANOS, SOBRE LA GRAVE CRISIS ABIERTA EN EL SENO DE LA GUARDIA CIVIL POR LAS \u00daLTIMAS DESTITUCIONES OCURRIDAS EN EL CITADO CUERPO, POR LA POL\u00cdTICA GENERAL DE DESTITUCIONES Y NOMBRAMIENTOS LLEVADAS A CABO POR EL MINISTRO DEL INTERIOR Y, EN GENERAL, POR LAS \u00d3RDENES EMANADAS DEL GOBIERNO HACIA LOS ALTOS MANDOS DE LAS FUERZAS Y CUERPOS DE SEGURIDAD DEL ESTADO DURANTE ESTA CRISIS SANITARIA. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,71 @@
         ],
         "order": 28,
         "path": "../data/diaries-txts/DSCD-14-PL-052.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Silencio, por favor. Señor Ledesma, por favor, silencio."
+    "text": "Silencio, por favor. Se\u00f1or Ledesma, por favor, silencio.",
+    "freeling": [
+        {
+            "word": "Silencio",
+            "lema": "silencio",
+            "pos": "NCMS000",
+            "prob": "0.997076"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por_favor",
+            "lema": "por_favor",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Se\u00f1or_Ledesma",
+            "lema": "se\u00f1or_ledesma",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por_favor",
+            "lema": "por_favor",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "silencio",
+            "lema": "silencio",
+            "pos": "NCMS000",
+            "prob": "0.997076"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-03T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES (CONTINUACIÓN): -- DEL GRUPO PARLAMENTARIO VOX, SOBRE LAS MEDIDAS QUE VA A ADOPTAR EL GOBIERNO PARA FRENAR LA INVASIÓN MIGRATORIA EN ESPAÑA. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES (CONTINUACI\u00d3N): -- DEL GRUPO PARLAMENTARIO VOX, SOBRE LAS MEDIDAS QUE VA A ADOPTAR EL GOBIERNO PARA FRENAR LA INVASI\u00d3N MIGRATORIA EN ESPA\u00d1A. ",
         "diputado": [
             {
-                "apellidos": "Vehí Cantenys",
-                "apellidosNombre": "Vehí Cantenys, Mireia",
+                "apellidos": "Veh\u00ed Cantenys",
+                "apellidosNombre": "Veh\u00ed Cantenys, Mireia",
                 "codParlamentario": 86,
                 "fchAlta": "21/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,275 @@
         ],
         "order": 9,
         "path": "../data/diaries-txts/DSCD-14-PL-076.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "VEHÍ CANTENYS"
+        "speacker": "VEH\u00cd CANTENYS"
     },
-    "text": "Miren qué ha pasado en Estados Unidos y miren qué está pasando en Canarias. T ermino, presidente. Ellos viven del miedo; que nosotras podamos vivir de sociedades críticas, plurales y comprometidas con los derechos humanos. Muchas gracias."
+    "text": "Miren qu\u00e9 ha pasado en Estados Unidos y miren qu\u00e9 est\u00e1 pasando en Canarias. T ermino, presidente. Ellos viven del miedo; que nosotras podamos vivir de sociedades cr\u00edticas, plurales y comprometidas con los derechos humanos. Muchas gracias.",
+    "freeling": [
+        {
+            "word": "Miren",
+            "lema": "mirar",
+            "pos": "VMSP3P0",
+            "prob": "0.941964"
+        },
+        {
+            "word": "qu\u00e9",
+            "lema": "qu\u00e9",
+            "pos": "PT00000",
+            "prob": "0.712513"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "pasado",
+            "lema": "pasar",
+            "pos": "VMP00SM",
+            "prob": "0.928353"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "Estados_Unidos",
+            "lema": "estados_unidos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "miren",
+            "lema": "mirar",
+            "pos": "VMSP3P0",
+            "prob": "0.941964"
+        },
+        {
+            "word": "qu\u00e9",
+            "lema": "qu\u00e9",
+            "pos": "PT00000",
+            "prob": "0.712513"
+        },
+        {
+            "word": "est\u00e1",
+            "lema": "estar",
+            "pos": "VAIP3S0",
+            "prob": "0.000200642"
+        },
+        {
+            "word": "pasando",
+            "lema": "pasar",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "Canarias",
+            "lema": "canarias",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "T",
+            "lema": "t",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "ermino",
+            "lema": "ermino",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "presidente",
+            "lema": "presidente",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Ellos",
+            "lema": "ellos",
+            "pos": "PP3MP00",
+            "prob": "1"
+        },
+        {
+            "word": "viven",
+            "lema": "vivir",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "miedo",
+            "lema": "miedo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ";",
+            "lema": ";",
+            "pos": "Fx",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "nosotras",
+            "lema": "nosotros",
+            "pos": "PP1FP00",
+            "prob": "1"
+        },
+        {
+            "word": "podamos",
+            "lema": "poder",
+            "pos": "VMSP1P0",
+            "prob": "0.964286"
+        },
+        {
+            "word": "vivir",
+            "lema": "vivir",
+            "pos": "VMN0000",
+            "prob": "0.996575"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "sociedades",
+            "lema": "sociedad",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "cr\u00edticas",
+            "lema": "cr\u00edtico",
+            "pos": "AQ0FP00",
+            "prob": "0.0237826"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "plurales",
+            "lema": "plural",
+            "pos": "AQ0CP00",
+            "prob": "0.661289"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "comprometidas",
+            "lema": "comprometer",
+            "pos": "VMP00PF",
+            "prob": "1"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "derechos",
+            "lema": "derecho",
+            "pos": "NCMP000",
+            "prob": "0.996795"
+        },
+        {
+            "word": "humanos",
+            "lema": "humano",
+            "pos": "AQ0MP00",
+            "prob": "0.808642"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

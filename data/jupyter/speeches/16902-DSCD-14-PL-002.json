@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-24T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON VÍCTOR GONZÁLEZ COELLO DE PORTUGAL, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA A LA SEÑORA VICEPRESIDENTA CUARTA Y MINISTRA PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO: ¿VA A PERMITIR EL GOBIERNO QUE SE PIERDA EL CONTROL ESPAÑOL SOBRE UNA EMPRESA ENERGÉTICA ESENCIAL COMO ES NATURGY? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON V\u00cdCTOR GONZ\u00c1LEZ COELLO DE PORTUGAL, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA A LA SE\u00d1ORA VICEPRESIDENTA CUARTA Y MINISTRA PARA LA TRANSICI\u00d3N ECOL\u00d3GICA Y EL RETO DEMOGR\u00c1FICO: \u00bfVA A PERMITIR EL GOBIERNO QUE SE PIERDA EL CONTROL ESPA\u00d1OL SOBRE UNA EMPRESA ENERG\u00c9TICA ESENCIAL COMO ES NATURGY? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,23 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-091.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor González."
+    "text": "Se\u00f1or Gonz\u00e1lez.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Gonz\u00e1lez",
+            "lema": "se\u00f1or_gonz\u00e1lez",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

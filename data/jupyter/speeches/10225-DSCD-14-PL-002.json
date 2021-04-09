@@ -1,17 +1,17 @@
 {
     "metadata": {
         "celebrated": "2020-10-27T00:00:00.000Z",
-        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO REPUBLICANO, POR LA QUE SE MODIFICA LA LEY ORGÁNICA 10/1995, DE 23 DE NOVIEMBRE, DEL CÓDIGO PENAL, PARA DESPENALIZAR LAS INJURIAS A LA CORONA Y LOS ULTRAJES A ESPAÑA (ORGÁNICA). ",
+        "debate": "TOMA EN CONSIDERACI\u00d3N DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO REPUBLICANO, POR LA QUE SE MODIFICA LA LEY ORG\u00c1NICA 10/1995, DE 23 DE NOVIEMBRE, DEL C\u00d3DIGO PENAL, PARA DESPENALIZAR LAS INJURIAS A LA CORONA Y LOS ULTRAJES A ESPA\u00d1A (ORG\u00c1NICA). ",
         "diputado": [
             {
-                "apellidos": "Asens Llodrà",
-                "apellidosNombre": "Asens Llodrà, Jaume",
+                "apellidos": "Asens Llodr\u00e0",
+                "apellidosNombre": "Asens Llodr\u00e0, Jaume",
                 "codParlamentario": 291,
                 "fchAlta": "27/11/2019",
                 "fchBaja": "",
                 "formacion": "ECP-GUAYEM EL CANVI",
                 "genero": 1,
-                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común",
+                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Com\u00fa Podem-Galicia en Com\u00fan",
                 "idCircunscripcion": 8,
                 "idLegislatura": 14,
                 "nombre": "Jaume",
@@ -24,9 +24,53 @@
         ],
         "order": 35,
         "path": "../data/diaries-txts/DSCD-14-PL-057.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "ASENS LLODRÀ"
+        "speacker": "ASENS LLODR\u00c0"
     },
-    "text": "Muchas gracias. (Aplausos)."
+    "text": "Muchas gracias. (Aplausos).",
+    "freeling": [
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplausos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

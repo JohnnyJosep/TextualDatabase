@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-12-02T00:00:00.000Z",
-        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (CONTINUACIÓN): -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL AÑO 2021. (CONTINUACIÓN). ",
+        "debate": "DICTA\u0301MENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (CONTINUACI\u00d3N): -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL A\u00d1O 2021. (CONTINUACI\u00d3N). ",
         "diputado": [
             {
-                "apellidos": "Miquel i Valentí",
-                "apellidosNombre": "Miquel i Valentí, Sergi",
+                "apellidos": "Miquel i Valent\u00ed",
+                "apellidosNombre": "Miquel i Valent\u00ed, Sergi",
                 "codParlamentario": 23,
                 "fchAlta": "19/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,107 @@
         ],
         "order": 18,
         "path": "../data/diaries-txts/DSCD-14-PL-067.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "MIQUEL I VALENTÍ"
+        "speacker": "MIQUEL I VALENT\u00cd"
     },
-    "text": "Termino, presidenta. … que necesitan una mejora rápida. Muchas gracias, presidenta."
+    "text": "Termino, presidenta. \u2026 que necesitan una mejora r\u00e1pida. Muchas gracias, presidenta.",
+    "freeling": [
+        {
+            "word": "Termino",
+            "lema": "terminar",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "necesitan",
+            "lema": "necesitar",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "mejora",
+            "lema": "mejora",
+            "pos": "NCFS000",
+            "prob": "0.940887"
+        },
+        {
+            "word": "r\u00e1pida",
+            "lema": "r\u00e1pido",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

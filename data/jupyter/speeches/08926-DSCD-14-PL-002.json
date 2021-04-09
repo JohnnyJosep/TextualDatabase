@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-30T00:00:00.000Z",
-        "debate": "PREGUNTA DEL DIPUTADO DON PABLO CASADO BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿ESTÁ PROTEGIENDO EL FUTURO DE LOS ESPAÑOLES? -- DE LA DIPUT ADA DOÑA MERTXE AIZPURUA ARZALLUS, DEL GRUPO P ARLAMENT ARIO EUSKAL HERRIA BILDU, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿SE COMPROMETE CON UNOS PRESUPUESTOS PROGRESISTAS APOYADOS POR LA MAYORÍA DE LA INVESTIDURA? ",
+        "debate": "PREGUNTA DEL DIPUTADO DON PABLO CASADO BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR PRESIDENTE DEL GOBIERNO: \u00bfEST\u00c1 PROTEGIENDO EL FUTURO DE LOS ESPA\u00d1OLES? -- DE LA DIPUT ADA DO\u00d1A MERTXE AIZPURUA ARZALLUS, DEL GRUPO P ARLAMENT ARIO EUSKAL HERRIA BILDU, QUE FORMULA AL SE\u00d1OR PRESIDENTE DEL GOBIERNO: \u00bfSE COMPROMETE CON UNOS PRESUPUESTOS PROGRESISTAS APOYADOS POR LA MAYOR\u00cdA DE LA INVESTIDURA? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,23 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-049.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señora Aizpurua Arzallus."
+    "text": "Se\u00f1ora Aizpurua Arzallus.",
+    "freeling": [
+        {
+            "word": "Se\u00f1ora_Aizpurua_Arzallus",
+            "lema": "se\u00f1ora_aizpurua_arzallus",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

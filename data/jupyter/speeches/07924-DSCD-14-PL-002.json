@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-16T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA MIREIA VEHÍ CANTENYS, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA A LA SEÑORA VICEPRESIDENTA TERCERA Y MINISTRA DE ASUNTOS ECONÓMICOS Y TRANSFORMACIÓN DIGITAL: ¿QUÉ OPINA DE LA FUSIÓN DE BANKIA Y CAIXABANK? ",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DO\u00d1A MIREIA VEH\u00cd CANTENYS, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA A LA SE\u00d1ORA VICEPRESIDENTA TERCERA Y MINISTRA DE ASUNTOS ECON\u00d3MICOS Y TRANSFORMACI\u00d3N DIGITAL: \u00bfQU\u00c9 OPINA DE LA FUSI\u00d3N DE BANKIA Y CAIXABANK? ",
         "diputado": [
             {
-                "apellidos": "Vehí Cantenys",
-                "apellidosNombre": "Vehí Cantenys, Mireia",
+                "apellidos": "Veh\u00ed Cantenys",
+                "apellidosNombre": "Veh\u00ed Cantenys, Mireia",
                 "codParlamentario": 86,
                 "fchAlta": "21/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,131 @@
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-045.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "VEHÍ CANTENYS"
+        "speacker": "VEH\u00cd CANTENYS"
     },
-    "text": "Gracias, presidenta. Señora ministra, ¿qué opina usted de la posible fusión entre Bankia y La Caixa?"
+    "text": "Gracias, presidenta. Se\u00f1ora ministra, \u00bfqu\u00e9 opina usted de la posible fusi\u00f3n entre Bankia y La Caixa?",
+    "freeling": [
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "ministra",
+            "lema": "ministro",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "qu\u00e9",
+            "lema": "qu\u00e9",
+            "pos": "PT00000",
+            "prob": "0.712513"
+        },
+        {
+            "word": "opina",
+            "lema": "opinar",
+            "pos": "VMIP3S0",
+            "prob": "0.992424"
+        },
+        {
+            "word": "usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "posible",
+            "lema": "posible",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "fusi\u00f3n",
+            "lema": "fusi\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "entre",
+            "lema": "entre",
+            "pos": "SP",
+            "prob": "0.980341"
+        },
+        {
+            "word": "Bankia",
+            "lema": "bankia",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "La_Caixa",
+            "lema": "la_caixa",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        }
+    ]
 }

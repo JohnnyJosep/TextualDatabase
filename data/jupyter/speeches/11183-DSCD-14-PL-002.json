@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-11-18T00:00:00.000Z",
-        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO P ARLAMENT ARIO CIUDADANOS, A LA MINISTRA DE TRABAJO Y ECONOMÍA SOCIAL SOBRE LAS MEDIDAS QUE PIENSA ADOPTAR EL GOBIERNO PARA GARANTIZAR EL DERECHO A LA CONCILIACIÓN DEL TRABAJO Y LA FAMILIA, ESPECIALMENTE ANTE LAS DIFICULTADES EXCEPCIONALES GENERADAS POR LA EMERGENCIA SANITARIA DE LA COVID-19. ",
+        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO P ARLAMENT ARIO CIUDADANOS, A LA MINISTRA DE TRABAJO Y ECONOM\u00cdA SOCIAL SOBRE LAS MEDIDAS QUE PIENSA ADOPTAR EL GOBIERNO PARA GARANTIZAR EL DERECHO A LA CONCILIACI\u00d3N DEL TRABAJO Y LA FAMILIA, ESPECIALMENTE ANTE LAS DIFICULTADES EXCEPCIONALES GENERADAS POR LA EMERGENCIA SANITARIA DE LA COVID-19. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,89 @@
         ],
         "order": 2,
         "path": "../data/diaries-txts/DSCD-14-PL-063.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Bal, lo lamento muchísimo, pero la interpelación decae. --"
+    "text": "Se\u00f1or Bal, lo lamento much\u00edsimo, pero la interpelaci\u00f3n decae. --",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Bal",
+            "lema": "se\u00f1or_bal",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "lo",
+            "lema": "el",
+            "pos": "DA00S0",
+            "prob": "0.665165"
+        },
+        {
+            "word": "lamento",
+            "lema": "lamento",
+            "pos": "NCMS000",
+            "prob": "0.989726"
+        },
+        {
+            "word": "much\u00edsimo",
+            "lema": "mucho",
+            "pos": "RG",
+            "prob": "0.809524"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "pero",
+            "lema": "pero",
+            "pos": "CC",
+            "prob": "0.999902"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "interpelaci\u00f3n",
+            "lema": "interpelaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "decae",
+            "lema": "decaer",
+            "pos": "VMIP3S0",
+            "prob": "0.989241"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

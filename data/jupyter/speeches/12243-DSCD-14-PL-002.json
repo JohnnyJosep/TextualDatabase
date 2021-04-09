@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-12-02T00:00:00.000Z",
-        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (CONTINUACIÓN): -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL AÑO 2021. (CONTINUACIÓN). ",
+        "debate": "DICTA\u0301MENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (CONTINUACI\u00d3N): -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL A\u00d1O 2021. (CONTINUACI\u00d3N). ",
         "diputado": [
             {
                 "apellidos": "Moro Almaraz",
-                "apellidosNombre": "Moro Almaraz, María Jesús",
+                "apellidosNombre": "Moro Almaraz, Mar\u00eda Jes\u00fas",
                 "codParlamentario": 91,
                 "fchAlta": "21/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario Popular en el Congreso",
                 "idCircunscripcion": 37,
                 "idLegislatura": 14,
-                "nombre": "María Jesús",
+                "nombre": "Mar\u00eda Jes\u00fas",
                 "nombreCircunscripcion": "Salamanca",
                 "twitter": "https://twitter.com/MoroMjesus",
                 "twitterUserId": "2365318187",
@@ -24,9 +24,29 @@
         ],
         "order": 203,
         "path": "../data/diaries-txts/DSCD-14-PL-067.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "MORO ALMARAZ"
     },
-    "text": "Termino enseguida."
+    "text": "Termino enseguida.",
+    "freeling": [
+        {
+            "word": "Termino",
+            "lema": "terminar",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "enseguida",
+            "lema": "enseguida",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

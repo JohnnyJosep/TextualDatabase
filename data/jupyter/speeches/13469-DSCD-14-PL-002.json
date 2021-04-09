@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-12-17T00:00:00.000Z",
-        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS: -- PROPOSICIÓN DE LEY ORGÁNICA DE REGULACIÓN DE LA EUTANASIA. ",
+        "debate": "DICT\u00c1MENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS: -- PROPOSICI\u00d3N DE LEY ORG\u00c1NICA DE REGULACI\u00d3N DE LA EUTANASIA. ",
         "diputado": [
             {
                 "apellidos": "Carcedo Roces",
-                "apellidosNombre": "Carcedo Roces, María Luisa",
+                "apellidosNombre": "Carcedo Roces, Mar\u00eda Luisa",
                 "codParlamentario": 270,
                 "fchAlta": "27/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario Socialista",
                 "idCircunscripcion": 33,
                 "idLegislatura": 14,
-                "nombre": "María Luisa",
+                "nombre": "Mar\u00eda Luisa",
                 "nombreCircunscripcion": "Asturias",
                 "twitter": "https://twitter.com/luisacarcedo",
                 "twitterUserId": "925676922838929408",
@@ -24,9 +24,119 @@
         ],
         "order": 45,
         "path": "../data/diaries-txts/DSCD-14-PL-072.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "CARCEDO ROCES"
     },
-    "text": "No, no quiero quitarme la mascarilla. Muchas gracias. (Rumores y aplausos)."
+    "text": "No, no quiero quitarme la mascarilla. Muchas gracias. (Rumores y aplausos).",
+    "freeling": [
+        {
+            "word": "No",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "quiero",
+            "lema": "querer",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "quitar",
+            "lema": "quitar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "me",
+            "lema": "me",
+            "pos": "PP1CS00",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "mascarilla",
+            "lema": "mascarilla",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Rumores",
+            "lema": "rumores",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "aplausos",
+            "lema": "aplauso",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

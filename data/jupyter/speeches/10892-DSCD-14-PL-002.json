@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-11-17T00:00:00.000Z",
-        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY DE INICIATIVA POPULAR: -- PROPOSICIÓN DE LEY DE MODIFICACIÓN DE LA LEY 39/2006, DE 14 DE DICIEMBRE, DE PROMOCIÓN DE LA AUTONOMÍA PERSONAL Y ATENCIÓN A LAS PERSONAS EN SITUACIÓN DE DEPENDENCIA, EN MATERIA DE PARTICIPACIÓN EN EL COSTE DE LAS PRESTACIONES Y SERVICIOS DE LAS PERSONAS BENEFICIARIAS (CORRESPONDE A LOS NÚMEROS DE EXPEDIENTE 120/000031/0000 DE LA X LEGISLA TURA, 120/000001/0000 DE LA XI LEGISLA TURA, 120/000001/0000 DE LA XII LEGISLATURA Y 120/000001/0000 DE LA XIII LEGISLATURA). ",
+        "debate": "TOMA EN CONSIDERACI\u00d3N DE PROPOSICIONES DE LEY DE INICIATIVA POPULAR: -- PROPOSICI\u00d3N DE LEY DE MODIFICACI\u00d3N DE LA LEY 39/2006, DE 14 DE DICIEMBRE, DE PROMOCI\u00d3N DE LA AUTONOM\u00cdA PERSONAL Y ATENCI\u00d3N A LAS PERSONAS EN SITUACI\u00d3N DE DEPENDENCIA, EN MATERIA DE PARTICIPACI\u00d3N EN EL COSTE DE LAS PRESTACIONES Y SERVICIOS DE LAS PERSONAS BENEFICIARIAS (CORRESPONDE A LOS N\u00daMEROS DE EXPEDIENTE 120/000031/0000 DE LA X LEGISLA TURA, 120/000001/0000 DE LA XI LEGISLA TURA, 120/000001/0000 DE LA XII LEGISLATURA Y 120/000001/0000 DE LA XIII LEGISLATURA). ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,65 @@
         ],
         "order": 20,
         "path": "../data/diaries-txts/DSCD-14-PL-062.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "No, es que tiene que terminar ya."
+    "text": "No, es que tiene que terminar ya.",
+    "freeling": [
+        {
+            "word": "No",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "tiene",
+            "lema": "tener",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "terminar",
+            "lema": "terminar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "ya",
+            "lema": "ya",
+            "pos": "RG",
+            "prob": "0.999785"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

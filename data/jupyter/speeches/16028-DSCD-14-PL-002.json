@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-11T00:00:00.000Z",
-        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS: -- PROPOSICIÓN DE LEY ORGÁNICA DE DEROGACIÓN DEL ARTÍCULO 315, APARTADO 3, DEL CÓDIGO PENAL. ",
+        "debate": "DICT\u00c1MENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS: -- PROPOSICI\u00d3N DE LEY ORG\u00c1NICA DE DEROGACI\u00d3N DEL ART\u00cdCULO 315, APARTADO 3, DEL C\u00d3DIGO PENAL. ",
         "diputado": [
             {
-                "apellidos": "Bal Francés",
-                "apellidosNombre": "Bal Francés, Edmundo",
+                "apellidos": "Bal Franc\u00e9s",
+                "apellidosNombre": "Bal Franc\u00e9s, Edmundo",
                 "codParlamentario": 211,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,41 @@
         ],
         "order": 52,
         "path": "../data/diaries-txts/DSCD-14-PL-086.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "BAL FRANCÉS"
+        "speacker": "BAL FRANC\u00c9S"
     },
-    "text": "Termino, señor presidente."
+    "text": "Termino, se\u00f1or presidente.",
+    "freeling": [
+        {
+            "word": "Termino",
+            "lema": "terminar",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "presidente",
+            "lema": "presidente",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

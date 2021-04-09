@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-10T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIÓN URGENTE (CONTINUACIÓN): -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, PARA QUE EL GOBIERNO EXPLIQUE LA SITUACIÓN DE LAS MUJERES EN ESPAÑA AL CUMPLIRSE UN AÑO DE LA CREACIÓN DEL MINISTERIO DE IGUALDAD. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACI\u00d3N URGENTE (CONTINUACI\u00d3N): -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, PARA QUE EL GOBIERNO EXPLIQUE LA SITUACI\u00d3N DE LAS MUJERES EN ESPA\u00d1A AL CUMPLIRSE UN A\u00d1O DE LA CREACI\u00d3N DEL MINISTERIO DE IGUALDAD. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,59 @@
         ],
         "order": 2,
         "path": "../data/diaries-txts/DSCD-14-PL-085.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señora Pérez, tiene que terminar, por favor."
+    "text": "Se\u00f1ora P\u00e9rez, tiene que terminar, por favor.",
+    "freeling": [
+        {
+            "word": "Se\u00f1ora_P\u00e9rez",
+            "lema": "se\u00f1ora_p\u00e9rez",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "tiene",
+            "lema": "tener",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "terminar",
+            "lema": "terminar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por_favor",
+            "lema": "por_favor",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

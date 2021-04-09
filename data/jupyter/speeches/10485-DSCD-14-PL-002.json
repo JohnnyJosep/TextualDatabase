@@ -1,7 +1,7 @@
 {
     "metadata": {
         "celebrated": "2020-10-28T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA CARMEN RIOLOBOS REGADERA, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR MINISTRO DE SANIDAD: ¿POR QUÉ NO HA DIMITIDO A PESAR DE LA EVOLUCIÓN DEL COVID-19 EN ESPAÑA? ",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DO\u00d1A CARMEN RIOLOBOS REGADERA, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR MINISTRO DE SANIDAD: \u00bfPOR QUE\u0301 NO HA DIMITIDO A PESAR DE LA EVOLUCI\u00d3N DEL COVID-19 EN ESPA\u00d1A? ",
         "diputado": [
             {
                 "apellidos": "Riolobos Regadera",
@@ -24,9 +24,113 @@
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-058.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "RIOLOBOS REGADERA"
     },
-    "text": "Señor Illa, ¿por qué no ha dimitido a pesar de la evolución del COVID en España?"
+    "text": "Se\u00f1or Illa, \u00bfpor qu\u00e9 no ha dimitido a pesar de la evoluci\u00f3n del COVID en Espa\u00f1a?",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Illa",
+            "lema": "se\u00f1or_illa",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "qu\u00e9",
+            "lema": "qu\u00e9",
+            "pos": "PT00000",
+            "prob": "0.712513"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "dimitido",
+            "lema": "dimitir",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "a_pesar_de",
+            "lema": "a_pesar_de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "evoluci\u00f3n",
+            "lema": "evoluci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "COVID",
+            "lema": "covid",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "Espa\u00f1a",
+            "lema": "espa\u00f1a",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        }
+    ]
 }

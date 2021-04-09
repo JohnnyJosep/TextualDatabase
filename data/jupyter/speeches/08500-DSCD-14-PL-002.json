@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-23T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DE LA SEÑORA DIPUT ADA DOÑA PILAR V ALLUGERA BALAÑÀ, DEL GRUPO P ARLAMENT ARIO REPUBLICANO, QUE FORMULA A LA SEÑORA MINISTRA DE IGUALDAD: ¿QUÉ RECURSOS HAN MOVILIZADO, TANTO DIRECTAMENTE COMO A TRAVÉS DE TRANSFERENCIAS A LAS ADMINISTRACIONES COMPETENTES, EN RELACIÓN AL CIERRE DE PROSTÍBULOS POR ",
+        "debate": "PREGUNTAS: -- DE LA SE\u00d1ORA DIPUT ADA DO\u00d1A PILAR V ALLUGERA BALA\u00d1\u00c0, DEL GRUPO P ARLAMENT ARIO REPUBLICANO, QUE FORMULA A LA SE\u00d1ORA MINISTRA DE IGUALDAD: \u00bfQU\u00c9 RECURSOS HAN MOVILIZADO, TANTO DIRECTAMENTE COMO A TRAV\u00c9S DE TRANSFERENCIAS A LAS ADMINISTRACIONES COMPETENTES, EN RELACI\u00d3N AL CIERRE DE PROST\u00cdBULOS POR ",
         "diputado": [
             {
-                "apellidos": "Vallugera Balañà",
-                "apellidosNombre": "Vallugera Balañà, Pilar",
+                "apellidos": "Vallugera Bala\u00f1\u00e0",
+                "apellidosNombre": "Vallugera Bala\u00f1\u00e0, Pilar",
                 "codParlamentario": 88,
                 "fchAlta": "21/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,383 @@
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-047.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "VALLUGERA BALAÑÀ"
+        "speacker": "VALLUGERA BALA\u00d1\u00c0"
     },
-    "text": "Gràcies, presidenta. En el mes de agosto pasado usted envió una carta a los Gobiernos de las comunidades autónomas solicitando el cierre de los prostíbulos. Pasado un mes ya de esta petición, le preguntamos: ¿Qué recursos han movilizado tanto directamente como a través de transferencias a las administraciones competentes en relación con el cierre de prostíbulos por la COVID-19?"
+    "text": "Gr\u00e0cies, presidenta. En el mes de agosto pasado usted envi\u00f3 una carta a los Gobiernos de las comunidades aut\u00f3nomas solicitando el cierre de los prost\u00edbulos. Pasado un mes ya de esta petici\u00f3n, le preguntamos: \u00bfQu\u00e9 recursos han movilizado tanto directamente como a trav\u00e9s de transferencias a las administraciones competentes en relaci\u00f3n con el cierre de prost\u00edbulos por la COVID-19?",
+    "freeling": [
+        {
+            "word": "Gr\u00e0cies",
+            "lema": "gr\u00e0cies",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "En",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "mes_de_agosto",
+            "lema": "[??:??/8/??:??.??:??]",
+            "pos": "W",
+            "prob": "1"
+        },
+        {
+            "word": "pasado",
+            "lema": "pasar",
+            "pos": "VMP00SM",
+            "prob": "0.928353"
+        },
+        {
+            "word": "usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": "envi\u00f3",
+            "lema": "enviar",
+            "pos": "VMIS3S0",
+            "prob": "1"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "carta",
+            "lema": "carta",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "Gobiernos",
+            "lema": "gobiernos",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "comunidades",
+            "lema": "comunidad",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "aut\u00f3nomas",
+            "lema": "aut\u00f3nomo",
+            "pos": "AQ0FP00",
+            "prob": "1"
+        },
+        {
+            "word": "solicitando",
+            "lema": "solicitar",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "cierre",
+            "lema": "cierre",
+            "pos": "NCMS000",
+            "prob": "0.875"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "prost\u00edbulos",
+            "lema": "prost\u00edbulo",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Pasado",
+            "lema": "pasar",
+            "pos": "VMP00SM",
+            "prob": "0.928353"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "mes",
+            "lema": "mes",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "ya",
+            "lema": "ya",
+            "pos": "RG",
+            "prob": "0.999785"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "esta",
+            "lema": "este",
+            "pos": "DD0FS0",
+            "prob": "0.978817"
+        },
+        {
+            "word": "petici\u00f3n",
+            "lema": "petici\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "preguntamos",
+            "lema": "preguntar",
+            "pos": "VMIP1P0",
+            "prob": "0.65"
+        },
+        {
+            "word": ":",
+            "lema": ":",
+            "pos": "Fd",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "Qu\u00e9",
+            "lema": "qu\u00e9",
+            "pos": "DT0CN0",
+            "prob": "0.216289"
+        },
+        {
+            "word": "recursos",
+            "lema": "recurso",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "han",
+            "lema": "haber",
+            "pos": "VAIP3P0",
+            "prob": "0.999845"
+        },
+        {
+            "word": "movilizado",
+            "lema": "movilizar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "tanto",
+            "lema": "tanto",
+            "pos": "RG",
+            "prob": "0.806143"
+        },
+        {
+            "word": "directamente",
+            "lema": "directamente",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "como",
+            "lema": "como",
+            "pos": "CS",
+            "prob": "0.967153"
+        },
+        {
+            "word": "a_trav\u00e9s_de",
+            "lema": "a_trav\u00e9s_de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "transferencias",
+            "lema": "transferencia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "administraciones",
+            "lema": "administraci\u00f3n",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "competentes",
+            "lema": "competente",
+            "pos": "AQ0CP00",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "relaci\u00f3n",
+            "lema": "relaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "cierre",
+            "lema": "cierre",
+            "pos": "NCMS000",
+            "prob": "0.875"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "prost\u00edbulos",
+            "lema": "prost\u00edbulo",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "COVID-19",
+            "lema": "COVID-19",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        }
+    ]
 }

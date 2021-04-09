@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-12-16T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON OSKAR MATUTE GARCÍA DE JALÓN, DEL GRUPO PARLAMENTARIO EUSKAL HERRIA BILDU, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿DECIDE LA CEOE LA POLÍTICA LABORAL DE ESTE GOBIERNO? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON OSKAR MATUTE GARC\u00cdA DE JAL\u00d3N, DEL GRUPO PARLAMENTARIO EUSKAL HERRIA BILDU, QUE FORMULA AL SE\u00d1OR PRESIDENTE DEL GOBIERNO: \u00bfDECIDE LA CEOE LA POL\u00cdTICA LABORAL DE ESTE GOBIERNO? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,77 @@
         ],
         "order": 0,
         "path": "../data/diaries-txts/DSCD-14-PL-070.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Pregunta del diputado don Oskar Matute García de Jalón, del Grupo Parlamentario Euskal Herria Bildu."
+    "text": "Pregunta del diputado don Oskar Matute Garc\u00eda de Jal\u00f3n, del Grupo Parlamentario Euskal Herria Bildu.",
+    "freeling": [
+        {
+            "word": "Pregunta",
+            "lema": "preguntar",
+            "pos": "VMIP3S0",
+            "prob": "0.300493"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "diputado",
+            "lema": "diputado",
+            "pos": "NCMS000",
+            "prob": "0.997382"
+        },
+        {
+            "word": "don",
+            "lema": "don",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "Oskar_Matute_Garc\u00eda_de_Jal\u00f3n",
+            "lema": "oskar_matute_garc\u00eda_de_jal\u00f3n",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Grupo_Parlamentario_Euskal_Herria_Bildu",
+            "lema": "grupo_parlamentario_euskal_herria_bildu",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

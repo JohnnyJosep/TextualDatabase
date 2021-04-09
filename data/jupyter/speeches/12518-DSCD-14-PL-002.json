@@ -1,7 +1,7 @@
 {
     "metadata": {
         "celebrated": "2020-12-15T00:00:00.000Z",
-        "debate": "PROPOSICIONES NO DE LEY: -- DEL GRUPO PARLAMENTARIO SOCIALISTA, SOBRE EL ABORDAJE DEL IMPACTO SOCIAL Y SANITARIO FRENTE A LA CRECIENTE PROLIFERACIÓN DE LAS CASAS DE APUESTAS Y SALONES DE JUEGO. ",
+        "debate": "PROPOSICIONES NO DE LEY: -- DEL GRUPO PARLAMENTARIO SOCIALISTA, SOBRE EL ABORDAJE DEL IMPACTO SOCIAL Y SANITARIO FRENTE A LA CRECIENTE PROLIFERACI\u00d3N DE LAS CASAS DE APUESTAS Y SALONES DE JUEGO. ",
         "diputado": [
             {
                 "apellidos": "Rosique i Saltor",
@@ -24,9 +24,95 @@
         ],
         "order": 27,
         "path": "../data/diaries-txts/DSCD-14-PL-069.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "ROSIQUE I SALTOR"
     },
-    "text": "… no las vamos a aprobar. Muchas gracias. (Aplausos)."
+    "text": "\u2026 no las vamos a aprobar. Muchas gracias. (Aplausos).",
+    "freeling": [
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "las",
+            "lema": "lo",
+            "pos": "PP3FPA0",
+            "prob": "0.011793"
+        },
+        {
+            "word": "vamos",
+            "lema": "ir",
+            "pos": "VMIP1P0",
+            "prob": "0.965015"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "aprobar",
+            "lema": "aprobar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplausos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

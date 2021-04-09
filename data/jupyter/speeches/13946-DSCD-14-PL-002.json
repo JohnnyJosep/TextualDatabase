@@ -1,7 +1,7 @@
 {
     "metadata": {
         "celebrated": "2021-02-03T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON SANTIAGO ABASCAL CONDE, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿POR QUÉ ACTÚA EL GOBIERNO EN CONTRA DEL INTERÉS GENERAL DE LOS ESPAÑOLES? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON SANTIAGO ABASCAL CONDE, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SE\u00d1OR PRESIDENTE DEL GOBIERNO: \u00bfPOR QU\u00c9 ACT\u00daA EL GOBIERNO EN CONTRA DEL INTER\u00c9S GENERAL DE LOS ESPA\u00d1OLES? ",
         "diputado": [
             {
                 "apellidos": "Abascal Conde",
@@ -24,9 +24,377 @@
         ],
         "order": 5,
         "path": "../data/diaries-txts/DSCD-14-PL-076.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "ABASCAL CONDE"
     },
-    "text": "En su respuesta ha dejado claro que para usted la soberanía nacional, la libertad de todos los españoles, unas elecciones seguras no forman parte del interés general, y usted no lo defiende porque usted solo tiene un interés, que es permanecer en el poder a cualquier precio, señor Sánchez. (Aplausos). --"
+    "text": "En su respuesta ha dejado claro que para usted la soberan\u00eda nacional, la libertad de todos los espa\u00f1oles, unas elecciones seguras no forman parte del inter\u00e9s general, y usted no lo defiende porque usted solo tiene un inter\u00e9s, que es permanecer en el poder a cualquier precio, se\u00f1or S\u00e1nchez. (Aplausos). --",
+    "freeling": [
+        {
+            "word": "En",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "respuesta",
+            "lema": "respuesta",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "dejado",
+            "lema": "dejar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "claro",
+            "lema": "claro",
+            "pos": "RG",
+            "prob": "0.338141"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "soberan\u00eda",
+            "lema": "soberan\u00eda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "nacional",
+            "lema": "nacional",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "libertad",
+            "lema": "libertad",
+            "pos": "NCFS000",
+            "prob": "0.998188"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "todos",
+            "lema": "todo",
+            "pos": "DI0MP0",
+            "prob": "0.70665"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "espa\u00f1oles",
+            "lema": "espa\u00f1ol",
+            "pos": "NCMP000",
+            "prob": "0.413379"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "unas",
+            "lema": "uno",
+            "pos": "DI0FP0",
+            "prob": "0.991065"
+        },
+        {
+            "word": "elecciones",
+            "lema": "elecci\u00f3n",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "seguras",
+            "lema": "seguro",
+            "pos": "AQ0FP00",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "forman_parte",
+            "lema": "formar_parte",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "inter\u00e9s",
+            "lema": "inter\u00e9s",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "general",
+            "lema": "general",
+            "pos": "AQ0CS00",
+            "prob": "0.826212"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "lo",
+            "lema": "lo",
+            "pos": "PP3MSA0",
+            "prob": "0.334764"
+        },
+        {
+            "word": "defiende",
+            "lema": "defender",
+            "pos": "VMIP3S0",
+            "prob": "0.995283"
+        },
+        {
+            "word": "porque",
+            "lema": "porque",
+            "pos": "CS",
+            "prob": "1"
+        },
+        {
+            "word": "usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": "solo",
+            "lema": "solo",
+            "pos": "RG",
+            "prob": "0.210162"
+        },
+        {
+            "word": "tiene",
+            "lema": "tener",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "inter\u00e9s",
+            "lema": "inter\u00e9s",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "permanecer",
+            "lema": "permanecer",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "poder",
+            "lema": "poder",
+            "pos": "NCMS000",
+            "prob": "0.606525"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "cualquier",
+            "lema": "cualquiera",
+            "pos": "DI0CS0",
+            "prob": "1"
+        },
+        {
+            "word": "precio",
+            "lema": "precio",
+            "pos": "NCMS000",
+            "prob": "0.998705"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "S\u00e1nchez",
+            "lema": "s\u00e1nchez",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplauso",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

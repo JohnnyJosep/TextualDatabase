@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-30T00:00:00.000Z",
-        "debate": "PREGUNTA DEL DIPUTADO DON PABLO CASADO BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿ESTÁ PROTEGIENDO EL FUTURO DE LOS ESPAÑOLES? -- DEL DIPUTADO DON CARLOS ROJAS GARCÍA, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR MINISTRO DE JUSTICIA: ¿CONSIDERA QUE EL PROYECTO DE PAÍS DEL GOBIERNO ENCAJA EN NUESTRO ESTADO DE DERECHO? ",
+        "debate": "PREGUNTA DEL DIPUTADO DON PABLO CASADO BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR PRESIDENTE DEL GOBIERNO: \u00bfEST\u00c1 PROTEGIENDO EL FUTURO DE LOS ESPA\u00d1OLES? -- DEL DIPUTADO DON CARLOS ROJAS GARC\u00cdA, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR MINISTRO DE JUSTICIA: \u00bfCONSIDERA QUE EL PROYECTO DE PA\u00cdS DEL GOBIERNO ENCAJA EN NUESTRO ESTADO DE DERECHO? ",
         "diputado": [
             {
-                "apellidos": "Rojas García",
-                "apellidosNombre": "Rojas García, Carlos",
+                "apellidos": "Rojas Garc\u00eda",
+                "apellidosNombre": "Rojas Garc\u00eda, Carlos",
                 "codParlamentario": 242,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,263 @@
         ],
         "order": 9,
         "path": "../data/diaries-txts/DSCD-14-PL-049.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "ROJAS GARCÍA"
+        "speacker": "ROJAS GARC\u00cdA"
     },
-    "text": "Señor ministro, ni griterío ni silencio, conteste: ¿Quién tomó la decisión de vetar al rey en Barcelona? (Rumores). Usted dijo que la tomó quien la tenía que tomar. (Protestas)."
+    "text": "Se\u00f1or ministro, ni griter\u00edo ni silencio, conteste: \u00bfQui\u00e9n tom\u00f3 la decisi\u00f3n de vetar al rey en Barcelona? (Rumores). Usted dijo que la tom\u00f3 quien la ten\u00eda que tomar. (Protestas).",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "ministro",
+            "lema": "ministro",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "ni",
+            "lema": "ni",
+            "pos": "CC",
+            "prob": "0.834853"
+        },
+        {
+            "word": "griter\u00edo",
+            "lema": "griter\u00edo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "ni",
+            "lema": "ni",
+            "pos": "CC",
+            "prob": "0.834853"
+        },
+        {
+            "word": "silencio",
+            "lema": "silencio",
+            "pos": "NCMS000",
+            "prob": "0.997076"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "conteste",
+            "lema": "conteste",
+            "pos": "AQ0CS00",
+            "prob": "0.78231"
+        },
+        {
+            "word": ":",
+            "lema": ":",
+            "pos": "Fd",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "Qui\u00e9n",
+            "lema": "qui\u00e9n",
+            "pos": "PT0CS00",
+            "prob": "0.997449"
+        },
+        {
+            "word": "tom\u00f3",
+            "lema": "tomar",
+            "pos": "VMIS3S0",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "decisi\u00f3n",
+            "lema": "decisi\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "vetar",
+            "lema": "vetar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "rey",
+            "lema": "rey",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "Barcelona",
+            "lema": "barcelona",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Rumores",
+            "lema": "rumores",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": "dijo",
+            "lema": "decir",
+            "pos": "VMIS3S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "tom\u00f3",
+            "lema": "tomar",
+            "pos": "VMIS3S0",
+            "prob": "1"
+        },
+        {
+            "word": "quien",
+            "lema": "quien",
+            "pos": "PR0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "lo",
+            "pos": "PP3FSA0",
+            "prob": "0.010734"
+        },
+        {
+            "word": "ten\u00eda",
+            "lema": "tener",
+            "pos": "VMII3S0",
+            "prob": "0.644494"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "tomar",
+            "lema": "tomar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Protestas",
+            "lema": "protestas",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

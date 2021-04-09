@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-24T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON IGNACIO GIL LÁZARO, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿QUÉ OPINIÓN LE MERECE COMO MÁXIMO RESPONSABLE DE LA SEGURIDAD CIUDADANA QUE UNA PARTE DEL GOBIERNO APOYE PÚBLICAMENTE A LOS CAUSANTES DE LOS GRAVES DISTURBIOS QUE SE HAN PRODUCIDO EN LOS ÚLTIMOS DÍAS? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON IGNACIO GIL L\u00c1ZARO, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SE\u00d1OR MINISTRO DEL INTERIOR: \u00bfQU\u00c9 OPINI\u00d3N LE MERECE COMO M\u00c1XIMO RESPONSABLE DE LA SEGURIDAD CIUDADANA QUE UNA PARTE DEL GOBIERNO APOYE P\u00daBLICAMENTE A LOS CAUSANTES DE LOS GRAVES DISTURBIOS QUE SE HAN PRODUCIDO EN LOS \u00daLTIMOS D\u00cdAS? ",
         "diputado": [
             {
-                "apellidos": "Gil Lázaro",
-                "apellidosNombre": "Gil Lázaro, Ignacio",
+                "apellidos": "Gil L\u00e1zaro",
+                "apellidosNombre": "Gil L\u00e1zaro, Ignacio",
                 "codParlamentario": 295,
                 "fchAlta": "27/11/2019",
                 "fchBaja": "",
@@ -15,15 +15,623 @@
                 "idCircunscripcion": 46,
                 "idLegislatura": 14,
                 "nombre": "Ignacio",
-                "nombreCircunscripcion": "Valencia/València"
+                "nombreCircunscripcion": "Valencia/Val\u00e8ncia"
             },
             0
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-082.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "GIL LÁZARO"
+        "speacker": "GIL L\u00c1ZARO"
     },
-    "text": "Gracias, señora presidenta. Señor ministro del Interior, no me haga a continuación una cobarde condena genérica de la violencia, porque no es eso por lo que le pregunto. Lo que le pregunto es su opinión como ministro del Interior acerca del hecho de que una parte del Gobierno haya estado dando apoyo a los causantes de los graves disturbios de esta última semana. Y no me diga que nadie del Gobierno ha apoyado esos disturbios, porque estaría usted mintiendo a esta Cámara y ofendiendo a la inteligencia de los españoles."
+    "text": "Gracias, se\u00f1ora presidenta. Se\u00f1or ministro del Interior, no me haga a continuaci\u00f3n una cobarde condena gen\u00e9rica de la violencia, porque no es eso por lo que le pregunto. Lo que le pregunto es su opini\u00f3n como ministro del Interior acerca del hecho de que una parte del Gobierno haya estado dando apoyo a los causantes de los graves disturbios de esta \u00faltima semana. Y no me diga que nadie del Gobierno ha apoyado esos disturbios, porque estar\u00eda usted mintiendo a esta C\u00e1mara y ofendiendo a la inteligencia de los espa\u00f1oles.",
+    "freeling": [
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "ministro",
+            "lema": "ministro",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Interior",
+            "lema": "interior",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "me",
+            "lema": "me",
+            "pos": "P01CS00",
+            "prob": "0.244804"
+        },
+        {
+            "word": "haga",
+            "lema": "hacer",
+            "pos": "VMSP3S0",
+            "prob": "0.498818"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "continuaci\u00f3n",
+            "lema": "continuaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "cobarde",
+            "lema": "cobarde",
+            "pos": "AQ0CS00",
+            "prob": "0.661294"
+        },
+        {
+            "word": "condena",
+            "lema": "condena",
+            "pos": "NCFS000",
+            "prob": "0.846154"
+        },
+        {
+            "word": "gen\u00e9rica",
+            "lema": "gen\u00e9rico",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "violencia",
+            "lema": "violencia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "porque",
+            "lema": "porque",
+            "pos": "CS",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "eso",
+            "lema": "ese",
+            "pos": "PD00S00",
+            "prob": "1"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "lo",
+            "lema": "el",
+            "pos": "DA00S0",
+            "prob": "0.665165"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "pregunto",
+            "lema": "preguntar",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Lo",
+            "lema": "el",
+            "pos": "DA00S0",
+            "prob": "0.665165"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "pregunto",
+            "lema": "preguntar",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "opini\u00f3n",
+            "lema": "opini\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "como",
+            "lema": "como",
+            "pos": "CS",
+            "prob": "0.967153"
+        },
+        {
+            "word": "ministro",
+            "lema": "ministro",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Interior",
+            "lema": "interior",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": "acerca_de",
+            "lema": "acerca_de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "hecho",
+            "lema": "hecho",
+            "pos": "NCMS000",
+            "prob": "0.361738"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "parte",
+            "lema": "parte",
+            "pos": "NCCS000",
+            "prob": "0.977711"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "haya",
+            "lema": "haber",
+            "pos": "VMSP3S0",
+            "prob": "0.0060274"
+        },
+        {
+            "word": "estado",
+            "lema": "estado",
+            "pos": "NCMS000",
+            "prob": "0.647596"
+        },
+        {
+            "word": "dando_apoyo",
+            "lema": "dar_apoyo",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "causantes",
+            "lema": "causante",
+            "pos": "NCCP000",
+            "prob": "0.338802"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "graves",
+            "lema": "grave",
+            "pos": "AQ0CP00",
+            "prob": "0.994505"
+        },
+        {
+            "word": "disturbios",
+            "lema": "disturbio",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "esta",
+            "lema": "este",
+            "pos": "DD0FS0",
+            "prob": "0.978817"
+        },
+        {
+            "word": "\u00faltima",
+            "lema": "\u00faltimo",
+            "pos": "AO0FS00",
+            "prob": "1"
+        },
+        {
+            "word": "semana",
+            "lema": "semana",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "me",
+            "lema": "me",
+            "pos": "PP1CS00",
+            "prob": "0.755196"
+        },
+        {
+            "word": "diga",
+            "lema": "decir",
+            "pos": "VMSP3S0",
+            "prob": "0.458647"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "nadie",
+            "lema": "nadie",
+            "pos": "PI0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "apoyado",
+            "lema": "apoyar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "esos",
+            "lema": "ese",
+            "pos": "DD0MP0",
+            "prob": "0.986618"
+        },
+        {
+            "word": "disturbios",
+            "lema": "disturbio",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "porque",
+            "lema": "porque",
+            "pos": "CS",
+            "prob": "1"
+        },
+        {
+            "word": "estar\u00eda",
+            "lema": "estar",
+            "pos": "VMIC1S0",
+            "prob": "0.495536"
+        },
+        {
+            "word": "usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": "mintiendo",
+            "lema": "mentir",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "esta",
+            "lema": "este",
+            "pos": "DD0FS0",
+            "prob": "0.978817"
+        },
+        {
+            "word": "C\u00e1mara",
+            "lema": "c\u00e1mara",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "ofendiendo",
+            "lema": "ofender",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "inteligencia",
+            "lema": "inteligencia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "espa\u00f1oles",
+            "lema": "espa\u00f1ol",
+            "pos": "NCMP000",
+            "prob": "0.413379"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-11-18T00:00:00.000Z",
-        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO CIUDADANOS, A LA MINISTRA DE TRABAJO Y ECONOMÍA SOCIAL SOBRE LAS MEDIDAS QUE PIENSA ADOPTAR EL GOBIERNO PARA GARANTIZAR EL DERECHO A LA CONCILIACIÓN DEL TRABAJO Y LA FAMILIA, ESPECIALMENTE ANTE LAS DIFICULTADES EXCEPCIONALES GENERADAS POR LA EMERGENCIA SANITARIA DE LA COVID-19. (CONTINUACIÓN). ",
+        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO CIUDADANOS, A LA MINISTRA DE TRABAJO Y ECONOM\u00cdA SOCIAL SOBRE LAS MEDIDAS QUE PIENSA ADOPTAR EL GOBIERNO PARA GARANTIZAR EL DERECHO A LA CONCILIACI\u00d3N DEL TRABAJO Y LA FAMILIA, ESPECIALMENTE ANTE LAS DIFICULTADES EXCEPCIONALES GENERADAS POR LA EMERGENCIA SANITARIA DE LA COVID-19. (CONTINUACI\u00d3N). ",
         "diputado": [
             {
-                "apellidos": "Rodríguez Gómez de Celis",
-                "apellidosNombre": "Rodríguez Gómez de Celis, Alfonso",
+                "apellidos": "Rodr\u00edguez G\u00f3mez de Celis",
+                "apellidosNombre": "Rodr\u00edguez G\u00f3mez de Celis, Alfonso",
                 "codParlamentario": 168,
                 "fchAlta": "25/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,53 @@
         ],
         "order": 26,
         "path": "../data/diaries-txts/DSCD-14-PL-063.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "VICEPRESIDENTE (Rodrí guez Gómez de Celis)"
+        "speacker": "VICEPRESIDENTE (Rodr\u00ed guez G\u00f3mez de Celis)"
     },
-    "text": "Señoría, ha terminado su tiempo."
+    "text": "Se\u00f1or\u00eda, ha terminado su tiempo.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or\u00eda",
+            "lema": "se\u00f1or\u00eda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "terminado",
+            "lema": "terminar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "tiempo",
+            "lema": "tiempo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

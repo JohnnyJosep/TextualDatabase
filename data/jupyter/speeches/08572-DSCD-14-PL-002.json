@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-23T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (CONTINUACIÓN): -- DEL GRUPO PARLAMENTARIO VOX, SOBRE LAS MEDIDAS QUE VA A ADOPTAR EL GOBIERNO PARA QUE LAS FUERZAS Y CUERPOS DE SEGURIDAD DEL ESTADO PUEDAN PROTEGER A LOS ESPAÑOLES DE LOS ASALTOS Y OCUPACIONES ILEGALES DE SUS PROPIEDADES. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (CONTINUACI\u00d3N): -- DEL GRUPO PARLAMENTARIO VOX, SOBRE LAS MEDIDAS QUE VA A ADOPTAR EL GOBIERNO PARA QUE LAS FUERZAS Y CUERPOS DE SEGURIDAD DEL ESTADO PUEDAN PROTEGER A LOS ESPA\u00d1OLES DE LOS ASALTOS Y OCUPACIONES ILEGALES DE SUS PROPIEDADES. ",
         "diputado": [
             {
-                "apellidos": "Sánchez del Real",
-                "apellidosNombre": "Sánchez del Real, Víctor Manuel",
+                "apellidos": "S\u00e1nchez del Real",
+                "apellidosNombre": "S\u00e1nchez del Real, V\u00edctor Manuel",
                 "codParlamentario": 195,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario VOX",
                 "idCircunscripcion": 6,
                 "idLegislatura": 14,
-                "nombre": "Víctor Manuel",
+                "nombre": "V\u00edctor Manuel",
                 "nombreCircunscripcion": "Badajoz",
                 "twitter": "https://twitter.com/sanchezdelreal",
                 "twitterUserId": "53517943",
@@ -24,9 +24,119 @@
         ],
         "order": 19,
         "path": "../data/diaries-txts/DSCD-14-PL-047.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "SÁNCHEZ DEL REAL"
+        "speacker": "S\u00c1NCHEZ DEL REAL"
     },
-    "text": "Artículo 71, por alusiones. ¿Puede aplicar, por favor, el artículo del Reglamento?"
+    "text": "Art\u00edculo 71, por alusiones. \u00bfPuede aplicar, por favor, el art\u00edculo del Reglamento?",
+    "freeling": [
+        {
+            "word": "Art\u00edculo",
+            "lema": "art\u00edculo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "71",
+            "lema": "71",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "alusiones",
+            "lema": "alusi\u00f3n",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "Puede",
+            "lema": "poder",
+            "pos": "VMIP3S0",
+            "prob": "0.999693"
+        },
+        {
+            "word": "aplicar",
+            "lema": "aplicar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por_favor",
+            "lema": "por_favor",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "art\u00edculo",
+            "lema": "art\u00edculo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Reglamento",
+            "lema": "reglamento",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        }
+    ]
 }

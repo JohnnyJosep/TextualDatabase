@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-16T00:00:00.000Z",
-        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO CIUDADANOS, A LA MINISTRA DE DEFENSA SOBRE LA SITUACIÓN DE LOS MILITARES DE TROPA Y MARINERÍA TEMPORALES QUE HA Y AN CUMPLIDO O VA Y AN A CUMPLIR LA EDAD DE CUARENTA Y CINCO AÑOS DURANTE LA ACTUAL SITUACIÓN DE CRISIS SANITARIA, ECONÓMICA Y SOCIAL. ",
+        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO CIUDADANOS, A LA MINISTRA DE DEFENSA SOBRE LA SITUACI\u00d3N DE LOS MILITARES DE TROPA Y MARINER\u00cdA TEMPORALES QUE HA Y AN CUMPLIDO O VA Y AN A CUMPLIR LA EDAD DE CUARENTA Y CINCO A\u00d1OS DURANTE LA ACTUAL SITUACI\u00d3N DE CRISIS SANITARIA, ECON\u00d3MICA Y SOCIAL. ",
         "diputado": [
             {
-                "apellidos": "Rodríguez Gómez de Celis",
-                "apellidosNombre": "Rodríguez Gómez de Celis, Alfonso",
+                "apellidos": "Rodr\u00edguez G\u00f3mez de Celis",
+                "apellidosNombre": "Rodr\u00edguez G\u00f3mez de Celis, Alfonso",
                 "codParlamentario": 168,
                 "fchAlta": "25/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,35 @@
         ],
         "order": 8,
         "path": "../data/diaries-txts/DSCD-14-PL-045.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "VICEPRESIDENTE (Rodrí guez Gómez de Celis)"
+        "speacker": "VICEPRESIDENTE (Rodr\u00ed guez G\u00f3mez de Celis)"
     },
-    "text": "Señoría, finalice."
+    "text": "Se\u00f1or\u00eda, finalice.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or\u00eda",
+            "lema": "se\u00f1or\u00eda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "finalice",
+            "lema": "finalizar",
+            "pos": "VMSP3S0",
+            "prob": "0.574873"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-11T00:00:00.000Z",
-        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS: -- PROPOSICIÓN DE LEY ORGÁNICA DE DEROGACIÓN DEL ARTÍCULO 315, APARTADO 3, DEL CÓDIGO PENAL. ",
+        "debate": "DICT\u00c1MENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS: -- PROPOSICI\u00d3N DE LEY ORG\u00c1NICA DE DEROGACI\u00d3N DEL ART\u00cdCULO 315, APARTADO 3, DEL C\u00d3DIGO PENAL. ",
         "diputado": [
             {
-                "apellidos": "Bal Francés",
-                "apellidosNombre": "Bal Francés, Edmundo",
+                "apellidos": "Bal Franc\u00e9s",
+                "apellidosNombre": "Bal Franc\u00e9s, Edmundo",
                 "codParlamentario": 211,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,113 @@
         ],
         "order": 54,
         "path": "../data/diaries-txts/DSCD-14-PL-086.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "BAL FRANCÉS"
+        "speacker": "BAL FRANC\u00c9S"
     },
-    "text": "Termino. Y la justicia sin medios nunca será independiente. Gracias. (Aplausos)."
+    "text": "Termino. Y la justicia sin medios nunca ser\u00e1 independiente. Gracias. (Aplausos).",
+    "freeling": [
+        {
+            "word": "Termino",
+            "lema": "terminar",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "justicia",
+            "lema": "justicia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "sin",
+            "lema": "sin",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "medios",
+            "lema": "medio",
+            "pos": "NCMP000",
+            "prob": "0.997344"
+        },
+        {
+            "word": "nunca",
+            "lema": "nunca",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "ser\u00e1",
+            "lema": "ser",
+            "pos": "VSIF3S0",
+            "prob": "1"
+        },
+        {
+            "word": "independiente",
+            "lema": "independiente",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplausos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

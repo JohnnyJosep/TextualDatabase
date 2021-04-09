@@ -1,7 +1,7 @@
 {
     "metadata": {
         "celebrated": "2020-09-30T00:00:00.000Z",
-        "debate": "PREGUNTA DEL DIPUTADO DON PABLO CASADO BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿ESTÁ PROTEGIENDO EL FUTURO DE LOS ESPAÑOLES? -- DE LA DIPUT ADA DOÑA IDOIA SAGASTIZABAL UNZET ABARRENETXEA, DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), QUE FORMULA A LA SEÑORA MINISTRA DE INDUSTRIA, COMERCIO Y TURISMO: ¿CONSIDERA EL GOBIERNO QUE EL DE LA AUTOMOCIÓN ES UN SECTOR ESTRATÉGICO PARA LA ECONOMÍA? ",
+        "debate": "PREGUNTA DEL DIPUTADO DON PABLO CASADO BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR PRESIDENTE DEL GOBIERNO: \u00bfEST\u00c1 PROTEGIENDO EL FUTURO DE LOS ESPA\u00d1OLES? -- DE LA DIPUT ADA DO\u00d1A IDOIA SAGASTIZABAL UNZET ABARRENETXEA, DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), QUE FORMULA A LA SE\u00d1ORA MINISTRA DE INDUSTRIA, COMERCIO Y TURISMO: \u00bfCONSIDERA EL GOBIERNO QUE EL DE LA AUTOMOCI\u00d3N ES UN SECTOR ESTRAT\u00c9GICO PARA LA ECONOM\u00cdA? ",
         "diputado": [
             {
                 "apellidos": "Sagastizabal Unzetabarrenetxea",
@@ -24,9 +24,137 @@
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-049.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "SAGASTIZABAL UNZET ABARRENETXEA"
     },
-    "text": "Gracias. Ministra, ¿considera el Gobierno que el de la automoción es un sector estratégico para la economía?"
+    "text": "Gracias. Ministra, \u00bfconsidera el Gobierno que el de la automoci\u00f3n es un sector estrat\u00e9gico para la econom\u00eda?",
+    "freeling": [
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Ministra",
+            "lema": "ministro",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "considera",
+            "lema": "considerar",
+            "pos": "VMIP3S0",
+            "prob": "0.998721"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "automoci\u00f3n",
+            "lema": "automoci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "sector",
+            "lema": "sector",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "estrat\u00e9gico",
+            "lema": "estrat\u00e9gico",
+            "pos": "AQ0MS00",
+            "prob": "1"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "econom\u00eda",
+            "lema": "econom\u00eda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        }
+    ]
 }

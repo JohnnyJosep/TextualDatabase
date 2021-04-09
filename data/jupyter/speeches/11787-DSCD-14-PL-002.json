@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-12-01T00:00:00.000Z",
-        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (CONTINUACIÓN): -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL AÑO 2021. ",
+        "debate": "DICT\u00c1MENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (CONTINUACI\u00d3N): -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL A\u00d1O 2021. ",
         "diputado": [
             {
-                "apellidos": "Gutiérrez Vivas",
-                "apellidosNombre": "Gutiérrez Vivas, Miguel Ángel",
+                "apellidos": "Guti\u00e9rrez Vivas",
+                "apellidosNombre": "Guti\u00e9rrez Vivas, Miguel \u00c1ngel",
                 "codParlamentario": 375,
                 "fchAlta": "27/05/2020",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario Ciudadanos",
                 "idCircunscripcion": 28,
                 "idLegislatura": 14,
-                "nombre": "Miguel Ángel",
+                "nombre": "Miguel \u00c1ngel",
                 "nombreCircunscripcion": "Madrid",
                 "twitter": "https://twitter.com/MGutierrezCs",
                 "twitterUserId": "2250812558",
@@ -24,9 +24,113 @@
         ],
         "order": 58,
         "path": "../data/diaries-txts/DSCD-14-PL-066.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "GUTIÉRREZ VIVAS"
+        "speacker": "GUTI\u00c9RREZ VIVAS"
     },
-    "text": "Por nuestra parte no hay ningún problema, si a la señora Vázquez no le importa."
+    "text": "Por nuestra parte no hay ning\u00fan problema, si a la se\u00f1ora V\u00e1zquez no le importa.",
+    "freeling": [
+        {
+            "word": "Por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "nuestra",
+            "lema": "nuestro",
+            "pos": "DP1FSP",
+            "prob": "0.867454"
+        },
+        {
+            "word": "parte",
+            "lema": "parte",
+            "pos": "NCCS000",
+            "prob": "0.977711"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "hay",
+            "lema": "haber",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "ning\u00fan",
+            "lema": "ninguno",
+            "pos": "DI0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "problema",
+            "lema": "problema",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "si",
+            "lema": "si",
+            "pos": "CS",
+            "prob": "0.999827"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "V\u00e1zquez",
+            "lema": "v\u00e1zquez",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "importa",
+            "lema": "importar",
+            "pos": "VMIP3S0",
+            "prob": "0.992958"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

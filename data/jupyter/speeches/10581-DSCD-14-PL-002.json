@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-10-28T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (CONTINUACIÓN): -- DEL GRUPO P ARLAMENT ARIO CIUDADANOS, SOBRE LAS MEDIDAS QUE PIENSA ADOPT AR EL GOBIERNO PARA GARANTIZAR EL CUMPLIMIENTO DE LOS PRINCIPIOS DE NEUTRALIDAD E IMPARCIALIDAD INSTITUCIONAL DE LAS UNIVERSIDADES EN CATALUÑA. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (CONTINUACI\u00d3N): -- DEL GRUPO P ARLAMENT ARIO CIUDADANOS, SOBRE LAS MEDIDAS QUE PIENSA ADOPT AR EL GOBIERNO PARA GARANTIZAR EL CUMPLIMIENTO DE LOS PRINCIPIOS DE NEUTRALIDAD E IMPARCIALIDAD INSTITUCIONAL DE LAS UNIVERSIDADES EN CATALU\u00d1A. ",
         "diputado": [
             {
-                "apellidos": "Pastor Julián",
-                "apellidosNombre": "Pastor Julián, Ana María",
+                "apellidos": "Pastor Juli\u00e1n",
+                "apellidosNombre": "Pastor Juli\u00e1n, Ana Mar\u00eda",
                 "codParlamentario": 31,
                 "fchAlta": "19/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario Popular en el Congreso",
                 "idCircunscripcion": 28,
                 "idLegislatura": 14,
-                "nombre": "Ana María",
+                "nombre": "Ana Mar\u00eda",
                 "nombreCircunscripcion": "Madrid",
                 "twitter": "https://twitter.com/anapastorjulian",
                 "twitterUserId": "307570052",
@@ -24,9 +24,137 @@
         ],
         "order": 22,
         "path": "../data/diaries-txts/DSCD-14-PL-058.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "VICEPRESIDENTA (Pastor Julián)"
+        "speacker": "VICEPRESIDENTA (Pastor Juli\u00e1n)"
     },
-    "text": "De acuerdo. Muchísimas gracias. Muchas gracias, señorías. Se suspende la sesión hasta mañana a las nueve horas."
+    "text": "De acuerdo. Much\u00edsimas gracias. Muchas gracias, se\u00f1or\u00edas. Se suspende la sesi\u00f3n hasta ma\u00f1ana a las nueve horas.",
+    "freeling": [
+        {
+            "word": "De",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "acuerdo",
+            "lema": "acuerdo",
+            "pos": "NCMS000",
+            "prob": "0.999311"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Much\u00edsimas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.763114"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or\u00edas",
+            "lema": "se\u00f1or\u00eda",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "suspende",
+            "lema": "suspender",
+            "pos": "VMIP3S0",
+            "prob": "0.989241"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "sesi\u00f3n",
+            "lema": "sesi\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "hasta",
+            "lema": "hasta",
+            "pos": "SP",
+            "prob": "0.922749"
+        },
+        {
+            "word": "ma\u00f1ana",
+            "lema": "ma\u00f1ana",
+            "pos": "NCCS000",
+            "prob": "0.461592"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "nueve_horas",
+            "lema": "TM_h:9",
+            "pos": "Zu",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

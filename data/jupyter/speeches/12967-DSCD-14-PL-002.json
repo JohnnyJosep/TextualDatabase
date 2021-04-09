@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-12-16T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JAVIER BAS CORUGEIRA, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA MINISTRA DE HACIENDA: ¿LA COMISIÓN BILATERAL GOBIERNO-ERC VA A DECIDIR LA POLÍTICA FISCAL DEL RESTO DE CC. AA. O SE VA A LIMITAR A INTENTAR SUBIR LOS IMPUESTOS A LOS MADRILEÑOS? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JAVIER BAS CORUGEIRA, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SE\u00d1ORA MINISTRA DE HACIENDA: \u00bfLA COMISI\u00d3N BILATERAL GOBIERNO-ERC VA A DECIDIR LA POL\u00cdTICA FISCAL DEL RESTO DE CC. AA. O SE VA A LIMITAR A INTENTAR SUBIR LOS IMPUESTOS A LOS MADRILE\u00d1OS? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,29 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-070.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Bas."
+    "text": "Se\u00f1or Bas.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "Bas",
+            "lema": "ba",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

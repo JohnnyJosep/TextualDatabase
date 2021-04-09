@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-10-21T00:00:00.000Z",
-        "debate": "MOCIÓN DE CENSURA: -- MOCIÓN DE CENSURA AL GOBIERNO PRESIDIDO POR DON PEDRO SÁNCHEZ PÉREZ- CASTEJÓN, QUE INCLUYE COMO CANDIDATO A LA PRESIDENCIA DEL GOBIERNO A DON SANTIAGO ABASCAL CONDE. ",
+        "debate": "MOCI\u00d3N DE CENSURA: -- MOCI\u00d3N DE CENSURA AL GOBIERNO PRESIDIDO POR DON PEDRO SA\u0301NCHEZ PE\u0301REZ- CASTEJ\u00d3N, QUE INCLUYE COMO CANDIDATO A LA PRESIDENCIA DEL GOBIERNO A DON SANTIAGO ABASCAL CONDE. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,125 @@
         ],
         "order": 96,
         "path": "../data/diaries-txts/DSCD-14-PL-055.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "No, no quedan más intervinientes de este grupo. Tiene la palabra el candidato a la Presidencia del Gobierno."
+    "text": "No, no quedan m\u00e1s intervinientes de este grupo. Tiene la palabra el candidato a la Presidencia del Gobierno.",
+    "freeling": [
+        {
+            "word": "No",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "quedan",
+            "lema": "quedar",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "m\u00e1s",
+            "lema": "m\u00e1s",
+            "pos": "RG",
+            "prob": "0.99993"
+        },
+        {
+            "word": "intervinientes",
+            "lema": "interviniente",
+            "pos": "AQ0CP00",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "este",
+            "lema": "este",
+            "pos": "DD0MS0",
+            "prob": "0.949201"
+        },
+        {
+            "word": "grupo",
+            "lema": "grupo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Tiene",
+            "lema": "tener",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "palabra",
+            "lema": "palabra",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "candidato",
+            "lema": "candidato",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "Presidencia_de_el_Gobierno",
+            "lema": "presidencia_de_el_gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

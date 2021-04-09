@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-17T00:00:00.000Z",
-        "debate": "EAJ-JPNV. -- DE LA DIPUTADA DOÑA CAROLINA ESPAÑA REINA, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA MINISTRA DE HACIENDA: ¿DIMITIRÁ LA MINISTRA SI ES INVESTIGADA POR EL CASO ISOFOTÓN? ",
+        "debate": "EAJ-JPNV. -- DE LA DIPUTADA DO\u00d1A CAROLINA ESPA\u00d1A REINA, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SE\u00d1ORA MINISTRA DE HACIENDA: \u00bfDIMITIR\u00c1 LA MINISTRA SI ES INVESTIGADA POR EL CASO ISOFOT\u00d3N? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,23 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-079.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señora España."
+    "text": "Se\u00f1ora Espa\u00f1a.",
+    "freeling": [
+        {
+            "word": "Se\u00f1ora_Espa\u00f1a",
+            "lema": "se\u00f1ora_espa\u00f1a",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

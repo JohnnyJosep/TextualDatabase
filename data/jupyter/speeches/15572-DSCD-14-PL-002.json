@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-09T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO MIXTO (SEÑOR MARTÍNEZ OBLANCA), SOBRE EL PROYECTO DE ORDEN DEL MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO PARA INCLUIR A TODAS LAS POBLACIONES DE LOBO IBÉRICO EN EL LISTADO DE ESPECIES EN RÉGIMEN DE ESPECIAL PROTECCIÓN TRAS LA RECIENTE DECISIÓN ADOPTADA POR LA COMISIÓN ESTATAL PARA EL PATRIMONIO NATURAL Y DE LA BIODIVERSIDAD CON EL RECHAZO DE LAS COMUNIDADES AUTÓNOMAS AFECTADAS, ASÍ COMO SUS GRAVES REPERCUSIONES PARA UNA PARTE MUY IMPORTANTE DEL SECTOR GANADERO DE LOS TERRITORIOS AL NORTE DEL DUERO. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO MIXTO (SE\u00d1OR MART\u00cdNEZ OBLANCA), SOBRE EL PROYECTO DE ORDEN DEL MINISTERIO PARA LA TRANSICI\u00d3N ECOL\u00d3GICA Y EL RETO DEMOGR\u00c1FICO PARA INCLUIR A TODAS LAS POBLACIONES DE LOBO IB\u00c9RICO EN EL LISTADO DE ESPECIES EN R\u00c9GIMEN DE ESPECIAL PROTECCI\u00d3N TRAS LA RECIENTE DECISI\u00d3N ADOPTADA POR LA COMISI\u00d3N ESTATAL PARA EL PATRIMONIO NATURAL Y DE LA BIODIVERSIDAD CON EL RECHAZO DE LAS COMUNIDADES AUT\u00d3NOMAS AFECTADAS, AS\u00cd COMO SUS GRAVES REPERCUSIONES PARA UNA PARTE MUY IMPORTANTE DEL SECTOR GANADERO DE LOS TERRITORIOS AL NORTE DEL DUERO. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,107 @@
         ],
         "order": 34,
         "path": "../data/diaries-txts/DSCD-14-PL-084.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Gracias, señor Miquel. Señor Martínez Oblanca, ¿acepta alguna de las enmiendas planteadas?"
+    "text": "Gracias, se\u00f1or Miquel. Se\u00f1or Mart\u00ednez Oblanca, \u00bfacepta alguna de las enmiendas planteadas?",
+    "freeling": [
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "Miquel",
+            "lema": "miquel",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "Mart\u00ednez_Oblanca",
+            "lema": "mart\u00ednez_oblanca",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "acepta",
+            "lema": "aceptar",
+            "pos": "VMIP3S0",
+            "prob": "0.968254"
+        },
+        {
+            "word": "alguna",
+            "lema": "alguno",
+            "pos": "PI0FS00",
+            "prob": "0.179715"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "enmiendas",
+            "lema": "enmienda",
+            "pos": "NCFP000",
+            "prob": "0.980769"
+        },
+        {
+            "word": "planteadas",
+            "lema": "plantear",
+            "pos": "VMP00PF",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        }
+    ]
 }

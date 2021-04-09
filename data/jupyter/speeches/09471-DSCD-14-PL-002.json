@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-10-13T00:00:00.000Z",
-        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO CONFEDERAL DE UNIDAS PODEMOS-EN COMÚ PODEM- GALICIA EN COMÚN, DE COORDINACIÓN DE LOS SERVICIOS DE PREVENCIÓN, EXTINCIÓN DE INCENDIOS Y SALVAMENTO EN EL MARCO DEL SISTEMA NACIONAL DE PROTECCIÓN CIVIL. ",
+        "debate": "TOMA EN CONSIDERACI\u00d3N DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO CONFEDERAL DE UNIDAS PODEMOS-EN COM\u00da PODEM- GALICIA EN COM\u00daN, DE COORDINACI\u00d3N DE LOS SERVICIOS DE PREVENCI\u00d3N, EXTINCI\u00d3N DE INCENDIOS Y SALVAMENTO EN EL MARCO DEL SISTEMA NACIONAL DE PROTECCI\u00d3N CIVIL. ",
         "diputado": [
             {
-                "apellidos": "Iñarritu García",
-                "apellidosNombre": "Iñarritu García, Jon",
+                "apellidos": "I\u00f1arritu Garc\u00eda",
+                "apellidosNombre": "I\u00f1arritu Garc\u00eda, Jon",
                 "codParlamentario": 62,
                 "fchAlta": "20/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,149 @@
         ],
         "order": 86,
         "path": "../data/diaries-txts/DSCD-14-PL-051.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "IÑARRITU GARCÍA"
+        "speacker": "I\u00d1ARRITU GARC\u00cdA"
     },
-    "text": "No les debe de gustar lo que digo. A mí tampoco me gusta lo que dicen ellos. (Rumores)."
+    "text": "No les debe de gustar lo que digo. A m\u00ed tampoco me gusta lo que dicen ellos. (Rumores).",
+    "freeling": [
+        {
+            "word": "No",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "les",
+            "lema": "le",
+            "pos": "PP3CPD0",
+            "prob": "1"
+        },
+        {
+            "word": "debe",
+            "lema": "deber",
+            "pos": "VMIP3S0",
+            "prob": "0.998712"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "gustar",
+            "lema": "gustar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "lo",
+            "lema": "el",
+            "pos": "DA00S0",
+            "prob": "0.665165"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "digo",
+            "lema": "decir",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "A",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "m\u00ed",
+            "lema": "m\u00ed",
+            "pos": "PP1CSO0",
+            "prob": "1"
+        },
+        {
+            "word": "tampoco",
+            "lema": "tampoco",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "me",
+            "lema": "me",
+            "pos": "PP1CS00",
+            "prob": "0.755196"
+        },
+        {
+            "word": "gusta",
+            "lema": "gustar",
+            "pos": "VMIP3S0",
+            "prob": "0.99569"
+        },
+        {
+            "word": "lo",
+            "lema": "el",
+            "pos": "DA00S0",
+            "prob": "0.665165"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "dicen",
+            "lema": "decir",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "ellos",
+            "lema": "ellos",
+            "pos": "PP3MP00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Rumores",
+            "lema": "rumores",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

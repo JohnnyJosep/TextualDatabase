@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-12-02T00:00:00.000Z",
-        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (CONTINUACIÓN): -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL AÑO 2021. (CONTINUACIÓN). ",
+        "debate": "DICTA\u0301MENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (CONTINUACI\u00d3N): -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL A\u00d1O 2021. (CONTINUACI\u00d3N). ",
         "diputado": [
             {
-                "apellidos": "Alfonso Cendón",
-                "apellidosNombre": "Alfonso Cendón, Javier",
+                "apellidos": "Alfonso Cend\u00f3n",
+                "apellidosNombre": "Alfonso Cend\u00f3n, Javier",
                 "codParlamentario": 103,
                 "fchAlta": "21/11/2019",
                 "fchBaja": "",
@@ -15,7 +15,7 @@
                 "idCircunscripcion": 24,
                 "idLegislatura": 14,
                 "nombre": "Javier",
-                "nombreCircunscripcion": "León",
+                "nombreCircunscripcion": "Le\u00f3n",
                 "twitter": "https://twitter.com/alfonsocendon",
                 "twitterUserId": "901414373050241024",
                 "twitterUserName": "alfonsocendon"
@@ -24,9 +24,59 @@
         ],
         "order": 128,
         "path": "../data/diaries-txts/DSCD-14-PL-067.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "ALFONSO CENDÓN"
+        "speacker": "ALFONSO CEND\u00d3N"
     },
-    "text": "Porque esos fondos… (Rumores)."
+    "text": "Porque esos fondos\u2026 (Rumores).",
+    "freeling": [
+        {
+            "word": "Porque",
+            "lema": "porque",
+            "pos": "CS",
+            "prob": "1"
+        },
+        {
+            "word": "esos",
+            "lema": "ese",
+            "pos": "DD0MP0",
+            "prob": "0.986618"
+        },
+        {
+            "word": "fondos",
+            "lema": "fondo",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Rumores",
+            "lema": "rumores",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

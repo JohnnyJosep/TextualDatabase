@@ -1,29 +1,397 @@
 {
     "metadata": {
         "celebrated": "2021-05-10T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIÓN URGENTE (CONTINUACIÓN): -- DEL GRUPO PARLAMENTARIO CIUDADANOS, SOBRE LAS MEDIDAS ADOPTADAS POR EL GOBIERNO PARA LA REDUCCIÓN DEL COSTE DE LA FACTURA ELÉCTRICA DE LOS SECTORES ECONÓMICOS MÁS AFECTADOS POR LA CRISIS DE LA COVID-19 Y AQUELLOS CON ALTA ESTACIONALIDAD COMO LA AGRICULTURA Y EL TURISMO. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACI\u00d3N URGENTE (CONTINUACI\u00d3N): -- DEL GRUPO PARLAMENTARIO CIUDADANOS, SOBRE LAS MEDIDAS ADOPTADAS POR EL GOBIERNO PARA LA REDUCCI\u00d3N DEL COSTE DE LA FACTURA EL\u00c9CTRICA DE LOS SECTORES ECON\u00d3MICOS M\u00c1S AFECTADOS POR LA CRISIS DE LA COVID-19 Y AQUELLOS CON ALTA ESTACIONALIDAD COMO LA AGRICULTURA Y EL TURISMO. ",
         "diputado": [
             {
                 "apellidos": "Guitarte Gimeno",
-                "apellidosNombre": "Guitarte Gimeno, Tomás",
+                "apellidosNombre": "Guitarte Gimeno, Tom\u00e1s",
                 "codParlamentario": 306,
                 "fchAlta": "28/11/2019",
                 "fchBaja": "",
-                "formacion": "¡Teruel Existe!",
+                "formacion": "\u00a1Teruel Existe!",
                 "genero": 1,
                 "grupo": "Grupo Parlamentario Mixto",
                 "idCircunscripcion": 44,
                 "idLegislatura": 14,
-                "nombre": "Tomás",
+                "nombre": "Tom\u00e1s",
                 "nombreCircunscripcion": "Teruel"
             },
             0
         ],
         "order": 5,
         "path": "../data/diaries-txts/DSCD-14-PL-085.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "GUITARTE GIMENO"
     },
-    "text": "… que buscan dar transparencia y equidad al funcionamiento marginalista del mercado eléctrico, de forma que el precio que se paga a los productores no se fije con la última central que entra en el pool de cada hora, es decir, que no sea con el precio de la electricidad más cara. Muchas gracias."
+    "text": "\u2026 que buscan dar transparencia y equidad al funcionamiento marginalista del mercado el\u00e9ctrico, de forma que el precio que se paga a los productores no se fije con la \u00faltima central que entra en el pool de cada hora, es decir, que no sea con el precio de la electricidad m\u00e1s cara. Muchas gracias.",
+    "freeling": [
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "buscan",
+            "lema": "buscar",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "dar",
+            "lema": "dar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "transparencia",
+            "lema": "transparencia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "equidad",
+            "lema": "equidad",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "funcionamiento",
+            "lema": "funcionamiento",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "marginalista",
+            "lema": "marginalista",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "mercado",
+            "lema": "mercado",
+            "pos": "NCMS000",
+            "prob": "0.999343"
+        },
+        {
+            "word": "el\u00e9ctrico",
+            "lema": "el\u00e9ctrico",
+            "pos": "AQ0MS00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "forma",
+            "lema": "forma",
+            "pos": "NCFS000",
+            "prob": "0.987798"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "precio",
+            "lema": "precio",
+            "pos": "NCMS000",
+            "prob": "0.998705"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "paga",
+            "lema": "pagar",
+            "pos": "VMIP3S0",
+            "prob": "0.68932"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "productores",
+            "lema": "productor",
+            "pos": "NCMP000",
+            "prob": "0.789256"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "fije",
+            "lema": "fijar",
+            "pos": "VMSP3S0",
+            "prob": "0.634859"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "\u00faltima",
+            "lema": "\u00faltimo",
+            "pos": "AO0FS00",
+            "prob": "1"
+        },
+        {
+            "word": "central",
+            "lema": "central",
+            "pos": "NCCS000",
+            "prob": "0.278393"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "entra",
+            "lema": "entrar",
+            "pos": "VMIP3S0",
+            "prob": "0.986111"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "pool",
+            "lema": "pool",
+            "pos": "NCMN000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "cada",
+            "lema": "cada",
+            "pos": "DI0CS0",
+            "prob": "1"
+        },
+        {
+            "word": "hora",
+            "lema": "hora",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "decir",
+            "lema": "decir",
+            "pos": "VMN0000",
+            "prob": "0.998575"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "sea",
+            "lema": "ser",
+            "pos": "VSSP1S0",
+            "prob": "0.49434"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "precio",
+            "lema": "precio",
+            "pos": "NCMS000",
+            "prob": "0.998705"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "electricidad",
+            "lema": "electricidad",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "m\u00e1s",
+            "lema": "m\u00e1s",
+            "pos": "RG",
+            "prob": "0.99993"
+        },
+        {
+            "word": "cara",
+            "lema": "caro",
+            "pos": "AQ0FS00",
+            "prob": "0.0856354"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

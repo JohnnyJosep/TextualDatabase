@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-11-17T00:00:00.000Z",
-        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, ORGÁNICA DE PROTECCIÓN DE LA SALUD Y DE LOS DERECHOS Y LIBERTADES FUNDAMENTALES. ",
+        "debate": "TOMA EN CONSIDERACI\u00d3N DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, ORG\u00c1NICA DE PROTECCI\u00d3N DE LA SALUD Y DE LOS DERECHOS Y LIBERTADES FUNDAMENTALES. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,749 @@
         ],
         "order": 79,
         "path": "../data/diaries-txts/DSCD-14-PL-062.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Rufián, moltes gràcies per la seva intervenció. Saben, señoras y señores diputados, que ha sido uso tradicional en esta Cámara el poder utilizar otras lenguas oficiales españolas además del castellano pero de manera acotada, con una pequeña introducción, con una pequeña cita, con alguna expresión o una pequeña referencia y ello se ha permitido, pero la lengua común compartida entre todos los diputados y diputadas es el castellano, y por eso, señor Rufián, a usted también le voy a pedir, por favor, que continúe en esa lengua común que es el castellano y que nos permite entendernos a todos en esta Cámara. Muchas gracias. (Aplausos)."
+    "text": "Se\u00f1or Rufi\u00e1n, moltes gr\u00e0cies per la seva intervenci\u00f3. Saben, se\u00f1oras y se\u00f1ores diputados, que ha sido uso tradicional en esta C\u00e1mara el poder utilizar otras lenguas oficiales espa\u00f1olas adem\u00e1s del castellano pero de manera acotada, con una peque\u00f1a introducci\u00f3n, con una peque\u00f1a cita, con alguna expresi\u00f3n o una peque\u00f1a referencia y ello se ha permitido, pero la lengua com\u00fan compartida entre todos los diputados y diputadas es el castellano, y por eso, se\u00f1or Rufi\u00e1n, a usted tambi\u00e9n le voy a pedir, por favor, que contin\u00fae en esa lengua com\u00fan que es el castellano y que nos permite entendernos a todos en esta C\u00e1mara. Muchas gracias. (Aplausos).",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Rufi\u00e1n",
+            "lema": "se\u00f1or_rufi\u00e1n",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "moltes",
+            "lema": "moltes",
+            "pos": "AQ0CP00",
+            "prob": "0.262509"
+        },
+        {
+            "word": "gr\u00e0cies",
+            "lema": "gr\u00e0cies",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "per",
+            "lema": "per",
+            "pos": "VMN0000",
+            "prob": "0.857134"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "seva",
+            "lema": "seva",
+            "pos": "AQ0FS00",
+            "prob": "0.718491"
+        },
+        {
+            "word": "intervenci\u00f3",
+            "lema": "intervencer",
+            "pos": "VMIS3S0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Saben",
+            "lema": "saber",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1oras",
+            "lema": "se\u00f1or",
+            "pos": "AQ0FP00",
+            "prob": "0.427431"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "se\u00f1ores",
+            "lema": "se\u00f1or",
+            "pos": "AQ0MP00",
+            "prob": "0.361294"
+        },
+        {
+            "word": "diputados",
+            "lema": "diputado",
+            "pos": "NCMP000",
+            "prob": "0.99569"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "sido",
+            "lema": "ser",
+            "pos": "VSP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "uso",
+            "lema": "uso",
+            "pos": "NCMS000",
+            "prob": "0.998047"
+        },
+        {
+            "word": "tradicional",
+            "lema": "tradicional",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "esta",
+            "lema": "este",
+            "pos": "DD0FS0",
+            "prob": "0.978817"
+        },
+        {
+            "word": "C\u00e1mara",
+            "lema": "c\u00e1mara",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "poder",
+            "lema": "poder",
+            "pos": "NCMS000",
+            "prob": "0.606525"
+        },
+        {
+            "word": "utilizar",
+            "lema": "utilizar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "otras",
+            "lema": "otro",
+            "pos": "DI0FP0",
+            "prob": "0.865408"
+        },
+        {
+            "word": "lenguas",
+            "lema": "lengua",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "oficiales",
+            "lema": "oficial",
+            "pos": "AQ0CP00",
+            "prob": "0.960396"
+        },
+        {
+            "word": "espa\u00f1olas",
+            "lema": "espa\u00f1ol",
+            "pos": "AQ0FP00",
+            "prob": "0.995157"
+        },
+        {
+            "word": "adem\u00e1s_de",
+            "lema": "adem\u00e1s_de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "castellano",
+            "lema": "castellano",
+            "pos": "NCMS000",
+            "prob": "0.986111"
+        },
+        {
+            "word": "pero",
+            "lema": "pero",
+            "pos": "CC",
+            "prob": "0.999902"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "manera",
+            "lema": "manera",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "acotada",
+            "lema": "acotar",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "peque\u00f1a",
+            "lema": "peque\u00f1o",
+            "pos": "AQ0FS00",
+            "prob": "0.997312"
+        },
+        {
+            "word": "introducci\u00f3n",
+            "lema": "introducci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "peque\u00f1a",
+            "lema": "peque\u00f1o",
+            "pos": "AQ0FS00",
+            "prob": "0.997312"
+        },
+        {
+            "word": "cita",
+            "lema": "cita",
+            "pos": "NCFS000",
+            "prob": "0.774105"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "alguna",
+            "lema": "alguno",
+            "pos": "DI0FS0",
+            "prob": "0.820285"
+        },
+        {
+            "word": "expresi\u00f3n",
+            "lema": "expresi\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "o",
+            "lema": "o",
+            "pos": "CC",
+            "prob": "0.999864"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "peque\u00f1a",
+            "lema": "peque\u00f1o",
+            "pos": "AQ0FS00",
+            "prob": "0.997312"
+        },
+        {
+            "word": "referencia",
+            "lema": "referencia",
+            "pos": "NCFS000",
+            "prob": "0.989637"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "ello",
+            "lema": "ello",
+            "pos": "PD00S00",
+            "prob": "1"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "permitido",
+            "lema": "permitir",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "pero",
+            "lema": "pero",
+            "pos": "CC",
+            "prob": "0.999902"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "lengua",
+            "lema": "lengua",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "com\u00fan",
+            "lema": "com\u00fan",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "compartida",
+            "lema": "compartir",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": "entre",
+            "lema": "entre",
+            "pos": "SP",
+            "prob": "0.980341"
+        },
+        {
+            "word": "todos",
+            "lema": "todo",
+            "pos": "DI0MP0",
+            "prob": "0.70665"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "diputados",
+            "lema": "diputado",
+            "pos": "NCMP000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "diputadas",
+            "lema": "diputado",
+            "pos": "NCFP000",
+            "prob": "0.55623"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "castellano",
+            "lema": "castellano",
+            "pos": "NCMS000",
+            "prob": "0.986111"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "eso",
+            "lema": "ese",
+            "pos": "PD00S00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "Rufi\u00e1n",
+            "lema": "rufi\u00e1n",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": "tambi\u00e9n",
+            "lema": "tambi\u00e9n",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "voy",
+            "lema": "ir",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "pedir",
+            "lema": "pedir",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por_favor",
+            "lema": "por_favor",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "contin\u00fae",
+            "lema": "continuar",
+            "pos": "VMSP3S0",
+            "prob": "0.634863"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "esa",
+            "lema": "ese",
+            "pos": "DD0FS0",
+            "prob": "0.964505"
+        },
+        {
+            "word": "lengua",
+            "lema": "lengua",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "com\u00fan",
+            "lema": "com\u00fan",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "castellano",
+            "lema": "castellano",
+            "pos": "NCMS000",
+            "prob": "0.986111"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "nos",
+            "lema": "nos",
+            "pos": "PP1CP00",
+            "prob": "0.810258"
+        },
+        {
+            "word": "permite",
+            "lema": "permitir",
+            "pos": "VMIP3S0",
+            "prob": "0.997312"
+        },
+        {
+            "word": "entender",
+            "lema": "entender",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "nos",
+            "lema": "nos",
+            "pos": "PP1CP00",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "todos",
+            "lema": "todo",
+            "pos": "PI0MP00",
+            "prob": "0.293032"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "esta",
+            "lema": "este",
+            "pos": "DD0FS0",
+            "prob": "0.978817"
+        },
+        {
+            "word": "C\u00e1mara",
+            "lema": "c\u00e1mara",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplausos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

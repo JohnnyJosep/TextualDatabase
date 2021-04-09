@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-30T00:00:00.000Z",
-        "debate": "PREGUNTA DEL DIPUTADO DON PABLO CASADO BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿ESTÁ PROTEGIENDO EL FUTURO DE LOS ESPAÑOLES? -- DEL DIPUT ADO DON SERGIO SA Y AS LÓPEZ, DEL GRUPO P ARLAMENT ARIO MIXT O, QUE FORMULA A LA SEÑORA MINISTRA DE INDUSTRIA, COMERCIO Y TURISMO: ¿QUÉ ACCIONES TIENE PREVISTO PONER EN MARCHA EL GOBIERNO DE ESPAÑA PARA EVITAR EL CIERRE DE LA PLANTA DE TRENASA EN CASTEJÓN? ",
+        "debate": "PREGUNTA DEL DIPUTADO DON PABLO CASADO BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR PRESIDENTE DEL GOBIERNO: \u00bfEST\u00c1 PROTEGIENDO EL FUTURO DE LOS ESPA\u00d1OLES? -- DEL DIPUT ADO DON SERGIO SA Y AS L\u00d3PEZ, DEL GRUPO P ARLAMENT ARIO MIXT O, QUE FORMULA A LA SE\u00d1ORA MINISTRA DE INDUSTRIA, COMERCIO Y TURISMO: \u00bfQU\u00c9 ACCIONES TIENE PREVISTO PONER EN MARCHA EL GOBIERNO DE ESPA\u00d1A PARA EVITAR EL CIERRE DE LA PLANTA DE TRENASA EN CASTEJ\u00d3N? ",
         "diputado": [
             {
-                "apellidos": "Sayas López",
-                "apellidosNombre": "Sayas López, Sergio",
+                "apellidos": "Sayas L\u00f3pez",
+                "apellidosNombre": "Sayas L\u00f3pez, Sergio",
                 "codParlamentario": 55,
                 "fchAlta": "20/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,875 @@
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-049.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "SA Y AS LÓPEZ"
+        "speacker": "SA Y AS L\u00d3PEZ"
     },
-    "text": "Gracias, presidenta. Nos ha tocado turno de pregunta en una sesión en la que muchos españoles tienen que sentir vergüenza al ver cómo el Gobierno de su país pastelea con quienes dieron un golpe a la democracia en Cataluña, y con quienes no se han apeado ni una sola línea del terrorismo de ETA, en lugar de defender nuestro sistema constitucional, la monarquía parlamentaria y la figura del rey. Creo que los españoles merecen un Gobierno menos cobarde y menos vendido. Aprovecharé este turno que tenemos para preguntarle, señora ministra, por una enorme preocupación que tenemos en Navarra. El pasado viernes, la empresa Trenasa anunció el cierre de la planta, 110 trabajadores estarán en la calle, y le pregunto, señora ministra, ¿qué piensa hacer su ministerio?"
+    "text": "Gracias, presidenta. Nos ha tocado turno de pregunta en una sesi\u00f3n en la que muchos espa\u00f1oles tienen que sentir verg\u00fcenza al ver c\u00f3mo el Gobierno de su pa\u00eds pastelea con quienes dieron un golpe a la democracia en Catalu\u00f1a, y con quienes no se han apeado ni una sola l\u00ednea del terrorismo de ETA, en lugar de defender nuestro sistema constitucional, la monarqu\u00eda parlamentaria y la figura del rey. Creo que los espa\u00f1oles merecen un Gobierno menos cobarde y menos vendido. Aprovechar\u00e9 este turno que tenemos para preguntarle, se\u00f1ora ministra, por una enorme preocupaci\u00f3n que tenemos en Navarra. El pasado viernes, la empresa Trenasa anunci\u00f3 el cierre de la planta, 110 trabajadores estar\u00e1n en la calle, y le pregunto, se\u00f1ora ministra, \u00bfqu\u00e9 piensa hacer su ministerio?",
+    "freeling": [
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Nos",
+            "lema": "nos",
+            "pos": "PP1CP00",
+            "prob": "0.810258"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "tocado",
+            "lema": "tocar",
+            "pos": "VMP00SM",
+            "prob": "0.98913"
+        },
+        {
+            "word": "turno",
+            "lema": "turno",
+            "pos": "NCMS000",
+            "prob": "0.987805"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "pregunta",
+            "lema": "pregunta",
+            "pos": "NCFS000",
+            "prob": "0.694581"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "sesi\u00f3n",
+            "lema": "sesi\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "muchos",
+            "lema": "mucho",
+            "pos": "DI0MP0",
+            "prob": "0.663994"
+        },
+        {
+            "word": "espa\u00f1oles",
+            "lema": "espa\u00f1ol",
+            "pos": "NCMP000",
+            "prob": "0.413379"
+        },
+        {
+            "word": "tienen",
+            "lema": "tener",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "sentir",
+            "lema": "sentir",
+            "pos": "VMN0000",
+            "prob": "0.991071"
+        },
+        {
+            "word": "verg\u00fcenza",
+            "lema": "verg\u00fcenza",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "ver",
+            "lema": "ver",
+            "pos": "VMN0000",
+            "prob": "0.998812"
+        },
+        {
+            "word": "c\u00f3mo",
+            "lema": "c\u00f3mo",
+            "pos": "PT00000",
+            "prob": "0.997099"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "pa\u00eds",
+            "lema": "pa\u00eds",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "pastelea",
+            "lema": "pastelear",
+            "pos": "VMIP3S0",
+            "prob": "0.989241"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "quienes",
+            "lema": "quien",
+            "pos": "PR0CP00",
+            "prob": "1"
+        },
+        {
+            "word": "dieron",
+            "lema": "dar",
+            "pos": "VMIS3P0",
+            "prob": "1"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "golpe",
+            "lema": "golpe",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "democracia",
+            "lema": "democracia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "Catalu\u00f1a",
+            "lema": "catalu\u00f1a",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "quienes",
+            "lema": "quien",
+            "pos": "PR0CP00",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "han",
+            "lema": "haber",
+            "pos": "VAIP3P0",
+            "prob": "0.999845"
+        },
+        {
+            "word": "apeado",
+            "lema": "apear",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "ni",
+            "lema": "ni",
+            "pos": "CC",
+            "prob": "0.834853"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "sola",
+            "lema": "solo",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": "l\u00ednea",
+            "lema": "l\u00ednea",
+            "pos": "NCFS000",
+            "prob": "0.998366"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "terrorismo",
+            "lema": "terrorismo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "ETA",
+            "lema": "eta",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "en_lugar_de",
+            "lema": "en_lugar_de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "defender",
+            "lema": "defender",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "nuestro",
+            "lema": "nuestro",
+            "pos": "DP1MSP",
+            "prob": "0.957064"
+        },
+        {
+            "word": "sistema",
+            "lema": "sistema",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "constitucional",
+            "lema": "constitucional",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "monarqu\u00eda",
+            "lema": "monarqu\u00eda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "parlamentaria",
+            "lema": "parlamentario",
+            "pos": "AQ0FS00",
+            "prob": "0.995495"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "figura",
+            "lema": "figura",
+            "pos": "NCFS000",
+            "prob": "0.568905"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "rey",
+            "lema": "rey",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Creo",
+            "lema": "creer",
+            "pos": "VMIP1S0",
+            "prob": "0.5"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "espa\u00f1oles",
+            "lema": "espa\u00f1ol",
+            "pos": "NCMP000",
+            "prob": "0.413379"
+        },
+        {
+            "word": "merecen",
+            "lema": "merecer",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "menos",
+            "lema": "menos",
+            "pos": "RG",
+            "prob": "0.990694"
+        },
+        {
+            "word": "cobarde",
+            "lema": "cobarde",
+            "pos": "AQ0CS00",
+            "prob": "0.661294"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "menos",
+            "lema": "menos",
+            "pos": "RG",
+            "prob": "0.990694"
+        },
+        {
+            "word": "vendido",
+            "lema": "vender",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Aprovechar\u00e9",
+            "lema": "aprovechar",
+            "pos": "VMIF1S0",
+            "prob": "1"
+        },
+        {
+            "word": "este",
+            "lema": "este",
+            "pos": "DD0MS0",
+            "prob": "0.949201"
+        },
+        {
+            "word": "turno",
+            "lema": "turno",
+            "pos": "NCMS000",
+            "prob": "0.987805"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "tenemos",
+            "lema": "tener",
+            "pos": "VMIP1P0",
+            "prob": "1"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "preguntar",
+            "lema": "preguntar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "ministra",
+            "lema": "ministro",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "enorme",
+            "lema": "enorme",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "preocupaci\u00f3n",
+            "lema": "preocupaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "tenemos",
+            "lema": "tener",
+            "pos": "VMIP1P0",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "Navarra",
+            "lema": "navarra",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "El",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "pasado_viernes",
+            "lema": "[V:??/??/??:??.??:??]",
+            "pos": "W",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "empresa",
+            "lema": "empresa",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "Trenasa",
+            "lema": "trenasa",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "anunci\u00f3",
+            "lema": "anunciar",
+            "pos": "VMIS3S0",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "cierre",
+            "lema": "cierre",
+            "pos": "NCMS000",
+            "prob": "0.875"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "planta",
+            "lema": "planta",
+            "pos": "NCFS000",
+            "prob": "0.948498"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "110",
+            "lema": "110",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "trabajadores",
+            "lema": "trabajador",
+            "pos": "NCMP000",
+            "prob": "0.99867"
+        },
+        {
+            "word": "estar\u00e1n",
+            "lema": "estar",
+            "pos": "VMIF3P0",
+            "prob": "0.994505"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "calle",
+            "lema": "calle",
+            "pos": "NCFS000",
+            "prob": "0.995677"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "pregunto",
+            "lema": "preguntar",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "ministra",
+            "lema": "ministro",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "qu\u00e9",
+            "lema": "qu\u00e9",
+            "pos": "PT00000",
+            "prob": "0.712513"
+        },
+        {
+            "word": "piensa",
+            "lema": "pensar",
+            "pos": "VMIP3S0",
+            "prob": "0.994186"
+        },
+        {
+            "word": "hacer",
+            "lema": "hacer",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "ministerio",
+            "lema": "ministerio",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        }
+    ]
 }

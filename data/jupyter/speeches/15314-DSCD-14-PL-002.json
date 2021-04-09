@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-24T00:00:00.000Z",
-        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO MIXTO (SEÑOR MARTÍNEZ OBLANCA), SOBRE EL PROYECTO DE ORDEN DEL MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO PARA INCLUIR A TODAS LAS POBLACIONES DE LOBO IBÉRICO EN EL LISTADO DE ESPECIES EN RÉGIMEN DE ESPECIAL PROTECCIÓN TRAS LA RECIENTE DECISIÓN ADOPTADA POR LA COMISIÓN ESTATAL PARA EL PATRIMONIO NATURAL Y DE LA BIODIVERSIDAD CON EL RECHAZO DE LAS COMUNIDADES AUTÓNOMAS AFECTADAS, ASÍ COMO SUS GRAVES REPERCUSIONES PARA UNA PARTE MUY IMPORTANTE DEL SECTOR GANADERO DE LOS TERRITORIOS AL NORTE DEL DUERO. ",
+        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO MIXTO (SE\u00d1OR MART\u00cdNEZ OBLANCA), SOBRE EL PROYECTO DE ORDEN DEL MINISTERIO PARA LA TRANSICI\u00d3N ECOL\u00d3GICA Y EL RETO DEMOGR\u00c1FICO PARA INCLUIR A TODAS LAS POBLACIONES DE LOBO IB\u00c9RICO EN EL LISTADO DE ESPECIES EN R\u00c9GIMEN DE ESPECIAL PROTECCI\u00d3N TRAS LA RECIENTE DECISI\u00d3N ADOPTADA POR LA COMISI\u00d3N ESTATAL PARA EL PATRIMONIO NATURAL Y DE LA BIODIVERSIDAD CON EL RECHAZO DE LAS COMUNIDADES AUT\u00d3NOMAS AFECTADAS, AS\u00cd COMO SUS GRAVES REPERCUSIONES PARA UNA PARTE MUY IMPORTANTE DEL SECTOR GANADERO DE LOS TERRITORIOS AL NORTE DEL DUERO. ",
         "diputado": [
             {
-                "apellidos": "Martínez Oblanca",
-                "apellidosNombre": "Martínez Oblanca, Isidro Manuel",
+                "apellidos": "Mart\u00ednez Oblanca",
+                "apellidosNombre": "Mart\u00ednez Oblanca, Isidro Manuel",
                 "codParlamentario": 20,
                 "fchAlta": "19/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,533 @@
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-082.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "MARTÍNEZ OBLANCA"
+        "speacker": "MART\u00cdNEZ OBLANCA"
     },
-    "text": "Muchas gracias, señora presidenta. Buenas tardes, señora vicepresidenta cuarta y ministra para la Transición Ecológica y el Reto Demográfico. El doctor Félix Rodrí guez de la Fuente fue un español extraordinario, que inculcó a millones de personas el amor y el respeto por la naturaleza. (Rumores). Muy pronto se cumplirán cuarenta y un años de su fallecimiento, tras accidentarse en Alaska mientras trabajaba en el rodaje aéreo de uno de sus magníficos documentales para la televisión. (Rumores)."
+    "text": "Muchas gracias, se\u00f1ora presidenta. Buenas tardes, se\u00f1ora vicepresidenta cuarta y ministra para la Transici\u00f3n Ecol\u00f3gica y el Reto Demogr\u00e1fico. El doctor F\u00e9lix Rodr\u00ed guez de la Fuente fue un espa\u00f1ol extraordinario, que inculc\u00f3 a millones de personas el amor y el respeto por la naturaleza. (Rumores). Muy pronto se cumplir\u00e1n cuarenta y un a\u00f1os de su fallecimiento, tras accidentarse en Alaska mientras trabajaba en el rodaje a\u00e9reo de uno de sus magn\u00edficos documentales para la televisi\u00f3n. (Rumores).",
+    "freeling": [
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Buenas",
+            "lema": "bueno",
+            "pos": "AQ0FP00",
+            "prob": "1"
+        },
+        {
+            "word": "tardes",
+            "lema": "tarde",
+            "pos": "NCFP000",
+            "prob": "0.980769"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "vicepresidenta",
+            "lema": "vicepresidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "cuarta",
+            "lema": "4",
+            "pos": "AO0FS00",
+            "prob": "0.985294"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "ministra",
+            "lema": "ministro",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "Transici\u00f3n_Ecol\u00f3gica",
+            "lema": "transici\u00f3n_ecol\u00f3gica",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Reto_Demogr\u00e1fico",
+            "lema": "reto_demogr\u00e1fico",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "El",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "doctor",
+            "lema": "doctor",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "F\u00e9lix_Rodr\u00ed",
+            "lema": "f\u00e9lix_rodr\u00ed",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": "guez",
+            "lema": "guez",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "Fuente",
+            "lema": "fuente",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": "fue",
+            "lema": "ser",
+            "pos": "VSIS3S0",
+            "prob": "0.980739"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "espa\u00f1ol",
+            "lema": "espa\u00f1ol",
+            "pos": "NCMS000",
+            "prob": "0.232771"
+        },
+        {
+            "word": "extraordinario",
+            "lema": "extraordinario",
+            "pos": "AQ0MS00",
+            "prob": "0.990196"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "inculc\u00f3",
+            "lema": "inculcar",
+            "pos": "VMIS3S0",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "millones",
+            "lema": "mill\u00f3n",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "personas",
+            "lema": "persona",
+            "pos": "NCFP000",
+            "prob": "0.999585"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "amor",
+            "lema": "amor",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "respeto",
+            "lema": "respeto",
+            "pos": "NCMS000",
+            "prob": "0.916667"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "naturaleza",
+            "lema": "naturaleza",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Rumores",
+            "lema": "rumores",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Muy",
+            "lema": "muy",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "pronto",
+            "lema": "pronto",
+            "pos": "RG",
+            "prob": "0.990148"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "cumplir\u00e1n",
+            "lema": "cumplir",
+            "pos": "VMIF3P0",
+            "prob": "1"
+        },
+        {
+            "word": "cuarenta_y_un",
+            "lema": "41",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "a\u00f1os",
+            "lema": "a\u00f1o",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "fallecimiento",
+            "lema": "fallecimiento",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "tras",
+            "lema": "tras",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "accidentar",
+            "lema": "accidentar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "PP3CN00",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "Alaska",
+            "lema": "alaska",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": "mientras",
+            "lema": "mientras",
+            "pos": "CS",
+            "prob": "0.88835"
+        },
+        {
+            "word": "trabajaba",
+            "lema": "trabajar",
+            "pos": "VMII3S0",
+            "prob": "0.65"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "rodaje",
+            "lema": "rodaje",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "a\u00e9reo",
+            "lema": "a\u00e9reo",
+            "pos": "AQ0MS00",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "uno",
+            "lema": "uno",
+            "pos": "PI0MS00",
+            "prob": "0.981709"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "sus",
+            "lema": "su",
+            "pos": "DP3CPN",
+            "prob": "0.999903"
+        },
+        {
+            "word": "magn\u00edficos",
+            "lema": "magn\u00edfico",
+            "pos": "AQ0MP00",
+            "prob": "1"
+        },
+        {
+            "word": "documentales",
+            "lema": "documental",
+            "pos": "NCMP000",
+            "prob": "0.69863"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "televisi\u00f3n",
+            "lema": "televisi\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Rumores",
+            "lema": "rumores",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-03T00:00:00.000Z",
-        "debate": "VOX. -- DEL DIPUT ADO DON GABRIEL RUFIÁN ROMERO, DEL GRUPO P ARLAMENT ARIO REPUBLICANO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿CONSIDERA EL PRESIDENTE ADECUADO CAMBIAR EL MINISTRO DE SANIDAD EN MITAD DE LA PANDEMIA MUNDIAL MÁS GRAVE DEL ÚLTIMO SIGLO? ",
+        "debate": "VOX. -- DEL DIPUT ADO DON GABRIEL RUFIA\u0301N ROMERO, DEL GRUPO P ARLAMENT ARIO REPUBLICANO, QUE FORMULA AL SE\u00d1OR PRESIDENTE DEL GOBIERNO: \u00bfCONSIDERA EL PRESIDENTE ADECUADO CAMBIAR EL MINISTRO DE SANIDAD EN MITAD DE LA PANDEMIA MUNDIAL MA\u0301S GRAVE DEL \u00daLTIMO SIGLO? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,335 @@
         ],
         "order": 0,
         "path": "../data/diaries-txts/DSCD-14-PL-076.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Pregunta del diputado don Gabriel Rufián Romero, del Grupo Parlamentario Republicano. El señor RUFIÁN ROMERO: Buenos días. Señor presidente, ¿por qué considera usted oportuno cambiar al ministro de Sanidad durante lo peor de la tercera ola de la peor pandemia de nuestro tiempo? Muchas gracias."
+    "text": "Pregunta del diputado don Gabriel Rufi\u00e1n Romero, del Grupo Parlamentario Republicano. El se\u00f1or RUFIA\u0301N ROMERO: Buenos d\u00edas. Se\u00f1or presidente, \u00bfpor qu\u00e9 considera usted oportuno cambiar al ministro de Sanidad durante lo peor de la tercera ola de la peor pandemia de nuestro tiempo? Muchas gracias.",
+    "freeling": [
+        {
+            "word": "Pregunta",
+            "lema": "preguntar",
+            "pos": "VMIP3S0",
+            "prob": "0.300493"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "diputado",
+            "lema": "diputado",
+            "pos": "NCMS000",
+            "prob": "0.997382"
+        },
+        {
+            "word": "don",
+            "lema": "don",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "Gabriel_Rufi\u00e1n_Romero",
+            "lema": "gabriel_rufi\u00e1n_romero",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Grupo_Parlamentario_Republicano",
+            "lema": "grupo_parlamentario_republicano",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "El",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "RUFIA",
+            "lema": "rufia",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": "\u0301",
+            "lema": "\u0301",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": "N",
+            "lema": "n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "ROMERO",
+            "lema": "romero",
+            "pos": "AQ0MS00",
+            "prob": "0.516134"
+        },
+        {
+            "word": ":",
+            "lema": ":",
+            "pos": "Fd",
+            "prob": "1"
+        },
+        {
+            "word": "Buenos",
+            "lema": "bueno",
+            "pos": "AQ0MP00",
+            "prob": "1"
+        },
+        {
+            "word": "d\u00edas",
+            "lema": "d\u00eda",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "presidente",
+            "lema": "presidente",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "qu\u00e9",
+            "lema": "qu\u00e9",
+            "pos": "PT00000",
+            "prob": "0.712513"
+        },
+        {
+            "word": "considera",
+            "lema": "considerar",
+            "pos": "VMIP3S0",
+            "prob": "0.998721"
+        },
+        {
+            "word": "usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": "oportuno",
+            "lema": "oportuno",
+            "pos": "AQ0MS00",
+            "prob": "1"
+        },
+        {
+            "word": "cambiar",
+            "lema": "cambiar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "ministro",
+            "lema": "ministro",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Sanidad",
+            "lema": "sanidad",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": "durante",
+            "lema": "durante",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "lo",
+            "lema": "el",
+            "pos": "DA00S0",
+            "prob": "0.665165"
+        },
+        {
+            "word": "peor",
+            "lema": "peor",
+            "pos": "AQ0CS00",
+            "prob": "0.880117"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "tercera",
+            "lema": "3",
+            "pos": "AO0FS00",
+            "prob": "0.99763"
+        },
+        {
+            "word": "ola",
+            "lema": "ola",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "peor",
+            "lema": "peor",
+            "pos": "AQ0CS00",
+            "prob": "0.880117"
+        },
+        {
+            "word": "pandemia",
+            "lema": "pandemia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "nuestro",
+            "lema": "nuestro",
+            "pos": "DP1MSP",
+            "prob": "0.957064"
+        },
+        {
+            "word": "tiempo",
+            "lema": "tiempo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        },
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-17T00:00:00.000Z",
-        "debate": "EAJ-JPNV. -- DE LA DIPUTADA DOÑA MILAGROS MARCOS ORTEGA, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR MINISTRO DE AGRICULTURA, PESCA Y ALIMENTACIÓN: ¿PARTICIPÓ DIRECTAMENTE EN LA CONCESIÓN DE SUBVENCIONES ILEGALES A ISOFOTÓN COMO CONSEJERO DE LA JUNTA DE ANDALUCÍA? ",
+        "debate": "EAJ-JPNV. -- DE LA DIPUTADA DO\u00d1A MILAGROS MARCOS ORTEGA, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR MINISTRO DE AGRICULTURA, PESCA Y ALIMENTACI\u00d3N: \u00bfPARTICIP\u00d3 DIRECTAMENTE EN LA CONCESI\u00d3N DE SUBVENCIONES ILEGALES A ISOFOT\u00d3N COMO CONSEJERO DE LA JUNTA DE ANDALUC\u00cdA? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,65 @@
         ],
         "order": 6,
         "path": "../data/diaries-txts/DSCD-14-PL-079.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor ministro de Agricultura, Pesca y Alimentación."
+    "text": "Se\u00f1or ministro de Agricultura, Pesca y Alimentaci\u00f3n.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "ministro",
+            "lema": "ministro",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Agricultura",
+            "lema": "agricultura",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Pesca",
+            "lema": "pesca",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "Alimentaci\u00f3n",
+            "lema": "alimentaci\u00f3n",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-11-18T00:00:00.000Z",
-        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO CIUDADANOS, A LA MINISTRA DE TRABAJO Y ECONOMÍA SOCIAL SOBRE LAS MEDIDAS QUE PIENSA ADOPTAR EL GOBIERNO PARA GARANTIZAR EL DERECHO A LA CONCILIACIÓN DEL TRABAJO Y LA FAMILIA, ESPECIALMENTE ANTE LAS DIFICULTADES EXCEPCIONALES GENERADAS POR LA EMERGENCIA SANITARIA DE LA COVID-19. (CONTINUACIÓN). ",
+        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO CIUDADANOS, A LA MINISTRA DE TRABAJO Y ECONOM\u00cdA SOCIAL SOBRE LAS MEDIDAS QUE PIENSA ADOPTAR EL GOBIERNO PARA GARANTIZAR EL DERECHO A LA CONCILIACI\u00d3N DEL TRABAJO Y LA FAMILIA, ESPECIALMENTE ANTE LAS DIFICULTADES EXCEPCIONALES GENERADAS POR LA EMERGENCIA SANITARIA DE LA COVID-19. (CONTINUACI\u00d3N). ",
         "diputado": [
             {
-                "apellidos": "Hoyo Juliá",
-                "apellidosNombre": "Hoyo Juliá, Belén",
+                "apellidos": "Hoyo Juli\u00e1",
+                "apellidosNombre": "Hoyo Juli\u00e1, Bel\u00e9n",
                 "codParlamentario": 141,
                 "fchAlta": "22/11/2019",
                 "fchBaja": "",
@@ -14,8 +14,8 @@
                 "grupo": "Grupo Parlamentario Popular en el Congreso",
                 "idCircunscripcion": 46,
                 "idLegislatura": 14,
-                "nombre": "Belén",
-                "nombreCircunscripcion": "Valencia/València",
+                "nombre": "Bel\u00e9n",
+                "nombreCircunscripcion": "Valencia/Val\u00e8ncia",
                 "twitter": "https://twitter.com/BelenHoyo",
                 "twitterUserId": "239779545",
                 "twitterUserName": "BelenHoyo"
@@ -24,9 +24,53 @@
         ],
         "order": 50,
         "path": "../data/diaries-txts/DSCD-14-PL-063.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "HOYO JULIÁ"
+        "speacker": "HOYO JULI\u00c1"
     },
-    "text": "Muchas gracias. (Aplausos)."
+    "text": "Muchas gracias. (Aplausos).",
+    "freeling": [
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplausos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

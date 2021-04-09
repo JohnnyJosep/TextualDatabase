@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-17T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA MÍRIAM NOGUERAS I CAMERO, DEL GRUPO PARLAMENTARIO PLURAL, EN SUSTITUCIÓN DE LA DIPUTADA DOÑA LAURA BORRÀS CASTANYER, DEL GRUPO PARLAMENTARIO PLURAL, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿A RAÍZ DE LOS ÚLTIMOS HECHOS, EL GOBIERNO SIGUE PENSANDO QUE LAS RELACIONES ENTRE CATALUÑA Y ESPAÑA SOLO SON UN CONFLICTO INTERNO? ",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DO\u00d1A M\u00cdRIAM NOGUERAS I CAMERO, DEL GRUPO PARLAMENTARIO PLURAL, EN SUSTITUCI\u00d3N DE LA DIPUTADA DO\u00d1A LAURA BORR\u00c0S CASTANYER, DEL GRUPO PARLAMENTARIO PLURAL, QUE FORMULA AL SE\u00d1OR PRESIDENTE DEL GOBIERNO: \u00bfA RA\u00cdZ DE LOS \u00daLTIMOS HECHOS, EL GOBIERNO SIGUE PENSANDO QUE LAS RELACIONES ENTRE CATALU\u00d1A Y ESPA\u00d1A SOLO SON UN CONFLICTO INTERNO? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,47 @@
         ],
         "order": 2,
         "path": "../data/diaries-txts/DSCD-14-PL-079.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor presidente del Gobierno."
+    "text": "Se\u00f1or presidente del Gobierno.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "presidente",
+            "lema": "presidente",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

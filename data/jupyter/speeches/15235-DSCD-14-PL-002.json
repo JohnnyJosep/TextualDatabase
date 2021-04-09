@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-24T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON IVÁN ESPINOSA DE LOS MONTEROS DE SIMÓN, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA A LA SEÑORA VICEPRESIDENTA PRIMERA Y MINISTRA DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCRÁTICA: ¿CONSIDERA QUE LA EXTREMA IZQUIERDA ANTISISTEMA PUEDE SEGUIR FORMANDO PARTE DEL GOBIERNO DE ESPAÑA A LA VISTA DE LOS ACONTECIMIENTOS AUSPICIADOS POR ELLA DURANTE LOS ÚLTIMOS DÍAS? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON IV\u00c1N ESPINOSA DE LOS MONTEROS DE SIM\u00d3N, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA A LA SE\u00d1ORA VICEPRESIDENTA PRIMERA Y MINISTRA DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCR\u00c1TICA: \u00bfCONSIDERA QUE LA EXTREMA IZQUIERDA ANTISISTEMA PUEDE SEGUIR FORMANDO PARTE DEL GOBIERNO DE ESPA\u00d1A A LA VISTA DE LOS ACONTECIMIENTOS AUSPICIADOS POR ELLA DURANTE LOS \u00daLTIMOS D\u00cdAS? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,23 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-082.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Espinosa de los Monteros."
+    "text": "Se\u00f1or Espinosa de los Monteros.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Espinosa_de_los_Monteros",
+            "lema": "se\u00f1or_espinosa_de_los_monteros",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

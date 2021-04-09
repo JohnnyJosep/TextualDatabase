@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-10-27T00:00:00.000Z",
-        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO REPUBLICANO, POR LA QUE SE MODIFICA LA LEY ORGÁNICA 10/1995, DE 23 DE NOVIEMBRE, DEL CÓDIGO PENAL, PARA DESPENALIZAR LAS INJURIAS A LA CORONA Y LOS ULTRAJES A ESPAÑA (ORGÁNICA). ",
+        "debate": "TOMA EN CONSIDERACI\u00d3N DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO REPUBLICANO, POR LA QUE SE MODIFICA LA LEY ORG\u00c1NICA 10/1995, DE 23 DE NOVIEMBRE, DEL C\u00d3DIGO PENAL, PARA DESPENALIZAR LAS INJURIAS A LA CORONA Y LOS ULTRAJES A ESPA\u00d1A (ORG\u00c1NICA). ",
         "diputado": [
             {
-                "apellidos": "Iñarritu García",
-                "apellidosNombre": "Iñarritu García, Jon",
+                "apellidos": "I\u00f1arritu Garc\u00eda",
+                "apellidosNombre": "I\u00f1arritu Garc\u00eda, Jon",
                 "codParlamentario": 62,
                 "fchAlta": "20/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,95 @@
         ],
         "order": 21,
         "path": "../data/diaries-txts/DSCD-14-PL-057.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "IÑARRITU GARCÍA"
+        "speacker": "I\u00d1ARRITU GARC\u00cdA"
     },
-    "text": "… a los criterios de sentido común y europeos. Muchas gracias, señora presidenta."
+    "text": "\u2026 a los criterios de sentido com\u00fan y europeos. Muchas gracias, se\u00f1ora presidenta.",
+    "freeling": [
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "criterios",
+            "lema": "criterio",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "de_sentido_com\u00fan",
+            "lema": "de_sentido_com\u00fan",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "europeos",
+            "lema": "europeo",
+            "pos": "AQ0MP00",
+            "prob": "0.876506"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

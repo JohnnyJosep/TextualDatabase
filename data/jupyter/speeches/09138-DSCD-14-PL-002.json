@@ -1,7 +1,7 @@
 {
     "metadata": {
         "celebrated": "2020-09-30T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO MIXTO (SEÑOR QUEVEDO ITURBE), SOBRE LAS PREVISIONES DEL GOBIERNO PARA ATENDER EL MAYOR IMPACTO DE LA CRISIS EN CANARIAS POR SUS SINGULARIDADES Y SU REFLEJO EN LOS PRESUPUESTOS GENERALES DEL ESTADO PARA EL AÑO 2021. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO MIXTO (SE\u00d1OR QUEVEDO ITURBE), SOBRE LAS PREVISIONES DEL GOBIERNO PARA ATENDER EL MAYOR IMPACTO DE LA CRISIS EN CANARIAS POR SUS SINGULARIDADES Y SU REFLEJO EN LOS PRESUPUESTOS GENERALES DEL ESTADO PARA EL A\u00d1O 2021. ",
         "diputado": [
             {
                 "apellidos": "Quevedo Iturbe",
@@ -21,9 +21,71 @@
         ],
         "order": 15,
         "path": "../data/diaries-txts/DSCD-14-PL-049.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "QUEVEDO ITURBE"
     },
-    "text": "No, he solicitado votación separada punto por punto."
+    "text": "No, he solicitado votaci\u00f3n separada punto por punto.",
+    "freeling": [
+        {
+            "word": "No",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "he",
+            "lema": "haber",
+            "pos": "VAIP1S0",
+            "prob": "0.962485"
+        },
+        {
+            "word": "solicitado",
+            "lema": "solicitar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "votaci\u00f3n",
+            "lema": "votaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "separada",
+            "lema": "separar",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": "punto",
+            "lema": "punto",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "punto",
+            "lema": "punto",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-12-15T00:00:00.000Z",
-        "debate": "PROPOSICIONES NO DE LEY: -- DEL GRUPO PARLAMENTARIO SOCIALISTA, SOBRE EL ABORDAJE DEL IMPACTO SOCIAL Y SANITARIO FRENTE A LA CRECIENTE PROLIFERACIÓN DE LAS CASAS DE APUESTAS Y SALONES DE JUEGO. ",
+        "debate": "PROPOSICIONES NO DE LEY: -- DEL GRUPO PARLAMENTARIO SOCIALISTA, SOBRE EL ABORDAJE DEL IMPACTO SOCIAL Y SANITARIO FRENTE A LA CRECIENTE PROLIFERACI\u00d3N DE LAS CASAS DE APUESTAS Y SALONES DE JUEGO. ",
         "diputado": [
             {
-                "apellidos": "Matute García de Jalón",
-                "apellidosNombre": "Matute García de Jalón, Oskar",
+                "apellidos": "Matute Garc\u00eda de Jal\u00f3n",
+                "apellidosNombre": "Matute Garc\u00eda de Jal\u00f3n, Oskar",
                 "codParlamentario": 63,
                 "fchAlta": "20/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,89 @@
         ],
         "order": 17,
         "path": "../data/diaries-txts/DSCD-14-PL-069.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "MATUTE GARCÍA DE JALÓN"
+        "speacker": "MATUTE GARC\u00cdA DE JAL\u00d3N"
     },
-    "text": "… a la ludopatía. Apustu etxeak campora. (Aplausos)."
+    "text": "\u2026 a la ludopat\u00eda. Apustu etxeak campora. (Aplausos).",
+    "freeling": [
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "ludopat\u00eda",
+            "lema": "ludopat\u00eda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Apustu",
+            "lema": "apustu",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": "etxeak",
+            "lema": "etxeak",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "campora",
+            "lema": "campora",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplausos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

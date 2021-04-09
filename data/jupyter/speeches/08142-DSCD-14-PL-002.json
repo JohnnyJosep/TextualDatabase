@@ -1,7 +1,7 @@
 {
     "metadata": {
         "celebrated": "2020-09-22T00:00:00.000Z",
-        "debate": "PROPOSICIONES NO DE LEY: -- DEL GRUPO PARLAMENTARIO REPUBLICANO, RELATIVA A LA REGULARIZACIÓN EXPRÉS DE PERSONAS INMIGRANTES EN LOS ÁMBITOS SANITARIO, DE LOS CUIDADOS Y AGRARIO. ",
+        "debate": "PROPOSICIONES NO DE LEY: -- DEL GRUPO PARLAMENTARIO REPUBLICANO, RELATIVA A LA REGULARIZACI\u00d3N EXPR\u00c9S DE PERSONAS INMIGRANTES EN LOS \u00c1MBITOS SANITARIO, DE LOS CUIDADOS Y AGRARIO. ",
         "diputado": [
             {
                 "apellidos": "Franco Carmona",
@@ -11,7 +11,7 @@
                 "fchBaja": "",
                 "formacion": "UP",
                 "genero": 2,
-                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común",
+                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Com\u00fa Podem-Galicia en Com\u00fan",
                 "idCircunscripcion": 41,
                 "idLegislatura": 14,
                 "nombre": "Isabel",
@@ -24,9 +24,155 @@
         ],
         "order": 19,
         "path": "../data/diaries-txts/DSCD-14-PL-046.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "FRANCO CARMONA"
     },
-    "text": "Termino, señor presidente. Como dirían nuestras compañeras de Barcelona: el amor gana al odio siempre. (Aplausos)."
+    "text": "Termino, se\u00f1or presidente. Como dir\u00edan nuestras compa\u00f1eras de Barcelona: el amor gana al odio siempre. (Aplausos).",
+    "freeling": [
+        {
+            "word": "Termino",
+            "lema": "terminar",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "presidente",
+            "lema": "presidente",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Como",
+            "lema": "como",
+            "pos": "CS",
+            "prob": "0.967153"
+        },
+        {
+            "word": "dir\u00edan",
+            "lema": "decir",
+            "pos": "VMIC3P0",
+            "prob": "1"
+        },
+        {
+            "word": "nuestras",
+            "lema": "nuestro",
+            "pos": "DP1FPP",
+            "prob": "0.925532"
+        },
+        {
+            "word": "compa\u00f1eras",
+            "lema": "compa\u00f1ero",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Barcelona",
+            "lema": "barcelona",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ":",
+            "lema": ":",
+            "pos": "Fd",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "amor",
+            "lema": "amor",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "gana",
+            "lema": "ganar",
+            "pos": "VMIP3S0",
+            "prob": "0.92638"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "odio",
+            "lema": "odio",
+            "pos": "NCMS000",
+            "prob": "0.980769"
+        },
+        {
+            "word": "siempre",
+            "lema": "siempre",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplausos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

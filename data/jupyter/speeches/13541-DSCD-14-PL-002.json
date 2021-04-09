@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-01-25T00:00:00.000Z",
-        "debate": "DEL DÍA: -- COMP ARECENCIA DEL MINISTRO DE JUSTICIA P ARA INFORMAR SOBRE EL POSICIONAMIENTO Y LAS INTENCIONES DEL GOBIERNO ANTE LA POSIBLE CONCESIÓN DEL INDULTO A LOS PRESOS DEL PROCÉS.",
+        "debate": "DEL D\u00cdA: -- COMP ARECENCIA DEL MINISTRO DE JUSTICIA P ARA INFORMAR SOBRE EL POSICIONAMIENTO Y LAS INTENCIONES DEL GOBIERNO ANTE LA POSIBLE CONCESI\u00d3N DEL INDULTO A LOS PRESOS DEL PROC\u00c9S.",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,35 @@
         ],
         "order": 14,
         "path": "../data/diaries-txts/DSCD-14-PL-073.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Sí, gracias."
+    "text": "S\u00ed, gracias.",
+    "freeling": [
+        {
+            "word": "S\u00ed",
+            "lema": "s\u00ed",
+            "pos": "RG",
+            "prob": "0.654652"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

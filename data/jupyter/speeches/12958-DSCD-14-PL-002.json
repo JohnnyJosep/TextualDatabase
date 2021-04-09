@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-12-16T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JOSEBA ANDONI AGIRRETXEA URRESTI, DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), QUE FORMULA A LA SEÑORA MINISTRA DE DEFENSA: ¿QUÉ PIENSA HACER PARA ELIMINAR LOS POSIBLES FOCOS DE IDEOLOGÍA TOTALITARIA EN EL EJÉRCITO ESPAÑOL? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JOSEBA ANDONI AGIRRETXEA URRESTI, DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), QUE FORMULA A LA SE\u00d1ORA MINISTRA DE DEFENSA: \u00bfQU\u00c9 PIENSA HACER PARA ELIMINAR LOS POSIBLES FOCOS DE IDEOLOG\u00cdA TOTALITARIA EN EL EJ\u00c9RCITO ESPA\u00d1OL? ",
         "diputado": [
             {
-                "apellidos": "Bermúdez de Castro Fernández",
-                "apellidosNombre": "Bermúdez de Castro Fernández, José Antonio",
+                "apellidos": "Berm\u00fadez de Castro Fern\u00e1ndez",
+                "apellidosNombre": "Berm\u00fadez de Castro Fern\u00e1ndez, Jos\u00e9 Antonio",
                 "codParlamentario": 181,
                 "fchAlta": "25/11/2019",
                 "fchBaja": "",
@@ -14,16 +14,516 @@
                 "grupo": "Grupo Parlamentario Popular en el Congreso",
                 "idCircunscripcion": 37,
                 "idLegislatura": 14,
-                "nombre": "José Antonio",
+                "nombre": "Jos\u00e9 Antonio",
                 "nombreCircunscripcion": "Salamanca"
             },
             20
         ],
         "order": 3,
         "path": "../data/diaries-txts/DSCD-14-PL-070.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "MINISTRA DE DEFENSA (Robles Fernández)"
+        "speacker": "MINISTRA DE DEFENSA (Robles Fern\u00e1ndez)"
     },
-    "text": "Gracias, presidenta. Señoría, hace usted referencia a unos hechos del pasado que no representan al ejército actual. Y como me habla de posibles focos de totalitarismo, le diré que en democracia hay que decir a qué posibilidades y a qué totalitarismos se refiere, porque el ejército actual se compone de 120 000 hombres y mujeres perfectamente sujetos a la Constitución española, como el jefe del Estado Mayor de la Defensa ha puesto de relieve. (Aplausos)."
+    "text": "Gracias, presidenta. Se\u00f1or\u00eda, hace usted referencia a unos hechos del pasado que no representan al ej\u00e9rcito actual. Y como me habla de posibles focos de totalitarismo, le dir\u00e9 que en democracia hay que decir a qu\u00e9 posibilidades y a qu\u00e9 totalitarismos se refiere, porque el ej\u00e9rcito actual se compone de 120 000 hombres y mujeres perfectamente sujetos a la Constituci\u00f3n espa\u00f1ola, como el jefe del Estado Mayor de la Defensa ha puesto de relieve. (Aplausos).",
+    "freeling": [
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Se\u00f1or\u00eda",
+            "lema": "se\u00f1or\u00eda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "hace",
+            "lema": "hacer",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": "referencia",
+            "lema": "referencia",
+            "pos": "NCFS000",
+            "prob": "0.989637"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "unos",
+            "lema": "uno",
+            "pos": "DI0MP0",
+            "prob": "0.959952"
+        },
+        {
+            "word": "hechos",
+            "lema": "hecho",
+            "pos": "NCMP000",
+            "prob": "0.848259"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "pasado",
+            "lema": "pasado",
+            "pos": "NCMS000",
+            "prob": "0.0716471"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "representan",
+            "lema": "representar",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "ej\u00e9rcito",
+            "lema": "ej\u00e9rcito",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "actual",
+            "lema": "actual",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "como",
+            "lema": "como",
+            "pos": "CS",
+            "prob": "0.967153"
+        },
+        {
+            "word": "me",
+            "lema": "me",
+            "pos": "PP1CS00",
+            "prob": "0.755196"
+        },
+        {
+            "word": "habla",
+            "lema": "hablar",
+            "pos": "VMIP3S0",
+            "prob": "0.919414"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "posibles",
+            "lema": "posible",
+            "pos": "AQ0CP00",
+            "prob": "1"
+        },
+        {
+            "word": "focos",
+            "lema": "foco",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "totalitarismo",
+            "lema": "totalitarismo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "dir\u00e9",
+            "lema": "decir",
+            "pos": "VMIF1S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "democracia",
+            "lema": "democracia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "hay",
+            "lema": "haber",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "decir",
+            "lema": "decir",
+            "pos": "VMN0000",
+            "prob": "0.998575"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "qu\u00e9",
+            "lema": "qu\u00e9",
+            "pos": "DT0CN0",
+            "prob": "0.216289"
+        },
+        {
+            "word": "posibilidades",
+            "lema": "posibilidad",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "qu\u00e9",
+            "lema": "qu\u00e9",
+            "pos": "DT0CN0",
+            "prob": "0.216289"
+        },
+        {
+            "word": "totalitarismos",
+            "lema": "totalitarismo",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "refiere",
+            "lema": "referir",
+            "pos": "VMIP3S0",
+            "prob": "0.994186"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "porque",
+            "lema": "porque",
+            "pos": "CS",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "ej\u00e9rcito",
+            "lema": "ej\u00e9rcito",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "actual",
+            "lema": "actual",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "compone",
+            "lema": "componer",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "120",
+            "lema": "120",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "000",
+            "lema": "0",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "hombres",
+            "lema": "hombre",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "mujeres",
+            "lema": "mujer",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "perfectamente",
+            "lema": "perfectamente",
+            "pos": "RG",
+            "prob": "0.992424"
+        },
+        {
+            "word": "sujetos",
+            "lema": "sujeto",
+            "pos": "AQ0MP00",
+            "prob": "0.511294"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "Constituci\u00f3n",
+            "lema": "constituci\u00f3n",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": "espa\u00f1ola",
+            "lema": "espa\u00f1ol",
+            "pos": "AQ0FS00",
+            "prob": "0.9614"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "como",
+            "lema": "como",
+            "pos": "CS",
+            "prob": "0.967153"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "jefe",
+            "lema": "jefe",
+            "pos": "NCCS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Estado_Mayor_de_la_Defensa",
+            "lema": "estado_mayor_de_la_defensa",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "puesto_de_relieve",
+            "lema": "poner_de_relieve",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplauso",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

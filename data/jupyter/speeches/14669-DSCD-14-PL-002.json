@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-17T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JOSEBA ANDONI AGIRRETXEA URRESTI, DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), QUE FORMULA A LA SEÑORA MINISTRA DE DEFENSA: ¿VA A RECTIFICAR SUS DECLARACIONES SOBRE LA ACTUACIÓN DEL GOBIERNO VASCO EN EL DERRUMBE DE ZALDÍVAR? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JOSEBA ANDONI AGIRRETXEA URRESTI, DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), QUE FORMULA A LA SE\u00d1ORA MINISTRA DE DEFENSA: \u00bfVA A RECTIFICAR SUS DECLARACIONES SOBRE LA ACTUACI\u00d3N DEL GOBIERNO VASCO EN EL DERRUMBE DE ZALD\u00cdVAR? ",
         "diputado": [
             {
-                "apellidos": "Bermúdez de Castro Fernández",
-                "apellidosNombre": "Bermúdez de Castro Fernández, José Antonio",
+                "apellidos": "Berm\u00fadez de Castro Fern\u00e1ndez",
+                "apellidosNombre": "Berm\u00fadez de Castro Fern\u00e1ndez, Jos\u00e9 Antonio",
                 "codParlamentario": 181,
                 "fchAlta": "25/11/2019",
                 "fchBaja": "",
@@ -14,16 +14,456 @@
                 "grupo": "Grupo Parlamentario Popular en el Congreso",
                 "idCircunscripcion": 37,
                 "idLegislatura": 14,
-                "nombre": "José Antonio",
+                "nombre": "Jos\u00e9 Antonio",
                 "nombreCircunscripcion": "Salamanca"
             },
             20
         ],
         "order": 9,
         "path": "../data/diaries-txts/DSCD-14-PL-079.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "MINISTRA DE DEFENSA (Robles Fernández)"
+        "speacker": "MINISTRA DE DEFENSA (Robles Fern\u00e1ndez)"
     },
-    "text": "Le insisto en que creo que en este momento lo importante es la solidaridad, la empatía y el apoyo a quienes trabajan en el vertedero de Zaldívar, sin ninguna duda el Gobierno vasco, la Administración vasca y todos los que están en ello, y, sobre todo, el cariño y el apoyo a las familias de Alberto y de Joaquín. (Aplausos del Grupo Parlamentario Socialista). --"
+    "text": "Le insisto en que creo que en este momento lo importante es la solidaridad, la empat\u00eda y el apoyo a quienes trabajan en el vertedero de Zald\u00edvar, sin ninguna duda el Gobierno vasco, la Administraci\u00f3n vasca y todos los que est\u00e1n en ello, y, sobre todo, el cari\u00f1o y el apoyo a las familias de Alberto y de Joaqu\u00edn. (Aplausos del Grupo Parlamentario Socialista). --",
+    "freeling": [
+        {
+            "word": "Le",
+            "lema": "le",
+            "pos": "PP3CSD0",
+            "prob": "1"
+        },
+        {
+            "word": "insisto",
+            "lema": "insistir",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "creo",
+            "lema": "creer",
+            "pos": "VMIP1S0",
+            "prob": "0.5"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "este",
+            "lema": "este",
+            "pos": "DD0MS0",
+            "prob": "0.949201"
+        },
+        {
+            "word": "momento",
+            "lema": "momento",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "lo",
+            "lema": "el",
+            "pos": "DA00S0",
+            "prob": "0.665165"
+        },
+        {
+            "word": "importante",
+            "lema": "importante",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "solidaridad",
+            "lema": "solidaridad",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "empat\u00eda",
+            "lema": "empat\u00eda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "apoyo",
+            "lema": "apoyo",
+            "pos": "NCMS000",
+            "prob": "0.998982"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "quienes",
+            "lema": "quien",
+            "pos": "PR0CP00",
+            "prob": "1"
+        },
+        {
+            "word": "trabajan",
+            "lema": "trabajar",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "vertedero",
+            "lema": "vertedero",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Zald\u00edvar",
+            "lema": "zald\u00edvar",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "sin_ninguna_duda",
+            "lema": "sin_ninguna_duda",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "vasco",
+            "lema": "vasco",
+            "pos": "AQ0MS00",
+            "prob": "0.896341"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "Administraci\u00f3n",
+            "lema": "administraci\u00f3n",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "vasca",
+            "lema": "vasco",
+            "pos": "AQ0FS00",
+            "prob": "0.994186"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "todos",
+            "lema": "todo",
+            "pos": "PI0MP00",
+            "prob": "0.293032"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "est\u00e1n",
+            "lema": "estar",
+            "pos": "VMIP3P0",
+            "prob": "0.99949"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "ello",
+            "lema": "ello",
+            "pos": "PD00S00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "sobre",
+            "lema": "sobre",
+            "pos": "SP",
+            "prob": "0.997804"
+        },
+        {
+            "word": "todo",
+            "lema": "todo",
+            "pos": "PI0MS00",
+            "prob": "0.327644"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "cari\u00f1o",
+            "lema": "cari\u00f1o",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "apoyo",
+            "lema": "apoyo",
+            "pos": "NCMS000",
+            "prob": "0.998982"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "familias",
+            "lema": "familia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Alberto",
+            "lema": "alberto",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Joaqu\u00edn",
+            "lema": "joaqu\u00edn",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplauso",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Grupo_Parlamentario_Socialista",
+            "lema": "grupo_parlamentario_socialista",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-10-28T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON PABLO CASADO BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿QUÉ ESTÁ HACIENDO EL GOBIERNO ANTE LA NUEVA OLA DE LA PANDEMIA? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON PABLO CASADO BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR PRESIDENTE DEL GOBIERNO: \u00bfQUE\u0301 EST\u00c1 HACIENDO EL GOBIERNO ANTE LA NUEVA OLA DE LA PANDEMIA? ",
         "diputado": [
             {
-                "apellidos": "Sánchez Pérez-Castejón",
-                "apellidosNombre": "Sánchez Pérez-Castejón, Pedro",
+                "apellidos": "S\u00e1nchez P\u00e9rez-Castej\u00f3n",
+                "apellidosNombre": "S\u00e1nchez P\u00e9rez-Castej\u00f3n, Pedro",
                 "codParlamentario": 274,
                 "fchAlta": "27/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,437 @@
         ],
         "order": 11,
         "path": "../data/diaries-txts/DSCD-14-PL-058.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "PRESIDENTE DEL GOBIERNO (Sánchez Pérez-Castejón)"
+        "speacker": "PRESIDENTE DEL GOBIERNO (S\u00e1nchez P\u00e9rez-Castej\u00f3n)"
     },
-    "text": "… se tiene que levantar o no el estado de alarma? En función de lo que decida el Consejo Interterritorial, donde están representadas todas las comunidades autónomas, el Gobierno de España decidirá si levantar o no en el mes de marzo el estado de alarma y, si no, hasta el 9 de mayo, señoría. Ahí está la propuesta y espero que ustedes la acepten. (Aplausos). --"
+    "text": "\u2026 se tiene que levantar o no el estado de alarma? En funci\u00f3n de lo que decida el Consejo Interterritorial, donde est\u00e1n representadas todas las comunidades aut\u00f3nomas, el Gobierno de Espa\u00f1a decidir\u00e1 si levantar o no en el mes de marzo el estado de alarma y, si no, hasta el 9 de mayo, se\u00f1or\u00eda. Ah\u00ed est\u00e1 la propuesta y espero que ustedes la acepten. (Aplausos). --",
+    "freeling": [
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "tiene",
+            "lema": "tener",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "levantar",
+            "lema": "levantar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "o",
+            "lema": "o",
+            "pos": "CC",
+            "prob": "0.999864"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "estado",
+            "lema": "estado",
+            "pos": "NCMS000",
+            "prob": "0.647596"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "alarma",
+            "lema": "alarma",
+            "pos": "NCFS000",
+            "prob": "0.972603"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        },
+        {
+            "word": "En",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "funci\u00f3n",
+            "lema": "funci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "lo",
+            "lema": "el",
+            "pos": "DA00S0",
+            "prob": "0.665165"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "decida",
+            "lema": "decidir",
+            "pos": "VMSP3S0",
+            "prob": "0.493976"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Consejo_Interterritorial",
+            "lema": "consejo_interterritorial",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "donde",
+            "lema": "donde",
+            "pos": "PR00000",
+            "prob": "0.982827"
+        },
+        {
+            "word": "est\u00e1n",
+            "lema": "estar",
+            "pos": "VMIP3P0",
+            "prob": "0.99949"
+        },
+        {
+            "word": "representadas",
+            "lema": "representar",
+            "pos": "VMP00PF",
+            "prob": "1"
+        },
+        {
+            "word": "todas",
+            "lema": "todo",
+            "pos": "DI0FP0",
+            "prob": "0.934073"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "comunidades",
+            "lema": "comunidad",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "aut\u00f3nomas",
+            "lema": "aut\u00f3nomo",
+            "pos": "AQ0FP00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Gobierno_de_Espa\u00f1a",
+            "lema": "gobierno_de_espa\u00f1a",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "decidir\u00e1",
+            "lema": "decidir",
+            "pos": "VMIF3S0",
+            "prob": "1"
+        },
+        {
+            "word": "si",
+            "lema": "si",
+            "pos": "CS",
+            "prob": "0.999827"
+        },
+        {
+            "word": "levantar",
+            "lema": "levantar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "o",
+            "lema": "o",
+            "pos": "CC",
+            "prob": "0.999864"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "mes_de_marzo",
+            "lema": "[??:??/3/??:??.??:??]",
+            "pos": "W",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "estado",
+            "lema": "estado",
+            "pos": "NCMS000",
+            "prob": "0.647596"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "alarma",
+            "lema": "alarma",
+            "pos": "NCFS000",
+            "prob": "0.972603"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "si",
+            "lema": "si",
+            "pos": "CS",
+            "prob": "0.999827"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "hasta",
+            "lema": "hasta",
+            "pos": "SP",
+            "prob": "0.922749"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "9_de_mayo",
+            "lema": "[??:9/5/??:??.??:??]",
+            "pos": "W",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or\u00eda",
+            "lema": "se\u00f1or\u00eda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Ah\u00ed",
+            "lema": "ah\u00ed",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "est\u00e1",
+            "lema": "estar",
+            "pos": "VMIP3S0",
+            "prob": "0.999398"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "propuesta",
+            "lema": "propuesta",
+            "pos": "NCFS000",
+            "prob": "0.983384"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "espero",
+            "lema": "esperar",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "ustedes",
+            "lema": "usted",
+            "pos": "PP2CP0P",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "lo",
+            "pos": "PP3FSA0",
+            "prob": "0.010734"
+        },
+        {
+            "word": "acepten",
+            "lema": "aceptar",
+            "pos": "VMSP3P0",
+            "prob": "0.941964"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplausos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

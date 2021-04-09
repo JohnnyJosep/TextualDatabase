@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-11-30T00:00:00.000Z",
-        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS: -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL AÑO 2021. ",
+        "debate": "DICT\u00c1MENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS: -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL A\u00d1O 2021. ",
         "diputado": [
             {
-                "apellidos": "Mazón Ramos",
-                "apellidosNombre": "Mazón Ramos, José María",
+                "apellidos": "Maz\u00f3n Ramos",
+                "apellidosNombre": "Maz\u00f3n Ramos, Jos\u00e9 Mar\u00eda",
                 "codParlamentario": 349,
                 "fchAlta": "02/12/2019",
                 "fchBaja": "",
@@ -14,16 +14,132 @@
                 "grupo": "Grupo Parlamentario Mixto",
                 "idCircunscripcion": 39,
                 "idLegislatura": 14,
-                "nombre": "José María",
+                "nombre": "Jos\u00e9 Mar\u00eda",
                 "nombreCircunscripcion": "Cantabria"
             },
             0
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-065.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "MAZÓN RAMOS"
+        "speacker": "MAZ\u00d3N RAMOS"
     },
-    "text": "Buenas tardes. Doy por defendida la enmienda presentada por Coalición Canaria. Muchas gracias. Títulos I y II"
+    "text": "Buenas tardes. Doy por defendida la enmienda presentada por Coalici\u00f3n Canaria. Muchas gracias. T\u00edtulos I y II",
+    "freeling": [
+        {
+            "word": "Buenas",
+            "lema": "bueno",
+            "pos": "AQ0FP00",
+            "prob": "1"
+        },
+        {
+            "word": "tardes",
+            "lema": "tarde",
+            "pos": "NCFP000",
+            "prob": "0.980769"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Doy",
+            "lema": "dar",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "defendida",
+            "lema": "defender",
+            "pos": "VMP00SF",
+            "prob": "0.623747"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "enmienda",
+            "lema": "enmienda",
+            "pos": "NCFS000",
+            "prob": "0.953488"
+        },
+        {
+            "word": "presentada",
+            "lema": "presentar",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "Coalici\u00f3n_Canaria",
+            "lema": "coalici\u00f3n_canaria",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "T\u00edtulos_I",
+            "lema": "t\u00edtulos_i",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "II",
+            "lema": "ii",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

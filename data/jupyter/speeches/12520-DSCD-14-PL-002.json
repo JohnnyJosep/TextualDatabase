@@ -1,7 +1,7 @@
 {
     "metadata": {
         "celebrated": "2020-12-15T00:00:00.000Z",
-        "debate": "PROPOSICIONES NO DE LEY: -- DEL GRUPO PARLAMENTARIO SOCIALISTA, SOBRE EL ABORDAJE DEL IMPACTO SOCIAL Y SANITARIO FRENTE A LA CRECIENTE PROLIFERACIÓN DE LAS CASAS DE APUESTAS Y SALONES DE JUEGO. ",
+        "debate": "PROPOSICIONES NO DE LEY: -- DEL GRUPO PARLAMENTARIO SOCIALISTA, SOBRE EL ABORDAJE DEL IMPACTO SOCIAL Y SANITARIO FRENTE A LA CRECIENTE PROLIFERACI\u00d3N DE LAS CASAS DE APUESTAS Y SALONES DE JUEGO. ",
         "diputado": [
             {
                 "apellidos": "Vicente Viondi",
@@ -24,9 +24,89 @@
         ],
         "order": 29,
         "path": "../data/diaries-txts/DSCD-14-PL-069.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "VICENTE VIONDI"
     },
-    "text": "Aceptamos la que ha presentado el Grupo Parlamentario Socialista y la del Grupo Confederal de Unidas Podemos."
+    "text": "Aceptamos la que ha presentado el Grupo Parlamentario Socialista y la del Grupo Confederal de Unidas Podemos.",
+    "freeling": [
+        {
+            "word": "Aceptamos",
+            "lema": "aceptar",
+            "pos": "VMIP1P0",
+            "prob": "0.65"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "presentado",
+            "lema": "presentar",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Grupo_Parlamentario_Socialista",
+            "lema": "grupo_parlamentario_socialista",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Grupo_Confederal_de_Unidas_Podemos",
+            "lema": "grupo_confederal_de_unidas_podemos",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,7 +1,7 @@
 {
     "metadata": {
         "celebrated": "2020-12-16T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JOSEBA ANDONI AGIRRETXEA URRESTI, DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), QUE FORMULA A LA SEÑORA MINISTRA DE DEFENSA: ¿QUÉ PIENSA HACER PARA ELIMINAR LOS POSIBLES FOCOS DE IDEOLOGÍA TOTALITARIA EN EL EJÉRCITO ESPAÑOL? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JOSEBA ANDONI AGIRRETXEA URRESTI, DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), QUE FORMULA A LA SE\u00d1ORA MINISTRA DE DEFENSA: \u00bfQU\u00c9 PIENSA HACER PARA ELIMINAR LOS POSIBLES FOCOS DE IDEOLOG\u00cdA TOTALITARIA EN EL EJ\u00c9RCITO ESPA\u00d1OL? ",
         "diputado": [
             {
                 "apellidos": "Agirretxea Urresti",
@@ -24,9 +24,425 @@
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-070.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "AGIRRETXEA URRESTI"
     },
-    "text": "Gracias, señora presidenta. Últimamente, hemos sido testigos de una serie de pronunciamientos por parte de grupos de militares retirados totalmente repudiables por su carácter antidemocrático y totalitario, así como de saludos fascistas --como hemos sabido hoy mismo-- y cánticos franquistas en un cuartel de Paracuellos. ¿Qué piensa hacer para eliminar los focos de este tipo de ideología en el Ejército español?"
+    "text": "Gracias, se\u00f1ora presidenta. \u00daltimamente, hemos sido testigos de una serie de pronunciamientos por parte de grupos de militares retirados totalmente repudiables por su car\u00e1cter antidemocr\u00e1tico y totalitario, as\u00ed como de saludos fascistas --como hemos sabido hoy mismo-- y c\u00e1nticos franquistas en un cuartel de Paracuellos. \u00bfQu\u00e9 piensa hacer para eliminar los focos de este tipo de ideolog\u00eda en el Ej\u00e9rcito espa\u00f1ol?",
+    "freeling": [
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "\u00daltimamente",
+            "lema": "\u00faltimamente",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "hemos",
+            "lema": "haber",
+            "pos": "VAIP1P0",
+            "prob": "0.997509"
+        },
+        {
+            "word": "sido",
+            "lema": "ser",
+            "pos": "VSP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "testigos",
+            "lema": "testigo",
+            "pos": "NCCP000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "serie",
+            "lema": "serie",
+            "pos": "NCFS000",
+            "prob": "0.993392"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "pronunciamientos",
+            "lema": "pronunciamiento",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "parte",
+            "lema": "parte",
+            "pos": "NCCS000",
+            "prob": "0.977711"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "grupos",
+            "lema": "grupo",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "militares",
+            "lema": "militar",
+            "pos": "NCCP000",
+            "prob": "0.538874"
+        },
+        {
+            "word": "retirados",
+            "lema": "retirar",
+            "pos": "VMP00PM",
+            "prob": "0.623747"
+        },
+        {
+            "word": "totalmente",
+            "lema": "totalmente",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "repudiables",
+            "lema": "repudiables",
+            "pos": "AQ0CP00",
+            "prob": "0.909136"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "car\u00e1cter",
+            "lema": "car\u00e1cter",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "antidemocr\u00e1tico",
+            "lema": "antidemocr\u00e1tico",
+            "pos": "AQ0MS00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "totalitario",
+            "lema": "totalitario",
+            "pos": "AQ0MS00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "as\u00ed_como",
+            "lema": "as\u00ed_como",
+            "pos": "CC",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "saludos",
+            "lema": "saludo",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "fascistas",
+            "lema": "fascista",
+            "pos": "AQ0CP00",
+            "prob": "0.403846"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": "como",
+            "lema": "como",
+            "pos": "CS",
+            "prob": "0.967153"
+        },
+        {
+            "word": "hemos",
+            "lema": "haber",
+            "pos": "VAIP1P0",
+            "prob": "0.997509"
+        },
+        {
+            "word": "sabido",
+            "lema": "saber",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "hoy",
+            "lema": "hoy",
+            "pos": "RG",
+            "prob": "0.993864"
+        },
+        {
+            "word": "mismo",
+            "lema": "mismo",
+            "pos": "AQ0MS00",
+            "prob": "0.802208"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "c\u00e1nticos",
+            "lema": "c\u00e1ntico",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "franquistas",
+            "lema": "franquista",
+            "pos": "AQ0CP00",
+            "prob": "0.361294"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "cuartel",
+            "lema": "cuartel",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Paracuellos",
+            "lema": "paracuellos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "Qu\u00e9",
+            "lema": "qu\u00e9",
+            "pos": "PT00000",
+            "prob": "0.712513"
+        },
+        {
+            "word": "piensa",
+            "lema": "pensar",
+            "pos": "VMIP3S0",
+            "prob": "0.994186"
+        },
+        {
+            "word": "hacer",
+            "lema": "hacer",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "eliminar",
+            "lema": "eliminar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "focos",
+            "lema": "foco",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "este",
+            "lema": "este",
+            "pos": "DD0MS0",
+            "prob": "0.949201"
+        },
+        {
+            "word": "tipo",
+            "lema": "tipo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "ideolog\u00eda",
+            "lema": "ideolog\u00eda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Ej\u00e9rcito",
+            "lema": "ej\u00e9rcito",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "espa\u00f1ol",
+            "lema": "espa\u00f1ol",
+            "pos": "AQ0MS00",
+            "prob": "0.767229"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        }
+    ]
 }

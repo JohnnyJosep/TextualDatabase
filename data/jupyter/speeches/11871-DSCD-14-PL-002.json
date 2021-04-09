@@ -1,29 +1,97 @@
 {
     "metadata": {
         "celebrated": "2020-12-01T00:00:00.000Z",
-        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (CONTINUACIÓN): -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL AÑO 2021. ",
+        "debate": "DICT\u00c1MENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (CONTINUACI\u00d3N): -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL A\u00d1O 2021. ",
         "diputado": [
             {
                 "apellidos": "Guitarte Gimeno",
-                "apellidosNombre": "Guitarte Gimeno, Tomás",
+                "apellidosNombre": "Guitarte Gimeno, Tom\u00e1s",
                 "codParlamentario": 306,
                 "fchAlta": "28/11/2019",
                 "fchBaja": "",
-                "formacion": "¡Teruel Existe!",
+                "formacion": "\u00a1Teruel Existe!",
                 "genero": 1,
                 "grupo": "Grupo Parlamentario Mixto",
                 "idCircunscripcion": 44,
                 "idLegislatura": 14,
-                "nombre": "Tomás",
+                "nombre": "Tom\u00e1s",
                 "nombreCircunscripcion": "Teruel"
             },
             0
         ],
         "order": 142,
         "path": "../data/diaries-txts/DSCD-14-PL-066.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "GUITARTE GIMENO"
     },
-    "text": "Se aprueba, se publica y luego no se cumple."
+    "text": "Se aprueba, se publica y luego no se cumple.",
+    "freeling": [
+        {
+            "word": "Se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "aprueba",
+            "lema": "aprobar",
+            "pos": "VMIP3S0",
+            "prob": "0.989241"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "publica",
+            "lema": "publicar",
+            "pos": "VMIP3S0",
+            "prob": "0.991071"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "luego",
+            "lema": "luego",
+            "pos": "RG",
+            "prob": "0.998339"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "cumple",
+            "lema": "cumplir",
+            "pos": "VMIP3S0",
+            "prob": "0.994186"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

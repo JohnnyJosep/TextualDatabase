@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-23T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DE LA SEÑORA DIPUT ADA DOÑA PILAR V ALLUGERA BALAÑÀ, DEL GRUPO P ARLAMENT ARIO REPUBLICANO, QUE FORMULA A LA SEÑORA MINISTRA DE IGUALDAD: ¿QUÉ RECURSOS HAN MOVILIZADO, TANTO DIRECTAMENTE COMO A TRAVÉS DE TRANSFERENCIAS A LAS ADMINISTRACIONES COMPETENTES, EN RELACIÓN AL CIERRE DE PROSTÍBULOS POR ",
+        "debate": "PREGUNTAS: -- DE LA SE\u00d1ORA DIPUT ADA DO\u00d1A PILAR V ALLUGERA BALA\u00d1\u00c0, DEL GRUPO P ARLAMENT ARIO REPUBLICANO, QUE FORMULA A LA SE\u00d1ORA MINISTRA DE IGUALDAD: \u00bfQU\u00c9 RECURSOS HAN MOVILIZADO, TANTO DIRECTAMENTE COMO A TRAV\u00c9S DE TRANSFERENCIAS A LAS ADMINISTRACIONES COMPETENTES, EN RELACI\u00d3N AL CIERRE DE PROST\u00cdBULOS POR ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,53 @@
         ],
         "order": 9,
         "path": "../data/diaries-txts/DSCD-14-PL-047.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Muchísimas gracias, ministra. --"
+    "text": "Much\u00edsimas gracias, ministra. --",
+    "freeling": [
+        {
+            "word": "Much\u00edsimas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.763114"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "ministra",
+            "lema": "ministro",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

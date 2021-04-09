@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-11-17T00:00:00.000Z",
-        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, ORGÁNICA DE PROTECCIÓN DE LA SALUD Y DE LOS DERECHOS Y LIBERTADES FUNDAMENTALES. ",
+        "debate": "TOMA EN CONSIDERACI\u00d3N DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, ORG\u00c1NICA DE PROTECCI\u00d3N DE LA SALUD Y DE LOS DERECHOS Y LIBERTADES FUNDAMENTALES. ",
         "diputado": [
             {
-                "apellidos": "Sánchez García",
-                "apellidosNombre": "Sánchez García, José María",
+                "apellidos": "S\u00e1nchez Garc\u00eda",
+                "apellidosNombre": "S\u00e1nchez Garc\u00eda, Jos\u00e9 Mar\u00eda",
                 "codParlamentario": 322,
                 "fchAlta": "28/11/2019",
                 "fchBaja": "",
@@ -14,16 +14,78 @@
                 "grupo": "Grupo Parlamentario VOX",
                 "idCircunscripcion": 3,
                 "idLegislatura": 14,
-                "nombre": "José María",
+                "nombre": "Jos\u00e9 Mar\u00eda",
                 "nombreCircunscripcion": "Alicante/Alacant"
             },
             0
         ],
         "order": 13,
         "path": "../data/diaries-txts/DSCD-14-PL-062.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "SÁNCHEZ GARCÍA"
+        "speacker": "S\u00c1NCHEZ GARC\u00cdA"
     },
-    "text": "... severos ante los tribunales… (Rumores)."
+    "text": "... severos ante los tribunales\u2026 (Rumores).",
+    "freeling": [
+        {
+            "word": "...",
+            "lema": "...",
+            "pos": "Fs",
+            "prob": "1"
+        },
+        {
+            "word": "severos",
+            "lema": "severo",
+            "pos": "AQ0MP00",
+            "prob": "1"
+        },
+        {
+            "word": "ante",
+            "lema": "ante",
+            "pos": "SP",
+            "prob": "0.999744"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "tribunales",
+            "lema": "tribunal",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Rumores",
+            "lema": "rumores",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

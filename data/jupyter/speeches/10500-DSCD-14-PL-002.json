@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-10-28T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON IÑAKI RUIZ DE PINEDO UNDIANO, DEL GRUPO PARLAMENTARIO EUSKAL HERRIA BILDU, QUE FORMULA AL SEÑOR MINISTRO DE CONSUMO: ¿ANTE LA PERSISTENCIA DE LA PANDEMIA Y LA GRAN CARGA ECONÓMICA QUE SUPONE EL GASTO EN MASCARILLAS, ESPECIALMENTE A LAS FAMILIAS MÁS VULNERABLES, TIENE PREVISTA ALGUNA MEDIDA PARA RESPONDER A ESTA SITUACIÓN? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON I\u00d1AKI RUIZ DE PINEDO UNDIANO, DEL GRUPO PARLAMENTARIO EUSKAL HERRIA BILDU, QUE FORMULA AL SE\u00d1OR MINISTRO DE CONSUMO: \u00bfANTE LA PERSISTENCIA DE LA PANDEMIA Y LA GRAN CARGA ECON\u00d3MICA QUE SUPONE EL GASTO EN MASCARILLAS, ESPECIALMENTE A LAS FAMILIAS M\u00c1S VULNERABLES, TIENE PREVISTA ALGUNA MEDIDA PARA RESPONDER A ESTA SITUACI\u00d3N? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,131 @@
         ],
         "order": 0,
         "path": "../data/diaries-txts/DSCD-14-PL-058.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Pregunta dirigida al señor ministro de Consumo. Pregunta del diputado don Iñaki Ruiz de Pinedo Undiano, del Grupo Parlamentario Euskal Herria Bildu."
+    "text": "Pregunta dirigida al se\u00f1or ministro de Consumo. Pregunta del diputado don I\u00f1aki Ruiz de Pinedo Undiano, del Grupo Parlamentario Euskal Herria Bildu.",
+    "freeling": [
+        {
+            "word": "Pregunta",
+            "lema": "preguntar",
+            "pos": "VMIP3S0",
+            "prob": "0.300493"
+        },
+        {
+            "word": "dirigida",
+            "lema": "dirigir",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "ministro",
+            "lema": "ministro",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Consumo",
+            "lema": "consumo",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Pregunta",
+            "lema": "preguntar",
+            "pos": "VMIP3S0",
+            "prob": "0.300493"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "diputado",
+            "lema": "diputado",
+            "pos": "NCMS000",
+            "prob": "0.997382"
+        },
+        {
+            "word": "don",
+            "lema": "don",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "I\u00f1aki_Ruiz_de_Pinedo_Undiano",
+            "lema": "i\u00f1aki_ruiz_de_pinedo_undiano",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Grupo_Parlamentario_Euskal_Herria_Bildu",
+            "lema": "grupo_parlamentario_euskal_herria_bildu",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

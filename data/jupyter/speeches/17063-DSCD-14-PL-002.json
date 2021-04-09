@@ -4,8 +4,8 @@
         "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, SOBRE LAS RAZONES QUE TIENE EL GOBIERNO PARA MODIFICAR LA REFORMA LABORAL. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,833 @@
         ],
         "order": 47,
         "path": "../data/diaries-txts/DSCD-14-PL-091.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Gracias, señor Esteban. (La señora Uriarte Bengoechea pide la palabra por alusiones). Señora Uriarte, no ha habido ninguna alusión ni a su grupo parlamentario ni a usted como portavoz. (Protestas de la señora Uriarte Bengoechea). Señora Uriarte, por favor. (La señora Uriarte Bengoechea continúa hablando desde su escaño). Señora Uriarte, por favor, la llamo al orden por primera vez. -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, PARA QUE EL GOBIERNO ACLARE SU POSICIÓN RESPECTO A LA AUSENCIA DE PRESIDENCIA DE LA SOCIEDAD ESTATAL DE PARTICIPACIONES INDUSTRIALES (SEPI) DURANTE 17 MESES, LA ESCASA ADJUDICACIÓN, DESPUÉS DE 9 MESES DEL FONDO DE APOYO A LA SOLVENCIA DE EMPRESAS ESTRATÉGICAS, Y EL INCUMPLIMIENTO DE INFORMACIÓN DE LA ÚNICA OPERACIÓN APROBADA EN LA QUE HA TRANSCURRIDO EL PLAZO LEGAL."
+    "text": "Gracias, se\u00f1or Esteban. (La se\u00f1ora Uriarte Bengoechea pide la palabra por alusiones). Se\u00f1ora Uriarte, no ha habido ninguna alusi\u00f3n ni a su grupo parlamentario ni a usted como portavoz. (Protestas de la se\u00f1ora Uriarte Bengoechea). Se\u00f1ora Uriarte, por favor. (La se\u00f1ora Uriarte Bengoechea contin\u00faa hablando desde su esca\u00f1o). Se\u00f1ora Uriarte, por favor, la llamo al orden por primera vez. -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, PARA QUE EL GOBIERNO ACLARE SU POSICI\u00d3N RESPECTO A LA AUSENCIA DE PRESIDENCIA DE LA SOCIEDAD ESTATAL DE PARTICIPACIONES INDUSTRIALES (SEPI) DURANTE 17 MESES, LA ESCASA ADJUDICACI\u00d3N, DESPU\u00c9S DE 9 MESES DEL FONDO DE APOYO A LA SOLVENCIA DE EMPRESAS ESTRAT\u00c9GICAS, Y EL INCUMPLIMIENTO DE INFORMACI\u00d3N DE LA \u00daNICA OPERACI\u00d3N APROBADA EN LA QUE HA TRANSCURRIDO EL PLAZO LEGAL.",
+    "freeling": [
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "Esteban",
+            "lema": "esteban",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "La",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "Uriarte_Bengoechea",
+            "lema": "uriarte_bengoechea",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": "pide",
+            "lema": "pedir",
+            "pos": "VMIP3S0",
+            "prob": "0.997449"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "palabra",
+            "lema": "palabra",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "alusiones",
+            "lema": "alusi\u00f3n",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Se\u00f1ora_Uriarte",
+            "lema": "se\u00f1ora_uriarte",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "habido",
+            "lema": "haber",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "ninguna",
+            "lema": "ninguno",
+            "pos": "DI0FS0",
+            "prob": "0.829392"
+        },
+        {
+            "word": "alusi\u00f3n",
+            "lema": "alusi\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "ni",
+            "lema": "ni",
+            "pos": "CC",
+            "prob": "0.834853"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "grupo",
+            "lema": "grupo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "parlamentario",
+            "lema": "parlamentario",
+            "pos": "AQ0MS00",
+            "prob": "0.685185"
+        },
+        {
+            "word": "ni",
+            "lema": "ni",
+            "pos": "CC",
+            "prob": "0.834853"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": "como",
+            "lema": "como",
+            "pos": "CS",
+            "prob": "0.967153"
+        },
+        {
+            "word": "portavoz",
+            "lema": "portavoz",
+            "pos": "NCCS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Protestas",
+            "lema": "protesta",
+            "pos": "NCFP000",
+            "prob": "0.995868"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "Uriarte_Bengoechea",
+            "lema": "uriarte_bengoechea",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Se\u00f1ora_Uriarte",
+            "lema": "se\u00f1ora_uriarte",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por_favor",
+            "lema": "por_favor",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "La",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "Uriarte_Bengoechea",
+            "lema": "uriarte_bengoechea",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": "contin\u00faa",
+            "lema": "continuar",
+            "pos": "VMIP3S0",
+            "prob": "0.99569"
+        },
+        {
+            "word": "hablando",
+            "lema": "hablar",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": "desde",
+            "lema": "desde",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "esca\u00f1o",
+            "lema": "esca\u00f1o",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Se\u00f1ora_Uriarte",
+            "lema": "se\u00f1ora_uriarte",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por_favor",
+            "lema": "por_favor",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "llamo",
+            "lema": "llamar",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "orden",
+            "lema": "orden",
+            "pos": "NCCS000",
+            "prob": "1"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "primera",
+            "lema": "1",
+            "pos": "AO0FS00",
+            "prob": "0.995242"
+        },
+        {
+            "word": "vez",
+            "lema": "vez",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "GRUPO_PARLAMENTARIO",
+            "lema": "grupo_parlamentario",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "POPULAR",
+            "lema": "popular",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "EN",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "CONGRESO",
+            "lema": "congreso",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "PARA",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "QUE",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "GOBIERNO",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "ACLARE",
+            "lema": "aclarar",
+            "pos": "VMSP3S0",
+            "prob": "0.478376"
+        },
+        {
+            "word": "SU",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "POSICI\u00d3N",
+            "lema": "posici\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "RESPECTO_A",
+            "lema": "respecto_a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "LA",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "AUSENCIA",
+            "lema": "ausencia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "PRESIDENCIA",
+            "lema": "presidencia",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "LA",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "SOCIEDAD",
+            "lema": "sociedad",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "ESTATAL",
+            "lema": "estatal",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "PARTICIPACIONES",
+            "lema": "participaci\u00f3n",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "INDUSTRIALES",
+            "lema": "industrial",
+            "pos": "AQ0CP00",
+            "prob": "0.891626"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "SEPI",
+            "lema": "sepi",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": "DURANTE",
+            "lema": "durante",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "17",
+            "lema": "17",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "MESES",
+            "lema": "mes",
+            "pos": "NCMP000",
+            "prob": "0.999436"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "LA",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "ESCASA",
+            "lema": "escaso",
+            "pos": "AQ0FS00",
+            "prob": "0.916667"
+        },
+        {
+            "word": "ADJUDICACI\u00d3N",
+            "lema": "adjudicaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "DESPU\u00c9S_DE",
+            "lema": "despu\u00e9s_de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "9",
+            "lema": "9",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "MESES",
+            "lema": "mes",
+            "pos": "NCMP000",
+            "prob": "0.999436"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "FONDO",
+            "lema": "fondo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "APOYO_A_LA_SOLVENCIA_DE_EMPRESAS_ESTRAT\u00c9GICAS",
+            "lema": "apoyo_a_la_solvencia_de_empresas_estrat\u00e9gicas",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "Y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "INCUMPLIMIENTO",
+            "lema": "incumplimiento",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "INFORMACI\u00d3N",
+            "lema": "informaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "DE",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "LA",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "\u00daNICA",
+            "lema": "\u00fanico",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": "OPERACI\u00d3N",
+            "lema": "operaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "APROBADA",
+            "lema": "aprobar",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": "EN",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "LA",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "QUE",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "HA",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "TRANSCURRIDO",
+            "lema": "transcurrir",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "EL",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "PLAZO",
+            "lema": "plazo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "LEGAL",
+            "lema": "legal",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

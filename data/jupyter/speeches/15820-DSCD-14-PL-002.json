@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-10T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA CAROLINA TELECHEA I LOZANO, DEL GRUPO PARLAMENTARIO REPUBLICANO, QUE FORMULA AL GOBIERNO: ¿CUÁNTAS REGULARIZACIONES EXTRAORDINARIAS DE MÁS DE UN MILLÓN DE EUROS TIENE CONTABILIZADAS EL MINISTERIO EN EL ÚLTIMO AÑO? ",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DO\u00d1A CAROLINA TELECHEA I LOZANO, DEL GRUPO PARLAMENTARIO REPUBLICANO, QUE FORMULA AL GOBIERNO: \u00bfCU\u00c1NTAS REGULARIZACIONES EXTRAORDINARIAS DE M\u00c1S DE UN MILL\u00d3N DE EUROS TIENE CONTABILIZADAS EL MINISTERIO EN EL \u00daLTIMO A\u00d1O? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,23 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-085.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señora Telechea."
+    "text": "Se\u00f1ora Telechea.",
+    "freeling": [
+        {
+            "word": "Se\u00f1ora_Telechea",
+            "lema": "se\u00f1ora_telechea",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

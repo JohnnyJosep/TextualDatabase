@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-15T00:00:00.000Z",
-        "debate": "PROPOSICIONES NO DE LEY: -- DEL GRUPO PARLAMENTARIO VOX, RELATIVA A LA ELABORACIÓN URGENTE DE UN PLAN NACIONAL PARA LA INDUSTRIA EN ESPAÑA. ",
+        "debate": "PROPOSICIONES NO DE LEY: -- DEL GRUPO PARLAMENTARIO VOX, RELATIVA A LA ELABORACI\u00d3N URGENTE DE UN PLAN NACIONAL PARA LA INDUSTRIA EN ESPA\u00d1A. ",
         "diputado": [
             {
-                "apellidos": "Rueda Perelló",
-                "apellidosNombre": "Rueda Perelló, Patricia",
+                "apellidos": "Rueda Perell\u00f3",
+                "apellidosNombre": "Rueda Perell\u00f3, Patricia",
                 "codParlamentario": 75,
                 "fchAlta": "20/11/2019",
                 "fchBaja": "",
@@ -15,7 +15,7 @@
                 "idCircunscripcion": 29,
                 "idLegislatura": 14,
                 "nombre": "Patricia",
-                "nombreCircunscripcion": "Málaga",
+                "nombreCircunscripcion": "M\u00e1laga",
                 "twitter": "https://twitter.com/_patricia_rueda",
                 "twitterUserId": "2613310915",
                 "twitterUserName": "_patricia_rueda"
@@ -24,9 +24,47 @@
         ],
         "order": 29,
         "path": "../data/diaries-txts/DSCD-14-PL-044.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "RUEDA PERELLÓ"
+        "speacker": "RUEDA PERELL\u00d3"
     },
-    "text": "Sí, aceptamos una transaccional."
+    "text": "S\u00ed, aceptamos una transaccional.",
+    "freeling": [
+        {
+            "word": "S\u00ed",
+            "lema": "s\u00ed",
+            "pos": "RG",
+            "prob": "0.654652"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "aceptamos",
+            "lema": "aceptar",
+            "pos": "VMIP1P0",
+            "prob": "0.65"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "transaccional",
+            "lema": "transaccional",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

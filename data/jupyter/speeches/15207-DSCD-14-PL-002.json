@@ -1,7 +1,7 @@
 {
     "metadata": {
         "celebrated": "2021-02-24T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON AITOR ESTEBAN BRAVO, DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿QUÉ BALANCE HACE DE LA SITUACIÓN POLÍTICA? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON AITOR ESTEBAN BRAVO, DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), QUE FORMULA AL SE\u00d1OR PRESIDENTE DEL GOBIERNO: \u00bfQU\u00c9 BALANCE HACE DE LA SITUACI\u00d3N POL\u00cdTICA? ",
         "diputado": [
             {
                 "apellidos": "Esteban Bravo",
@@ -24,9 +24,101 @@
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-082.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "ESTEBAN BRA VO"
     },
-    "text": "Señor presidente, ¿qué balance hace de la situación política en este momento?"
+    "text": "Se\u00f1or presidente, \u00bfqu\u00e9 balance hace de la situaci\u00f3n pol\u00edtica en este momento?",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "presidente",
+            "lema": "presidente",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "qu\u00e9",
+            "lema": "qu\u00e9",
+            "pos": "DT0CN0",
+            "prob": "0.216289"
+        },
+        {
+            "word": "balance",
+            "lema": "balance",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "hace",
+            "lema": "hacer",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "situaci\u00f3n",
+            "lema": "situaci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "pol\u00edtica",
+            "lema": "pol\u00edtico",
+            "pos": "AQ0FS00",
+            "prob": "0.261038"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "este",
+            "lema": "este",
+            "pos": "DD0MS0",
+            "prob": "0.949201"
+        },
+        {
+            "word": "momento",
+            "lema": "momento",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        }
+    ]
 }

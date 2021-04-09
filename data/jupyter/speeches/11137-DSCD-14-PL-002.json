@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-11-18T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA ANA BELÉN VÁZQUEZ BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿QUÉ MEDIDAS VA A TOMAR PARA SOLUCIONAR LA CRISIS DE LA LLEGADA MASIVA DE INMIGRANTES IRREGULARES A CANARIAS? ",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DO\u00d1A ANA BEL\u00c9N V\u00c1ZQUEZ BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR MINISTRO DEL INTERIOR: \u00bfQU\u00c9 MEDIDAS VA A TOMAR PARA SOLUCIONAR LA CRISIS DE LA LLEGADA MASIVA DE INMIGRANTES IRREGULARES A CANARIAS? ",
         "diputado": [
             {
-                "apellidos": "Álvarez de Toledo Peralta-Ramos",
-                "apellidosNombre": "Álvarez de Toledo Peralta-Ramos, Cayetana",
+                "apellidos": "\u00c1lvarez de Toledo Peralta-Ramos",
+                "apellidosNombre": "\u00c1lvarez de Toledo Peralta-Ramos, Cayetana",
                 "codParlamentario": 308,
                 "fchAlta": "28/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,629 @@
         ],
         "order": 7,
         "path": "../data/diaries-txts/DSCD-14-PL-063.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "MINISTRO DEL INTERIOR (Grande-Marlaska Gómez)"
+        "speacker": "MINISTRO DEL INTERIOR (Grande-Marlaska G\u00f3mez)"
     },
-    "text": "Brevemente, sea menos electoralista y sea más partido de Estado. (Rumores). Nosotros estamos haciendo política migratoria y, ¿saben lo que hicieron ustedes? Deshacer todas las infraestructuras. ¿Por qué ahora estamos trabajando en infraestructuras en Canarias? Porque ustedes las deshicieron durante siete años. ¿Por qué también en la Península y lo hemos conseguido en los años precedentes? Porque hemos puesto esas infraestructuras. Hoy ya serán trasladados los primeros migrantes desde el puerto de Arguineguin a Barranco Seco y así continuará. Y, evidente, … (Aplausos)."
+    "text": "Brevemente, sea menos electoralista y sea m\u00e1s partido de Estado. (Rumores). Nosotros estamos haciendo pol\u00edtica migratoria y, \u00bfsaben lo que hicieron ustedes? Deshacer todas las infraestructuras. \u00bfPor qu\u00e9 ahora estamos trabajando en infraestructuras en Canarias? Porque ustedes las deshicieron durante siete a\u00f1os. \u00bfPor qu\u00e9 tambi\u00e9n en la Pen\u00ednsula y lo hemos conseguido en los a\u00f1os precedentes? Porque hemos puesto esas infraestructuras. Hoy ya ser\u00e1n trasladados los primeros migrantes desde el puerto de Arguineguin a Barranco Seco y as\u00ed continuar\u00e1. Y, evidente, \u2026 (Aplausos).",
+    "freeling": [
+        {
+            "word": "Brevemente",
+            "lema": "brevemente",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "sea",
+            "lema": "ser",
+            "pos": "VSSP1S0",
+            "prob": "0.49434"
+        },
+        {
+            "word": "menos",
+            "lema": "menos",
+            "pos": "RG",
+            "prob": "0.990694"
+        },
+        {
+            "word": "electoralista",
+            "lema": "electoralista",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "sea",
+            "lema": "ser",
+            "pos": "VSSP1S0",
+            "prob": "0.49434"
+        },
+        {
+            "word": "m\u00e1s",
+            "lema": "m\u00e1s",
+            "pos": "RG",
+            "prob": "0.99993"
+        },
+        {
+            "word": "partido",
+            "lema": "partido",
+            "pos": "NCMS000",
+            "prob": "0.99971"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Estado",
+            "lema": "estado",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Rumores",
+            "lema": "rumores",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Nosotros",
+            "lema": "nosotros",
+            "pos": "PP1MP00",
+            "prob": "1"
+        },
+        {
+            "word": "estamos",
+            "lema": "estar",
+            "pos": "VMIP1P0",
+            "prob": "0.998282"
+        },
+        {
+            "word": "haciendo",
+            "lema": "hacendar",
+            "pos": "VMIP1S0",
+            "prob": "0.00268817"
+        },
+        {
+            "word": "pol\u00edtica",
+            "lema": "pol\u00edtica",
+            "pos": "NCFS000",
+            "prob": "0.369481"
+        },
+        {
+            "word": "migratoria",
+            "lema": "migratorio",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "saben",
+            "lema": "saber",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "lo",
+            "lema": "lo",
+            "pos": "PP3MSA0",
+            "prob": "0.334764"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "hicieron",
+            "lema": "hacer",
+            "pos": "VMIS3P0",
+            "prob": "1"
+        },
+        {
+            "word": "ustedes",
+            "lema": "usted",
+            "pos": "PP2CP0P",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        },
+        {
+            "word": "Deshacer",
+            "lema": "deshacer",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "todas",
+            "lema": "todo",
+            "pos": "DI0FP0",
+            "prob": "0.934073"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "infraestructuras",
+            "lema": "infraestructura",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "Por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "qu\u00e9",
+            "lema": "qu\u00e9",
+            "pos": "PT00000",
+            "prob": "0.712513"
+        },
+        {
+            "word": "ahora",
+            "lema": "ahora",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "estamos",
+            "lema": "estar",
+            "pos": "VAIP1P0",
+            "prob": "0.00171821"
+        },
+        {
+            "word": "trabajando",
+            "lema": "trabajar",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "infraestructuras",
+            "lema": "infraestructura",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "Canarias",
+            "lema": "canarias",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        },
+        {
+            "word": "Porque",
+            "lema": "porque",
+            "pos": "CS",
+            "prob": "1"
+        },
+        {
+            "word": "ustedes",
+            "lema": "usted",
+            "pos": "PP2CP0P",
+            "prob": "1"
+        },
+        {
+            "word": "las",
+            "lema": "lo",
+            "pos": "PP3FPA0",
+            "prob": "0.011793"
+        },
+        {
+            "word": "deshicieron",
+            "lema": "deshacer",
+            "pos": "VMIS3P0",
+            "prob": "1"
+        },
+        {
+            "word": "durante",
+            "lema": "durante",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "siete",
+            "lema": "7",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "a\u00f1os",
+            "lema": "a\u00f1o",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "Por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "qu\u00e9",
+            "lema": "qu\u00e9",
+            "pos": "PT00000",
+            "prob": "0.712513"
+        },
+        {
+            "word": "tambi\u00e9n",
+            "lema": "tambi\u00e9n",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "Pen\u00ednsula",
+            "lema": "pen\u00ednsula",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "lo",
+            "lema": "lo",
+            "pos": "PP3MSA0",
+            "prob": "0.334764"
+        },
+        {
+            "word": "hemos",
+            "lema": "haber",
+            "pos": "VAIP1P0",
+            "prob": "0.997509"
+        },
+        {
+            "word": "conseguido",
+            "lema": "conseguir",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "a\u00f1os",
+            "lema": "a\u00f1o",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "precedentes",
+            "lema": "precedente",
+            "pos": "AQ0CP00",
+            "prob": "0.119565"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        },
+        {
+            "word": "Porque",
+            "lema": "porque",
+            "pos": "CS",
+            "prob": "1"
+        },
+        {
+            "word": "hemos",
+            "lema": "haber",
+            "pos": "VAIP1P0",
+            "prob": "0.997509"
+        },
+        {
+            "word": "puesto",
+            "lema": "poner",
+            "pos": "VMP00SM",
+            "prob": "0.400249"
+        },
+        {
+            "word": "esas",
+            "lema": "ese",
+            "pos": "DD0FP0",
+            "prob": "0.869004"
+        },
+        {
+            "word": "infraestructuras",
+            "lema": "infraestructura",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Hoy",
+            "lema": "hoy",
+            "pos": "RG",
+            "prob": "0.993864"
+        },
+        {
+            "word": "ya",
+            "lema": "ya",
+            "pos": "RG",
+            "prob": "0.999785"
+        },
+        {
+            "word": "ser\u00e1n",
+            "lema": "ser",
+            "pos": "VSIF3P0",
+            "prob": "1"
+        },
+        {
+            "word": "trasladados",
+            "lema": "trasladar",
+            "pos": "VMP00PM",
+            "prob": "1"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "primeros",
+            "lema": "1",
+            "pos": "AO0MP00",
+            "prob": "1"
+        },
+        {
+            "word": "migrantes",
+            "lema": "migrante",
+            "pos": "AQ0CP00",
+            "prob": "1"
+        },
+        {
+            "word": "desde",
+            "lema": "desde",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "puerto",
+            "lema": "puerto",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Arguineguin",
+            "lema": "arguineguin",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "Barranco_Seco",
+            "lema": "barranco_seco",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "as\u00ed",
+            "lema": "as\u00ed",
+            "pos": "RG",
+            "prob": "0.999409"
+        },
+        {
+            "word": "continuar\u00e1",
+            "lema": "continuar",
+            "pos": "VMIF3S0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "evidente",
+            "lema": "evidente",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "\u2026",
+            "lema": "\u2026",
+            "pos": "Fz",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplauso",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

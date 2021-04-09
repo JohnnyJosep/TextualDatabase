@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-09T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO MIXTO (SEÑOR MARTÍNEZ OBLANCA), SOBRE EL PROYECTO DE ORDEN DEL MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO PARA INCLUIR A TODAS LAS POBLACIONES DE LOBO IBÉRICO EN EL LISTADO DE ESPECIES EN RÉGIMEN DE ESPECIAL PROTECCIÓN TRAS LA RECIENTE DECISIÓN ADOPTADA POR LA COMISIÓN ESTATAL PARA EL PATRIMONIO NATURAL Y DE LA BIODIVERSIDAD CON EL RECHAZO DE LAS COMUNIDADES AUTÓNOMAS AFECTADAS, ASÍ COMO SUS GRAVES REPERCUSIONES PARA UNA PARTE MUY IMPORTANTE DEL SECTOR GANADERO DE LOS TERRITORIOS AL NORTE DEL DUERO. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO MIXTO (SE\u00d1OR MART\u00cdNEZ OBLANCA), SOBRE EL PROYECTO DE ORDEN DEL MINISTERIO PARA LA TRANSICI\u00d3N ECOL\u00d3GICA Y EL RETO DEMOGR\u00c1FICO PARA INCLUIR A TODAS LAS POBLACIONES DE LOBO IB\u00c9RICO EN EL LISTADO DE ESPECIES EN R\u00c9GIMEN DE ESPECIAL PROTECCI\u00d3N TRAS LA RECIENTE DECISI\u00d3N ADOPTADA POR LA COMISI\u00d3N ESTATAL PARA EL PATRIMONIO NATURAL Y DE LA BIODIVERSIDAD CON EL RECHAZO DE LAS COMUNIDADES AUT\u00d3NOMAS AFECTADAS, AS\u00cd COMO SUS GRAVES REPERCUSIONES PARA UNA PARTE MUY IMPORTANTE DEL SECTOR GANADERO DE LOS TERRITORIOS AL NORTE DEL DUERO. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,65 @@
         ],
         "order": 24,
         "path": "../data/diaries-txts/DSCD-14-PL-084.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señora Bueno, tiene que terminar, por favor."
+    "text": "Se\u00f1ora Bueno, tiene que terminar, por favor.",
+    "freeling": [
+        {
+            "word": "Se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "Bueno",
+            "lema": "bueno",
+            "pos": "AQ0MS00",
+            "prob": "0.824675"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "tiene",
+            "lema": "tener",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "terminar",
+            "lema": "terminar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "por_favor",
+            "lema": "por_favor",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

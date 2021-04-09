@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-23T00:00:00.000Z",
-        "debate": "DECLARACIÓN INSTITUCIONAL: -- DECLARACIÓN INSTITUCIONAL CON OCASIÓN DEL DÍA INTERNACIONAL CONTRA LA EXPLOTACIÓN SEXUAL Y EL TRÁFICO DE MUJERES, NIÑAS Y NIÑOS. ",
+        "debate": "DECLARACI\u00d3N INSTITUCIONAL: -- DECLARACI\u00d3N INSTITUCIONAL CON OCASI\u00d3N DEL D\u00cdA INTERNACIONAL CONTRA LA EXPLOTACI\u00d3N SEXUAL Y EL TR\u00c1FICO DE MUJERES, NI\u00d1AS Y NI\u00d1OS. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,29 @@
         ],
         "order": 2,
         "path": "../data/diaries-txts/DSCD-14-PL-047.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Muchísimas gracias."
+    "text": "Much\u00edsimas gracias.",
+    "freeling": [
+        {
+            "word": "Much\u00edsimas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.763114"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

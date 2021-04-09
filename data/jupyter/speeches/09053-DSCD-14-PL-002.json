@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-30T00:00:00.000Z",
-        "debate": "PREGUNTA DEL DIPUTADO DON PABLO CASADO BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿ESTÁ PROTEGIENDO EL FUTURO DE LOS ESPAÑOLES? -- DE LA DIPUT ADA DOÑA ANA MARÍA ORAMAS GONZÁLEZ-MORO, DEL GRUPO P ARLAMENT ARIO MIXTO, QUE FORMULA AL GOBIERNO: ¿QUÉ MEDIDAS URGENTES TIENE PREVISTAS EL GOBIERNO PARA HACER FRENTE A LA GRAVE SITUACIÓN ECONÓMICA Y SOCIAL DE CANARIAS, POR EL NUEVO CERO TURÍSTICO? ",
+        "debate": "PREGUNTA DEL DIPUTADO DON PABLO CASADO BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SE\u00d1OR PRESIDENTE DEL GOBIERNO: \u00bfEST\u00c1 PROTEGIENDO EL FUTURO DE LOS ESPA\u00d1OLES? -- DE LA DIPUT ADA DO\u00d1A ANA MAR\u00cdA ORAMAS GONZ\u00c1LEZ-MORO, DEL GRUPO P ARLAMENT ARIO MIXTO, QUE FORMULA AL GOBIERNO: \u00bfQU\u00c9 MEDIDAS URGENTES TIENE PREVISTAS EL GOBIERNO PARA HACER FRENTE A LA GRAVE SITUACI\u00d3N ECON\u00d3MICA Y SOCIAL DE CANARIAS, POR EL NUEVO CERO TUR\u00cdSTICO? ",
         "diputado": [
             {
-                "apellidos": "Oramas González-Moro",
-                "apellidosNombre": "Oramas González-Moro, Ana María",
+                "apellidos": "Oramas Gonz\u00e1lez-Moro",
+                "apellidosNombre": "Oramas Gonz\u00e1lez-Moro, Ana Mar\u00eda",
                 "codParlamentario": 161,
                 "fchAlta": "25/11/2019",
                 "fchBaja": "",
@@ -14,7 +14,7 @@
                 "grupo": "Grupo Parlamentario Mixto",
                 "idCircunscripcion": 38,
                 "idLegislatura": 14,
-                "nombre": "Ana María",
+                "nombre": "Ana Mar\u00eda",
                 "nombreCircunscripcion": "S/C Tenerife",
                 "twitter": "https://twitter.com/anioramas",
                 "twitterUserId": "479394745",
@@ -24,9 +24,191 @@
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-049.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "ORAMAS GONZÁLEZ-MORO"
+        "speacker": "ORAMAS GONZ\u00c1LEZ-MORO"
     },
-    "text": "Gracias, señora presidenta. Señora ministra, ¿qué medidas urgentes y específicas para Canarias va a plantear su Gobierno ante el nuevo cero turístico de mi tierra?"
+    "text": "Gracias, se\u00f1ora presidenta. Se\u00f1ora ministra, \u00bfqu\u00e9 medidas urgentes y espec\u00edficas para Canarias va a plantear su Gobierno ante el nuevo cero tur\u00edstico de mi tierra?",
+    "freeling": [
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "ministra",
+            "lema": "ministro",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "qu\u00e9",
+            "lema": "qu\u00e9",
+            "pos": "DE0CN0",
+            "prob": "0.0652643"
+        },
+        {
+            "word": "medidas",
+            "lema": "medida",
+            "pos": "NCFP000",
+            "prob": "0.999067"
+        },
+        {
+            "word": "urgentes",
+            "lema": "urgente",
+            "pos": "AQ0CP00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "espec\u00edficas",
+            "lema": "espec\u00edfico",
+            "pos": "AQ0FP00",
+            "prob": "1"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "Canarias",
+            "lema": "canarias",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "va",
+            "lema": "ir",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "plantear",
+            "lema": "plantear",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "ante",
+            "lema": "ante",
+            "pos": "SP",
+            "prob": "0.999744"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "nuevo",
+            "lema": "nuevo",
+            "pos": "AQ0MS00",
+            "prob": "1"
+        },
+        {
+            "word": "cero",
+            "lema": "0",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "tur\u00edstico",
+            "lema": "tur\u00edstico",
+            "pos": "AQ0MS00",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "mi",
+            "lema": "mi",
+            "pos": "DP1CSS",
+            "prob": "0.999325"
+        },
+        {
+            "word": "tierra",
+            "lema": "tierra",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        }
+    ]
 }

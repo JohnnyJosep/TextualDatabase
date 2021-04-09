@@ -1,7 +1,7 @@
 {
     "metadata": {
         "celebrated": "2021-01-25T00:00:00.000Z",
-        "debate": "PETICIÓN FORMULADA POR UN NÚMERO SUFICIENTE DE DIPUTADOS MIEMBROS DE LA DIPUTACIÓN PERMANENTE, PERTENECIENTES AL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, DE QUE SE ACUERDE LA CONVOCATORIA DE UNA SESIÓN EXTRAORDINARIA DE -- COMPARECENCIA DEL MINISTRO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA, PARA INFORMAR SOBRE LAS ACCIONES QUE EL GOBIERNO HA DESARROLLADO Y ESTÁ DESARROLLANDO ANTE LA SITUACIÓN DE LOS CAMIONEROS ATRAPADOS EN INGLATERRA, PARA GARANTIZAR SU SEGURIDAD Y LA VUELTA AL TERRITORIO ESPAÑOL.",
+        "debate": "PETICI\u00d3N FORMULADA POR UN N\u00daMERO SUFICIENTE DE DIPUTADOS MIEMBROS DE LA DIPUTACI\u00d3N PERMANENTE, PERTENECIENTES AL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, DE QUE SE ACUERDE LA CONVOCATORIA DE UNA SESI\u00d3N EXTRAORDINARIA DE -- COMPARECENCIA DEL MINISTRO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA, PARA INFORMAR SOBRE LAS ACCIONES QUE EL GOBIERNO HA DESARROLLADO Y EST\u00c1 DESARROLLANDO ANTE LA SITUACI\u00d3N DE LOS CAMIONEROS ATRAPADOS EN INGLATERRA, PARA GARANTIZAR SU SEGURIDAD Y LA VUELTA AL TERRITORIO ESPA\u00d1OL.",
         "diputado": [
             {
                 "apellidos": "Montesinos de Miguel",
@@ -24,9 +24,281 @@
         ],
         "order": 3,
         "path": "../data/diaries-txts/DSCD-14-PL-073.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "MONTESINOS DE MIGUEL"
     },
-    "text": "Termino, señor presidente. Entendemos que el ministro de Transportes y secretario general de Organización del Partido Socialista debería dedicarse más a su mandato como gestor de un ministerio y no al del Partido Socialista. Muchas gracias, presidente. (Aplausos)."
+    "text": "Termino, se\u00f1or presidente. Entendemos que el ministro de Transportes y secretario general de Organizaci\u00f3n del Partido Socialista deber\u00eda dedicarse m\u00e1s a su mandato como gestor de un ministerio y no al del Partido Socialista. Muchas gracias, presidente. (Aplausos).",
+    "freeling": [
+        {
+            "word": "Termino",
+            "lema": "terminar",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "NCMS000",
+            "prob": "0.957935"
+        },
+        {
+            "word": "presidente",
+            "lema": "presidente",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Entendemos",
+            "lema": "entender",
+            "pos": "VMIP1P0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "ministro",
+            "lema": "ministro",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Transportes",
+            "lema": "transportes",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "secretario",
+            "lema": "secretario",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "general",
+            "lema": "general",
+            "pos": "AQ0CS00",
+            "prob": "0.826212"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "Organizaci\u00f3n_de_el_Partido_Socialista",
+            "lema": "organizaci\u00f3n_de_el_partido_socialista",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "deber\u00eda",
+            "lema": "deber",
+            "pos": "VMIC3S0",
+            "prob": "0.638889"
+        },
+        {
+            "word": "dedicar",
+            "lema": "dedicar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "PP3CN00",
+            "prob": "1"
+        },
+        {
+            "word": "m\u00e1s",
+            "lema": "m\u00e1s",
+            "pos": "RG",
+            "prob": "0.99993"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "su",
+            "lema": "su",
+            "pos": "DP3CSN",
+            "prob": "1"
+        },
+        {
+            "word": "mandato",
+            "lema": "mandato",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "como",
+            "lema": "como",
+            "pos": "CS",
+            "prob": "0.967153"
+        },
+        {
+            "word": "gestor",
+            "lema": "gestor",
+            "pos": "NCMS000",
+            "prob": "0.638682"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "ministerio",
+            "lema": "ministerio",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Partido_Socialista",
+            "lema": "partido_socialista",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "presidente",
+            "lema": "presidente",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplausos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-10-28T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DEL DIPUTADO DON IÑAKI RUIZ DE PINEDO UNDIANO, DEL GRUPO PARLAMENTARIO EUSKAL HERRIA BILDU, QUE FORMULA AL SEÑOR MINISTRO DE CONSUMO: ¿ANTE LA PERSISTENCIA DE LA PANDEMIA Y LA GRAN CARGA ECONÓMICA QUE SUPONE EL GASTO EN MASCARILLAS, ESPECIALMENTE A LAS FAMILIAS MÁS VULNERABLES, TIENE PREVISTA ALGUNA MEDIDA PARA RESPONDER A ESTA SITUACIÓN? ",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON I\u00d1AKI RUIZ DE PINEDO UNDIANO, DEL GRUPO PARLAMENTARIO EUSKAL HERRIA BILDU, QUE FORMULA AL SE\u00d1OR MINISTRO DE CONSUMO: \u00bfANTE LA PERSISTENCIA DE LA PANDEMIA Y LA GRAN CARGA ECON\u00d3MICA QUE SUPONE EL GASTO EN MASCARILLAS, ESPECIALMENTE A LAS FAMILIAS M\u00c1S VULNERABLES, TIENE PREVISTA ALGUNA MEDIDA PARA RESPONDER A ESTA SITUACI\u00d3N? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,23 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-058.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Ruiz de Pinedo Undiano."
+    "text": "Se\u00f1or Ruiz de Pinedo Undiano.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or_Ruiz_de_Pinedo_Undiano",
+            "lema": "se\u00f1or_ruiz_de_pinedo_undiano",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

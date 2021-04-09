@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-16T00:00:00.000Z",
-        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO CIUDADANOS, A LA MINISTRA DE DEFENSA SOBRE LA SITUACIÓN DE LOS MILITARES DE TROPA Y MARINERÍA TEMPORALES QUE HA Y AN CUMPLIDO O VA Y AN A CUMPLIR LA EDAD DE CUARENTA Y CINCO AÑOS DURANTE LA ACTUAL SITUACIÓN DE CRISIS SANITARIA, ECONÓMICA Y SOCIAL. ",
+        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO CIUDADANOS, A LA MINISTRA DE DEFENSA SOBRE LA SITUACI\u00d3N DE LOS MILITARES DE TROPA Y MARINER\u00cdA TEMPORALES QUE HA Y AN CUMPLIDO O VA Y AN A CUMPLIR LA EDAD DE CUARENTA Y CINCO A\u00d1OS DURANTE LA ACTUAL SITUACI\u00d3N DE CRISIS SANITARIA, ECON\u00d3MICA Y SOCIAL. ",
         "diputado": [
             {
-                "apellidos": "Rodríguez Gómez de Celis",
-                "apellidosNombre": "Rodríguez Gómez de Celis, Alfonso",
+                "apellidos": "Rodr\u00edguez G\u00f3mez de Celis",
+                "apellidosNombre": "Rodr\u00edguez G\u00f3mez de Celis, Alfonso",
                 "codParlamentario": 168,
                 "fchAlta": "25/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,53 @@
         ],
         "order": 6,
         "path": "../data/diaries-txts/DSCD-14-PL-045.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "VICEPRESIDENTE (Rodrí guez Gómez de Celis)"
+        "speacker": "VICEPRESIDENTE (Rodr\u00ed guez G\u00f3mez de Celis)"
     },
-    "text": "Señor Gutiérrez Vivas, debe ir terminando."
+    "text": "Se\u00f1or Guti\u00e9rrez Vivas, debe ir terminando.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "Guti\u00e9rrez_Vivas",
+            "lema": "guti\u00e9rrez_vivas",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "debe",
+            "lema": "deber",
+            "pos": "VMIP3S0",
+            "prob": "0.998712"
+        },
+        {
+            "word": "ir",
+            "lema": "ir",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "terminando",
+            "lema": "terminar",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

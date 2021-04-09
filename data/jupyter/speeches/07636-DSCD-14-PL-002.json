@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-09-10T00:00:00.000Z",
-        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES. (VOTACIÓN): -- REAL DECRETO-LEY 27/2020, DE 4 DE AGOSTO, DE MEDIDAS FINANCIERAS, DE CARÁCTER EXTRAORDINARIO Y URGENTE, APLICABLES A LAS ENTIDADES LOCALES. ",
+        "debate": "CONVALIDACI\u00d3N O DEROGACI\u00d3N DE REALES DECRETOS-LEYES. (VOTACI\u00d3N): -- REAL DECRETO-LEY 27/2020, DE 4 DE AGOSTO, DE MEDIDAS FINANCIERAS, DE CAR\u00c1CTER EXTRAORDINARIO Y URGENTE, APLICABLES A LAS ENTIDADES LOCALES. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,65 @@
         ],
         "order": 103,
         "path": "../data/diaries-txts/DSCD-14-PL-043.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "No creo que haya habido ninguna alusión ofensiva."
+    "text": "No creo que haya habido ninguna alusi\u00f3n ofensiva.",
+    "freeling": [
+        {
+            "word": "No",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "creo",
+            "lema": "creer",
+            "pos": "VMIP1S0",
+            "prob": "0.5"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "haya",
+            "lema": "haber",
+            "pos": "VASP1S0",
+            "prob": "0.493699"
+        },
+        {
+            "word": "habido",
+            "lema": "haber",
+            "pos": "VMP00SM",
+            "prob": "1"
+        },
+        {
+            "word": "ninguna",
+            "lema": "ninguno",
+            "pos": "DI0FS0",
+            "prob": "0.829392"
+        },
+        {
+            "word": "alusi\u00f3n",
+            "lema": "alusi\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "ofensiva",
+            "lema": "ofensivo",
+            "pos": "AQ0FS00",
+            "prob": "0.172131"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

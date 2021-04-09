@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-10-28T00:00:00.000Z",
-        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, SOBRE ACTUACIONES DEL MINISTERIO DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN PARA EVITAR EL GRAVE DETERIORO DE LA IMAGEN DEL REINO DE ESPAÑA EN EL EXTERIOR. ",
+        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, SOBRE ACTUACIONES DEL MINISTERIO DE ASUNTOS EXTERIORES, UNI\u00d3N EUROPEA Y COOPERACI\u00d3N PARA EVITAR EL GRAVE DETERIORO DE LA IMAGEN DEL REINO DE ESPA\u00d1A EN EL EXTERIOR. ",
         "diputado": [
             {
-                "apellidos": "Martínez Ferro",
-                "apellidosNombre": "Martínez Ferro, María Valentina",
+                "apellidos": "Mart\u00ednez Ferro",
+                "apellidosNombre": "Mart\u00ednez Ferro, Mar\u00eda Valentina",
                 "codParlamentario": 341,
                 "fchAlta": "29/11/2019",
                 "fchBaja": "",
@@ -14,8 +14,8 @@
                 "grupo": "Grupo Parlamentario Popular en el Congreso",
                 "idCircunscripcion": 15,
                 "idLegislatura": 14,
-                "nombre": "María Valentina",
-                "nombreCircunscripcion": "Coruña (A)",
+                "nombre": "Mar\u00eda Valentina",
+                "nombreCircunscripcion": "Coru\u00f1a (A)",
                 "twitter": "https://twitter.com/valentinam",
                 "twitterUserId": "9242202",
                 "twitterUserName": "valentinam"
@@ -24,9 +24,335 @@
         ],
         "order": 3,
         "path": "../data/diaries-txts/DSCD-14-PL-058.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
-        "speacker": "MARTÍNEZ FERRO"
+        "speacker": "MART\u00cdNEZ FERRO"
     },
-    "text": "Podríamos estar a tiempo de evitar no solo un deterioro institucional, sino también el de la confianza de muchos inversores internacionales que tienen los ojos puestos en nuestro país. Déjese ayudar, ministra, y no condene a España para salvarse usted. Muchas gracias. (Aplausos)."
+    "text": "Podr\u00edamos estar a tiempo de evitar no solo un deterioro institucional, sino tambi\u00e9n el de la confianza de muchos inversores internacionales que tienen los ojos puestos en nuestro pa\u00eds. D\u00e9jese ayudar, ministra, y no condene a Espa\u00f1a para salvarse usted. Muchas gracias. (Aplausos).",
+    "freeling": [
+        {
+            "word": "Podr\u00edamos",
+            "lema": "poder",
+            "pos": "VMIC1P0",
+            "prob": "1"
+        },
+        {
+            "word": "estar",
+            "lema": "estar",
+            "pos": "VMN0000",
+            "prob": "0.999154"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "tiempo",
+            "lema": "tiempo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "evitar",
+            "lema": "evitar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "solo",
+            "lema": "solo",
+            "pos": "AQ0MS00",
+            "prob": "0.787529"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "deterioro",
+            "lema": "deterioro",
+            "pos": "NCMS000",
+            "prob": "0.992958"
+        },
+        {
+            "word": "institucional",
+            "lema": "institucional",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "sino",
+            "lema": "sino",
+            "pos": "CC",
+            "prob": "0.999154"
+        },
+        {
+            "word": "tambi\u00e9n",
+            "lema": "tambi\u00e9n",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "confianza",
+            "lema": "confianza",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "muchos",
+            "lema": "mucho",
+            "pos": "DI0MP0",
+            "prob": "0.663994"
+        },
+        {
+            "word": "inversores",
+            "lema": "inversor",
+            "pos": "NCMP000",
+            "prob": "0.994505"
+        },
+        {
+            "word": "internacionales",
+            "lema": "internacional",
+            "pos": "AQ0CP00",
+            "prob": "0.948505"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "tienen",
+            "lema": "tener",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "ojos",
+            "lema": "ojo",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "puestos",
+            "lema": "poner",
+            "pos": "VMP00PM",
+            "prob": "0.208904"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "nuestro",
+            "lema": "nuestro",
+            "pos": "DP1MSP",
+            "prob": "0.957064"
+        },
+        {
+            "word": "pa\u00eds",
+            "lema": "pa\u00eds",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Deje",
+            "lema": "dejar",
+            "pos": "VMM03S0",
+            "prob": "1"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "PP3CN00",
+            "prob": "1"
+        },
+        {
+            "word": "ayudar",
+            "lema": "ayudar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "ministra",
+            "lema": "ministro",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "condene",
+            "lema": "condenar",
+            "pos": "VMSP3S0",
+            "prob": "0.634863"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "Espa\u00f1a",
+            "lema": "espa\u00f1a",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "salvar",
+            "lema": "salvar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "PP3CN00",
+            "prob": "1"
+        },
+        {
+            "word": "usted",
+            "lema": "usted",
+            "pos": "PP2CS0P",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "(",
+            "lema": "(",
+            "pos": "Fpa",
+            "prob": "1"
+        },
+        {
+            "word": "Aplausos",
+            "lema": "aplausos",
+            "pos": "NP00G00",
+            "prob": "1"
+        },
+        {
+            "word": ")",
+            "lema": ")",
+            "pos": "Fpt",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

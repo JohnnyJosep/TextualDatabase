@@ -1,7 +1,7 @@
 {
     "metadata": {
         "celebrated": "2021-05-10T00:00:00.000Z",
-        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA CAROLINA TELECHEA I LOZANO, DEL GRUPO PARLAMENTARIO REPUBLICANO, QUE FORMULA AL GOBIERNO: ¿CUÁNTAS REGULARIZACIONES EXTRAORDINARIAS DE MÁS DE UN MILLÓN DE EUROS TIENE CONTABILIZADAS EL MINISTERIO EN EL ÚLTIMO AÑO? ",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DO\u00d1A CAROLINA TELECHEA I LOZANO, DEL GRUPO PARLAMENTARIO REPUBLICANO, QUE FORMULA AL GOBIERNO: \u00bfCU\u00c1NTAS REGULARIZACIONES EXTRAORDINARIAS DE M\u00c1S DE UN MILL\u00d3N DE EUROS TIENE CONTABILIZADAS EL MINISTERIO EN EL \u00daLTIMO A\u00d1O? ",
         "diputado": [
             {
                 "apellidos": "Telechea i Lozano",
@@ -24,9 +24,137 @@
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-085.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "TELECHEA I LOZANO"
     },
-    "text": "Gracias, presidenta. ¿Cuántas regularizaciones extraordinarias de más de 1 millón de euros tiene contabilizadas el ministerio en el último año?"
+    "text": "Gracias, presidenta. \u00bfCu\u00e1ntas regularizaciones extraordinarias de m\u00e1s de 1 mill\u00f3n de euros tiene contabilizadas el ministerio en el \u00faltimo a\u00f1o?",
+    "freeling": [
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "\u00bf",
+            "lema": "\u00bf",
+            "pos": "Fia",
+            "prob": "1"
+        },
+        {
+            "word": "Cu\u00e1ntas",
+            "lema": "cu\u00e1nto",
+            "pos": "DT0FP0",
+            "prob": "0.188841"
+        },
+        {
+            "word": "regularizaciones",
+            "lema": "regularizaci\u00f3n",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "extraordinarias",
+            "lema": "extraordinario",
+            "pos": "AQ0FP00",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "m\u00e1s",
+            "lema": "m\u00e1s",
+            "pos": "RG",
+            "prob": "0.99993"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "1_mill\u00f3n_de_euros",
+            "lema": "$_ECU:1000000",
+            "pos": "Zm",
+            "prob": "1"
+        },
+        {
+            "word": "tiene",
+            "lema": "tener",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "contabilizadas",
+            "lema": "contabilizar",
+            "pos": "VMP00PF",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "ministerio",
+            "lema": "ministerio",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "\u00faltimo",
+            "lema": "\u00faltimo",
+            "pos": "AO0MS00",
+            "prob": "1"
+        },
+        {
+            "word": "a\u00f1o",
+            "lema": "a\u00f1o",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "?",
+            "lema": "?",
+            "pos": "Fit",
+            "prob": "1"
+        }
+    ]
 }

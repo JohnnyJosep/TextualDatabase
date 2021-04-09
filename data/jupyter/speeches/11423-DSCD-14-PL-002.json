@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-11-19T00:00:00.000Z",
-        "debate": "PROPOSICIONES NO DE LEY. (VOTACIÓN): -- DEL GRUPO PARLAMENTARIO VOX, RELATIVA A LA APLICACIÓN Y DESARROLLO DEL ARTÍCULO 3 DE LA CONSTITUCIÓN ESPAÑOLA MEDIANTE LA ADOPCIÓN DE LAS MEDIDAS NECESARIAS PARA ASEGURAR EL DEBER DE CONOCER EL CASTELLANO, DEL DERECHO A USARLO Y DE SU APLICACIÓN A LAS PERSONAS FÍSICAS, JURÍDICAS Y A TODAS LAS ADMINISTRACIONES E INSTITUCIONES PÚBLICAS DEL REINO DE ESPAÑA. ",
+        "debate": "PROPOSICIONES NO DE LEY. (VOTACI\u00d3N): -- DEL GRUPO PARLAMENTARIO VOX, RELATIVA A LA APLICACI\u00d3N Y DESARROLLO DEL ART\u00cdCULO 3 DE LA CONSTITUCI\u00d3N ESPA\u00d1OLA MEDIANTE LA ADOPCI\u00d3N DE LAS MEDIDAS NECESARIAS PARA ASEGURAR EL DEBER DE CONOCER EL CASTELLANO, DEL DERECHO A USARLO Y DE SU APLICACI\u00d3N A LAS PERSONAS F\u00cdSICAS, JUR\u00cdDICAS Y A TODAS LAS ADMINISTRACIONES E INSTITUCIONES P\u00daBLICAS DEL REINO DE ESPA\u00d1A. ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,71 @@
         ],
         "order": 1,
         "path": "../data/diaries-txts/DSCD-14-PL-064.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Queda rechazada la proposición no de ley. --"
+    "text": "Queda rechazada la proposici\u00f3n no de ley. --",
+    "freeling": [
+        {
+            "word": "Queda",
+            "lema": "quedar",
+            "pos": "VMIP3S0",
+            "prob": "0.945755"
+        },
+        {
+            "word": "rechazada",
+            "lema": "rechazar",
+            "pos": "VMP00SF",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "proposici\u00f3n",
+            "lema": "proposici\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "ley",
+            "lema": "ley",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "--",
+            "lema": "--",
+            "pos": "Fg",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

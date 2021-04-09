@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-02-03T00:00:00.000Z",
-        "debate": "VOX. -- DEL DIPUTADO DON FRANCISCO JAVIER ORTEGA SMITH-MOLINA, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿VA A GARANTIZAR QUE LA CAMPAÑA ELECTORAL CATALANA SE DESARROLLE SIN VIOLENCIA SOBRE NINGUNA DE LAS CANDIDATURAS CONCURRENTES? ",
+        "debate": "VOX. -- DEL DIPUTADO DON FRANCISCO JAVIER ORTEGA SMITH-MOLINA, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SE\u00d1OR MINISTRO DEL INTERIOR: \u00bfVA A GARANTIZAR QUE LA CAMPA\u00d1A ELECTORAL CATALANA SE DESARROLLE SIN VIOLENCIA SOBRE NINGUNA DE LAS CANDIDATURAS CONCURRENTES? ",
         "diputado": [
             {
-                "apellidos": "Batet Lamaña",
-                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "apellidos": "Batet Lama\u00f1a",
+                "apellidosNombre": "Batet Lama\u00f1a, Meritxell",
                 "codParlamentario": 215,
                 "fchAlta": "26/11/2019",
                 "fchBaja": "",
@@ -24,9 +24,29 @@
         ],
         "order": 4,
         "path": "../data/diaries-txts/DSCD-14-PL-076.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "PRESIDENTA"
     },
-    "text": "Señor Ortega."
+    "text": "Se\u00f1or Ortega.",
+    "freeling": [
+        {
+            "word": "Se\u00f1or",
+            "lema": "se\u00f1or",
+            "pos": "I",
+            "prob": "0.040153"
+        },
+        {
+            "word": "Ortega",
+            "lema": "ortega",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

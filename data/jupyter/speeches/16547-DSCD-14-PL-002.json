@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2021-05-17T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (CONTINUACIÓN): -- DEL GRUPO PARLAMENTARIO VOX, SOBRE QUÉ MEDIDAS VA A ADOPTAR EL GOBIERNO PARA DEJAR DE HUMILLAR A LAS VÍCTIMAS DEL TERRORISMO DE ETA. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (CONTINUACI\u00d3N): -- DEL GRUPO PARLAMENTARIO VOX, SOBRE QU\u00c9 MEDIDAS VA A ADOPTAR EL GOBIERNO PARA DEJAR DE HUMILLAR A LAS V\u00cdCTIMAS DEL TERRORISMO DE ETA. ",
         "diputado": [
             {
                 "apellidos": "Alcaraz Martos",
-                "apellidosNombre": "Alcaraz Martos, Francisco José",
+                "apellidosNombre": "Alcaraz Martos, Francisco Jos\u00e9",
                 "codParlamentario": 252,
                 "fchAlta": "27/11/2019",
                 "fchBaja": "",
@@ -14,8 +14,8 @@
                 "grupo": "Grupo Parlamentario VOX",
                 "idCircunscripcion": 23,
                 "idLegislatura": 14,
-                "nombre": "Francisco José",
-                "nombreCircunscripcion": "Jaén",
+                "nombre": "Francisco Jos\u00e9",
+                "nombreCircunscripcion": "Ja\u00e9n",
                 "twitter": "https://twitter.com/fjosealcaraz",
                 "twitterUserId": "266066285",
                 "twitterUserName": "fjosealcaraz"
@@ -24,9 +24,41 @@
         ],
         "order": 29,
         "path": "../data/diaries-txts/DSCD-14-PL-088.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "ALCARAZ MARTOS"
     },
-    "text": "Aquí tengo los pedazos."
+    "text": "Aqu\u00ed tengo los pedazos.",
+    "freeling": [
+        {
+            "word": "Aqu\u00ed",
+            "lema": "aqu\u00ed",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "tengo",
+            "lema": "tener",
+            "pos": "VMIP1S0",
+            "prob": "1"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "pedazos",
+            "lema": "pedazo",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

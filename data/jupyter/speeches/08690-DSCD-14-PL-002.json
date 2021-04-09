@@ -1,7 +1,7 @@
 {
     "metadata": {
         "celebrated": "2020-09-29T00:00:00.000Z",
-        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), DE REFORMA DE LA LEY ORGÁNICA 4/2015, DE 30 DE MARZO, DE PROTECCIÓN DE LA SEGURIDAD CIUDADANA (ORGÁNICA). ",
+        "debate": "TOMA EN CONSIDERACI\u00d3N DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), DE REFORMA DE LA LEY ORG\u00c1NICA 4/2015, DE 30 DE MARZO, DE PROTECCI\u00d3N DE LA SEGURIDAD CIUDADANA (ORG\u00c1NICA). ",
         "diputado": [
             {
                 "apellidos": "Legarda Uriarte",
@@ -15,7 +15,7 @@
                 "idCircunscripcion": 1,
                 "idLegislatura": 14,
                 "nombre": "Mikel",
-                "nombreCircunscripcion": "Araba/Álava",
+                "nombreCircunscripcion": "Araba/\u00c1lava",
                 "twitter": "https://twitter.com/MikelLegarda",
                 "twitterUserId": "4178226827",
                 "twitterUserName": "MikelLegarda"
@@ -24,9 +24,569 @@
         ],
         "order": 34,
         "path": "../data/diaries-txts/DSCD-14-PL-048.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "LEGARDA URIARTE"
     },
-    "text": "Presidenta, en atención al artículo 71, para reclamar que se reparen ciertas afirmaciones que se han hecho contra nuestro grupo, que afectan a la dignidad del mismo, porque se ha puesto como intención de nuestro grupo que con esta reforma lo que pretendíamos era que determinados ilícitos quedaran impunes, sin conocer, porque está en la reforma y en la exposición de motivos, que no es que pretendiéramos que quedaran impunes, sino que consideramos que ya están sancionados en el Código Penal. Muchas gracias, presidenta."
+    "text": "Presidenta, en atenci\u00f3n al art\u00edculo 71, para reclamar que se reparen ciertas afirmaciones que se han hecho contra nuestro grupo, que afectan a la dignidad del mismo, porque se ha puesto como intenci\u00f3n de nuestro grupo que con esta reforma lo que pretend\u00edamos era que determinados il\u00edcitos quedaran impunes, sin conocer, porque est\u00e1 en la reforma y en la exposici\u00f3n de motivos, que no es que pretendi\u00e9ramos que quedaran impunes, sino que consideramos que ya est\u00e1n sancionados en el C\u00f3digo Penal. Muchas gracias, presidenta.",
+    "freeling": [
+        {
+            "word": "Presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "en_atenci\u00f3n_a",
+            "lema": "en_atenci\u00f3n_a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "art\u00edculo",
+            "lema": "art\u00edculo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "71",
+            "lema": "71",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "para",
+            "lema": "para",
+            "pos": "SP",
+            "prob": "0.999834"
+        },
+        {
+            "word": "reclamar",
+            "lema": "reclamar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "reparen",
+            "lema": "reparar",
+            "pos": "VMSP3P0",
+            "prob": "0.941964"
+        },
+        {
+            "word": "ciertas",
+            "lema": "cierto",
+            "pos": "DI0FP0",
+            "prob": "0.993421"
+        },
+        {
+            "word": "afirmaciones",
+            "lema": "afirmaci\u00f3n",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "han",
+            "lema": "haber",
+            "pos": "VAIP3P0",
+            "prob": "0.999845"
+        },
+        {
+            "word": "hecho",
+            "lema": "hacer",
+            "pos": "VMP00SM",
+            "prob": "0.638262"
+        },
+        {
+            "word": "contra",
+            "lema": "contra",
+            "pos": "SP",
+            "prob": "0.984245"
+        },
+        {
+            "word": "nuestro",
+            "lema": "nuestro",
+            "pos": "DP1MSP",
+            "prob": "0.957064"
+        },
+        {
+            "word": "grupo",
+            "lema": "grupo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "afectan",
+            "lema": "afectar",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "dignidad",
+            "lema": "dignidad",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "mismo",
+            "lema": "mismo",
+            "pos": "AQ0MS00",
+            "prob": "0.802208"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "porque",
+            "lema": "porque",
+            "pos": "CS",
+            "prob": "1"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "ha",
+            "lema": "haber",
+            "pos": "VAIP3S0",
+            "prob": "0.999889"
+        },
+        {
+            "word": "puesto",
+            "lema": "poner",
+            "pos": "VMP00SM",
+            "prob": "0.400249"
+        },
+        {
+            "word": "como",
+            "lema": "como",
+            "pos": "CS",
+            "prob": "0.967153"
+        },
+        {
+            "word": "intenci\u00f3n",
+            "lema": "intenci\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "nuestro",
+            "lema": "nuestro",
+            "pos": "DP1MSP",
+            "prob": "0.957064"
+        },
+        {
+            "word": "grupo",
+            "lema": "grupo",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "esta",
+            "lema": "este",
+            "pos": "DD0FS0",
+            "prob": "0.978817"
+        },
+        {
+            "word": "reforma",
+            "lema": "reforma",
+            "pos": "NCFS000",
+            "prob": "0.99689"
+        },
+        {
+            "word": "lo",
+            "lema": "el",
+            "pos": "DA00S0",
+            "prob": "0.665165"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "pretend\u00edamos",
+            "lema": "pretender",
+            "pos": "VMII1P0",
+            "prob": "1"
+        },
+        {
+            "word": "era",
+            "lema": "ser",
+            "pos": "VSII3S0",
+            "prob": "0.491317"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "determinados",
+            "lema": "determinar",
+            "pos": "VMP00PM",
+            "prob": "1"
+        },
+        {
+            "word": "il\u00edcitos",
+            "lema": "il\u00edcito",
+            "pos": "AQ0MP00",
+            "prob": "1"
+        },
+        {
+            "word": "quedaran",
+            "lema": "quedar",
+            "pos": "VMSI3P0",
+            "prob": "1"
+        },
+        {
+            "word": "impunes",
+            "lema": "impune",
+            "pos": "AQ0CP00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "sin",
+            "lema": "sin",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "conocer",
+            "lema": "conocer",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "porque",
+            "lema": "porque",
+            "pos": "CS",
+            "prob": "1"
+        },
+        {
+            "word": "est\u00e1",
+            "lema": "estar",
+            "pos": "VMIP3S0",
+            "prob": "0.999398"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "reforma",
+            "lema": "reforma",
+            "pos": "NCFS000",
+            "prob": "0.99689"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "exposici\u00f3n",
+            "lema": "exposici\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "motivos",
+            "lema": "motivo",
+            "pos": "NCMP000",
+            "prob": "0.992424"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "pretendi\u00e9ramos",
+            "lema": "pretender",
+            "pos": "VMSI1P0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "quedaran",
+            "lema": "quedar",
+            "pos": "VMSI3P0",
+            "prob": "1"
+        },
+        {
+            "word": "impunes",
+            "lema": "impune",
+            "pos": "AQ0CP00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "sino_que",
+            "lema": "sino_que",
+            "pos": "CC",
+            "prob": "1"
+        },
+        {
+            "word": "consideramos",
+            "lema": "considerar",
+            "pos": "VMIP1P0",
+            "prob": "0.65"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "ya",
+            "lema": "ya",
+            "pos": "RG",
+            "prob": "0.999785"
+        },
+        {
+            "word": "est\u00e1n",
+            "lema": "estar",
+            "pos": "VMIP3P0",
+            "prob": "0.99949"
+        },
+        {
+            "word": "sancionados",
+            "lema": "sancionar",
+            "pos": "VMP00PM",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "C\u00f3digo_Penal",
+            "lema": "c\u00f3digo_penal",
+            "pos": "NP00V00",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Muchas",
+            "lema": "mucho",
+            "pos": "DI0FP0",
+            "prob": "0.82345"
+        },
+        {
+            "word": "gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }

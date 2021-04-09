@@ -1,11 +1,11 @@
 {
     "metadata": {
         "celebrated": "2020-10-28T00:00:00.000Z",
-        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (CONTINUACIÓN): -- DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, P ARA QUE EL GOBIERNO EXPLIQUE LAS MEDIDAS FISCALES QUE ESTÁ BARAJANDO PARA HACER FRENTE AL FUERTE INCREMENTO DE GASTO ANUNCIADO. ",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (CONTINUACI\u00d3N): -- DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, P ARA QUE EL GOBIERNO EXPLIQUE LAS MEDIDAS FISCALES QUE EST\u00c1 BARAJANDO PARA HACER FRENTE AL FUERTE INCREMENTO DE GASTO ANUNCIADO. ",
         "diputado": [
             {
                 "apellidos": "Rego Candamil",
-                "apellidosNombre": "Rego Candamil, Néstor",
+                "apellidosNombre": "Rego Candamil, N\u00e9stor",
                 "codParlamentario": 40,
                 "fchAlta": "19/11/2019",
                 "fchBaja": "",
@@ -14,8 +14,8 @@
                 "grupo": "Grupo Parlamentario Plural",
                 "idCircunscripcion": 15,
                 "idLegislatura": 14,
-                "nombre": "Néstor",
-                "nombreCircunscripcion": "Coruña (A)",
+                "nombre": "N\u00e9stor",
+                "nombreCircunscripcion": "Coru\u00f1a (A)",
                 "twitter": "https://twitter.com/NestorRego",
                 "twitterUserId": "435720619",
                 "twitterUserName": "NestorRego"
@@ -24,9 +24,1235 @@
         ],
         "order": 11,
         "path": "../data/diaries-txts/DSCD-14-PL-058.txt",
-        "president": "MERITXELL BATET LAMAÑA",
+        "president": "MERITXELL BATET LAMA\u00d1A",
         "presidentTreatment": "Presidenta",
         "speacker": "REGO CANDAMIL"
     },
-    "text": "Gracias, señora presidenta, un minuto. Lo que nos propone el Partido Popular son las viejas recetas neoliberales fracasadas que ya aplicaron en la crisis social y económica de 2008 y que generaron pobreza, precariedad, exclusión social y un aumento brutal de las desigualdades. En consecuencia, no todos salieron más pobres de la crisis; al contrario, los ricos salieron más ricos a costa del sufrimiento de la mayoría. De nuevo aquí los tenemos realizando los objetivos de déficit y de deuda en vez de preocuparse por el empleo, los salarios o las condiciones de vida de las mayorías sociales que conforman las clases populares, los trabajadores y trabajadoras, o con el mantra de no subir impuestos. Sí, hay que subirlos, a los ricos, a las grandes fortunas y a las grandes corporaciones. Y es verdad que ahí el Gobierno se queda corto con los anuncios de ayer, pero esa es la línea y parece que no gusta al Partido Popular porque está claro cuáles son los intereses que defiende, no los de las mayorías sociales, sino los de una minoría privilegiada. Obrigado."
+    "text": "Gracias, se\u00f1ora presidenta, un minuto. Lo que nos propone el Partido Popular son las viejas recetas neoliberales fracasadas que ya aplicaron en la crisis social y econ\u00f3mica de 2008 y que generaron pobreza, precariedad, exclusi\u00f3n social y un aumento brutal de las desigualdades. En consecuencia, no todos salieron m\u00e1s pobres de la crisis; al contrario, los ricos salieron m\u00e1s ricos a costa del sufrimiento de la mayor\u00eda. De nuevo aqu\u00ed los tenemos realizando los objetivos de d\u00e9ficit y de deuda en vez de preocuparse por el empleo, los salarios o las condiciones de vida de las mayor\u00edas sociales que conforman las clases populares, los trabajadores y trabajadoras, o con el mantra de no subir impuestos. S\u00ed, hay que subirlos, a los ricos, a las grandes fortunas y a las grandes corporaciones. Y es verdad que ah\u00ed el Gobierno se queda corto con los anuncios de ayer, pero esa es la l\u00ednea y parece que no gusta al Partido Popular porque est\u00e1 claro cu\u00e1les son los intereses que defiende, no los de las mayor\u00edas sociales, sino los de una minor\u00eda privilegiada. Obrigado.",
+    "freeling": [
+        {
+            "word": "Gracias",
+            "lema": "gracia",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "se\u00f1ora",
+            "lema": "se\u00f1or",
+            "pos": "NCFS000",
+            "prob": "0.99569"
+        },
+        {
+            "word": "presidenta",
+            "lema": "presidente",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "minuto",
+            "lema": "minuto",
+            "pos": "NCMS000",
+            "prob": "0.963964"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Lo",
+            "lema": "el",
+            "pos": "DA00S0",
+            "prob": "0.665165"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "nos",
+            "lema": "nos",
+            "pos": "PP1CP00",
+            "prob": "0.810258"
+        },
+        {
+            "word": "propone",
+            "lema": "proponer",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Partido_Popular",
+            "lema": "partido_popular",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "son",
+            "lema": "ser",
+            "pos": "VSIP3P0",
+            "prob": "0.995197"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "viejas",
+            "lema": "viejo",
+            "pos": "AQ0FP00",
+            "prob": "0.661294"
+        },
+        {
+            "word": "recetas",
+            "lema": "receta",
+            "pos": "NCFP000",
+            "prob": "0.989725"
+        },
+        {
+            "word": "neoliberales",
+            "lema": "neoliberal",
+            "pos": "AQ0CP00",
+            "prob": "0.661294"
+        },
+        {
+            "word": "fracasadas",
+            "lema": "fracasado",
+            "pos": "NCFP000",
+            "prob": "0.41909"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "ya",
+            "lema": "ya",
+            "pos": "RG",
+            "prob": "0.999785"
+        },
+        {
+            "word": "aplicaron",
+            "lema": "aplicar",
+            "pos": "VMIS3P0",
+            "prob": "1"
+        },
+        {
+            "word": "en",
+            "lema": "en",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "crisis",
+            "lema": "crisis",
+            "pos": "NCFN000",
+            "prob": "1"
+        },
+        {
+            "word": "social",
+            "lema": "social",
+            "pos": "AQ0CS00",
+            "prob": "0.998783"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "econ\u00f3mica",
+            "lema": "econ\u00f3mico",
+            "pos": "AQ0FS00",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "2008",
+            "lema": "2008",
+            "pos": "Z",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "generaron",
+            "lema": "generar",
+            "pos": "VMIS3P0",
+            "prob": "1"
+        },
+        {
+            "word": "pobreza",
+            "lema": "pobreza",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "precariedad",
+            "lema": "precariedad",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "exclusi\u00f3n",
+            "lema": "exclusi\u00f3n",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "social",
+            "lema": "social",
+            "pos": "AQ0CS00",
+            "prob": "0.998783"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "un",
+            "lema": "uno",
+            "pos": "DI0MS0",
+            "prob": "0.99698"
+        },
+        {
+            "word": "aumento",
+            "lema": "aumento",
+            "pos": "NCMS000",
+            "prob": "0.998188"
+        },
+        {
+            "word": "brutal",
+            "lema": "brutal",
+            "pos": "AQ0CS00",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "desigualdades",
+            "lema": "desigualdad",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "En_consecuencia",
+            "lema": "en_consecuencia",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "todos",
+            "lema": "todo",
+            "pos": "PI0MP00",
+            "prob": "0.293032"
+        },
+        {
+            "word": "salieron",
+            "lema": "salir",
+            "pos": "VMIS3P0",
+            "prob": "1"
+        },
+        {
+            "word": "m\u00e1s",
+            "lema": "m\u00e1s",
+            "pos": "RG",
+            "prob": "0.99993"
+        },
+        {
+            "word": "pobres",
+            "lema": "pobre",
+            "pos": "AQ0CP00",
+            "prob": "0.689394"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "crisis",
+            "lema": "crisis",
+            "pos": "NCFN000",
+            "prob": "1"
+        },
+        {
+            "word": ";",
+            "lema": ";",
+            "pos": "Fx",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "contrario",
+            "lema": "contrario",
+            "pos": "NCMS000",
+            "prob": "0.281746"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "ricos",
+            "lema": "rico",
+            "pos": "NCMP000",
+            "prob": "0.336957"
+        },
+        {
+            "word": "salieron",
+            "lema": "salir",
+            "pos": "VMIS3P0",
+            "prob": "1"
+        },
+        {
+            "word": "m\u00e1s",
+            "lema": "m\u00e1s",
+            "pos": "RG",
+            "prob": "0.99993"
+        },
+        {
+            "word": "ricos",
+            "lema": "rico",
+            "pos": "AQ0MP00",
+            "prob": "0.663043"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "costa",
+            "lema": "costa",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "sufrimiento",
+            "lema": "sufrimiento",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "mayor\u00eda",
+            "lema": "mayor\u00eda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "De",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "nuevo",
+            "lema": "nuevo",
+            "pos": "AQ0MS00",
+            "prob": "1"
+        },
+        {
+            "word": "aqu\u00ed",
+            "lema": "aqu\u00ed",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "los",
+            "lema": "lo",
+            "pos": "PP3MPA0",
+            "prob": "0.0072574"
+        },
+        {
+            "word": "tenemos",
+            "lema": "tener",
+            "pos": "VMIP1P0",
+            "prob": "1"
+        },
+        {
+            "word": "realizando",
+            "lema": "realizar",
+            "pos": "VMG0000",
+            "prob": "1"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "objetivos",
+            "lema": "objetivo",
+            "pos": "NCMP000",
+            "prob": "0.962329"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "d\u00e9ficit",
+            "lema": "d\u00e9ficit",
+            "pos": "NCMS000",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "deuda",
+            "lema": "deuda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "en_vez_de",
+            "lema": "en_vez_de",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "preocupar",
+            "lema": "preocupar",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "PP3CN00",
+            "prob": "1"
+        },
+        {
+            "word": "por",
+            "lema": "por",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "empleo",
+            "lema": "empleo",
+            "pos": "NCMS000",
+            "prob": "0.998575"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "salarios",
+            "lema": "salario",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "o",
+            "lema": "o",
+            "pos": "CC",
+            "prob": "0.999864"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "condiciones",
+            "lema": "condici\u00f3n",
+            "pos": "NCFP000",
+            "prob": "0.998418"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "vida",
+            "lema": "vida",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "mayor\u00edas",
+            "lema": "mayor\u00eda",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "sociales",
+            "lema": "social",
+            "pos": "AQ0CP00",
+            "prob": "0.997835"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "conforman",
+            "lema": "conformar",
+            "pos": "VMIP3P0",
+            "prob": "1"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "clases",
+            "lema": "clase",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "populares",
+            "lema": "popular",
+            "pos": "AQ0CP00",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "trabajadores",
+            "lema": "trabajador",
+            "pos": "NCMP000",
+            "prob": "0.99867"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "trabajadoras",
+            "lema": "trabajador",
+            "pos": "NCFP000",
+            "prob": "0.5"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "o",
+            "lema": "o",
+            "pos": "CC",
+            "prob": "0.999864"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "mantra",
+            "lema": "mantra",
+            "pos": "NCCS000",
+            "prob": "0.047066"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "subir",
+            "lema": "subir",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "impuestos",
+            "lema": "impuesto",
+            "pos": "NCMP000",
+            "prob": "0.997788"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "S\u00ed",
+            "lema": "s\u00ed",
+            "pos": "RG",
+            "prob": "0.654652"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "hay",
+            "lema": "haber",
+            "pos": "VMIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "subir",
+            "lema": "subir",
+            "pos": "VMN0000",
+            "prob": "1"
+        },
+        {
+            "word": "los",
+            "lema": "lo",
+            "pos": "PP3MPA0",
+            "prob": "1"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "ricos",
+            "lema": "rico",
+            "pos": "NCMP000",
+            "prob": "0.336957"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "grandes",
+            "lema": "grande",
+            "pos": "AQ0CP00",
+            "prob": "0.990534"
+        },
+        {
+            "word": "fortunas",
+            "lema": "fortuna",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "0.998775"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "grandes",
+            "lema": "grande",
+            "pos": "AQ0CP00",
+            "prob": "0.990534"
+        },
+        {
+            "word": "corporaciones",
+            "lema": "corporaci\u00f3n",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "verdad",
+            "lema": "verdad",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "ah\u00ed",
+            "lema": "ah\u00ed",
+            "pos": "RG",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Gobierno",
+            "lema": "gobierno",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "se",
+            "lema": "se",
+            "pos": "P00CN00",
+            "prob": "0.494509"
+        },
+        {
+            "word": "queda",
+            "lema": "quedar",
+            "pos": "VMIP3S0",
+            "prob": "0.945755"
+        },
+        {
+            "word": "corto",
+            "lema": "corto",
+            "pos": "AQ0MS00",
+            "prob": "0.883495"
+        },
+        {
+            "word": "con",
+            "lema": "con",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "anuncios",
+            "lema": "anuncio",
+            "pos": "NCMP000",
+            "prob": "1"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "ayer",
+            "lema": "ayer",
+            "pos": "RG",
+            "prob": "0.991836"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "pero",
+            "lema": "pero",
+            "pos": "CC",
+            "prob": "0.999902"
+        },
+        {
+            "word": "esa",
+            "lema": "ese",
+            "pos": "PD0FS00",
+            "prob": "0.0354952"
+        },
+        {
+            "word": "es",
+            "lema": "ser",
+            "pos": "VSIP3S0",
+            "prob": "1"
+        },
+        {
+            "word": "la",
+            "lema": "el",
+            "pos": "DA0FS0",
+            "prob": "0.98926"
+        },
+        {
+            "word": "l\u00ednea",
+            "lema": "l\u00ednea",
+            "pos": "NCFS000",
+            "prob": "0.998366"
+        },
+        {
+            "word": "y",
+            "lema": "y",
+            "pos": "CC",
+            "prob": "0.999989"
+        },
+        {
+            "word": "parece",
+            "lema": "parecer",
+            "pos": "VMIP3S0",
+            "prob": "0.999002"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "CS",
+            "prob": "0.449861"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "gusta",
+            "lema": "gustar",
+            "pos": "VMIP3S0",
+            "prob": "0.99569"
+        },
+        {
+            "word": "a",
+            "lema": "a",
+            "pos": "SP",
+            "prob": "1"
+        },
+        {
+            "word": "el",
+            "lema": "el",
+            "pos": "DA0MS0",
+            "prob": "1"
+        },
+        {
+            "word": "Partido_Popular",
+            "lema": "partido_popular",
+            "pos": "NP00O00",
+            "prob": "1"
+        },
+        {
+            "word": "porque",
+            "lema": "porque",
+            "pos": "CS",
+            "prob": "1"
+        },
+        {
+            "word": "est\u00e1",
+            "lema": "estar",
+            "pos": "VMIP3S0",
+            "prob": "0.999398"
+        },
+        {
+            "word": "claro",
+            "lema": "claro",
+            "pos": "AQ0MS00",
+            "prob": "0.610577"
+        },
+        {
+            "word": "cu\u00e1les",
+            "lema": "cu\u00e1l",
+            "pos": "PT0CP00",
+            "prob": "0.944444"
+        },
+        {
+            "word": "son",
+            "lema": "ser",
+            "pos": "VSIP3P0",
+            "prob": "0.995197"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "intereses",
+            "lema": "inter\u00e9s",
+            "pos": "NCMP000",
+            "prob": "0.99763"
+        },
+        {
+            "word": "que",
+            "lema": "que",
+            "pos": "PR0CN00",
+            "prob": "0.550139"
+        },
+        {
+            "word": "defiende",
+            "lema": "defender",
+            "pos": "VMIP3S0",
+            "prob": "0.995283"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "no",
+            "lema": "no",
+            "pos": "RN",
+            "prob": "0.999297"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "las",
+            "lema": "el",
+            "pos": "DA0FP0",
+            "prob": "0.988184"
+        },
+        {
+            "word": "mayor\u00edas",
+            "lema": "mayor\u00eda",
+            "pos": "NCFP000",
+            "prob": "1"
+        },
+        {
+            "word": "sociales",
+            "lema": "social",
+            "pos": "AQ0CP00",
+            "prob": "0.997835"
+        },
+        {
+            "word": ",",
+            "lema": ",",
+            "pos": "Fc",
+            "prob": "1"
+        },
+        {
+            "word": "sino",
+            "lema": "sino",
+            "pos": "CC",
+            "prob": "0.999154"
+        },
+        {
+            "word": "los",
+            "lema": "el",
+            "pos": "DA0MP0",
+            "prob": "0.992728"
+        },
+        {
+            "word": "de",
+            "lema": "de",
+            "pos": "SP",
+            "prob": "0.999961"
+        },
+        {
+            "word": "una",
+            "lema": "uno",
+            "pos": "DI0FS0",
+            "prob": "0.951973"
+        },
+        {
+            "word": "minor\u00eda",
+            "lema": "minor\u00eda",
+            "pos": "NCFS000",
+            "prob": "1"
+        },
+        {
+            "word": "privilegiada",
+            "lema": "privilegiar",
+            "pos": "VMP00SF",
+            "prob": "0.623747"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        },
+        {
+            "word": "Obrigado",
+            "lema": "obrigado",
+            "pos": "NP00SP0",
+            "prob": "1"
+        },
+        {
+            "word": ".",
+            "lema": ".",
+            "pos": "Fp",
+            "prob": "1"
+        }
+    ]
 }
